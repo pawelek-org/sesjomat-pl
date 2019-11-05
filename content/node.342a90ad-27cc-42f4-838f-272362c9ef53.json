@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "342a90ad-27cc-42f4-838f-272362c9ef53"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "sesja",
+            "target_type": "node_type",
+            "target_uuid": "d586344f-f05e-4d84-bfa7-33b420b1e8ad"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-27T12:31:50+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Sesja nr 2"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-27T12:30:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-02T12:21:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/sesje\/2",
+            "langcode": "pl",
+            "pathauto": 0
+        }
+    ],
+    "menu_link": [],
+    "body": [],
+    "field_data": [
+        {
+            "value": "2018-12-03"
+        }
+    ],
+    "field_kadencja": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0f1a3f7c-c180-4e6f-ad29-25deaa699d0c"
+        }
+    ],
+    "field_nazwa_sesji": [
+        {
+            "value": "II sesja Rady Gminy Dopiewo - 3 grudnia 2018 r. "
+        }
+    ],
+    "field_numer_porzadkowy": [
+        {
+            "value": 2
+        }
+    ]
+}

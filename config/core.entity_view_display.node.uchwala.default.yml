@@ -1,0 +1,193 @@
+uuid: af57e872-70f5-4c8a-b7e3-d9ba9a027fef
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.field.node.uchwala.body
+    - field.field.node.uchwala.field_count_brak
+    - field.field.node.uchwala.field_count_nieobecny
+    - field.field.node.uchwala.field_count_przeciw
+    - field.field.node.uchwala.field_count_votes
+    - field.field.node.uchwala.field_count_wstrzymujacy
+    - field.field.node.uchwala.field_count_za
+    - field.field.node.uchwala.field_glos_brak
+    - field.field.node.uchwala.field_glos_nieobecny
+    - field.field.node.uchwala.field_glos_przeciw
+    - field.field.node.uchwala.field_glos_wstrzymujacy
+    - field.field.node.uchwala.field_glos_za
+    - field.field.node.uchwala.field_href_source
+    - field.field.node.uchwala.field_nazwa_uchwaly
+    - field.field.node.uchwala.field_nr_w_dz_wojewody
+    - field.field.node.uchwala.field_numer_porzadkowy
+    - field.field.node.uchwala.field_ref_sesja
+    - field.field.node.uchwala.field_typ_glosowania
+    - field.field.node.uchwala.field_typ_uchwaly
+    - field.field.node.uchwala.field_zmieniona_uchwala
+    - node.type.uchwala
+  module:
+    - computed_field
+    - options
+    - text
+    - user
+id: node.uchwala.default
+targetEntityType: node
+bundle: uchwala
+mode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: 6
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  field_count_brak:
+    weight: 17
+    label: hidden
+    settings:
+      cache_unit: -1
+      cache_duration: 1
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {  }
+    type: computed_integer
+    region: content
+  field_count_nieobecny:
+    weight: 16
+    label: hidden
+    settings:
+      cache_unit: -1
+      cache_duration: 1
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {  }
+    type: computed_integer
+    region: content
+  field_count_przeciw:
+    weight: 14
+    label: hidden
+    settings:
+      cache_unit: -1
+      cache_duration: 1
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {  }
+    type: computed_integer
+    region: content
+  field_count_wstrzymujacy:
+    weight: 15
+    label: hidden
+    settings:
+      cache_unit: -1
+      cache_duration: 1
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {  }
+    type: computed_integer
+    region: content
+  field_count_za:
+    weight: 13
+    label: hidden
+    settings:
+      cache_unit: -1
+      cache_duration: 1
+      thousand_separator: ''
+      prefix_suffix: true
+    third_party_settings: {  }
+    type: computed_integer
+    region: content
+  field_glos_brak:
+    weight: 11
+    label: hidden
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_glos_nieobecny:
+    weight: 10
+    label: hidden
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_glos_przeciw:
+    weight: 8
+    label: hidden
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_glos_wstrzymujacy:
+    weight: 9
+    label: hidden
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_glos_za:
+    weight: 7
+    label: hidden
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_href_source:
+    weight: 3
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_nazwa_uchwaly:
+    weight: 12
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    type: basic_string
+    region: content
+  field_ref_sesja:
+    weight: 1
+    label: hidden
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_typ_glosowania:
+    weight: 5
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    type: list_default
+    region: content
+  field_typ_uchwaly:
+    weight: 2
+    label: hidden
+    settings:
+      link: false
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  field_zmieniona_uchwala:
+    weight: 18
+    label: hidden
+    settings:
+      link: true
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  links:
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  field_count_votes: true
+  field_nr_w_dz_wojewody: true
+  field_numer_porzadkowy: true
+  langcode: true

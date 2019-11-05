@@ -1,0 +1,26 @@
+uuid: 8a576daa-bbc1-4e78-93fd-0170010c3a54
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_count_brak
+    - node.type.uchwala
+  module:
+    - computed_field
+id: node.uchwala.field_count_brak
+field_name: field_count_brak
+entity_type: node
+bundle: uchwala
+label: 'Suma brak'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  code: '$value = count($fields[''field_glos_brak'']);'
+  prefix: ''
+  suffix: ''
+field_type: computed_integer

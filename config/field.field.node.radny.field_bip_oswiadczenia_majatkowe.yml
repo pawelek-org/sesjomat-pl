@@ -1,0 +1,19 @@
+uuid: 4c509c32-282f-4b59-85a5-c583863b4d64
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_bip_oswiadczenia_majatkowe
+    - node.type.radny
+id: node.radny.field_bip_oswiadczenia_majatkowe
+field_name: field_bip_oswiadczenia_majatkowe
+entity_type: node
+bundle: radny
+label: 'BIP oświadczenia majatkowe'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

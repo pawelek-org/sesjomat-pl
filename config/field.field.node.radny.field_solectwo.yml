@@ -1,0 +1,19 @@
+uuid: d7b3a01a-fe58-4054-928e-8084df0c8135
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_solectwo
+    - node.type.radny
+id: node.radny.field_solectwo
+field_name: field_solectwo
+entity_type: node
+bundle: radny
+label: Sołectwo
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

@@ -1,0 +1,85 @@
+{
+    "uuid": [
+        {
+            "value": "b13ecd32-8e26-426e-9c01-eb035ebca129"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2019-10-27T14:03:01+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Radni"
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "main"
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/radni",
+            "title": "",
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": true
+        }
+    ],
+    "weight": [
+        {
+            "value": -49
+        }
+    ],
+    "expanded": [
+        {
+            "value": false
+        }
+    ],
+    "parent": [],
+    "changed": [
+        {
+            "value": "2019-10-27T14:03:09+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

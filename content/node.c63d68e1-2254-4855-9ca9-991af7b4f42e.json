@@ -1,0 +1,128 @@
+{
+    "uuid": [
+        {
+            "value": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "radny",
+            "target_type": "node_type",
+            "target_uuid": "969258ff-42f3-4752-a6eb-27fffd210068"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-27T11:47:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Mariola Nowak"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-27T11:47:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-03T13:20:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/radni\/mariola-nowak",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [],
+    "field_bip_oswiadczenia_majatkowe": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?p=document&action=save&id=29197&bar_id=11814"
+        },
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?p=document&action=save&id=29197&bar_id=11814"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/www.dopiewo.pl\/radni-z-rady-gminy-dopiewo",
+            "format": "full_html"
+        }
+    ],
+    "field_imie": [
+        {
+            "value": "Mariola"
+        }
+    ],
+    "field_nazwisko": [
+        {
+            "value": "Nowak"
+        }
+    ],
+    "field_plec": [
+        {
+            "value": "k"
+        }
+    ],
+    "field_solectwo": [
+        {
+            "value": "Dopiewiec, Dopiewo, Konarzewo, Trzcielin i Wi\u0119ckowice"
+        }
+    ],
+    "field_telefon": [
+        {
+            "value": "508399521"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+uuid: 1d7e7281-1b60-4d3f-9eda-b65c45936f40
+langcode: pl
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - sm
+_core:
+  default_config_hash: meNSa01NI3D-DqFISdhkG7yJD79yGlmps4l4rcO_qzY
+id: sm_help
+theme: sm
+region: content
+weight: -5
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

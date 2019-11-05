@@ -1,0 +1,33 @@
+uuid: 32e91b68-97b5-4f51-98c3-c2eb2f604634
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_kadencja
+    - node.type.sesja
+    - taxonomy.vocabulary.kadencja
+  content:
+    - 'taxonomy_term:kadencja:0f1a3f7c-c180-4e6f-ad29-25deaa699d0c'
+id: node.sesja.field_kadencja
+field_name: field_kadencja
+entity_type: node
+bundle: sesja
+label: Kadencja
+description: ''
+required: true
+translatable: false
+default_value:
+  -
+    target_uuid: 0f1a3f7c-c180-4e6f-ad29-25deaa699d0c
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      kadencja: kadencja
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

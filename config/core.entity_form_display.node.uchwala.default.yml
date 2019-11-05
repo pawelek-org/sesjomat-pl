@@ -1,0 +1,247 @@
+uuid: 3c225168-f5c9-4ea2-952c-fbba58071b8b
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.field.node.uchwala.body
+    - field.field.node.uchwala.field_count_brak
+    - field.field.node.uchwala.field_count_nieobecny
+    - field.field.node.uchwala.field_count_przeciw
+    - field.field.node.uchwala.field_count_votes
+    - field.field.node.uchwala.field_count_wstrzymujacy
+    - field.field.node.uchwala.field_count_za
+    - field.field.node.uchwala.field_glos_brak
+    - field.field.node.uchwala.field_glos_nieobecny
+    - field.field.node.uchwala.field_glos_przeciw
+    - field.field.node.uchwala.field_glos_wstrzymujacy
+    - field.field.node.uchwala.field_glos_za
+    - field.field.node.uchwala.field_href_source
+    - field.field.node.uchwala.field_nazwa_uchwaly
+    - field.field.node.uchwala.field_nr_w_dz_wojewody
+    - field.field.node.uchwala.field_numer_porzadkowy
+    - field.field.node.uchwala.field_ref_sesja
+    - field.field.node.uchwala.field_typ_glosowania
+    - field.field.node.uchwala.field_typ_uchwaly
+    - field.field.node.uchwala.field_zmieniona_uchwala
+    - node.type.uchwala
+  module:
+    - computed_field
+    - field_group
+    - path
+    - text
+third_party_settings:
+  field_group:
+    group_votegrp1:
+      children:
+        - field_glos_za
+        - field_glos_przeciw
+        - field_glos_wstrzymujacy
+        - field_glos_nieobecny
+        - field_glos_brak
+      parent_name: ''
+      weight: 10
+      format_type: tab
+      format_settings:
+        formatter: open
+        description: ''
+        required_fields: true
+        id: glosowanie-grp
+        classes: ''
+      label: Głosowanie
+      region: content
+id: node.uchwala.default
+targetEntityType: node
+bundle: uchwala
+mode: default
+content:
+  body:
+    type: text_textarea_with_summary
+    weight: 7
+    settings:
+      rows: 9
+      summary_rows: 3
+      placeholder: ''
+    third_party_settings: {  }
+    region: content
+  created:
+    type: datetime_timestamp
+    weight: 13
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  field_count_brak:
+    weight: 23
+    settings: {  }
+    third_party_settings: {  }
+    type: computed_number_widget
+    region: content
+  field_count_nieobecny:
+    weight: 22
+    settings: {  }
+    third_party_settings: {  }
+    type: computed_number_widget
+    region: content
+  field_count_przeciw:
+    weight: 20
+    settings: {  }
+    third_party_settings: {  }
+    type: computed_number_widget
+    region: content
+  field_count_votes:
+    weight: 18
+    settings: {  }
+    third_party_settings: {  }
+    type: computed_number_widget
+    region: content
+  field_count_wstrzymujacy:
+    weight: 21
+    settings: {  }
+    third_party_settings: {  }
+    type: computed_number_widget
+    region: content
+  field_count_za:
+    weight: 19
+    settings: {  }
+    third_party_settings: {  }
+    type: computed_number_widget
+    region: content
+  field_glos_brak:
+    weight: 14
+    settings: {  }
+    third_party_settings: {  }
+    type: options_buttons
+    region: content
+  field_glos_nieobecny:
+    weight: 12
+    settings: {  }
+    third_party_settings: {  }
+    type: options_buttons
+    region: content
+  field_glos_przeciw:
+    weight: 10
+    settings: {  }
+    third_party_settings: {  }
+    type: options_buttons
+    region: content
+  field_glos_wstrzymujacy:
+    weight: 11
+    settings: {  }
+    third_party_settings: {  }
+    type: options_buttons
+    region: content
+  field_glos_za:
+    weight: 9
+    settings: {  }
+    third_party_settings: {  }
+    type: options_buttons
+    region: content
+  field_href_source:
+    weight: 4
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: text_textfield
+    region: content
+  field_nazwa_uchwaly:
+    weight: 1
+    settings:
+      rows: 3
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textarea
+    region: content
+  field_nr_w_dz_wojewody:
+    weight: 5
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+    region: content
+  field_numer_porzadkowy:
+    weight: 2
+    settings:
+      placeholder: ''
+    third_party_settings: {  }
+    type: number
+    region: content
+  field_ref_sesja:
+    weight: 3
+    settings: {  }
+    third_party_settings: {  }
+    type: options_select
+    region: content
+  field_typ_glosowania:
+    weight: 6
+    settings: {  }
+    third_party_settings: {  }
+    type: options_buttons
+    region: content
+  field_typ_uchwaly:
+    weight: 8
+    settings: {  }
+    third_party_settings: {  }
+    type: options_buttons
+    region: content
+  field_zmieniona_uchwala:
+    weight: 9
+    settings:
+      match_operator: CONTAINS
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: entity_reference_autocomplete
+    region: content
+  langcode:
+    type: language_select
+    weight: 11
+    region: content
+    settings:
+      include_locked: true
+    third_party_settings: {  }
+  path:
+    type: path
+    weight: 16
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+  promote:
+    type: boolean_checkbox
+    settings:
+      display_label: true
+    weight: 14
+    region: content
+    third_party_settings: {  }
+  status:
+    type: boolean_checkbox
+    settings:
+      display_label: true
+    weight: 17
+    region: content
+    third_party_settings: {  }
+  sticky:
+    type: boolean_checkbox
+    settings:
+      display_label: true
+    weight: 15
+    region: content
+    third_party_settings: {  }
+  title:
+    type: string_textfield
+    weight: 0
+    region: content
+    settings:
+      size: 120
+      placeholder: ''
+    third_party_settings: {  }
+  uid:
+    type: entity_reference_autocomplete
+    weight: 12
+    settings:
+      match_operator: CONTAINS
+      size: 60
+      placeholder: ''
+    region: content
+    third_party_settings: {  }
+hidden: {  }

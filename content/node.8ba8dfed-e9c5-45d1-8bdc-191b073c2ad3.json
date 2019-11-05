@@ -1,0 +1,254 @@
+{
+    "uuid": [
+        {
+            "value": "8ba8dfed-e9c5-45d1-8bdc-191b073c2ad3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-29T19:07:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 111"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-29T19:06:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/9\/111",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": "<div> Uchwa\u0142a Nr IX\/111\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 27 maja 2019 r.<br><br>w sprawie ustalenia sieci prowadzonych przez Gmin\u0119 Dopiewo publicznych<br>przedszkoli, oddzia\u0142\u00f3w przedszkolnych w szko\u0142ach podstawowych.<br><br>Na podstawie art. 32, ust. 1, 2 i 4 ustawy z dnia 14 grudnia 2016 r. -<br>Prawo o\u015bwiatowe (Dz. U. z 2018 r. poz. 996 ze zm.), po uzyskaniu<br>pozytywnej opinii Wielkopolskiego Kuratora O\u015bwiaty Rada Gminy uchwala co<br>nast\u0119puje:<br><br>\u00a7 1. Sie\u0107 publicznych przedszkoli obejmuje przedszkola prowadzone przez<br>Gmin\u0119 Dopiewo:<br><br> 1. Przedszkole \u201eLe\u015bne Duszki\u201d w Zakrzewie ul. D\u0142uga 57 - obw\u00f3d: wszystkie<br>miejscowo\u015bci z terenu gminy,<br><br> 2. Przedszkole \u201eJanek W\u0119drowniczek\u201d w Dopiewie w Zespole Szkolno -<br>Przedszkolnym im. Jana Brzechwy w Dopiewie ul. Bukowska 13 - obw\u00f3d:<br>wszystkie miejscowo\u015bci z terenu gminy,<br><br> 3. Przedszkole w Wi\u0119ckowicach w Zespole Szkolno - Przedszkolnym w<br>Wi\u0119ckowicach, ul. Gromadzka 7 - obw\u00f3d: wszystkie miejscowo\u015bci z terenu<br>gminy.<br><br> 4. Przedszkole Publiczne ,,Iskierki\u201d w Sk\u00f3rzewie, ul. Kolejowej 21;<br>obw\u00f3d: wszystkie miejscowo\u015bci z terenu gminy,<br><br> 5. Przedszkole Publiczne ,,M\u0105dra Sowa\u201d w Konarzewie, ul. Ko\u015bcielnej 37;<br>obw\u00f3d: wszystkie miejscowo\u015bci z terenu gminy.<br><br> 6. Szko\u0142a Podstawowa im. Marii Konopnickiej w Dopiewcu, ul. Szkolna 7 -<br>oddzia\u0142y przedszkolne; obw\u00f3d: wszystkie miejscowo\u015bci z terenu gminy.<br><br>\u00a7 2. Uchyla si\u0119 Uchwa\u0142\u0119 Nr XVI\/219\/16 Rady Gminy Dopiewo z dnia 29 lutego<br>2016r. w sprawie ustalenia sieci prowadzonych przez Gmin\u0119 Dopiewo<br>publicznych przedszkoli, oddzia\u0142\u00f3w przedszkolnych w szko\u0142ach podstawowych.<br><br>\u00a7 3. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a7 4. Uchwa\u0142a wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia w<br>Dzienniku Urz\u0119dowym Wojew\u00f3dztwa Wielkopolskiego.<br><br>Uzasadnienie<br><br>W uchwale w sprawie ustalenia sieci prowadzonych przez Gmin\u0119 Dopiewo<br>publicznych przedszkoli, oddzia\u0142\u00f3w przedszkolnych w szko\u0142ach podstawowych<br>wprowadza si\u0119 zapis dotycz\u0105cy oddzia\u0142\u00f3w przedszkolnych w Szkole<br>Podstawowej im. Marii Konopnickiej w Dopiewcu, ul. Szkolna 7.<\/div><br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 1
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 20
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        }
+    ],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=12338",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr IX\/111\/19 Rady Gminy Dopiewo z dnia 27 maja 2019 r. w sprawie ustalenia sieci prowadzonych przez Gmin\u0119 Dopiewo publicznych przedszkoli, oddzia\u0142\u00f3w przedszkolnych w szko\u0142ach podstawowych"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/5477"
+        }
+    ],
+    "field_numer_porzadkowy": [
+        {
+            "value": 111
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "a287d1b5-c3ec-4bee-89a8-ed47fb8e53d7"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ad245f4e-c063-42ce-8dca-ad0af7349bdb"
+        }
+    ]
+}

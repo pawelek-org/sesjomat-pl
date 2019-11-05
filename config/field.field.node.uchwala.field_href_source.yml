@@ -1,0 +1,21 @@
+uuid: 3f5ffc5d-d75e-4cf8-ae61-9a9c8f56e7e7
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_href_source
+    - node.type.uchwala
+  module:
+    - text
+id: node.uchwala.field_href_source
+field_name: field_href_source
+entity_type: node
+bundle: uchwala
+label: 'Odnośnik do BIP Dopiewo'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

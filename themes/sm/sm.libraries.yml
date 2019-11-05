@@ -1,0 +1,4 @@
+local:
+  css:
+    base:
+      css/sm.min.css: {}

@@ -1,0 +1,79 @@
+{
+    "name": "drupal-tome/tome-project",
+    "description": "A starter project for Tome.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samuel Mortenson",
+            "email": "samuel@mortenson.coffee"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://packages.drupal.org/8"
+        }
+    ],
+    "require": {
+        "composer/installers": "^1.2",
+        "cweagans/composer-patches": "^1.6",
+        "drupal-composer/drupal-scaffold": "^2.5",
+        "drupal/core": "~8.6",
+        "drush/drush": "^9.0.0",
+        "drupal/tome": "^1.0",
+        "drupal-tome/tome_drush": "dev-master",
+        "drupal/admin_toolbar": "^1.27",
+        "drupal/metatag": "^1.10",
+        "drupal/adminimal_theme": "^1.5",
+        "drupal/minifyhtml": "^1.8",
+        "drupal/adminimal_admin_toolbar": "^1.10",
+        "drupal/pathauto": "^1.5",
+        "drupal/lp_fontawesome": "^5.8010",
+        "drupal/libraries_provider": "^1.1",
+        "drupal/lunr": "^1.0@alpha",
+        "drupal/extlink": "^1.1",
+        "drupal/feeds": "^3.0@alpha",
+        "drupal/field_group": "^3.0",
+        "drupal/computed_field": "^2.0",
+        "drupal/views_aggregator": "^1.0@alpha",
+        "drupal/views_bulk_operations": "^3.3",
+        "drupal/views_bulk_edit": "^2.4",
+        "drupal/maxlength": "^1.0@beta",
+        "drupal/views_conditional": "^1.0",
+        "drupal/spectre": "1.x-dev",
+        "drupal/auto_entitylabel": "^3.0@beta",
+        "drupal/twig_field_value": "^1.2",
+        "drupal/twig_tweak": "^2.4",
+        "drupal/rules": "^3.0@alpha",
+        "drupal/auditfiles": "^2.2",
+        "drupal/twig_vardumper": "^1.2",
+        "drupal/block_class": "^1.0",
+        "drupal/xmlsitemap": "^1.0@alpha"
+    },
+    "scripts": {
+        "symlink": "./scripts/symlink.sh",
+        "post-install-cmd": [
+            "@composer drupal:scaffold",
+            "@symlink"
+        ],
+        "post-update-cmd": [
+            "@composer drupal:scaffold",
+            "@symlink"
+        ]
+    },
+    "extra": {
+        "installer-paths": {
+            "web/core": ["type:drupal-core"],
+            "web/libraries/{$name}": ["type:drupal-library"],
+            "web/modules/contrib/{$name}": ["type:drupal-module"],
+            "web/profiles/contrib/{$name}": ["type:drupal-profile"],
+            "web/themes/contrib/{$name}": ["type:drupal-theme"],
+            "drush/Commands/{$name}": ["type:drupal-drush"]
+        }
+    },
+    "require-dev": {
+    }
+}

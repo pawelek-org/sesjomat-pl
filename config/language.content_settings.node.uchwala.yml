@@ -1,0 +1,11 @@
+uuid: e16e6375-e9b7-44c5-9a77-3692c4a26592
+langcode: pl
+status: true
+dependencies:
+  config:
+    - node.type.uchwala
+id: node.uchwala
+target_entity_type_id: node
+target_bundle: uchwala
+default_langcode: site_default
+language_alterable: false

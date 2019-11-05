@@ -1,0 +1,257 @@
+{
+    "uuid": [
+        {
+            "value": "92485250-de64-4f1e-aca8-c6a56512d8fe"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-29T10:09:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 66"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-29T10:07:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/5\/66",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": " Uchwa\u0142a Nr V\/66\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 25 lutego 2019 r.<br><br>w sprawie okre\u015blenia szczeg\u00f3\u0142owych zasad, sposobu i trybu umarzania,<br>odraczania lub rozk\u0142adania na raty nale\u017cno\u015bci maj\u0105cych charakter<br>nale\u017cno\u015bci cywilnoprawnych, przypadaj\u0105cych Gminie Dopiewo lub jej<br>jednostkom organizacyjnym oraz warunk\u00f3w dopuszczalno\u015bci pomocy publicznej<br>w przypadkach, w kt\u00f3rych ulga stanowi\u0107 b\u0119dzie pomoc publiczn\u0105 oraz<br>wskazania organu do tego uprawnionego.<br><br>Na podstawie art. 18 ust 2 pkt 15 ustawy z dnia 8 marca 1990 r. o<br>samorz\u0105dzie gminnym<br>(t.j. Dz. U. z 2018 r., poz. 994 z p\u00f3\u017an. zm.) i art. 59 ust. 1, 2 i 3<br>ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (t.j. Dz. U. z<br>2017 r., poz. 2077 z p\u00f3\u017an. zm.) Rada Gminy Dopiewo uchwala, co nast\u0119puje:<br><br>\u00a7 1. Uchwa\u0142a okre\u015bla szczeg\u00f3\u0142owe zasady, spos\u00f3b i tryb umarzania oraz<br>odraczania terminu sp\u0142aty lub rozk\u0142adania na raty nale\u017cno\u015bci pieni\u0119\u017cnych<br>maj\u0105cych charakter cywilnoprawny przypadaj\u0105cych Gminie Dopiewo lub jej<br>jednostkom organizacyjnym, warunki dopuszczalno\u015bci pomocy publicznej w<br>przypadkach, w kt\u00f3rych ulga stanowi\u0107 b\u0119dzie pomoc publiczn\u0105 oraz wskazuje<br>organ uprawniony do udzielania tych ulg.<br><br>\u00a7 2. Ilekro\u0107 w niniejszej uchwale jest mowa o:<br><br>1) wierzycielu - rozumie si\u0119 przez to Gmin\u0119 Dopiewo lub jej jednostki<br>organizacyjne,<br><br>2) jednostce lub jednostkach organizacyjnych - rozumie si\u0119 przez to<br>jednostki wymienione<br>w art. 9 pkt 3 i 13 ustawy z dnia 27 sierpnia 2009 r. o finansach<br>publicznych,<br><br>3) d\u0142u\u017cniku - rozumie si\u0119 przez to osob\u0119 fizyczn\u0105, osob\u0119 prawn\u0105 b\u0105d\u017a<br>jednostk\u0119 organizacyjn\u0105 nieposiadaj\u0105c\u0105 osobowo\u015bci prawnej, kt\u00f3ra posiada<br>zobowi\u0105zanie w stosunku do Gminy Dopiewo lub jej jednostek<br>organizacyjnych,<br><br>4) nale\u017cno\u015bci pieni\u0119\u017cnej - rozumie si\u0119 przez to wymagaln\u0105 kwot\u0119 g\u0142\u00f3wn\u0105<br>zobowi\u0105za\u0144 wobec Gminy Dopiewo maj\u0105cych charakter cywilnoprawny, wraz z<br>odsetkami za zw\u0142ok\u0119 oraz ewentualnymi kosztami dochodzenia nale\u017cno\u015bci, w<br>tym kosztami procesu w rozumieniu art. 98 i nast. ustawy z dnia 17<br>listopada 1964 r. Kodeks post\u0119powania cywilnego (t. j. Dz. U. z 2018 r.,<br>poz. 1360 z p\u00f3\u017an. zm.) wed\u0142ug stanu na dzie\u0144 z\u0142o\u017cenia wniosku o udzielenie<br>ulgi,<br><br>5) uldze w sp\u0142acie nale\u017cno\u015bci - rozumie si\u0119 przez to umorzenie, odroczenie<br>lub roz\u0142o\u017cenie na raty sp\u0142aty nale\u017cno\u015bci w ca\u0142o\u015bci lub w cz\u0119\u015bci,<br><br>6) organie - rozumie si\u0119 przez o podmiot uprawniony, na podstawie<br>niniejszej uchwa\u0142y, do udzielania ulg w sp\u0142acie nale\u017cno\u015bci, kt\u00f3rym jest<br>W\u00f3jt Gminy Dopiewo,<br><br>7) wa\u017cnym interesie d\u0142u\u017cnika - rozumie si\u0119 przez to tak\u0105 sytuacj\u0119<br>finansow\u0105, maj\u0105tkow\u0105 lub spo\u0142eczn\u0105 d\u0142u\u017cnika, w kt\u00f3rej zap\u0142ata ca\u0142o\u015bci<br>nale\u017cno\u015bci pieni\u0119\u017cnej b\u0105d\u017a jej cz\u0119\u015bci mog\u0142aby zagrozi\u0107 dalszej egzystencji<br>d\u0142u\u017cnika, a w przypadku os\u00f3b fizycznych r\u00f3wnie\u017c os\u00f3b pozostaj\u0105cych na jej<br>utrzymaniu.<br><br>\u00a7 3. 1. Stosowanie ulg w sp\u0142acie nale\u017cno\u015bci mo\u017ce nast\u0105pi\u0107, je\u017celi zachodzi<br>jedna<br>z nast\u0119puj\u0105cych przes\u0142anek:<br><br>1) nie mo\u017cna ustali\u0107 miejsca zamieszkania d\u0142u\u017cnika b\u0119d\u0105cego osob\u0105 fizyczn\u0105<br>lub d\u0142u\u017cnik ten zmar\u0142, nie pozostawiaj\u0105c \u017cadnego maj\u0105tku lub pozostawi\u0142<br>maj\u0105tek nie podlegaj\u0105cy egzekucji na podstawie odr\u0119bnych przepis\u00f3w, albo<br>pozostawi\u0142 przedmioty codziennego u\u017cytku domowego, kt\u00f3rych \u0142\u0105czna warto\u015b\u0107<br>nie przekracza kwoty 4.000,00 z\u0142 (s\u0142ownie: cztery tysi\u0105ce z\u0142otych),<br><br>2) osoba prawna zosta\u0142a wykre\u015blona z w\u0142a\u015bciwego rejestru s\u0105dowego przy<br>jednoczesnym braku maj\u0105tku, z kt\u00f3rego mo\u017cna by egzekwowa\u0107 nale\u017cno\u015bci, a<br>odpowiedzialno\u015b\u0107 z tytu\u0142u nale\u017cno\u015bci pieni\u0119\u017cnej nie przechodzi z mocy<br>prawa na osoby trzecie,<br><br>3) zachodzi uzasadnione przypuszczenie, \u017ce w post\u0119powaniu egzekucyjnym nie<br>uzyska si\u0119 od d\u0142u\u017cnika kwoty wy\u017cszej od koszt\u00f3w dochodzenia i egzekucji<br>tej nale\u017cno\u015bci lub post\u0119powanie egzekucyjne okaza\u0142o si\u0119 nieskuteczne,<br><br>4) jednostka organizacyjna nie posiadaj\u0105ca osobowo\u015bci prawnej uleg\u0142a<br>likwidacji,<br><br>5) zachodzi interes publiczny,<br><br>6) zachodzi wa\u017cny interes d\u0142u\u017cnika.<br><br>2. Zastosowanie ulgi w sp\u0142acie nale\u017cno\u015bci mo\u017ce nast\u0105pi\u0107:<br><br>1) na wniosek d\u0142u\u017cnika,<br><br>2) w przypadkach, o kt\u00f3rych mowa w ust. 1 pkt 1-5, tak\u017ce z urz\u0119du.<br><br>3. Umorzenie nale\u017cno\u015bci pieni\u0119\u017cnych, za kt\u00f3re odpowiada wi\u0119cej ni\u017c jeden<br>d\u0142u\u017cnik, mo\u017ce nast\u0105pi\u0107 w przypadku, gdy warunki umorzenia s\u0105 spe\u0142nione<br>wobec wszystkich d\u0142u\u017cnik\u00f3w.<br><br>4. Od nale\u017cno\u015bci pieni\u0119\u017cnej, kt\u00f3rej sp\u0142at\u0119 odroczono lub roz\u0142o\u017cono na<br>raty, odsetki ustawowe s\u0105 naliczane do dnia z\u0142o\u017cenia wniosku o udzielenie<br>ulgi, w\u0142\u0105cznie z tym dniem.<br><br>\u00a7 4. 1. Wniosek o udzielenie ulgi d\u0142u\u017cnik sk\u0142ada organowi.<br><br>2. Wniosek o udzielenie ulgi powinien zawiera\u0107 informacje uzasadniaj\u0105ce<br>zaistnienie przes\u0142anek, o kt\u00f3rych mowa w \u00a7 3 ust. 1 uchwa\u0142y, w<br>szczeg\u00f3lno\u015bci opis aktualnej sytuacji finansowej d\u0142u\u017cnika.<br><br>3. Do wniosku powinny zosta\u0107 za\u0142\u0105czone dokumenty potwierdzaj\u0105ce<br>okoliczno\u015bci w nim wymienione.<br><br>4. W przypadku stwierdzenia, \u017ce przedstawione dokumenty s\u0105<br>niewystarczaj\u0105ce do udzielenia ulgi, organ wzywa d\u0142u\u017cnika do ich<br>uzupe\u0142nienia, okre\u015blaj\u0105c termin, w kt\u00f3rym uzupe\u0142nienie powinno by\u0107<br>dokonane.<br><br>5. Nie uzupe\u0142nienie wniosku przez d\u0142u\u017cnika w wyznaczonym terminie,<br>powoduje pozostawienie go bez rozpatrzenia.<br><br>\u00a7 5. 1. W przypadku udzielenia ulgi w sp\u0142acie nale\u017cno\u015bci z uwagi na wa\u017cny<br>interes d\u0142u\u017cnika lub interes publiczny, kiedy ulga stanowi\u0107 b\u0119dzie pomoc<br>publiczn\u0105, udzielenie jej nast\u0119puje zgodnie z przepisami rozporz\u0105dzenia<br>Komisji UE nr 1407\/2013 z dnia 18 grudnia 2013 r.<br>w sprawie stosowania art. 107 i 108 Traktatu o funkcjonowaniu Unii<br>Europejskiej do pomocy de minimis (Dz. U. UE L Nr 352 str. 1 z dnia 24<br>grudnia 2013 r.) oraz rozporz\u0105dzenia Komisji UE nr 1408\/2013 z dnia 18<br>grudnia 2013 r. w sprawie stosowania art. 107 i 108 Traktatu o<br>funkcjonowaniu Unii Europejskiej do pomocy de minimis w sektorze rolnym<br>(Dz. U. UE L Nr 352 str. 9 z dnia 24 grudnia 2013 r.).<br><br>2. \u0141\u0105czna warto\u015b\u0107 pomocy udzielonej przedsi\u0119biorcy na podstawie niniejszej<br>uchwa\u0142y nie mo\u017ce przekroczy\u0107 r\u00f3wnowarto\u015bci dopuszczalnej warto\u015bci pomocy,<br>o kt\u00f3rej stanowi rozporz\u0105dzenie wymienione w ust. 1.<br><br>3. W celu uzyskania pomocy, o kt\u00f3rej mowa w ust. 1 podmiot prowadz\u0105cy<br>dzia\u0142alno\u015b\u0107 gospodarcz\u0105 jest zobowi\u0105zany przekaza\u0107 organowi udzielaj\u0105cemu<br>pomocy za\u015bwiadcze\u0144 lub o\u015bwiadcze\u0144 oraz informacji, o kt\u00f3rych mowa w art.<br>37 ust. 1 i 2 ustawy z dnia 30 kwietnia 2004 r. o post\u0119powaniu w sprawach<br>dotycz\u0105cych pomocy publicznej (t.j. Dz.U. z 2018 r., poz. 362).<br><br>\u00a7 6. 1. Umorzenie nale\u017cno\u015bci oraz odroczenie terminu sp\u0142aty ca\u0142o\u015bci lub<br>cz\u0119\u015bci nale\u017cno\u015bci albo roz\u0142o\u017cenie p\u0142atno\u015bci ca\u0142o\u015bci lub cz\u0119\u015bci nale\u017cno\u015bci<br>na raty nast\u0119puje, w formie pisemnej, na podstawie przepis\u00f3w prawa<br>cywilnego.<br><br>2. W przypadkach, o kt\u00f3rych mowa w \u00a7 3 ust. 1 pkt 1, 2 i 4, umorzenie<br>nale\u017cno\u015bci nast\u0119puje<br>w formie jednostronnego o\u015bwiadczenia woli organu uprawnionego, nie<br>wymagaj\u0105cego zgody d\u0142u\u017cnika.<br><br>3. Odmowa udzielenia ulgi nast\u0119puje tak\u017ce w formie pisemnej.<br><br>4. W przypadku, gdy umorzenie dotyczy cz\u0119\u015bci nale\u017cno\u015bci pieni\u0119\u017cnej, organ<br>wyznacza termin sp\u0142aty pozosta\u0142ej cz\u0119\u015bci nale\u017cno\u015bci z zastrze\u017ceniem, \u017ce w<br>razie jego niedotrzymania udzielona ulga traci moc i nale\u017cno\u015b\u0107 staje si\u0119<br>wymagalna w ca\u0142o\u015bci wraz z nale\u017cnymi odsetkami, liczonymi od dnia<br>nast\u0119puj\u0105cego po up\u0142ywie pierwotnego terminu wymagalno\u015bci do dnia zap\u0142aty.<br><br>\u00a7 7. Nale\u017cno\u015b\u0107 pieni\u0119\u017cna staje si\u0119 natychmiast wymagalna wraz z odsetkami<br>nale\u017cnymi od pierwotnego terminu wymagalno\u015bci do dnia zap\u0142aty, w przypadku<br>gdy zostanie ustalone, \u017ce:<br><br>1) dowody, na podstawie kt\u00f3rych organ udzieli\u0142 ulgi, okaza\u0142y si\u0119 fa\u0142szywe,<br><br>2) d\u0142u\u017cnik wprowadzi\u0142 organ w b\u0142\u0105d, co do okoliczno\u015bci, uzasadniaj\u0105cych<br>udzielenie ulgi,<br><br>3) d\u0142u\u017cnik nie sp\u0142aci\u0142 nale\u017cno\u015bci pieni\u0119\u017cnej w wyznaczonym terminie, b\u0105d\u017a<br>nie dotrzyma\u0142 terminu p\u0142atno\u015bci kt\u00f3rejkolwiek z rat, na jakie zosta\u0142a<br>roz\u0142o\u017cona nale\u017cno\u015b\u0107.<br><br>\u00a7 8. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a7 9. Traci moc Uchwa\u0142a Nr LV\/403\/10 Rady Gminy Dopiewo z dnia 25<br>pa\u017adziernika 2010 roku w sprawie zasad i trybu umarzania, odraczania<br>terminu lub rozk\u0142adania na raty sp\u0142aty, nale\u017cno\u015bci cywilnoprawnych<br>przypadaj\u0105cych Gminy Dopiewo lub jej jednostkom organizacyjnym.<br><br>\u00a7 10. Uchwa\u0142a wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia w<br>Dzienniku Urz\u0119dowym Wojew\u00f3dztwa Wielkopolskiego i w zakresie, w jakim<br>dotyczy udzielania pomocy de minimis, w rozumieniu rozporz\u0105dzenia Komisji<br>UE nr 1407\/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i<br>108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis (Dz.<br>U. UE L Nr 352 z dnia 24 grudnia 2013r.) oraz rozporz\u0105dzenia Komisji UE nr<br>1408\/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i 108<br>Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w<br>sektorze rolnym (Dz. U. UE L Nr 352 str. 9 z dnia 24 grudnia 2013 r.) ,<br>obowi\u0105zuje do dnia 30 czerwca 2021 r.<br><br>Uzasadnienie<br><br>Zgodnie z art. 7 ust. 3 i ust 3a ustawy z dnia 30 kwietnia 2004r. o<br>post\u0119powaniu<br>w sprawach dotycz\u0105cych pomocy publicznej (t. j. Dz. U. z 2018 r., poz.<br>362) projekt uchwa\u0142y zosta\u0142 przed\u0142o\u017cony w celu zaopiniowania Prezesowi<br>Urz\u0119du Ochrony Konkurencji<br>i Konsument\u00f3w oraz Ministrowi Rolnictwa i Rozwoju Wsi. Prezes UOKiK nie<br>wni\u00f3s\u0142 zastrze\u017ce\u0144 do projektu uchwa\u0142y. Natomiast zgodnie ze wskazaniami<br>Ministra Rolnictwa i Rozwoju wsi uzupe\u0142niono \u00a7 10 o odwo\u0142anie do Komisji<br>UE nr 1408\/2013 z dnia 18 grudnia 2013 r. w sprawie stosowania art. 107 i<br>108 Traktatu o funkcjonowaniu Unii Europejskiej do pomocy de minimis w<br>sektorze rolnym (Dz. U. UE L Nr 352 str. 9 z dnia 24 grudnia 2013 r.).<br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 21
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=11966",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr V\/66\/19 Rady Gminy Dopiewo z dnia 25 lutego 2019 r. w sprawie okre\u015blenia szczeg\u00f3\u0142owych zasad, sposobu i trybu umarzania, odraczania lub rozk\u0142adania na raty nale\u017cno\u015bci maj\u0105cych charakter nale\u017cno\u015bci cywilnoprawnych, przypadaj\u0105cych Gminie Dopiewo lub jej jednostkom organizacyjnym oraz warunk\u00f3w dopuszczalno\u015bci pomocy publicznej w przypadkach, w kt\u00f3rych ulga stanowi\u0107 b\u0119dzie pomoc publiczn\u0105 oraz wskazania organu do tego uprawnionego"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/2302"
+        }
+    ],
+    "field_numer_porzadkowy": [
+        {
+            "value": 66
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "9217b350-0dce-429c-8d79-71fa1cd3023b"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bac32b08-7dae-4677-b1cf-83ea4727c82a"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c3cf8f36-6a64-47d6-93d0-2bb0c50fb207"
+        }
+    ]
+}

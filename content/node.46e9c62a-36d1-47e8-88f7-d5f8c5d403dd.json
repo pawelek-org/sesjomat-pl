@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "46e9c62a-36d1-47e8-88f7-d5f8c5d403dd"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "interpelacja",
+            "target_type": "node_type",
+            "target_uuid": "3e907682-2c96-4a16-b02e-b4ac4d3152e0"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-11-03T13:57:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Interpelacja w sprawie przeprowadzenia konsultacji publicznych dotycz\u0105cych koncepcji zagospodarowania pierwszego pi\u0119tra dworca kolejowego w Pal\u0119dziu w zwi\u0105zku z przebudow\u0105 budynku dworcowego przez PKP S.A."
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-11-03T13:56:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-03T13:57:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "pl",
+            "pathauto": 0
+        }
+    ],
+    "menu_link": [
+        {
+            "target_id": null
+        }
+    ],
+    "body": [],
+    "field_data": [
+        {
+            "value": "2019-04-30"
+        }
+    ],
+    "field_interpelacja_bip": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=12165"
+        }
+    ],
+    "field_interpelacja_radny": [
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+uuid: 4ceb4800-4b57-40aa-94a1-ecac1bc7b00a
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_nr_w_dz_wojewody
+    - node.type.uchwala
+id: node.uchwala.field_nr_w_dz_wojewody
+field_name: field_nr_w_dz_wojewody
+entity_type: node
+bundle: uchwala
+label: 'Numer porządkowy w dzienniku wojewody'
+description: YYYY/XXXXXX
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

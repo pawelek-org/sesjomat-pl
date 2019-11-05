@@ -1,0 +1,26 @@
+uuid: 1f7b1a83-1757-48d7-ab04-6317350fe609
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_count_wstrzymujacy
+    - node.type.uchwala
+  module:
+    - computed_field
+id: node.uchwala.field_count_wstrzymujacy
+field_name: field_count_wstrzymujacy
+entity_type: node
+bundle: uchwala
+label: 'Suma wstrzymujacy'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  code: '$value = count($fields[''field_glos_wstrzymujacy'']);'
+  prefix: ''
+  suffix: ''
+field_type: computed_integer

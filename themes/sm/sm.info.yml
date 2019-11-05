@@ -1,0 +1,20 @@
+name: SM - Spectre local
+type: theme
+description: 'Built to use Spectre CSS. A Lightweight, Responsive and Modern CSS Framework'
+package: Core
+core: 8.x
+ 
+base theme: spectre
+
+regions:
+  navbar: Navbar menu
+  header: Header
+  content: Content
+  footer: Footer
+  highlighted: Highlighted
+
+libraries-override:
+  spectre/cdn: false
+
+libraries:
+  - sm/local

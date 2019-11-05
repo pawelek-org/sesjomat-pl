@@ -1,0 +1,22 @@
+uuid: 5883c48a-155b-47f7-8aa9-f12edae41db1
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.radny
+  module:
+    - text
+id: node.radny.body
+field_name: body
+entity_type: node
+bundle: radny
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+field_type: text_with_summary

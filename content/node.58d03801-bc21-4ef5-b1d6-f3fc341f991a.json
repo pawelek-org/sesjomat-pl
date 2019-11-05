@@ -1,0 +1,255 @@
+{
+    "uuid": [
+        {
+            "value": "58d03801-bc21-4ef5-b1d6-f3fc341f991a"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-29T09:51:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 55"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-29T09:49:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/5\/55",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": " Uchwa\u0142a Nr V\/55\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 25 lutego 2019 r.<br><br>w sprawie przyj\u0119cia programu opieki nad zwierz\u0119tami bezdomnymi oraz<br>zapobiegania bezdomno\u015bci zwierz\u0105t na terenie gminy Dopiewo w 2019 r.<br><br>Na podstawie art. 18 ust. 2 pkt. 15 Ustawy z dnia 8 marca 1990 r.<br>o samorz\u0105dzie gminnym (j.t. Dz.U. z 2018 r., poz. 994 z p\u00f3\u017an. zm.) oraz<br>art. 11a Ustawy z dnia 21 sierpnia 1997 r. o ochronie zwierz\u0105t (j.t. Dz.<br>U. z 2019 r., poz. 122) uchwala si\u0119, co nast\u0119puje:<br><br>\u00a7 1. Celem programu opieki nad zwierz\u0119tami jest:<br><br>1. zapewnienie bezdomnym zwierz\u0119tom miejsca w schronisku dla zwierz\u0105t;<br><br>2. opiek\u0119 nad wolno \u017cyj\u0105cymi kotami, w tym ich dokarmianie i<br>sterylizacj\u0119;<br><br>3. od\u0142awianie bezdomnych zwierz\u0105t;<br><br>4. obligatoryjn\u0105 sterylizacj\u0119 albo kastracj\u0119 zwierz\u0105t w schroniskach dla<br>zwierz\u0105t;<br><br>5. poszukiwanie w\u0142a\u015bcicieli dla bezdomnych zwierz\u0105t;<br><br>6. usypianie \u015blepych miot\u00f3w;<br><br>7. wskazanie gospodarstwa rolnego w celu zapewnienia miejsca dla zwierz\u0105t<br>gospodarskich;<br><br>8. zapewnienie ca\u0142odobowej opieki weterynaryjnej w przypadkach zdarze\u0144<br>drogowych z udzia\u0142em zwierz\u0105t.<br><br>\u00a7 2. Ilekro\u0107 w programie jest mowa o:<br><br>1. Gminie, nale\u017cy przez to rozumie\u0107 Gmin\u0119 Dopiewo;<br><br>2. Schronisku, nale\u017cy przez to rozumie\u0107 Schronisko Cywil w Rybowie - do<br>czasu wybudowania i oddania do u\u017cytku Schroniska dla Zwierz\u0105t w<br>Dopiewie;<br><br>3. Przytulisku, nale\u017cy przez to rozumie\u0107 Przytulisko dla zwierz\u0105t<br>prowadzone przez Zak\u0142ad Us\u0142ug Komunalnych w Dopiewie przy sk\u0142adowisku<br>odpad\u00f3w w Dopiewie;<br><br>4. Zwierz\u0119tach bezdomnych, nale\u017cy przez to rozumie\u0107 zwierz\u0119ta domowe lub<br>gospodarskie, kt\u00f3re uciek\u0142y, zab\u0142\u0105ka\u0142y si\u0119 lub zosta\u0142y porzucone przez<br>cz\u0142owieka, a nie ma mo\u017cliwo\u015bci ustalenia ich w\u0142a\u015bciciela lub innej<br>osoby pod kt\u00f3rej opiek\u0105 dotychczas pozostawa\u0142y;<br><br>5. Zwierz\u0119tach domowych, nale\u017cy przez to rozumie\u0107 zwierz\u0119ta tradycyjnie<br>przebywaj\u0105ce wraz z cz\u0142owiekiem w jego domu lub w odpowiednim<br>pomieszczeniu, utrzymywane przez cz\u0142owieka w charakterze jego<br>towarzysza;<br><br>6. Kotach wolno \u017cyj\u0105cych, nale\u017cy przez to rozumie\u0107 koty urodzone lub<br>\u017cyj\u0105ce na wolno\u015bci;<br><br>7. Programie, nale\u017cy przez to rozumie\u0107 Program opieki nad zwierz\u0119tami<br>bezdomnymi na terenie Gminy Dopiewo.<br><br>\u00a7 3. Wykonawcami programu s\u0105:<br><br>1. Urz\u0105d Gminy Dopiewo, Referat Planowania Przestrzennego i Ochrony<br>\u015arodowiska ul. Le\u015bna 1C 62-070 Dopiewo tel. 61 8906 396;<br><br>2. \u201eZak\u0142ad Us\u0142ug Komunalnych\u201d Sp. z o.o. w Dopiewie ul. Wyzwolenia 15<br>62-070 Dopiewo, prowadz\u0105cy Przytulisko dla zwierz\u0105t;<br><br>3. Stra\u017c Gminna Dopiewie, ul. Le\u015bna 2A 62-070 Dopiewo, tel. 61 8941 986,<br>512 457 977;<br><br>4. Fundacja, kt\u00f3rej celem statutowym jest przeciwdzia\u0142anie bezdomno\u015bci i<br>ochrona zwierz\u0105t;<br><br>5. Gospodarstwo Rolne Gospodarstwo Rolne A. Piasecki nr.064021710<br>Stajnia BENEK ul. Orzechowa 15 63-004 Szewce\/Tulce;<br><br>6. Weterynarz Jaros\u0142aw Paryzek, Kobylarnia 9, 64-410 Sierak\u00f3w<br>zapewniaj\u0105cy ca\u0142odobow\u0105 opiek\u0119 weterynaryjn\u0105 w przypadku zdarze\u0144<br>drogowych z udzia\u0142em zwierz\u0105t;<br><br>7. Gabinet weterynaryjny, zapewniaj\u0105cy opiek\u0119 weterynaryjn\u0105 dla kot\u00f3w<br>wolno\u017cyj\u0105cych oraz zabiegi sterylizacji\/kastracji w celu ograniczania<br>ich populacji;<br><br>8. Policja tel. 997<br><br>9. Schronisko Cywil, Rybowo 51, 62-130 Go\u0142a\u0144cz<br><br>\u00a7 4. 1. Opieka nad bezdomnymi zwierz\u0119tami odbywa si\u0119 wed\u0142ug nast\u0119puj\u0105cych<br>zasad:<br><br>1. od\u0142owione zwierz\u0119ta bezdomne, wa\u0142\u0119saj\u0105ce si\u0119, pozostaj\u0105ce bez<br>w\u0142a\u015bcicieli przekazywane s\u0105 pod tymczasow\u0105 opiek\u0119 do przytuliska w<br>Dopiewie gdzie b\u0119d\u0105 przebywa\u0107 do czasu znalezienia w\u0142a\u015bciciela lub<br>docelowo przekazywane b\u0119d\u0105 do schroniska dla zwierz\u0105t;<br><br>2. zapewnienie opieki weterynaryjnej, schronienia i wy\u017cywienia bezdomnym<br>zwierz\u0119tom w przytulisku realizuje \u201eZak\u0142ad Us\u0142ug Komunalnych\u201d Sp. z<br>o.o. w Dopiewie;<br><br>3. w ramach opieki weterynaryjnej zapewnia si\u0119 sterylizacj\u0119 lub kastracj\u0119<br>zwierz\u0105t przebywaj\u0105cych w przytulisku w Dopiewie, o ile lekarz<br>weterynarii nie zadecyduje inaczej. Zabiegi te s\u0105 wykonywane wy\u0142\u0105cznie<br>w gabinecie weterynaryjnym poza terenem przytuliska;<br><br>4. usypianiu mog\u0105 podlega\u0107 wy\u0142\u0105cznie \u015blepe mioty zwierz\u0105t na podstawie<br>decyzji lekarza weterynarii;<br><br>2. Od\u0142awianie bezdomnych zwierz\u0105t odbywa si\u0119 wed\u0142ug nast\u0119puj\u0105cych zasad:<br><br>1. od\u0142awianie bezpa\u0144skich domowych zwierz\u0105t realizowane jest przez Stra\u017c<br>Gminn\u0105 lub organizacje spo\u0142eczne, kt\u00f3rych statutowym celem dzia\u0142ania<br>jest przeciwdzia\u0142anie bezdomno\u015bci zwierz\u0105t w spos\u00f3b niestwarzaj\u0105cy<br>zagro\u017cenia dla zdrowia i \u017cycia zwierz\u0105t oraz nie zadaj\u0105cy im<br>cierpienia;<br><br>2. \u201eZak\u0142ad Us\u0142ug Komunalnych\u201d Sp. z o.o. w Dopiewie realizuje od\u0142awianie<br>bezpa\u0144skich ps\u00f3w poza godzinami pracy Stra\u017cy Gminnej oraz udziela<br>niezb\u0119dnej pomocy Stra\u017cnikom Gminnym w od\u0142awianiu szczeg\u00f3lnie<br>agresywnych oraz du\u017cych ps\u00f3w;<br><br>3. od\u0142awianie zwierz\u0105t b\u0119dzie prowadzone za pomoc\u0105 specjalistycznego<br>sprz\u0119tu, kt\u00f3ry nie b\u0119dzie stwarza\u0142 zagro\u017cenia dla \u017cycia i zdrowia<br>zwierz\u0105t oraz nie b\u0119dzie zadawa\u0142 im cierpienia;<br><br>4. wy\u0142apane zwierz\u0119ta bezdomne zostan\u0105 niezw\u0142ocznie przewiezione do<br>przytuliska lub gospodarstwa rolnego.<br><br>3. Zmniejszenie populacji bezpa\u0144skich zwierz\u0105t b\u0119dzie realizowane poprzez:<br><br>1. dzia\u0142ania wspieraj\u0105ce i promuj\u0105ce adopcj\u0119 bezdomnych zwierz\u0105t, w tym<br>publikowanie informacji o bezpa\u0144skich zwierz\u0119tach czekaj\u0105cych na<br>adopcj\u0119 na swojej stronie internetowej;<br><br>2. wsp\u00f3\u0142prac\u0119 z organizacjami pozarz\u0105dowymi kt\u00f3rych statutowym celem<br>dzia\u0142ania jest ochrona zwierz\u0105t i wspieranie ich dzia\u0142alno\u015bci.<br><br>\u00a7 5. Opieka nad wolno \u017cyj\u0105cymi kotami w tym ich dokarmianie oraz<br>ograniczenie ich populacji realizowana b\u0119dzie przez Fundacj\u0119, kt\u00f3rej celem<br>statutowym jest przeciwdzia\u0142anie bezdomno\u015bci i ochrona zwierz\u0105t.<br><br>\u00a7 6. 1. Zapewnienie opieki dla zwierz\u0105t gospodarskich realizowane b\u0119dzie<br>poprzez:<br><br>1. gospodarstwo rolne wskazane w \u00a7 3 w celu zapewnienia miejsca i opieki<br>dla bezdomnych zwierz\u0105t gospodarskich,<br><br>2. poszukiwanie nowych w\u0142a\u015bcicieli dla bezdomnych zwierz\u0105t gospodarskich<br>umieszczonych tymczasowo we wskazanym gospodarstwie rolnym.<br><br>2. Zwierz\u0119 gospodarskie przed przekazaniem nowemu w\u0142a\u015bcicielowi musi<br>pozosta\u0107 we wskazanym gospodarstwie rolnym minimum 30 dni w celu<br>odnalezienia dotychczasowego w\u0142a\u015bciciela<br><br>\u00a7 7. Zapewnienie ca\u0142odobowej opieki weterynaryjnej w przypadkach zdarze\u0144<br>drogowych z udzia\u0142em zwierz\u0105t polega\u0107 b\u0119dzie na:<br><br>1. zapewnieniu ca\u0142odobowej opieki weterynaryjnej poprzez podmiot<br>\u015bwiadcz\u0105cy us\u0142ugi w tym zakresie, w tym udzielaniu pomocy rannym<br>zwierz\u0119tom oraz skr\u00f3ceniu cierpie\u0144 zwierz\u0119tom, kt\u00f3rym nie uda\u0142o si\u0119<br>pom\u00f3c w inny spos\u00f3b;<br><br>2. zg\u0142oszenia o zwierz\u0119tach poszkodowanych w wypadkach komunikacyjnych<br>b\u0119d\u0105 przyjmowane przez Stra\u017c Gminn\u0105 lub pracownika urz\u0119du i<br>przekazywane osobie \u015bwiadcz\u0105cej us\u0142ugi z zakresu opieki<br>weterynaryjnej;<br><br>3. w przypadku zdarze\u0144 poza godzinami urz\u0119dowania urz\u0119du i gminy organem<br>w\u0142a\u015bciwym do poinformowania o zdarzeniu drogowym jest policja;<br><br>4. wsp\u00f3\u0142pracy z ko\u0142ami \u0142owieckimi dzia\u0142aj\u0105cymi na terenie Gminy Dopiewo w<br>ramach przydzielonych obwod\u00f3w \u0142owieckich.<br><br>\u00a7 8. Zasady finansowania realizacji zada\u0144 programu s\u0105 nast\u0119puj\u0105ce:<br><br>1. w corocznym bud\u017cecie Gminy Dopiewo uchwalane b\u0119d\u0105 \u015brodki finansowe na<br>realizacj\u0119 dzia\u0142a\u0144 w ramach programu opieki nad zwierz\u0119tami bezdomnymi<br>oraz zapobiegania bezdomno\u015bci;<br><br>2. w przypadku zwi\u0119kszenia \u015brodk\u00f3w finansowych przeznaczonych na<br>realizacj\u0119 zada\u0144 zmiana uchwa\u0142y bud\u017cetowej nie powoduje konieczno\u015bci<br>zmiany niniejszej uchwa\u0142y;<br><br>3. dzia\u0142ania b\u0119d\u0105 podejmowane do wyczerpania \u015brodk\u00f3w przeznaczonych na<br>ten cel;<br><br>4. plan finansowy:<br><br>+------------------------------------------------------------------------+<br>| L.p. | Bud\u017cet na 2019 rok [z\u0142] |<br>|------+-----------------------------------------------------------------|<br>| | \u015arodki finansowe na realizacj\u0119 dzia\u0142a\u0144 w ramach | |<br>| 1. | programu opieki nad zwierz\u0119tami bezdomnymi oraz | 107 000 z\u0142 |<br>| | zapobiegania bezdomno\u015bci - us\u0142ugi | |<br>|------+--------------------------------------------------+--------------|<br>| | \u015arodki finansowe na realizacj\u0119 dzia\u0142a\u0144 w ramach | |<br>| 2. | programu opieki nad zwierz\u0119tami bezdomnymi oraz | 2 000 z\u0142 |<br>| | zapobiegania bezdomno\u015bci - materia\u0142y | |<br>|------+--------------------------------------------------+--------------|<br>| 3. | Budowa schroniska dla zwierz\u0105t w Dopiewie | 1 600 000 z\u0142 |<br>+------------------------------------------------------------------------+<br><br>\u00a7 9. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a7 10. Uchwa\u0142a wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia w<br>Dzienniku Urz\u0119dowym Wojew\u00f3dztwa Wielkopolskiego.<br><br>UZASADNIENIE<br><br>Przedstawiony projekt uchwa\u0142y ma na celu realizacj\u0119 przepis\u00f3w Ustawy<br>z dnia 21.08.1997 r. o ochronie zwierz\u0105t,<br><br>W my\u015bl art. 11 ust. 1 w\/w ustawy zapewnienie opieki bezdomnym zwierz\u0119tom<br>oraz ich wy\u0142apywanie nale\u017cy do zada\u0144 w\u0142asnych gminy. Zgodnie z art. 11 a<br>rada gminy wype\u0142niaj\u0105c obowi\u0105zek, o kt\u00f3rym mowa w art. 11 ust. 1, okre\u015bla<br>corocznie w drodze uchwa\u0142y program opieki nad zwierz\u0119tami bezdomnymi oraz<br>zapobiegania bezdomno\u015bci zwierz\u0105t. Na podstawie art. 11a pkt. 7 w\/w<br>ustawy, pismami z dnia 11.01.2019 r., projekt programu przekazano do<br>zaopiniowania w\u0142a\u015bciwemu powiatowemu lekarzowi weterynarii, organizacji<br>spo\u0142ecznej, kt\u00f3rej statutowym celem dzia\u0142ania jest ochrona zwierz\u0105t,<br>dzia\u0142aj\u0105cej na obszarze gminy oraz dzier\u017cawcom lub zarz\u0105dcom obwod\u00f3w<br>\u0142owieckich, dzia\u0142aj\u0105cych na obszarze gminy.<br><br>Powiatowy Lekarz Weterynarii pismem nr PIW.ChZ.5130.5.2019 z dnia<br>17.01.2019 r. (data wp\u0142ywu do tutejszego urz\u0119du 23.01.2019 r.) wyrazi\u0142<br>pozytywn\u0105 opini\u0119 co do tre\u015bci programu opieki nad zwierz\u0119tami bezdomnymi i<br>zapobieganiu bezdomno\u015bci.<br><br>Reasumuj\u0105c, program jest szczeg\u00f3\u0142owy w takim stopniu, jaki jest wymagany<br>dla realizacji ustawowych zapis\u00f3w zwi\u0105zanych z zapobieganiem bezdomno\u015bci<br>oraz opieki nad zwierz\u0119tami bezdomnymi w zwi\u0105zku z czym nale\u017cy podj\u0105\u0107<br>niniejsz\u0105 uchwa\u0142\u0119.<br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 1
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 2
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 18
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [],
+    "field_glos_przeciw": [
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        }
+    ],
+    "field_glos_wstrzymujacy": [
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        }
+    ],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=11954",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr V\/55\/19 Rady Gminy Dopiewo z dnia 25 lutego 2019 r. w sprawie przyj\u0119cia programu opieki nad zwierz\u0119tami bezdomnymi oraz zapobiegania bezdomno\u015bci zwierz\u0105t na terenie gminy Dopiewo w 2019 r."
+        }
+    ],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/2288"
+        }
+    ],
+    "field_numer_porzadkowy": [
+        {
+            "value": 55
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "9217b350-0dce-429c-8d79-71fa1cd3023b"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "16970f18-d01a-486f-a324-1c679effc66c"
+        }
+    ]
+}

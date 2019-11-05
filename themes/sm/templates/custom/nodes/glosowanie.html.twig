@@ -1,0 +1,86 @@
+<div class="columns">
+    <div class="column col-12">
+      <div class="columns">
+        <div class="column col-auto col-sm-12">
+          {% if node.field_count_za.0.value == 0 %}
+            <button title="Głosowanie za uchwałą" class="btn btn-sm btn-success badge" data-badge="{{ node.field_count_za.0.value }}">Za &nbsp;</button>
+          {% else %}
+            <div class="popover popover-right">
+              <button title="Głosowanie za uchwałą" class="btn btn-sm btn-success badge" data-badge="{{ node.field_count_za.0.value }}">Za &nbsp;</button>
+              <div class="popover-container">
+                <div class="card">
+                  <div class="card-body">
+                    {{ content.field_glos_za }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          {% endif %}
+        </div>
+        <div class="column col-auto col-sm-12">
+          {% if node.field_count_przeciw.0.value == 0 %}
+            <button title="Głosowanie przeciw uchwale" class="btn btn-sm btn-error badge" data-badge="{{ node.field_count_przeciw.0.value }}">Przeciw &nbsp;</button>
+          {% else %}
+            <div class="popover popover-right">
+              <button title="Głosowanie przeciw uchwale" class="btn btn-error btn-sm badge" data-badge="{{ node.field_count_przeciw.0.value }}">Przeciw &nbsp;</button>
+              <div class="popover-container">
+                <div class="card">
+                  <div class="card-body">
+                    {{ content.field_glos_przeciw }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          {% endif %}
+        </div>
+        <div class="column col-auto col-sm-12">
+          {% if node.field_count_wstrzymujacy.0.value == 0 %}
+            <button title="Wstrzymanie się od głosowania" class="btn btn-sm badge" data-badge="{{ node.field_count_wstrzymujacy.0.value }}">Wstrzymujący &nbsp;</button>
+          {% else %}
+            <div class="popover popover-right">
+              <button title="Wstrzymanie się od głosowania" class="btn btn-sm badge" data-badge="{{ node.field_count_wstrzymujacy.0.value }}">Wstrzymujący &nbsp;</button>
+              <div class="popover-container">
+                <div class="card">
+                  <div class="card-body">
+                    {{ content.field_glos_wstrzymujacy }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          {% endif %}
+        </div>
+        <div class="column col-auto col-sm-12">
+          {% if node.field_count_brak.0.value == 0 %}
+            <button title="Brak oddanego głosu mimo obecności" class="btn btn-sm btn-primary badge" data-badge="{{ node.field_count_brak.0.value }}">Brak &nbsp;</button>
+          {% else %}
+            <div class="popover popover-right">
+              <button title="Brak oddanego głosu mimo obecności" class="btn btn-sm btn-primary badge" data-badge="{{ node.field_count_brak.0.value }}">Brak &nbsp;</button>
+              <div class="popover-container">
+                <div class="card">
+                  <div class="card-body">
+                    {{ content.field_glos_brak }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          {% endif %}
+        </div>
+        <div class="column col-auto col-sm-12">
+          {% if node.field_count_nieobecny.0.value == 0 %}
+            <button title="Nieobecność radnego podczas sesji" class="btn btn-sm btn-primary badge" data-badge="{{ node.field_count_nieobecny.0.value }}">Nieobecny &nbsp;</button>
+          {% else %}
+            <div class="popover popover-right">
+              <button title="Nieobecność radnego podczas sesji" class="btn btn-sm btn-primary badge" data-badge="{{ node.field_count_nieobecny.0.value }}">Nieobecny &nbsp;</button>
+              <div class="popover-container">
+                <div class="card">
+                  <div class="card-body">
+                    {{ content.field_glos_nieobecny }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>

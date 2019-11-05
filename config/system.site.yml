@@ -1,0 +1,14 @@
+uuid: 59b23da2-9eba-4a7b-86ba-72a9104c6464
+name: Sesjomat.pl
+mail: sesjomat@pawelek.e4ward.com
+slogan: 'Gmina Dopiewo'
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: pl
+default_langcode: pl
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE

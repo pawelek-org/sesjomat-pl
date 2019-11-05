@@ -1,0 +1,20 @@
+uuid: 4888be54-2165-4cb8-be9b-66da74be10b2
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+    - taxonomy
+id: node.field_kadencja
+field_name: field_kadencja
+entity_type: node
+type: entity_reference
+settings:
+  target_type: taxonomy_term
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

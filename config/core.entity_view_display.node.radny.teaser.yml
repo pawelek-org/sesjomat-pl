@@ -1,0 +1,31 @@
+uuid: 5f2feab7-a880-4d50-90f0-855a2bb39aa9
+langcode: pl
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.radny.body
+    - node.type.radny
+  module:
+    - text
+    - user
+id: node.radny.teaser
+targetEntityType: node
+bundle: radny
+mode: teaser
+content:
+  body:
+    label: hidden
+    type: text_summary_or_trimmed
+    weight: 101
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  langcode: true

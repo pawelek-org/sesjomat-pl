@@ -1,0 +1,29 @@
+uuid: 2df4d816-2c53-48eb-ac57-55371e957897
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_typ_uchwaly
+    - node.type.uchwala
+    - taxonomy.vocabulary.typ_uchwaly
+id: node.uchwala.field_typ_uchwaly
+field_name: field_typ_uchwaly
+entity_type: node
+bundle: uchwala
+label: 'Typ uchwały'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      typ_uchwaly: typ_uchwaly
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

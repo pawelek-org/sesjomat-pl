@@ -1,0 +1,27 @@
+uuid: 19eb6d53-2a61-4456-a93b-a0c8e4b7e7d0
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+    - options
+id: node.field_plec
+field_name: field_plec
+entity_type: node
+type: list_string
+settings:
+  allowed_values:
+    -
+      value: m
+      label: Mężczyzna
+    -
+      value: k
+      label: Kobieta
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

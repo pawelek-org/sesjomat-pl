@@ -1,0 +1,110 @@
+{
+    "uuid": [
+        {
+            "value": "aea9d31a-0181-4953-b6bb-ca33803f1402"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "sesja",
+            "target_type": "node_type",
+            "target_uuid": "d586344f-f05e-4d84-bfa7-33b420b1e8ad"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-28T10:17:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Sesja nr 6"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-28T10:17:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-02T12:21:12+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/sesje\/6",
+            "langcode": "pl",
+            "pathauto": 0
+        }
+    ],
+    "menu_link": [],
+    "body": [],
+    "field_data": [
+        {
+            "value": "2019-03-25"
+        }
+    ],
+    "field_kadencja": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0f1a3f7c-c180-4e6f-ad29-25deaa699d0c"
+        }
+    ],
+    "field_nazwa_sesji": [
+        {
+            "value": "VI sesja Rady Gminy Dopiewo - 25 marca 2019 r."
+        }
+    ],
+    "field_numer_porzadkowy": [
+        {
+            "value": 6
+        }
+    ]
+}

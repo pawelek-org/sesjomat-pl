@@ -1,0 +1,22 @@
+uuid: 4389b685-513b-46ca-b060-bf707c3219e3
+langcode: pl
+status: true
+dependencies:
+  config:
+    - node.type.protokol
+id: node.protokol.promote
+field_name: promote
+entity_type: node
+bundle: protokol
+label: 'Promoted to front page'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

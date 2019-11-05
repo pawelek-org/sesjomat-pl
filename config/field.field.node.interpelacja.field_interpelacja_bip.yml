@@ -1,0 +1,19 @@
+uuid: 115db10e-0c34-4632-a9e3-0177ac97b036
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_interpelacja_bip
+    - node.type.interpelacja
+id: node.interpelacja.field_interpelacja_bip
+field_name: field_interpelacja_bip
+entity_type: node
+bundle: interpelacja
+label: 'interpelacja bip'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

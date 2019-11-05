@@ -1,0 +1,31 @@
+uuid: ef23ae29-7d70-4135-bd0f-3e5ced68db55
+langcode: pl
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.sesja.body
+    - node.type.sesja
+  module:
+    - text
+    - user
+id: node.sesja.teaser
+targetEntityType: node
+bundle: sesja
+mode: teaser
+content:
+  body:
+    label: hidden
+    type: text_summary_or_trimmed
+    weight: 101
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  langcode: true

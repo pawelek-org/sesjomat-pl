@@ -1,0 +1,22 @@
+uuid: 80a4b921-d574-4914-be3f-b1449c27b835
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+id: protokol
+label: protokol
+type: 'canonical_entities:node'
+pattern: 'protokoly/[node:field_ref_sesja:entity:field_numer_porzadkowy]'
+selection_criteria:
+  528e9f44-48fd-453e-95fe-77ed4cd966fe:
+    id: node_type
+    bundles:
+      protokol: protokol
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 528e9f44-48fd-453e-95fe-77ed4cd966fe
+selection_logic: and
+weight: -5
+relationships: {  }

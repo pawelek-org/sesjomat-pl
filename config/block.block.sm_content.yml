@@ -1,0 +1,22 @@
+uuid: f36c4ded-959c-4dfd-b1e2-671c0ca30fab
+langcode: pl
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - sm
+_core:
+  default_config_hash: UPWNBcSNeZhRsW0lx74XLam2KMkOa-tWqplyuFw74PQ
+id: sm_content
+theme: sm
+region: content
+weight: -1
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

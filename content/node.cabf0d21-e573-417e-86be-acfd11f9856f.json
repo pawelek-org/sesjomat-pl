@@ -1,0 +1,250 @@
+{
+    "uuid": [
+        {
+            "value": "cabf0d21-e573-417e-86be-acfd11f9856f"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-30T12:09:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 168"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-30T12:06:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/14\/168",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": " Uchwa\u0142a Nr XIV\/168\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 28 pa\u017adziernika 2019 r.<br><br>w sprawie ustalenia szczeg\u00f3\u0142owych zasad ponoszenia odp\u0142atno\u015bci za pobyt w<br>schronisku dla os\u00f3b bezdomnych z us\u0142ugami opieku\u0144czymi oraz w schronisku<br>dla os\u00f3b bezdomnych pomimo nie \u015bwiadczenia w nim us\u0142ug opieku\u0144czych lub<br>specjalistycznych us\u0142ug opieku\u0144czych.<br><br>Na podstawie art. 7 ust. 1 pkt 6, art. 18 ust. 2 pkt 15, art. 40 ust.1 i<br>art. 41 ust. 1 ustawy z dnia 8 marca 1990r. o samorz\u0105dzie gminnym (t. j.<br>Dz. U. z 2019r. poz. 506 z p\u00f3\u017an. zm.) oraz art. 17 ust. 1 pkt 3, art. 48,<br>art. 48a ust. 1, art. 51 ust. 4-5, art. 96 ust. 1 i art. 97 ust. 1-1a i 5<br>ustawy z dnia 12 marca 2004r. o pomocy spo\u0142ecznej (t. j. Dz. U. z 2019r.<br>poz. 1507 z p\u00f3\u017an. zm.) Rada Gminy Dopiewo uchwala, co nast\u0119puje:<br><br>\u00a71. Uchwala si\u0119 szczeg\u00f3\u0142owe zasady ponoszenia odp\u0142atno\u015bci za pobyt w<br>schronisku dla os\u00f3b bezdomnych z us\u0142ugami opieku\u0144czymi oraz w schronisku<br>dla os\u00f3b bezdomnych pomimo nie \u015bwiadczenia w nim us\u0142ug opieku\u0144czych lub<br>specjalistycznych us\u0142ug opieku\u0144czych, zwanymi schroniskami, kt\u00f3re<br>udzielaj\u0105 schronienia osobom bezdomnym z terenu Gminy Dopiewo. Szczeg\u00f3\u0142owe<br>zasady ponoszenia odp\u0142atno\u015bci okre\u015bla za\u0142\u0105cznik do niniejszej uchwa\u0142y.<br><br>\u00a72. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a73. Traci moc Uchwa\u0142a nr XXXIII\/417\/17 Rady Gminy Dopiewo z dnia 31 lipca<br>2017r. w sprawie ustalania szczeg\u00f3\u0142owych zasad ponoszenia odp\u0142atno\u015bci za<br>pobyt w schronisku dla os\u00f3b bezdomnych.<br><br>\u00a74. Uchwa\u0142a wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia jej og\u0142oszenia w<br>Dzienniku Urz\u0119dowym Wojew\u00f3dztwa Wielkopolskiego.<br><br>Uzasadnienie<br><br>Do zada\u0144 w\u0142asnych Gminy Dopiewo o charakterze obowi\u0105zkowym nale\u017cy mi\u0119dzy<br>innymi udzielanie schronienia osobom bezdomnym w schronisku dla os\u00f3b<br>bezdomnych z us\u0142ugami opieku\u0144czymi lub schronisku dla os\u00f3b bezdomnych nie<br>\u015bwiadcz\u0105cym us\u0142ug opieku\u0144czych lub specjalistycznych us\u0142ug opieku\u0144czych.<br><br>Uchwalenie uchwa\u0142y jest nast\u0119pstwem zmiany ustawy z dnia z dnia 12 marca<br>2004r. o pomocy spo\u0142ecznej (t. j. Dz. U. z 2019r. poz. 1507 ze zm.)<br>poprzez dodanie ustaw\u0105 z dnia 19 lipca 2019r. o zmianie ustawy o pomocy<br>spo\u0142ecznej oraz ustawy o ochronie zdrowia psychicznego (Dz. U. z 2019r.<br>poz. 1690) ust. 1a do art. 97. Przepis ten wprowadzi\u0142, co dotychczas nie<br>mia\u0142o miejsca, mo\u017cliwo\u015b\u0107 na\u0142o\u017cenia op\u0142aty za pobyt w schronisku dla os\u00f3b<br>bezdomnych w sytuacji, gdy doch\u00f3d osoby samotnie gospodaruj\u0105cej lub doch\u00f3d<br>na osob\u0119 w rodzinie nie przekracza kwoty kryterium dochodowego.<br><br>Rada Gminy Dopiewa w drodze uchwa\u0142y ustala szczeg\u00f3\u0142owe zasady ponoszenia<br>odp\u0142atno\u015bci za pobyt w o\u015brodkach wsparcia, kt\u00f3rym jest schronisko dla os\u00f3b<br>bezdomnych. W zwi\u0105zku z powy\u017cszym konieczne sta\u0142o si\u0119 podj\u0119cie niniejszej<br>uchwa\u0142y.<br><br>Uchwa\u0142a podlega og\u0142oszeniu w Wojew\u00f3dzkim Dzienniku Urz\u0119dowym Wojew\u00f3dztwa<br>Wielkopolskiego.<br><br>Za\u0142\u0105cznik do Uchwa\u0142y Nr XIV\/168\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 28 pa\u017adziernika 2019 r.<br><br>Szczeg\u00f3\u0142owe zasady ponoszenia odp\u0142atno\u015bci za pobyt<br><br>w schronisku dla os\u00f3b bezdomnych z us\u0142ugami opieku\u0144czymi oraz<br><br>w schronisku dla os\u00f3b bezdomnych pomimo nie \u015bwiadczenia w nim us\u0142ug<br>opieku\u0144czych lub specjalistycznych us\u0142ug opieku\u0144czych<br><br>\u00a71. U\u017cyte w niniejszych zasadach okre\u015blenia oznaczaj\u0105:<br><br> 1. osoba bezdomna - osoba, o kt\u00f3rej mowa w art. 6 pkt 8 ustawy z dnia 12<br>marca 2004r. o pomocy spo\u0142ecznej (t. j. Dz. U. z 2019r. poz. 1507 ze<br>zm.), dalej jako: u.p.s.;<br><br> 2. kryterium dochodowe - kryterium, o kt\u00f3rym mowa w art. 8 ust. 1 pkt 1 i<br>pkt 2 u.p.s.;<br><br> 3. op\u0142ata - miesi\u0119czna op\u0142aty za pobyt osoby w schronisku dla os\u00f3b<br>bezdomnych, kt\u00f3re udziela schronienia osobom bezdomnym z terenu Gminy<br>Dopiewo;<br><br> 4. skierowanie do schroniska - decyzja administracyjna podejmowana na<br>podstawie przepis\u00f3w u.p.s. i ustawy z dnia 14 czerwca 1960r. Kodeks<br>post\u0119powania administracyjnego (t. j. Dz. U. z 2018r. poz. 2096 ze<br>zm.).<br><br>\u00a72. Osoba skierowana do schroniska dla os\u00f3b bezdomnych z us\u0142ugami<br>opieku\u0144czymi oraz schroniska dla os\u00f3b bezdomnych nie \u015bwiadcz\u0105cego us\u0142ug<br>opieku\u0144czych lub specjalistycznych us\u0142ug opieku\u0144czych ponosi odp\u0142atno\u015b\u0107 za<br>sw\u00f3j w nim pobyt w wysoko\u015bci okre\u015blonej w poni\u017cej tabeli.<br><br>+-----------------------------------------------------------------------+<br>| Doch\u00f3d w wysoko\u015bci kryterium dochodowego | Wysoko\u015b\u0107 op\u0142aty za pobyt w |<br>| osoby samotnie gospodaruj\u0105cej lub | schronisku, kt\u00f3r\u0105 ponosi |<br>| kryterium dochodowego na osob\u0119 w | osoba bezdomna |<br>| rodzinie. | |<br>|------------------------------------------+----------------------------|<br>| Doch\u00f3d w wysoko\u015bci nie wy\u017cszej ni\u017c | |<br>| ustawowa granica odpowiedniego kryterium | 25% nale\u017cnej op\u0142aty |<br>| dochodowego | |<br>|------------------------------------------+----------------------------|<br>| Doch\u00f3d w wysoko\u015bci do 150% ustawowej | |<br>| granicy odpowiedniego kryterium | 35% nale\u017cnej op\u0142aty |<br>| dochodowego | |<br>|------------------------------------------+----------------------------|<br>| Doch\u00f3d w wysoko\u015bci do 200% ustawowej | |<br>| granicy odpowiedniego kryterium | 50% nale\u017cnej op\u0142aty |<br>| dochodowego | |<br>|------------------------------------------+----------------------------|<br>| Doch\u00f3d w wysoko\u015bci do 250% ustawowej | |<br>| granicy odpowiedniego kryterium | 75% nale\u017cnej op\u0142aty |<br>| dochodowego | |<br>|------------------------------------------+----------------------------|<br>| Doch\u00f3d w wysoko\u015bci powy\u017cej 250% | |<br>| ustawowej granicy odpowiedniego | 100% nale\u017cnej op\u0142aty |<br>| kryterium dochodowego | |<br>+-----------------------------------------------------------------------+<br><br>\u00a73. Wysoko\u015b\u0107 op\u0142aty, o kt\u00f3rej mowa w \u00a72 ustala si\u0119 za ka\u017cdy dzie\u0144 pobytu w<br>schronisku. Okres rozliczeniowy obejmuje miesi\u0105c kalendarzowy. Je\u017celi<br>pobyt w schronisku nie obejmuje pe\u0142nego miesi\u0105ca kalendarzowego, op\u0142at\u0119<br>ustala si\u0119 proporcjonalnie do liczby dni pobytu w schronisku.<br><br>\u00a74. Je\u017celi doch\u00f3d osoby samotnie gospodaruj\u0105cej lub doch\u00f3d na osob\u0119 w<br>rodzinie nie przekracza kwoty kryterium dochodowego, op\u0142ata nie mo\u017ce by\u0107<br>wy\u017csza ni\u017c 50% dochodu osoby samotnie gospodaruj\u0105cej lub dochodu na osob\u0119<br>w rodzinie osoby skierowanej do schroniska dla os\u00f3b bezdomnych z us\u0142ugami<br>opieku\u0144czymi, a w przypadku schroniska dla os\u00f3b bezdomnych nie<br>\u015bwiadcz\u0105cego us\u0142ug opieku\u0144czych lub specjalistycznych us\u0142ug opieku\u0144czych -<br>30% tego dochodu.<br><br>\u00a75. Wysoko\u015b\u0107 nale\u017cnej op\u0142aty oraz termin i warunki jej wnoszenia przez<br>osob\u0119 zobowi\u0105zan\u0105 ustala si\u0119 indywidualnie w decyzji administracyjnej.<br><br>\u00a76. W szczeg\u00f3lnie uzasadnionych przypadkach osoba bezdomna, kt\u00f3r\u0105<br>skierowano do schroniska dla os\u00f3b bezdomnych z us\u0142ugami opieku\u0144czymi lub<br>schroniska dla os\u00f3b bezdomnych nie \u015bwiadcz\u0105cego us\u0142ug opieku\u0144czych lub<br>specjalistycznych us\u0142ug opieku\u0144czych mo\u017ce na sw\u00f3j wniosek lub wniosek<br>pracownika socjalnego zosta\u0107 w ca\u0142o\u015bci lub cz\u0119\u015bci zwolniona z obowi\u0105zku<br>wnoszenia op\u0142aty, o kt\u00f3rej mowa w \u00a72. Rozstrzygni\u0119cia w tym przedmiocie<br>dokonuje si\u0119 po przeprowadzeniu post\u0119powania administracyjnego, z<br>uwzgl\u0119dnieniem wyniku rodzinnego wywiadu \u015brodowiskowego, w formie decyzji<br>administracyjnej.<br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 1
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 20
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        }
+    ],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=12901",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr XIV\/168\/19 Rady Gminy Dopiewo z dnia 28 pa\u017adziernika 2019 r. w sprawie ustalenia szczeg\u00f3\u0142owych zasad ponoszenia odp\u0142atno\u015bci za pobyt w schronisku dla os\u00f3b bezdomnych z us\u0142ugami opieku\u0144czymi oraz w schronisku dla os\u00f3b bezdomnych pomimo nie \u015bwiadczenia w nim us\u0142ug opieku\u0144czych lub specjalistycznych us\u0142ug opieku\u0144czych"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 168
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "04e51eda-a8cf-4d45-942a-f9752c9e16d3"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a202e8f4-ddf0-488c-8a81-a94697b7b1f4"
+        }
+    ]
+}

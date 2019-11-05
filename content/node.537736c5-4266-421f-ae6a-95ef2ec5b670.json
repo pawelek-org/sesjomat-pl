@@ -1,0 +1,128 @@
+{
+    "uuid": [
+        {
+            "value": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "radny",
+            "target_type": "node_type",
+            "target_uuid": "969258ff-42f3-4752-a6eb-27fffd210068"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-27T11:47:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Przemys\u0142aw Miler"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-27T11:47:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-03T13:22:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/radni\/przemyslaw-miler",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [],
+    "field_bip_oswiadczenia_majatkowe": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?p=document&action=save&id=29194&bar_id=11811"
+        },
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?p=document&action=save&id=30996&bar_id=12291"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/www.dopiewo.pl\/radni-z-rady-gminy-dopiewo",
+            "format": "full_html"
+        }
+    ],
+    "field_imie": [
+        {
+            "value": "Przemys\u0142aw"
+        }
+    ],
+    "field_nazwisko": [
+        {
+            "value": "Miler"
+        }
+    ],
+    "field_plec": [
+        {
+            "value": "m"
+        }
+    ],
+    "field_solectwo": [
+        {
+            "value": "D\u0105browa i Sk\u00f3rzewo"
+        }
+    ],
+    "field_telefon": [
+        {
+            "value": "693101582"
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+uuid: 81ba7c41-e5b9-4fd9-977c-b7fd99bf1b46
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.field.node.interpelacja.body
+    - field.field.node.interpelacja.field_data
+    - field.field.node.interpelacja.field_interpelacja_bip
+    - field.field.node.interpelacja.field_interpelacja_radny
+    - node.type.interpelacja
+  module:
+    - datetime
+    - text
+    - user
+id: node.interpelacja.default
+targetEntityType: node
+bundle: interpelacja
+mode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: 101
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  field_data:
+    weight: 103
+    label: hidden
+    settings:
+      timezone_override: ''
+      date_format: Y-m-d
+    third_party_settings: {  }
+    type: datetime_custom
+    region: content
+  field_interpelacja_bip:
+    weight: 104
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  field_interpelacja_radny:
+    weight: 102
+    label: hidden
+    settings:
+      link: false
+    third_party_settings: {  }
+    type: entity_reference_label
+    region: content
+  links:
+    weight: 100
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  langcode: true

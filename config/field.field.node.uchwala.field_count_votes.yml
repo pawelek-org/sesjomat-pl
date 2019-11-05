@@ -1,0 +1,26 @@
+uuid: 53cdfeb4-2461-45b3-b4b3-c6064d9f8a1c
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_count_votes
+    - node.type.uchwala
+  module:
+    - computed_field
+id: node.uchwala.field_count_votes
+field_name: field_count_votes
+entity_type: node
+bundle: uchwala
+label: 'Głosy: suma kontrolna'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  code: '$value = count($fields[''field_glos_za'']) + count($fields[''field_glos_przeciw'']) + count($fields[''field_glos_wstrzymujacy'']) + count($fields[''field_glos_nieobecny'']) + count($fields[''field_glos_brak'']);'
+  prefix: ''
+  suffix: ''
+field_type: computed_integer

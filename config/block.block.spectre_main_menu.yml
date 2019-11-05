@@ -1,0 +1,27 @@
+uuid: 5823d903-91ab-446d-b7f4-82f664cf05da
+langcode: pl
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - spectre
+_core:
+  default_config_hash: 558WadO-5E6sNxJOPxjopgrk56joCQqgG2-dTRUIkYU
+id: spectre_main_menu
+theme: spectre
+region: navbar
+weight: 1
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 1
+  expand_all_items: false
+visibility: {  }

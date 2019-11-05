@@ -1,0 +1,22 @@
+uuid: 6f24460a-f957-4d6c-a122-1876899946f1
+langcode: pl
+status: true
+dependencies:
+  config:
+    - node.type.interpelacja
+id: node.interpelacja.promote
+field_name: promote
+entity_type: node
+bundle: interpelacja
+label: 'Promoted to front page'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

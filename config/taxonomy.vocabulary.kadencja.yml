@@ -1,0 +1,8 @@
+uuid: 9c591afa-e27d-4f53-a9eb-9e3fd651ba24
+langcode: pl
+status: true
+dependencies: {  }
+name: Kadencja
+vid: kadencja
+description: 'Kadencja Rady Gminy'
+weight: 0

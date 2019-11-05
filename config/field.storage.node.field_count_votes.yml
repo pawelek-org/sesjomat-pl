@@ -1,0 +1,21 @@
+uuid: cc685f52-4fe1-43a9-944d-54509d0829e1
+langcode: pl
+status: true
+dependencies:
+  module:
+    - computed_field
+    - node
+id: node.field_count_votes
+field_name: field_count_votes
+entity_type: node
+type: computed_integer
+settings:
+  unsigned: false
+  size: normal
+module: computed_field
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

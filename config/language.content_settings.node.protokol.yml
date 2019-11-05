@@ -1,0 +1,11 @@
+uuid: 3633edcc-bc37-44b0-b215-5f5cc910e31b
+langcode: pl
+status: true
+dependencies:
+  config:
+    - node.type.protokol
+id: node.protokol
+target_entity_type_id: node
+target_bundle: protokol
+default_langcode: site_default
+language_alterable: false

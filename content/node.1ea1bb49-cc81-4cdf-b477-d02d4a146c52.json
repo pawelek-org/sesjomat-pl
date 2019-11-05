@@ -1,0 +1,253 @@
+{
+    "uuid": [
+        {
+            "value": "1ea1bb49-cc81-4cdf-b477-d02d4a146c52"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-28T11:51:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 33"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-28T11:49:52+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/3\/33",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": " Uchwa\u0142a Nr III\/33\/18<br><br>Rady Gminy Dopiewo<br><br>z dnia 17 grudnia 2018 roku<br><br>w sprawie uchwa\u0142y bud\u017cetowej Gminy Dopiewo na 2019 rok.<br><br>Na podstawie art. 18 ust. 2 pkt 4, pkt 9 lit. d oraz pkt 10 ustawy z dnia<br>8 marca 1990 roku o samorz\u0105dzie gminnym (t. j. Dz. U. z 2018 r. poz. 994 z<br>p\u00f3\u017an. zm. ), art. 212, 239, 258 i 264 ust. 3 ustawy z dnia 27 sierpnia<br>2009 r. o finansach publicznych (t. j. Dz. U. z 2017 r. poz. 2077 z p\u00f3\u017an.<br>zm.) Rada Gminy Dopiewo uchwala, co nast\u0119puje:<br><br>\u00a7 1.<br><br>1. Ustala si\u0119 \u0142\u0105czn\u0105 kwot\u0119 dochod\u00f3w bud\u017cetu Gminy w wysoko\u015bci <br>141.176.144,00 z\u0142, zgodnie z za\u0142\u0105cznikiem nr 1.<br><br>2. Dochody, o kt\u00f3rych mowa w ust. 1 obejmuj\u0105:<br><br>1)     dochody bie\u017c\u0105ce w wysoko\u015bci  134.913.811,00 z\u0142;<br><br>2)     dochody maj\u0105tkowe w wysoko\u015bci  6.262.333,00 z\u0142.<br><br> <br><br>\u00a7 2.<br><br>1. Ustala si\u0119 \u0142\u0105czn\u0105 kwot\u0119 wydatk\u00f3w bud\u017cetu Gminy w wysoko\u015bci<br>147.140.426,00 z\u0142, zgodnie z za\u0142\u0105cznikiem nr 2.<br><br>2.   Wydatki, o kt\u00f3rych mowa w ust. 1 obejmuj\u0105:<br><br>1)     wydatki bie\u017c\u0105ce w wysoko\u015bci 110.222.069,00 z\u0142;<br><br>2)     wydatki maj\u0105tkowe w wysoko\u015bci 36.918.357,00 z\u0142,<br>zgodnie z za\u0142\u0105cznikiem nr 3.<br><br>3.      Ustala si\u0119 deficyt bud\u017cetu Gminy w wysoko\u015bci 5.964.282,00 z\u0142,<br>kt\u00f3ry zostanie pokryty przychodami z tytu\u0142u planowanych do wyemitowania<br>papier\u00f3w warto\u015bciowych w kwocie 5.964.282,00 z\u0142.<br><br> <br><br>\u00a7 3.<br><br>1. Okre\u015bla si\u0119 dochody z tytu\u0142u wydawania zezwole\u0144 na sprzeda\u017c napoj\u00f3w<br>alkoholowych w wysoko\u015bci 480.000,00 z\u0142.<br><br>2. Okre\u015bla si\u0119 wydatki na realizacj\u0119 zada\u0144 okre\u015blonych w programach<br>profilaktyki i rozwi\u0105zywania problem\u00f3w alkoholowych oraz zwalczania<br>narkomanii w wysoko\u015bci 480.000,00 z\u0142.<br><br> <br><br>\u00a7 4.<br><br>Okre\u015bla si\u0119 dochody z tytu\u0142u op\u0142at i kar, o kt\u00f3rych mowa w art. 402 ust.<br>4-6 ustawy Prawo ochrony \u015brodowiska w wysoko\u015bci 100.000,00 z\u0142 i przeznacza<br>si\u0119 je na finansowanie wydatk\u00f3w z zakresu ochrony \u015brodowiska w zakresie<br>okre\u015blonym t\u0105 ustaw\u0105.<br><br> <br><br>\u00a7 5.<br><br>Wyodr\u0119bnia si\u0119 dochody i wydatki zwi\u0105zane z realizacj\u0105 zada\u0144 z zakresu<br>administracji rz\u0105dowej i innych zada\u0144 zleconych Gminie ustawami w<br>wysoko\u015bci 21.041.259,00z\u0142.<br><br> <br><br>\u00a7 6.<br><br>W planie dochod\u00f3w i wydatk\u00f3w bud\u017cetu Gminy wyodr\u0119bnia si\u0119 dochody i<br>wydatki zwi\u0105zane z realizacj\u0105 zada\u0144 realizowanych w drodze um\u00f3w lub<br>porozumie\u0144 z jednostkami samorz\u0105du terytorialnego w wysoko\u015bci 470.000,00<br>z\u0142.<br><br> <br><br>\u00a7 7.<br><br>Ustala si\u0119 zestawienie planowanych kwot dotacji udzielanych z bud\u017cetu<br>Gminy zgodnie z za\u0142\u0105cznikiem nr 4.<br><br> <br><br>\u00a7 8.<br><br>1. Ustala si\u0119 \u0142\u0105czn\u0105 kwot\u0119 przychod\u00f3w bud\u017cetu Gminy w wysoko\u015bci<br>14.000.000,00 z\u0142 z tytu\u0142u emisji papier\u00f3w warto\u015bciowych.<br><br>2. Ustala si\u0119 \u0142\u0105czn\u0105 kwot\u0119 rozchod\u00f3w bud\u017cetu Gminy w wysoko\u015bci<br>8.035.718,00 z\u0142.<br><br> <br><br>\u00a7 9.<br><br>1. Tworzy si\u0119 rezerw\u0119 og\u00f3ln\u0105 w wysoko\u015bci 434.000,00 z\u0142.<br><br>2. Tworzy si\u0119 rezerwy celowe w wysoko\u015bci 2.296.000,00 z\u0142, w tym:<br><br>1)    na wydatki zwi\u0105zane z o\u015bwiat\u0105 w wysoko\u015bci 330.000,00 z\u0142;<br><br>2)    na realizacj\u0119 zada\u0144 zwi\u0105zanych z zarz\u0105dzaniem kryzysowym w wysoko\u015bci<br>370.000,00 z\u0142;<br><br>3) na wydatki zwi\u0105zane z realizacj\u0105 zada\u0144 w ramach inicjatywy lokalnej -<br>30.000,00 z\u0142;<br><br>4)    na wydatki maj\u0105tkowe w wysoko\u015bci 1.566.000,00 z\u0142.<br><br>\u00a7 10.<br><br>Ustala si\u0119 limit zobowi\u0105za\u0144 z tytu\u0142u zaci\u0105ganych kredyt\u00f3w i po\u017cyczek oraz<br>emitowanych papier\u00f3w warto\u015bciowych w wysoko\u015bci 17.000.000,00 z\u0142, w tym na<br>pokrycie wyst\u0119puj\u0105cego<br>w ci\u0105gu roku przej\u015bciowego deficytu bud\u017cetu w wysoko\u015bci 3.000.000,00 z\u0142.<br><br> <br><br>\u00a7 11.<br><br>Upowa\u017cnia si\u0119 W\u00f3jta Gminy do:<br><br> 1. zaci\u0105gania kredyt\u00f3w i po\u017cyczek oraz emisji papier\u00f3w warto\u015bciowych na<br>pokrycie wyst\u0119puj\u0105cego w ci\u0105gu roku bud\u017cetowego deficytu bud\u017cetu Gminy<br>do kwoty 3.000.000 z\u0142;<br><br> 2. dokonywania zmian planu wydatk\u00f3w w ramach dzia\u0142u w zakresie zada\u0144 i<br>grup wydatk\u00f3w, o kt\u00f3rych mowa w art. 236 ustawy o finansach<br>publicznych;<br><br> 3. przekazania kierownikom jednostek organizacyjnych Gminy uprawnie\u0144 do<br>dokonywania zmian planu wydatk\u00f3w w ramach rozdzia\u0142u klasyfikacji<br>bud\u017cetowej<br>z wy\u0142\u0105czeniem zmian w zakresie paragraf\u00f3w 302, 401, 404, 411, 412 oraz<br>wydatk\u00f3w maj\u0105tkowych;<br><br> 4. lokowania wolnych \u015brodk\u00f3w bud\u017cetowych w innych bankach ni\u017c bank<br>prowadz\u0105cy obs\u0142ug\u0119 rachunku bankowego Gminy;<br><br> 5. zaci\u0105gania kredyt\u00f3w i po\u017cyczek oraz emisji papier\u00f3w warto\u015bciowych o<br>kt\u00f3rych mowa w art. 89 ust. 1 pkt 2-3 ustawy o finansach publicznych z<br>dnia 27 sierpnia 2009 roku.<br><br> <br><br>\u00a7 12.<br><br>Ustala si\u0119 kwot\u0119 2.000.000,00 z\u0142, do kt\u00f3rej W\u00f3jt Gminy mo\u017ce samodzielnie<br>zaci\u0105ga\u0107 zobowi\u0105zania.<br><br> <br><br>\u00a7 13.<br><br>Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br> <br><br>\u00a7 14.<br><br>Uchwa\u0142a wchodzi w \u017cycie z dniem 1 stycznia 2019 r. i podlega og\u0142oszeniu w<br>Dzienniku Urz\u0119dowym Wojew\u00f3dztwa Wielkopolskiego.<br><br> <br><br>Uzasadnienie do uchwa\u0142y:<br><br>Do projektu uchwa\u0142y bud\u017cetowej na 2019 rok wprowadzono nast\u0119puj\u0105ce zmiany:<br><br>Paragraf 5 uchwa\u0142y bud\u017cetowej otrzymuje brzmienie:<br><br>\u00a7 5.<br><br>Wyodr\u0119bnia si\u0119 dochody i wydatki zwi\u0105zane z realizacj\u0105 zada\u0144 z zakresu<br>administracji rz\u0105dowej i innych zada\u0144 zleconych Gminie ustawami w<br>wysoko\u015bci 21.041.259,00 z\u0142.<br><br>Paragraf 9 uchwa\u0142y bud\u017cetowej otrzymuje brzmienie:<br><br>\u00a7 9.<br><br>1. Tworzy si\u0119 rezerw\u0119 og\u00f3ln\u0105 w wysoko\u015bci 434.000,00 z\u0142.<br><br>2. Tworzy si\u0119 rezerwy celowe w wysoko\u015bci 2.296.000,00 z\u0142, w tym:<br><br>1)    na wydatki zwi\u0105zane z o\u015bwiat\u0105 w wysoko\u015bci 330.000,00 z\u0142;<br><br>2)    na realizacj\u0119 zada\u0144 zwi\u0105zanych z zarz\u0105dzaniem kryzysowym w wysoko\u015bci<br>370.000,00 z\u0142;<br><br>3) na wydatki zwi\u0105zane z realizacj\u0105 zada\u0144 w ramach inicjatywy lokalnej -<br>30.000,00 z\u0142;<br><br>4)    na wydatki maj\u0105tkowe w wysoko\u015bci 1.566.000,00 z\u0142.<br><br>W za\u0142\u0105czniku Nr 2 - Plan wydatk\u00f3w wprowadza si\u0119 nast\u0119puj\u0105ce zmiany:<br><br> 1. W dziale 600, rozdziale 60014 zwi\u0119ksza si\u0119 plan wydatk\u00f3w maj\u0105tkowych o<br>kwot\u0119 40.000,00 z\u0142 w zwi\u0105zku z wprowadzeniem planu wydatk\u00f3w na<br>dokumentacj\u0119 projektow\u0105: Go\u0142uski - dokumentacja projektowa budowy<br>chodnika wzd\u0142u\u017c drogi powiatowej nr 2391P na odcinku od skrzy\u017cowania z<br>drog\u0105 powiatow\u0105 nr 2401P do istniej\u0105cego chodnika w ul. Szkolnej;<br><br> 2. W dziale 754, rozdziale 75412 zwi\u0119ksza si\u0119 plan wydatk\u00f3w maj\u0105tkowych o<br>kwot\u0119 49.000,00 z\u0142 na zakupy inwestycyjne : zakup quada z wyposa\u017ceniem<br>dla OSP Pal\u0119dzie;<br><br> 3. W dziale 758, rozdziale 75818 zmniejsza si\u0119 plan wydatk\u00f3w rezerwy<br>maj\u0105tkowej<br>o kwot\u0119 304.000,00 z\u0142, zmniejsza si\u0119 plan wydatk\u00f3w z tytu\u0142u rezerwy<br>og\u00f3lnej o kwot\u0119 36.000,00 z\u0142;<br><br> 4. W dziale 926, rozdziale 92695 zwi\u0119ksza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z<br>realizacj\u0105 zada\u0144 statutowych o kwot\u0119 36.000,00 z\u0142, plan wydatk\u00f3w<br>maj\u0105tkowych o kwot\u0119 215.000,00 z\u0142 w zwi\u0105zku z wprowadzeniem zada\u0144<br>maj\u0105tkowych realizowanych w ramach DBO: Wykonanie pamptraka na boisku<br>w Wi\u0119ckowicach - kwota 60.000,00z\u0142, Zagospodarowanie terenu w D\u0105br\u00f3wce<br>przy ul. Parkowej - kwota 145.000,00 z\u0142, Monta\u017c pi\u0142kochwyt\u00f3w na boisku<br>w Pal\u0119dziu - kwota 10.000,00z\u0142.<br><br>W za\u0142\u0105czniku Nr 3 - Wydatki maj\u0105tkowe wprowadza si\u0119 zmiany w projekcie<br>uchwa\u0142y bud\u017cetowej:<br><br> 1. W dziale 758, rozdziale 75818 zmniejsza si\u0119 plan wydatk\u00f3w z tytu\u0142u<br>rezerwy maj\u0105tkowej o kwot\u0119 304.000,00 z\u0142 do kwoty 1.566.000,00 z\u0142;<br><br> 2. W dziale 754, rozdziale 75412 zwi\u0119ksza si\u0119 plan wydatk\u00f3w maj\u0105tkowych o<br>kwot\u0119 49.000,00 z\u0142 na zakupy inwestycyjne: zakup quada z wyposa\u017ceniem<br>dla OSP Pal\u0119dzie;<br><br> 3. W dziale 926, rozdziale 92695 zwi\u0119ksza si\u0119 plan wydatk\u00f3w maj\u0105tkowych o<br>kwot\u0119 215.000,00 z\u0142 w zwi\u0105zku z wprowadzeniem zada\u0144 maj\u0105tkowych<br>realizowanych<br>w ramach DBO: Wykonanie pamptraka na boisku w Wi\u0119ckowicach - kwota<br>60.000,00 z\u0142, Zagospodarowanie terenu w D\u0105br\u00f3wce przy ul. Parkowej -<br>kwota 145.000,00 z\u0142, Monta\u017c pi\u0142kochwyt\u00f3w na boisku w Pal\u0119dziu - kwota<br>10.000,00 z\u0142,<br><br> 4. W dziale 600, rozdziale 60014 zwi\u0119ksza si\u0119 plan wydatk\u00f3w maj\u0105tkowych o<br>kwot\u0119 40.000,00 z\u0142 w zwi\u0105zku z wprowadzeniem planu wydatk\u00f3w na<br>dokumentacj\u0119 projektow\u0105: Go\u0142uski - dokumentacja projektowa budowy<br>chodnika wzd\u0142u\u017c drogi powiatowej nr 2391P na odcinku od skrzy\u017cowania z<br>drog\u0105 powiatow\u0105 nr 2401P do istniej\u0105cego chodnika w ul. Szkolnej.<br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 21
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=11750",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr III\/33\/18 Rady Gminy Dopiewo z dnia 17 grudnia 2018 roku w sprawie uchwa\u0142y bud\u017cetowej Gminy Dopiewo na 2019 rok"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/8623"
+        }
+    ],
+    "field_numer_porzadkowy": [
+        {
+            "value": 33
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "e0eb66d5-8c8f-41ab-8f9c-59945dbda5e5"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "58f7e65f-df04-4f48-bd4a-fcc5bfed174f"
+        }
+    ]
+}

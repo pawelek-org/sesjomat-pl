@@ -1,0 +1,29 @@
+uuid: ea8d6972-83f6-4084-93c8-4be7f762c1d2
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_glos_brak
+    - node.type.radny
+    - node.type.uchwala
+id: node.uchwala.field_glos_brak
+field_name: field_glos_brak
+entity_type: node
+bundle: uchwala
+label: 'Głos BRAK'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      radny: radny
+    sort:
+      field: nid
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

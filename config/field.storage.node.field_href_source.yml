@@ -1,0 +1,20 @@
+uuid: 13b10733-c083-42e2-9a3e-bba858b71368
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+    - text
+id: node.field_href_source
+field_name: field_href_source
+entity_type: node
+type: text
+settings:
+  max_length: 100
+module: text
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

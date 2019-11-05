@@ -1,0 +1,254 @@
+{
+    "uuid": [
+        {
+            "value": "2eda677d-5734-4236-9a7b-bccea9f7ee1d"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-29T09:18:44+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 42"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-29T09:17:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/4\/42",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": " Uchwa\u0142a Nr IV\/42\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 28 stycznia 2019r.<br><br>w sprawie ustanowienia wieloletniego programu os\u0142onowego Gminy Dopiewo w<br>zakresie do\u017cywiania na lata 2019 - 2023.<br><br>Na podstawie art. 18 ust. 2 pkt 15 ustawy z dnia 8 marca 1990r. o<br>samorz\u0105dzie gminnym (t. j. Dz. U. z 2018r. poz. 994 ze zm.), art. 17 ust.<br>2 pkt 4 i art. 110 ust. 10 ustawy z dnia 12 marca 2004r. o pomocy<br>spo\u0142ecznej (t. j. Dz. U. z 2018r. poz. 1508 ze zm.) w zwi\u0105zku z Uchwa\u0142\u0105 nr<br>140 Rady Ministr\u00f3w z dnia 15 pa\u017adziernika 2018r. w sprawie ustanowienia<br>wieloletniego rz\u0105dowego programu \u201ePosi\u0142ek w szkole i w domu\u201d na lata<br>2019-2023 (M.P. z 2018r. poz. 1007) Rada Gminy Dopiewo uchwala, co<br>nast\u0119puje:<br><br>\u00a7 1. Uchwala si\u0119 wieloletni program os\u0142onowy Gminy Dopiewo w zakresie<br>do\u017cywiania na lata 2019 - 2023, stanowi\u0105cy za\u0142\u0105cznik do niniejszej<br>uchwa\u0142y.<br><br>\u00a7 2. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a7 3. Traci moc uchwa\u0142a nr LXI\/411\/14 Rady Gminy Dopiewo z dnia 27 stycznia<br>2014r. w sprawie uchwalenia wieloletniego programu os\u0142onowego wspierania<br>do\u017cywiania dzieci i zapewnienia posi\u0142ku osobom tego pozbawionym \u201ePomoc<br>gminy w zakresie do\u017cywiania na lata 2014-2020\u201d.<br><br>\u00a7 4. Uchwa\u0142a wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia jej og\u0142oszenia w<br>Dzienniku Urz\u0119dowym Wojew\u00f3dztwa Wielkopolskiego, z moc\u0105 obowi\u0105zywania od<br>dnia 1 stycznia 2019r.<br><br>Uzasadnienie<br><br>Z dniem 31 grudnia 2018r. utraci\u0142a moc obowi\u0105zuj\u0105c\u0105 uchwa\u0142a nr 221 Rady<br>Ministr\u00f3w z dnia 10 grudnia 2013r. w sprawie ustanowienia wieloletniego<br>programu wspierania finansowego gmin w zakresie do\u017cywiania \u201ePomoc pa\u0144stwa<br>w zakresie do\u017cywiania\u201d na lata 2014-2020 (M.P. z 2015r. poz. 821 oraz z<br>2017r. poz. 1138). Program ten stanowi\u0142 baz\u0119 dla opracowania za\u0142o\u017ce\u0144 i<br>uchwalenia przez Rad\u0119 Gminy Dopiewo Uchwa\u0142\u0105 nr LXI\/411\/14 z dnia 27<br>stycznia 2014r. wieloletniego programu os\u0142onowego wspierania do\u017cywiania<br>dzieci i zapewnienia posi\u0142ku osobom tego pozbawionym \u201ePomoc gminy w<br>zakresie do\u017cywiania na lata 2014-2020\u201d.<br><br>Z dniem 1 stycznia 2019r. wesz\u0142a w \u017cycie uchwa\u0142a nr 140 Rady Ministr\u00f3w z<br>dnia 15 pa\u017adziernika 2018r. w sprawie ustanowienia wieloletniego rz\u0105dowego<br>programu \u201ePosi\u0142ek w szkole i w domu\u201d na lata 2019-2023. Program ten, w<br>swoich za\u0142o\u017ceniach i przyj\u0119tych rozwi\u0105zaniach, odbiega od programu<br>rz\u0105dowego \u201ePomoc pa\u0144stwa w zakresie do\u017cywiania\u201d na lata 2014-2020.<br><br>Uchwa\u0142a nr 140 Rady Ministr\u00f3w zach\u0119ca gminy do realizacji zadania<br>zapewnienia w formie posi\u0142ku, \u015bwiadczenia pieni\u0119\u017cnego w postaci zasi\u0142ku<br>celowego na zakup posi\u0142ku lub \u017cywno\u015bci albo \u015bwiadczenia rzeczowego w<br>postaci produkt\u00f3w \u017cywno\u015bciowych pomocy osobom starszym, niepe\u0142nosprawnym,<br>o niskich dochodach, jak i dzieciom, kt\u00f3re wychowuj\u0105 si\u0119 w rodzinach<br>znajduj\u0105cych si\u0119 w trudnej sytuacji. Czyni to poprzez zapewnienie wsparcia<br>finansowego gminom udzielaj\u0105cym pomocy w powy\u017cszych formach osobom o<br>niskich dochodach, jak i dzieciom, kt\u00f3re wychowuj\u0105 si\u0119 w rodzinach<br>znajduj\u0105cych si\u0119 w trudnej sytuacji.<br><br>Dotychczasowe do\u015bwiadczenie i zdiagnozowane potrzeby spo\u0142eczne przemawiaj\u0105<br>za dalsz\u0105 realizacj\u0105 przez Gmin\u0119 Dopiewo powy\u017cszego zadania.<br><br>Rozwi\u0105zania przyj\u0119te w dokumencie \u201eWieloletni program os\u0142onowym Gminy<br>Dopiewo w zakresie do\u017cywiania na lata 2019 - 2023\u201d s\u0105 dla mieszka\u0144c\u00f3w<br>Gminy Dopiewo korzystniejsze od przyj\u0119tych w wieloletnim programie<br>os\u0142onowym wspierania do\u017cywiania dzieci i zapewnienia posi\u0142ku osobom tego<br>pozbawionym \u201ePomoc gminy w zakresie do\u017cywiania na lata 2014-2020\u201d. Z tego<br>powodu niniejszej uchwale mo\u017cna by\u0142o nada\u0107 wsteczn\u0105 moc obowi\u0105zuj\u0105c\u0105, tj.<br>od dnia 1 stycznia 2019r. Stanowi o tym art. 5 ustawy z dnia 20 lipca<br>2000r. o og\u0142aszaniu akt\u00f3w normatywnych i niekt\u00f3rych innych akt\u00f3w prawnych<br>(t. j. Dz. U. z 2017r. poz. 1523 ze zm.).<br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 1
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 20
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        }
+    ],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=11882",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr IV\/42\/19 Rady Gminy Dopiewo z dnia 28 stycznia 2019 r. w sprawie ustanowienia wieloletniego programu os\u0142onowego Gminy Dopiewo w zakresie do\u017cywiania na lata 2019 - 2023"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/1104"
+        }
+    ],
+    "field_numer_porzadkowy": [
+        {
+            "value": 42
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "482f3897-3915-410e-9fec-3cf1c2505bd4"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a202e8f4-ddf0-488c-8a81-a94697b7b1f4"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+uuid: 9ebc17fa-6193-4694-b56d-93d54c25c57e
+langcode: pl
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - spectre
+_core:
+  default_config_hash: EkOgQJvRQgaaaZsXTA2OtbiKKjAYNVaI1Jv_HfuxWh4
+id: spectre_help
+theme: spectre
+region: content
+weight: -30
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

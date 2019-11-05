@@ -1,0 +1,77 @@
+uuid: ebb0fcb1-1845-42ac-95d2-a9d80c29888f
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.field.node.radny.body
+    - field.field.node.radny.field_bip_oswiadczenia_majatkowe
+    - field.field.node.radny.field_href_source
+    - field.field.node.radny.field_imie
+    - field.field.node.radny.field_nazwisko
+    - field.field.node.radny.field_plec
+    - field.field.node.radny.field_solectwo
+    - field.field.node.radny.field_telefon
+    - node.type.radny
+  module:
+    - options
+    - text
+    - user
+id: node.radny.default
+targetEntityType: node
+bundle: radny
+mode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: 5
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  field_bip_oswiadczenia_majatkowe:
+    weight: 3
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  field_href_source:
+    weight: 4
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_plec:
+    weight: 6
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    type: list_key
+    region: content
+  field_solectwo:
+    weight: 2
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  field_telefon:
+    weight: 1
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  links:
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  field_imie: true
+  field_nazwisko: true
+  langcode: true

@@ -1,0 +1,22 @@
+uuid: a56c7c8c-cb06-4649-ae6a-950d7f2ed64b
+langcode: pl
+status: true
+dependencies:
+  config:
+    - node.type.interpelacja
+id: node.interpelacja.status
+field_name: status
+entity_type: node
+bundle: interpelacja
+label: Published
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  on_label: 'On'
+  off_label: 'Off'
+field_type: boolean

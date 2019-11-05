@@ -1,0 +1,23 @@
+uuid: ca62e6f7-724c-423b-88d5-ae108f72e28f
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_typ_glosowania
+    - node.type.uchwala
+  module:
+    - options
+id: node.uchwala.field_typ_glosowania
+field_name: field_typ_glosowania
+entity_type: node
+bundle: uchwala
+label: 'Typ głosowania'
+description: ''
+required: true
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings: {  }
+field_type: list_integer

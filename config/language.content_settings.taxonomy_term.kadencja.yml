@@ -1,0 +1,11 @@
+uuid: 183eddd7-7eec-4491-90d5-fda5bb298af6
+langcode: pl
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.kadencja
+id: taxonomy_term.kadencja
+target_entity_type_id: taxonomy_term
+target_bundle: kadencja
+default_langcode: site_default
+language_alterable: false

@@ -1,0 +1,25 @@
+uuid: 7d29457b-8ac7-4a30-90f9-d387574d158f
+langcode: pl
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - sm
+_core:
+  default_config_hash: TyOnu78AvZ82UOv6ItjgH_Qto5nOrUWsfc4_7IJhPHI
+id: sm_branding
+theme: sm
+region: header
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  provider: system
+  label_display: '0'
+  use_site_logo: false
+  use_site_name: true
+  use_site_slogan: true
+visibility: {  }

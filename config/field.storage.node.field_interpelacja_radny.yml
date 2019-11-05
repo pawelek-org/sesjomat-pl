@@ -1,0 +1,19 @@
+uuid: 99287aef-50fd-49c4-bea4-bddeba4831d9
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_interpelacja_radny
+field_name: field_interpelacja_radny
+entity_type: node
+type: entity_reference
+settings:
+  target_type: node
+module: core
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

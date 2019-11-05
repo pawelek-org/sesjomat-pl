@@ -1,0 +1,26 @@
+uuid: e6f92287-3a1c-469e-9746-d52516d91506
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_count_nieobecny
+    - node.type.uchwala
+  module:
+    - computed_field
+id: node.uchwala.field_count_nieobecny
+field_name: field_count_nieobecny
+entity_type: node
+bundle: uchwala
+label: 'Suma nieobecny'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  code: '$value = count($fields[''field_glos_nieobecny'']);'
+  prefix: ''
+  suffix: ''
+field_type: computed_integer

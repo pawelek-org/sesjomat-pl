@@ -1,0 +1,28 @@
+uuid: b63ac8e9-866a-4cc9-bd8b-3690a452b6e8
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_zmieniona_uchwala
+    - node.type.uchwala
+id: node.uchwala.field_zmieniona_uchwala
+field_name: field_zmieniona_uchwala
+entity_type: node
+bundle: uchwala
+label: 'Zmieniona uchwała'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      uchwala: uchwala
+    sort:
+      field: nid
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

@@ -1,0 +1,252 @@
+{
+    "uuid": [
+        {
+            "value": "3ec57d39-f592-46ea-9c99-4ada8bb74822"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-29T18:35:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 108"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-29T18:33:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/9\/108",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": " Uchwa\u0142a Nr IX\/108\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 27 maja 2019 r.<br><br>w sprawie zmiany Studium uwarunkowa\u0144 i kierunk\u00f3w zagospodarowania<br>przestrzennego gminy Dopiewo dla cz\u0119\u015bci obszaru gminy po\u0142o\u017conych w<br>miejscowo\u015bci Dopiewo, Sk\u00f3rzewo i D\u0105browa.<br><br>Na podstawie art. 18 ust. 2 pkt 5 ustawy z dnia 8 marca 1990 r. o<br>samorz\u0105dzie gminnym (t.j. Dz. U. z 2019 r., poz. 506), art. 12 ust. 1 oraz<br>art. 27 ustawy z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu<br>przestrzennym (t.j. Dz. U. z 2018 r., poz. 1945 ze zm.), w zwi\u0105zku z<br>uchwa\u0142\u0105 nr XLI\/570\/18 Rady Gminy Dopiewo z dnia 23 kwietnia 2018r. o<br>przyst\u0105pieniu do sporz\u0105dzenia zmiany Studium uwarunkowa\u0144 i kierunk\u00f3w<br>zagospodarowania przestrzennego gminy Dopiewo dla cz\u0119\u015bci obszaru gminy<br>po\u0142o\u017conych w miejscowo\u015bci Dopiewo, Sk\u00f3rzewo i D\u0105browa, uchwala co<br>nast\u0119puje:<br><br>\u00a7 1. 1. Uchwala si\u0119 zmian\u0119 Studium uwarunkowa\u0144 i kierunk\u00f3w<br>zagospodarowania przestrzennego gminy Dopiewo dla cz\u0119\u015bci obszaru gminy<br>po\u0142o\u017conych w miejscowo\u015bci Dopiewo, Sk\u00f3rzewo i D\u0105browa, w granicach<br>wskazanych na za\u0142\u0105cznikach graficznych.<br><br> 2. Integralnymi za\u0142\u0105cznikami do niniejszej uchwa\u0142y s\u0105:<br><br> 1. Cz\u0119\u015b\u0107 tekstowa, na kt\u00f3r\u0105 sk\u0142adaj\u0105 si\u0119:<br><br> a. Uwarunkowania - stanowi\u0105ce za\u0142\u0105cznik nr 1A;<br><br> b. Kierunki - stanowi\u0105ce za\u0142\u0105cznik nr 2A;<br><br> 2. Cz\u0119\u015b\u0107 graficzna, na kt\u00f3r\u0105 sk\u0142adaj\u0105 si\u0119:<br><br> a. rysunek ujednolicony \u201eStudium uwarunkowa\u0144 i kierunk\u00f3w zagospodarowania<br>przestrzennego gminy Dopiewo - uwarunkowania\u201d, w skali 1:10 000,<br>stanowi\u0105cy za\u0142\u0105cznik nr 1B,<br><br> b. rysunek ujednolicony \u201eStudium uwarunkowa\u0144 i kierunk\u00f3w zagospodarowania<br>przestrzennego gminy Dopiewo - kierunki\u201d, w skali 1:10 000, stanowi\u0105cy<br>za\u0142\u0105cznik nr 2B,<br><br> 3. Rozstrzygni\u0119cie Rady Gminy Dopiewo o sposobie rozpatrzenia<br>nieuwzgl\u0119dnionych uwag, stanowi\u0105ce za\u0142\u0105cznik nr 3 do uchwa\u0142y.<br><br>\u00a7 2. Traci moc Uchwa\u0142a Rady Gminy Dopiewo Nr XVI\/226\/16 z dnia 29 lutego<br>2016r. w sprawie Studium uwarunkowa\u0144 i kierunk\u00f3w zagospodarowania<br>przestrzennego gminy Dopiewo w zakresie teren\u00f3w oznaczonych jako zamiana<br>Studium uwarunkowa\u0144 i kierunk\u00f3w zagospodarowania przestrzennego gminy<br>Dopiewo, wskazanych na za\u0142\u0105czniku graficznym,<br><br>\u00a7 3. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a7 4. Uchwa\u0142a wchodzi w \u017cycie z dniem podj\u0119cia.<br><br>Uzasadnienie<br><br>Rada Gminy Dopiewo Uchwa\u0142\u0105 Nr XLI\/570\/18 z dnia 23 kwietnia 2018r.<br>przyst\u0105pi\u0142a do sporz\u0105dzenia zmiany Studium uwarunkowa\u0144 i kierunk\u00f3w i<br>zagospodarowania przestrzennego gminy Dopiewo dla cz\u0119\u015bci obszaru gminy<br>po\u0142o\u017conych w miejscowo\u015bci Dopiewo, Sk\u00f3rzewo i D\u0105browa. Jako przedmiot<br>przeprowadzenia zamiany Studium wskazano cztery obszary gminy Dopiewo<br>po\u0142o\u017cone w so\u0142ectwach, Dopiewo, Sk\u00f3rzewo i D\u0105browa. W so\u0142ectwie Dopiewo<br>wskazano obszar w rejonie ul. \u0141\u0105kowej i Wyzwolenia oraz linii kolejowej, w<br>so\u0142ectwie D\u0105browa wskazano obszar w rejonie ul. Piaskowej, w so\u0142ectwie<br>Sk\u00f3rzewo wskazano obszar w rejonie ul. Kozierowskiego, przy granicy z<br>so\u0142ectwem D\u0105browa oraz obszar w rejonie ul. Le\u015bnej i Sp\u00f3\u0142dzielczej. \u0141\u0105czna<br>powierzchnia obszar\u00f3w przeznaczonych do zmiany ustale\u0144 studium wynosi ok.<br>13,5ha. W ramach przeprowadzenia zmiany Studium na przedmiotowych terenach<br>wprowadza si\u0119 ustalenia co do przeznaczenia zagospodarowania teren\u00f3w,<br>kt\u00f3re s\u0105 ju\u017c okre\u015blone w dokumencie obowi\u0105zuj\u0105cego Studium. W konsekwencji<br>przeprowadzenia zmiany Studium nie wprowadza si\u0119 zupe\u0142nie nowych teren\u00f3w o<br>szczeg\u00f3\u0142owych zasadach zagospodarowania, kt\u00f3re nie zosta\u0142y zdefiniowane w<br>obowi\u0105zuj\u0105cym dokumencie i dla kt\u00f3rych nie okre\u015blono szczeg\u00f3\u0142owych<br>kierunk\u00f3w i wska\u017anik\u00f3w dotycz\u0105cych zagospodarowania i u\u017cytkowania terenu.<br><br>Podj\u0119cie Uchwa\u0142y w sprawie przyst\u0105pienia do opracowania zmiany Studium<br>sta\u0142o si\u0119 podstaw\u0105 do przeprowadzenia procedury planistycznej okre\u015blonej w<br>art. 11 ustawy z dnia 27 marca 2003r. o planowaniu i zagospodarowaniu<br>przestrzennym (Dz. U. z 2018 r., poz. 1945 ze zm.), kt\u00f3ra to zosta\u0142a w<br>pe\u0142ni przeprowadzona.<br><br>Przedmiotem zmiany Studium w obszarze so\u0142ectwa Dopiewo jest zmiana<br>przeznaczenia teren\u00f3w pierwotnie okre\u015blonych jako tereny us\u0142ug publicznych<br>- urz\u0105d gminy, szko\u0142y, przedszkola, gminne centrum us\u0142ugowe, oznaczone<br>symbolem Up na tereny zabudowy mieszkaniowo-us\u0142ugowej (o minimalnej<br>powierzchni dzia\u0142ki 700m2), oznaczone symbolem M1, dla kt\u00f3rych okre\u015blono<br>szczeg\u00f3\u0142owe kierunki i wska\u017aniki dotycz\u0105ce zagospodarowania i u\u017cytkowania<br>terenu. Jednocze\u015bnie zachowano pozosta\u0142e przeznaczenie teren\u00f3w w zakresie<br>zieleni parkowej i us\u0142ug spo\u0142eczno-kulturalnych oraz terenu uj\u0119cia wody<br>wraz z infrastruktur\u0105 towarzysz\u0105c\u0105.<br><br>Przedmiotem zmiany Studium w obszarze so\u0142ectwa D\u0105browa jest zmiana<br>przeznaczenia teren\u00f3w pierwotnie okre\u015blonych jako tereny us\u0142ug sakralnych<br>- ko\u015bcio\u0142y, oznaczonych symbolem UKs na tereny zabudowy mieszkaniowej z<br>dzia\u0142alno\u015bci\u0105 gospodarcz\u0105 (o minimalnej powierzchni dzia\u0142ki 700m^2),<br>oznaczone symbolem M1U, dla kt\u00f3rych okre\u015blono szczeg\u00f3\u0142owe kierunki i<br>wska\u017aniki dotycz\u0105ce zagospodarowania i u\u017cytkowania terenu.<br><br>Przedmiotem zmiany Studium w obszarze so\u0142ectwa Sk\u00f3rzewo, w rejonie ul. Ks.<br>Kozierowskiego jest zmiana przeznaczenia teren\u00f3w pierwotnie okre\u015blonych<br>jako tereny rolniczej przestrzeni produkcyjnej na tereny us\u0142ug sakralnych<br>- ko\u015bcio\u0142y, oznaczone symbolem UKs, dla kt\u00f3rych okre\u015blono szczeg\u00f3\u0142owe<br>kierunki i wska\u017aniki dotycz\u0105ce zagospodarowania i u\u017cytkowania terenu.<br>Jednocze\u015bnie zachowano pozosta\u0142e przeznaczenie teren\u00f3w w zakresie teren\u00f3w<br>zabudowy mieszkaniowo-us\u0142ugowej (o minimalnej powierzchni dzia\u0142ki 700m^2),<br>oznaczonych symbolem M1.<br><br>Przedmiotem zmiany Studium w obszarze so\u0142ectwa Sk\u00f3rzewo, w rejonie ul. Ks.<br>Le\u015bnej i Sp\u00f3\u0142dzielczej jest zmiana przeznaczenia teren\u00f3w pierwotnie<br>okre\u015blonych jako tereny rolniczej przestrzeni produkcyjnej na tereny<br>obiekt\u00f3w produkcyjnych, sk\u0142ad\u00f3w i magazyn\u00f3w, oznaczone symbolem P, dla<br>kt\u00f3rych okre\u015blono szczeg\u00f3\u0142owe kierunki i wska\u017aniki dotycz\u0105ce<br>zagospodarowania i u\u017cytkowania terenu. Jednocze\u015bnie zachowano pozosta\u0142e<br>przeznaczenie teren\u00f3w w zakresie teren\u00f3w rolniczej przestrzeni<br>produkcyjnej.<br><br>Projekt zmiany Studium zosta\u0142 zaopiniowany i uzgodniony przez w\u0142a\u015bciwe<br>organy i instytucj\u0119 w my\u015bl przepis\u00f3w ustawy o planowaniu i<br>zagospodarowaniu przestrzennym.<br><br>Projekt zmiany Studium zosta\u0142 wy\u0142o\u017cony do publicznego wgl\u0105du w dniach od<br>26 marca 2019 r. do 17 kwietnia 2019 r. Termin sk\u0142adania uwag zosta\u0142<br>wyznaczony na dzie\u0144 10 maja 2019 r. Dyskusja publiczna nad przyj\u0119tymi w<br>projekcie planu rozwi\u0105zaniami odby\u0142a si\u0119 w dniu 6 kwietnia 2019 r. w<br>siedzibie Urz\u0119du Gminy Dopiewo. W wyznaczonym terminie nie wp\u0142yn\u0119\u0142y uwagi.<br><br>Projekt zmiany Studium zosta\u0142 przed\u0142o\u017cony Komisji Rady Gminy Dopiewo do<br>zaopiniowania.<br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 1
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 3
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 1
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 16
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        }
+    ],
+    "field_glos_przeciw": [
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        }
+    ],
+    "field_glos_wstrzymujacy": [
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        }
+    ],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=12335",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr IX\/108\/19 Rady Gminy Dopiewo z dnia 27 maja 2019 r. w sprawie zmiany Studium uwarunkowa\u0144 i kierunk\u00f3w zagospodarowania przestrzennego gminy Dopiewo dla cz\u0119\u015bci obszaru gminy po\u0142o\u017conych w miejscowo\u015bci Dopiewo, Sk\u00f3rzewo i D\u0105browa"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 108
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "a287d1b5-c3ec-4bee-89a8-ed47fb8e53d7"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "2dcafada-13fd-4f9d-8443-438e214b4f4c"
+        }
+    ]
+}

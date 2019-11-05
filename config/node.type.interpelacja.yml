@@ -1,0 +1,17 @@
+uuid: 3e907682-2c96-4a16-b02e-b4ac4d3152e0
+langcode: pl
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Interpelacja
+type: interpelacja
+description: ''
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: false

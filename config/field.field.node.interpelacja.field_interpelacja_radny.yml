@@ -1,0 +1,29 @@
+uuid: 0efd9253-45ce-4448-86cf-a346c3d836f8
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_interpelacja_radny
+    - node.type.interpelacja
+    - node.type.radny
+id: node.interpelacja.field_interpelacja_radny
+field_name: field_interpelacja_radny
+entity_type: node
+bundle: interpelacja
+label: 'interpelacja radny'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      radny: radny
+    sort:
+      field: nid
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

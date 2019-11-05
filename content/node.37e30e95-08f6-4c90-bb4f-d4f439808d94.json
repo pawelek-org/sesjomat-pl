@@ -1,0 +1,164 @@
+{
+    "uuid": [
+        {
+            "value": "37e30e95-08f6-4c90-bb4f-d4f439808d94"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-27T12:17:29+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 4"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-27T12:16:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/1\/4",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": "<br>Uchwa\u0142a Nr I\/04\/18<br><br>Rady Gminy Dopiewo<br><br>Dnia 19 listopada 2018 r.<br><br>w sprawie powo\u0142ania cz\u0142onk\u00f3w Komisji O\u015bwiaty, Zdrowia, Kultury, Turystyki,<br>Sportu i Promocji Gminy Rady Gminy Dopiewo.<br><br>Na podstawie art. 21 ustawy z dnia 8 marca 1990 r. o samorz\u0105dzie gminnym<br>(t.j. Dz. U. z 2018r. poz. 994 z p\u00f3\u017an. zm.) Rada Gminy Dopiewo uchwala, co<br>nast\u0119puje:<br><br>\u00a7 1. Powo\u0142uje si\u0119 8 cz\u0142onk\u00f3w sta\u0142ej Komisji O\u015bwiaty, Zdrowia, Kultury,<br>Turystyki, Sportu i Promocji Gminy, zwanej dalej Komisj\u0105.<br><br>\u00a7 2. Cz\u0142onkami Komisji s\u0105:<br><br> 1. Pawe\u0142 Jazy - Przewodnicz\u0105cy Komisji,<br><br> 2. Magdalena Kaczmarek - cz\u0142onek Komisji,<br><br> 3. Klemens Krzywos\u0105dzki - cz\u0142onek Komisji,<br><br> 4. Anna Kwa\u015bnik - cz\u0142onek Komisji,<br><br> 5. Ilona \u0141ysiak- cz\u0142onek Komisji,<br><br> 6. Justin Nnorom - cz\u0142onek Komisji,<br><br> 7. Mariola Nowak - cz\u0142onek Komisji,<br><br> 8. Mariola Walich - cz\u0142onek Komisji,<br><br>\u00a7 3. Przedmiotem dzia\u0142ania Komisji s\u0105 sprawy z zakresu o\u015bwiaty, zdrowa,<br>kultury, turystyki, sportu i promocji gminy.<br><br>\u00a7 4. Wykonanie uchwa\u0142y powierza si\u0119 Przewodnicz\u0105cemu Rady Gminy Dopiewo.<br><br>\u00a7 5. Uchwa\u0142a wchodzi w \u017cycie z dniem podj\u0119cia.<br><br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 0
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=11629",
+            "format": "full_html"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr I\/04\/18 Rady Gminy Dopiewo z dnia 19 listopada 2018 r. w sprawie powo\u0142ania cz\u0142onk\u00f3w Komisji O\u015bwiaty, Zdrowia, Kultury, Turystyki, Sportu i Promocji Gminy Rady Gminy Dopiewo"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 4
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "56e0a9ce-0e6e-4f96-8299-3ca2f8f0a45e"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 2
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "165e700f-2071-4419-a194-d94dfb86a808"
+        }
+    ]
+}

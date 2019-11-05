@@ -1,0 +1,21 @@
+uuid: 3381bb96-3533-4dea-b442-b5039edd934c
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_data
+    - node.type.interpelacja
+  module:
+    - datetime
+id: node.interpelacja.field_data
+field_name: field_data
+entity_type: node
+bundle: interpelacja
+label: Data
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: datetime

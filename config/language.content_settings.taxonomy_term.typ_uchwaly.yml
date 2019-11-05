@@ -1,0 +1,11 @@
+uuid: 43b038cf-7081-4958-aefa-b9202eeb0c4e
+langcode: pl
+status: true
+dependencies:
+  config:
+    - taxonomy.vocabulary.typ_uchwaly
+id: taxonomy_term.typ_uchwaly
+target_entity_type_id: taxonomy_term
+target_bundle: typ_uchwaly
+default_langcode: site_default
+language_alterable: false

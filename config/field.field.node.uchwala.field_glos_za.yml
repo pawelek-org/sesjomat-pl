@@ -1,0 +1,93 @@
+uuid: c2094dd7-db11-4fea-85f8-c1dfc8fde7be
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_glos_za
+    - node.type.radny
+    - node.type.uchwala
+  content:
+    - 'node:radny:007ef329-c80d-4b41-bdc3-ff241d757de9'
+    - 'node:radny:2013811e-58a0-49bf-a725-8d961a60211d'
+    - 'node:radny:29f33ea9-61af-4b8b-be89-e368357c0657'
+    - 'node:radny:30f7c162-d359-4d52-bfdb-b9f9b6db61f9'
+    - 'node:radny:3f419924-b22c-4307-a0da-f189caae1211'
+    - 'node:radny:42c6c278-2680-469c-9f53-b724bc0de5d8'
+    - 'node:radny:42e559af-ace0-467c-9b61-9b877d064ac3'
+    - 'node:radny:48f6bf1d-620f-4e9e-a1aa-207e49bee229'
+    - 'node:radny:49cb8f68-caa4-4893-b638-5e5f3f78f343'
+    - 'node:radny:537736c5-4266-421f-ae6a-95ef2ec5b670'
+    - 'node:radny:8f62b00c-4b94-4967-9ea8-8516368d15e9'
+    - 'node:radny:a5ccaa66-c96c-427e-adbd-3959e257920e'
+    - 'node:radny:a6d7c744-18eb-405b-90ed-477a2cc2f115'
+    - 'node:radny:b1e4c8aa-1372-4158-b144-4207250135d0'
+    - 'node:radny:c63d68e1-2254-4855-9ca9-991af7b4f42e'
+    - 'node:radny:c9f5b28d-c725-419c-866f-939b43a62f46'
+    - 'node:radny:ce5b532c-43e3-4c05-9296-6dd3491d5c64'
+    - 'node:radny:d9ec9acf-7b21-47d8-9015-37dcbd126b84'
+    - 'node:radny:da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8'
+    - 'node:radny:e4406c87-3e78-4cd5-a865-ccc7817e721b'
+    - 'node:radny:f5c1ac34-6d52-4069-8417-9565c8966df6'
+id: node.uchwala.field_glos_za
+field_name: field_glos_za
+entity_type: node
+bundle: uchwala
+label: 'Głos ZA'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    target_uuid: 42c6c278-2680-469c-9f53-b724bc0de5d8
+  -
+    target_uuid: 007ef329-c80d-4b41-bdc3-ff241d757de9
+  -
+    target_uuid: da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8
+  -
+    target_uuid: ce5b532c-43e3-4c05-9296-6dd3491d5c64
+  -
+    target_uuid: d9ec9acf-7b21-47d8-9015-37dcbd126b84
+  -
+    target_uuid: e4406c87-3e78-4cd5-a865-ccc7817e721b
+  -
+    target_uuid: a5ccaa66-c96c-427e-adbd-3959e257920e
+  -
+    target_uuid: b1e4c8aa-1372-4158-b144-4207250135d0
+  -
+    target_uuid: 42e559af-ace0-467c-9b61-9b877d064ac3
+  -
+    target_uuid: 49cb8f68-caa4-4893-b638-5e5f3f78f343
+  -
+    target_uuid: 29f33ea9-61af-4b8b-be89-e368357c0657
+  -
+    target_uuid: c9f5b28d-c725-419c-866f-939b43a62f46
+  -
+    target_uuid: 537736c5-4266-421f-ae6a-95ef2ec5b670
+  -
+    target_uuid: 3f419924-b22c-4307-a0da-f189caae1211
+  -
+    target_uuid: 2013811e-58a0-49bf-a725-8d961a60211d
+  -
+    target_uuid: 48f6bf1d-620f-4e9e-a1aa-207e49bee229
+  -
+    target_uuid: c63d68e1-2254-4855-9ca9-991af7b4f42e
+  -
+    target_uuid: f5c1ac34-6d52-4069-8417-9565c8966df6
+  -
+    target_uuid: 30f7c162-d359-4d52-bfdb-b9f9b6db61f9
+  -
+    target_uuid: a6d7c744-18eb-405b-90ed-477a2cc2f115
+  -
+    target_uuid: 8f62b00c-4b94-4967-9ea8-8516368d15e9
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      radny: radny
+    sort:
+      field: nid
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

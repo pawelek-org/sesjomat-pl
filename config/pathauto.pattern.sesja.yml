@@ -1,0 +1,22 @@
+uuid: c4927a7c-d2be-4742-beeb-934d18d5c021
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+id: sesja
+label: sesja
+type: 'canonical_entities:node'
+pattern: 'sesje/[node:field_numer_porzadkowy]'
+selection_criteria:
+  ea074e6b-7110-4c3b-898e-00973db697c7:
+    id: node_type
+    bundles:
+      sesja: sesja
+    negate: false
+    context_mapping:
+      node: node
+    uuid: ea074e6b-7110-4c3b-898e-00973db697c7
+selection_logic: and
+weight: -5
+relationships: {  }

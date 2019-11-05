@@ -1,0 +1,18 @@
+uuid: d24106ea-fb0c-4753-9180-d7efd69b1321
+langcode: pl
+status: true
+dependencies:
+  config:
+    - node.type.interpelacja
+id: node.interpelacja.title
+field_name: title
+entity_type: node
+bundle: interpelacja
+label: Nazwa
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

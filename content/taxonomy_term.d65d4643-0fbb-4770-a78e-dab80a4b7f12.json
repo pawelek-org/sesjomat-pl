@@ -1,0 +1,72 @@
+{
+    "uuid": [
+        {
+            "value": "d65d4643-0fbb-4770-a78e-dab80a4b7f12"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "vid": [
+        {
+            "target_id": "typ_uchwaly",
+            "target_type": "taxonomy_vocabulary",
+            "target_uuid": "aeff61d2-fce9-4c89-a56d-794f1f939a1d"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2019-10-28T17:12:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "name": [
+        {
+            "value": "Woda i \u015bcieki"
+        }
+    ],
+    "description": [],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "parent": [
+        {
+            "target_id": null
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-10-28T17:12:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "pl",
+            "pathauto": 0
+        }
+    ]
+}

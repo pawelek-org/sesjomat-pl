@@ -1,0 +1,22 @@
+uuid: 5035c838-8ff3-4b57-8894-0a25c1f62a8d
+langcode: pl
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - spectre
+_core:
+  default_config_hash: JKGAM-iGrXi4BCokSs3b8ZsKeb4mCG4-drKktVrpc-s
+id: spectre_messages
+theme: spectre
+region: content
+weight: -5
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

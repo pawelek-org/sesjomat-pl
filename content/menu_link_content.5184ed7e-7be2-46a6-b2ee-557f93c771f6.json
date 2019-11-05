@@ -1,0 +1,89 @@
+{
+    "uuid": [
+        {
+            "value": "5184ed7e-7be2-46a6-b2ee-557f93c771f6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2019-10-29T08:53:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Sesjomat"
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "admin"
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/admin\/uchwaly",
+            "title": "",
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": true
+        }
+    ],
+    "weight": [
+        {
+            "value": 9
+        }
+    ],
+    "expanded": [
+        {
+            "value": false
+        }
+    ],
+    "parent": [
+        {
+            "value": "system.admin"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-10-29T08:54:53+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

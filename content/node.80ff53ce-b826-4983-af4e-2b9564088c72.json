@@ -1,0 +1,260 @@
+{
+    "uuid": [
+        {
+            "value": "80ff53ce-b826-4983-af4e-2b9564088c72"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-29T20:41:14+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 149"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-29T20:39:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-02T14:35:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/12\/149",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": " Uchwa\u0142a Nr XII\/149\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 29 lipca 2019 r.<br><br>w sprawie zmiany uchwa\u0142y Nr XI\/122\/2019 Rady Gminy Dopiewo z dnia 24<br>czerwca 2019 r. w sprawie wsp\u00f3\u0142dzia\u0142ania z Powiatem Pozna\u0144skim przy<br>Aktualizacji inwentaryzacji wyrob\u00f3w zawieraj\u0105cych azbest na terenie<br>powiatu pozna\u0144skiego obejmuj\u0105ca nast\u0119puj\u0105ce gminy: Buk, Czerwonak,<br>Dopiewo, Kleszczewo, Komorniki, Kostrzyn, K\u00f3rnik, Lubo\u0144, Mosina,<br>Pobiedziska, Puszczykowo, Rokietnica, Suchy Las.<br><br>Na podstawie art. 18 ust. 1 w zwi\u0105zku z art. 7 ust. 1 pkt 1 i art. 10 ust.<br>1 ustawy z dnia 8 marca 1990 r. o samorz\u0105dzie gminnym (t. j. Dz. U. z 2019<br>r., poz. 506) oraz art. 216 ust. 2 pkt 4 i art. 220 ust. 1 i 2 ustawy z<br>dnia 27 sierpnia 2009 r. o finansach publicznych (t. j. Dz. U. z 2019 r.<br>poz. 869) Rada Gminy Dopiewo uchwala, co nast\u0119puje:<br><br>\u00a71. W uchwale Nr XI\/122\/2019 Rady Gminy Dopiewo z dnia 24 czerwca 2019 r.<br>w sprawie wsp\u00f3\u0142dzia\u0142ania z Powiatem Pozna\u0144skim przy Aktualizacji<br>inwentaryzacji wyrob\u00f3w zawieraj\u0105cych azbest na terenie powiatu<br>pozna\u0144skiego obejmuj\u0105ca nast\u0119puj\u0105ce gminy: Buk, Czerwonak, Dopiewo,<br>Kleszczewo, Komorniki, Kostrzyn, K\u00f3rnik, Lubo\u0144, Mosina, Pobiedziska,<br>Puszczykowo, Rokietnica, Suchy Las \u00a7 3 otrzymuje nast\u0119puj\u0105ce brzmienie:<br><br>\u201e\u00a7 3. Na realizacj\u0119 zadania przeznacza si\u0119 w 2019 r. z bud\u017cetu Gminy<br>Dopiewo kwot\u0119 3.752,14 z\u0142 (s\u0142ownie: trzy tysi\u0105ce siedemset pi\u0119\u0107dziesi\u0105t<br>dwa z\u0142ote ^14\/[100]), kt\u00f3ra zostanie przekazana Powiatowi Pozna\u0144skiemu w<br>formie dotacji celowej.\u201d<br><br>\u00a7 2. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a7 3. Uchwa\u0142a wchodzi w \u017cycie z dniem podj\u0119cia.<br><br>UZASADNIENIE<br><br>\u015arodki finansowe na realizacj\u0119 Aktualizacji inwentaryzacji wyrob\u00f3w<br>zawieraj\u0105cych azbest na terenie powiatu pozna\u0144skiego obejmuj\u0105cego<br>nast\u0119puj\u0105ce gminy: Buk, Czerwonak, Dopiewo, Kleszczewo, Komorniki,<br>Kostrzyn, K\u00f3rnik, Lubo\u0144, Mosina, Pobiedziska, Puszczykowo, Rokietnica,<br>Suchy Las pochodz\u0105 z bud\u017cetu Ministerstwo Przedsi\u0119biorczo\u015bci i<br>Technologii, Powiatu oraz bud\u017cetu Gminy. W wyniku rozstrzygni\u0119cia<br>przetargu nieograniczonego przez Starostwo Powiatowe w Poznaniu ostateczna<br>kwota na realizacj\u0119 ww. zadania wyniesie 239.850 z\u0142 i jest wy\u017csza od<br>planowanej o 39.850 z\u0142. W zwi\u0105zku z powy\u017cszym udzia\u0142 gminy Dopiewo w<br>realizacji ca\u0142ego zadania zwi\u0119kszy si\u0119 o 1.876,07 z\u0142 i ostatecznie<br>wyniesie 3.752,14 z\u0142.<br><br>Przekazanie \u015brodk\u00f3w odb\u0119dzie si\u0119 na podstawie porozumienia z Powiatem<br>Pozna\u0144skim, co wymaga podj\u0119cia stosownej uchwa\u0142y przez Rad\u0119 Gminy Dopiewo.<br>",
+            "format": "raw_text",
+            "summary": ""
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 4
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 17
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        }
+    ],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=12529",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr XII\/149\/19 Rady Gminy Dopiewo z dnia 29 lipca 2019 r. w sprawie zmiany uchwa\u0142y Nr XI\/122\/2019 Rady Gminy Dopiewo z dnia 24 czerwca 2019 r. w sprawie wsp\u00f3\u0142dzia\u0142ania z Powiatem Pozna\u0144skim przy Aktualizacji inwentaryzacji wyrob\u00f3w zawieraj\u0105cych azbest na terenie powiatu pozna\u0144skiego obejmuj\u0105ca nast\u0119puj\u0105ce gminy: Buk, Czerwonak, Dopiewo, Kleszczewo, Komorniki, Kostrzyn, K\u00f3rnik, Lubo\u0144, Mosina, Pobiedziska, Puszczykowo, Rokietnica, Suchy Las"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 149
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "b5e51116-ea42-4d78-84e4-b333f5288766"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "77127f35-d5f2-4b0c-9af3-b4bd6ffc2d0c"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f7bc3232-e843-46a0-a723-f92c00bfb62d"
+        }
+    ],
+    "field_zmieniona_uchwala": [
+        {
+            "target_type": "node",
+            "target_uuid": "ed5a3052-025b-4d8e-9d92-1c9788ca7b27"
+        }
+    ]
+}

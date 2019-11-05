@@ -1,0 +1,6 @@
+status: 1
+pattern: 'Uchwała nr [node:field_numer_porzadkowy]'
+escape: false
+dependencies:
+  config:
+    - node.type.uchwala

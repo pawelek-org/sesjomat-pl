@@ -1,0 +1,19 @@
+uuid: 14c1d3ab-e37e-4f02-a6e1-f3f3bb50323b
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_nazwa_uchwaly
+    - node.type.uchwala
+id: node.uchwala.field_nazwa_uchwaly
+field_name: field_nazwa_uchwaly
+entity_type: node
+bundle: uchwala
+label: 'Nazwa uchwały'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

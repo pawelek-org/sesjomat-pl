@@ -1,0 +1,48 @@
+uuid: 642b4320-b53c-443a-b639-267ce650225b
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.field.node.protokol.body
+    - field.field.node.protokol.field_href_source
+    - field.field.node.protokol.field_nazwa_protokolu
+    - field.field.node.protokol.field_ref_sesja
+    - node.type.protokol
+  module:
+    - text
+    - user
+id: node.protokol.default
+targetEntityType: node
+bundle: protokol
+mode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: 2
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  field_href_source:
+    weight: 1
+    label: hidden
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
+  field_nazwa_protokolu:
+    weight: 3
+    label: hidden
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  links:
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  field_ref_sesja: true
+  langcode: true

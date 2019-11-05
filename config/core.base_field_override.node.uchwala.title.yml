@@ -1,0 +1,18 @@
+uuid: 2e896157-3162-44fb-8f5f-9c1217f010a2
+langcode: pl
+status: true
+dependencies:
+  config:
+    - node.type.uchwala
+id: node.uchwala.title
+field_name: title
+entity_type: node
+bundle: uchwala
+label: 'Pełna nazwa uchwały'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

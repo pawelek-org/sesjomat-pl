@@ -1,0 +1,30 @@
+uuid: b966e8b5-ae34-4c5a-811a-c7ec182bb597
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+    - options
+id: node.field_typ_glosowania
+field_name: field_typ_glosowania
+entity_type: node
+type: list_integer
+settings:
+  allowed_values:
+    -
+      value: 0
+      label: Jawne
+    -
+      value: 1
+      label: Tajne
+    -
+      value: 2
+      label: 'Inne (patrz protokół sesji)'
+  allowed_values_function: ''
+module: options
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

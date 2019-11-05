@@ -1,0 +1,253 @@
+{
+    "uuid": [
+        {
+            "value": "554e39c1-5f97-4c7f-81f6-c1a01fe45377"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-29T10:04:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 63"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-29T10:02:54+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/5\/63",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": " Uchwa\u0142a Nr V\/63\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 25 lutego 2019 r.<br><br>w sprawie wyznaczenia obszaru Aglomeracji Dopiewo.<br><br>Na podstawie art. 18 ust. 2 pkt. 15 ustawy z dnia 8 marca 1990 roku o<br>samorz\u0105dzie gminnym (t. j. z 2018 r. Dz. U. poz. 994 z p\u00f3\u017an. zm.) oraz<br>art. 87 ust. 1 ustawy z dnia 20 lipca 2017 r. Prawo wodne (t. j. Dz. U. z<br>2018 r. poz. 2268 z p\u00f3\u017an. zm.), uchwala si\u0119 co nast\u0119puje:<br><br>\u00a7 1. Wyznacza si\u0119 aglomeracj\u0119 Dopiewo po\u0142o\u017cn\u0105 w wojew\u00f3dztwie<br>wielkopolskim, w powiecie pozna\u0144skim o r\u00f3wnowa\u017cnej liczbie mieszka\u0144c\u00f3w<br>6 083 RLM.<br><br>\u00a7 2. Aglomeracja Dopiewo obejmuje swym zasi\u0119giem tereny obj\u0119te systemem<br>kanalizacji zbiorczej zako\u0144czonym oczyszczalni\u0105 \u015bciek\u00f3w w miejscowo\u015bci<br>Dopiewo, dzia\u0142ka ewidencyjna 761\/7, obr\u0119b Dopiewo.<br><br>\u00a7 3. Obszar aglomeracji Dopiewo wyznacza si\u0119 na terenie miejscowo\u015bci:<br>Dopiewo, Dopiewiec, Konarzewo, Lis\u00f3wki w granicach oznaczonych na mapie w<br>skali 1: 25000, stanowi\u0105cej za\u0142\u0105cznik do niniejszej uchwa\u0142y.<br><br>\u00a7 4. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a7 5. Uchwa\u0142a wchodzi w \u017cycie po up\u0142ywie 14 dni od og\u0142oszenia w Dzienniku<br>Urz\u0119dowym Wojew\u00f3dztwa Wielkopolskiego.<br><br>Uzasadnienie<br><br>Aglomeracja Dopiewo zosta\u0142a wyznaczona Uchwa\u0142\u0105 nr X\/286\/15 Sejmiku<br>Wojew\u00f3dztwa Wielkopolskiego z dnia 28.09.2015 r. o r\u00f3wnowa\u017cnej liczbie<br>mieszka\u0144c\u00f3w - 4 590 RLM.<br><br>Ze wzgl\u0119du na wzrost liczby mieszka\u0144c\u00f3w, dynamiczny rozw\u00f3j przestrzenny<br>mieszkalnictwa, zmiany w planach zagospodarowania przestrzennego i rozw\u00f3j<br>skanalizowania terenu gminy zachodzi potrzeba zaktualizowania rzeczywistej<br>liczby RLM na terenie aglomeracji.<br><br>W ostatnich latach w granicach Aglomeracji Dopiewo nast\u0105pi\u0142 rozw\u00f3j systemu<br>sieci kanalizacji sanitarnej oraz skanalizowane zosta\u0142y nowe obszary<br>dotychczas znajduj\u0105ce si\u0119 poza aglomeracj\u0105. W zwi\u0105zku z powy\u017cszym w sk\u0142ad<br>Aglomeracji Dopiewo wchodz\u0105 nast\u0119puj\u0105ce ulice:<br><br>* Dopiewo<br><br>+-----------------------------------------------------+<br>| Nazwa ulicy | Zakres |<br>|----------------+------------------------------------|<br>| Bukowska | Od nr 1 do nr 50 |<br>|----------------+------------------------------------|<br>| Jasna | ca\u0142a |<br>|----------------+------------------------------------|<br>| Kasztanowa | ca\u0142a |<br>|----------------+------------------------------------|<br>| Klonowa | ca\u0142a |<br>|----------------+------------------------------------|<br>| Konarzewska | Nr 1do nr 23 |<br>|----------------+------------------------------------|<br>| Kr\u00f3tka | ca\u0142a |<br>|----------------+------------------------------------|<br>| Ks.A.Majcherka | Od Nr 1 do dz.nr 54 |<br>|----------------+------------------------------------|<br>| Le\u015bna | ca\u0142a |<br>|----------------+------------------------------------|<br>| Lipowa | ca\u0142a |<br>|----------------+------------------------------------|<br>| \u0141\u0105kowa | ca\u0142a |<br>|----------------+------------------------------------|<br>| M\u0142y\u0144ska | Od nr 1 do dz.nr 343\/12 |<br>|----------------+------------------------------------|<br>| Nieca\u0142a | Od nr 1 do dz.nr 573\/4 |<br>|----------------+------------------------------------|<br>| Nowa | od nr 1 do nr 8A |<br>|----------------+------------------------------------|<br>| Ogrodowa | Od nr 1 do dz. nr 464\/4 |<br>|----------------+------------------------------------|<br>| Pi\u0119kna | ca\u0142a |<br>|----------------+------------------------------------|<br>| Pogodna | ca\u0142a |<br>|----------------+------------------------------------|<br>| Polna | ca\u0142a |<br>|----------------+------------------------------------|<br>| Po\u0142udniowa | ca\u0142a |<br>|----------------+------------------------------------|<br>| Powsta\u0144c\u00f3w | ca\u0142a |<br>|----------------+------------------------------------|<br>| Pozna\u0144ska | ca\u0142a |<br>|----------------+------------------------------------|<br>| P\u00f3\u0142nocna | od ul. Bukowskiej do ul. Ogrodowej |<br>|----------------+------------------------------------|<br>| R\u00f3\u017cana | ca\u0142a |<br>|----------------+------------------------------------|<br>| S\u0142oneczna | ca\u0142a |<br>|----------------+------------------------------------|<br>| Soko\u0142\u00f3w | ca\u0142a |<br>|----------------+------------------------------------|<br>| Sportowa | ca\u0142a |<br>|----------------+------------------------------------|<br>| Stawna | ca\u0142a |<br>|----------------+------------------------------------|<br>| Stra\u017cacka | ca\u0142a |<br>|----------------+------------------------------------|<br>| Szkolna | ca\u0142a |<br>|----------------+------------------------------------|<br>| Tysi\u0105clecia | ca\u0142a |<br>|----------------+------------------------------------|<br>| Wi\u0119ckowska | Od nr 1 do dz. nr 248\/8 |<br>|----------------+------------------------------------|<br>| Wodna | ca\u0142a |<br>|----------------+------------------------------------|<br>| Wysoka | Od nr 1 do dz. nr. 114\/3 |<br>|----------------+------------------------------------|<br>| Wyzwolenia | Od nr 1 do dz.nr 637\/5 |<br>+-----------------------------------------------------+<br><br>* Dopiewiec<br><br>+----------------------------------------------+<br>| Nazwa ulicy | Zakres |<br>|---------------+------------------------------|<br>| Azaliowa | ca\u0142a |<br>|---------------+------------------------------|<br>| Brzozowa | ca\u0142a |<br>|---------------+------------------------------|<br>| Cicha | ca\u0142a |<br>|---------------+------------------------------|<br>| Jesionowa | Nr 15 |<br>|---------------+------------------------------|<br>| Kolejowa | ca\u0142a |<br>|---------------+------------------------------|<br>| Le\u015bna | ca\u0142a |<br>|---------------+------------------------------|<br>| Maria\u0144ska | Od nr 1 do dz. nr 86\/5 |<br>|---------------+------------------------------|<br>| Nasturcjowa | ca\u0142a |<br>|---------------+------------------------------|<br>| Osiedle | Od nr 1 do dz. nr 41 |<br>|---------------+------------------------------|<br>| Polna | od nr 1 do dz.143 |<br>|---------------+------------------------------|<br>| Pszenna | Od nr 1 do dz. nr 104\/18 |<br>|---------------+------------------------------|<br>| S\u0142onecznikowa | ca\u0142a |<br>|---------------+------------------------------|<br>| Szkolna | Od dz. nr 192\/2 do dz.nr 193 |<br>|---------------+------------------------------|<br>| \u015arodkowa | ca\u0142a |<br>|---------------+------------------------------|<br>| Wierzbowa | Od nr 1 do dz.nr 37 59 |<br>|---------------+------------------------------|<br>| Wodna | ca\u0142a |<br>+----------------------------------------------+<br><br>* Konarzewo<br><br>+--------------------------------------------------+<br>| Nazwa ulicy | Zakres |<br>|-----------------------+--------------------------|<br>| 25-lecia | ca\u0142a |<br>|-----------------------+--------------------------|<br>| Bukowska | Od nr 1 do dz.nr 203\/1 |<br>|-----------------------+--------------------------|<br>| Dopiewska | ca\u0142a |<br>|-----------------------+--------------------------|<br>| Ko\u015bcielna | Od nr 1 do dz.nr 157\/7 |<br>|-----------------------+--------------------------|<br>| Ks. Jana Laskowskiego | ca\u0142a |<br>|-----------------------+--------------------------|<br>| Ks. St. Hartlieba | Od nr 1 do dz.nr 635\/2 |<br>|-----------------------+--------------------------|<br>| Kwiatowa | Od nr 1 do ul. 25-lecia |<br>|-----------------------+--------------------------|<br>| M\u0142y\u0144ska | Od nr 5 do dz.nr 400 |<br>|-----------------------+--------------------------|<br>| Nefrytowa | Ca\u0142a |<br>|-----------------------+--------------------------|<br>| Pogodna | Ca\u0142a |<br>|-----------------------+--------------------------|<br>| Sezamkowa | Ca\u0142a |<br>|-----------------------+--------------------------|<br>| S\u0142oneczna | Od nr 1 do dz. nr 158\/23 |<br>|-----------------------+--------------------------|<br>| Spokojna | ca\u0142a |<br>|-----------------------+--------------------------|<br>| Szkolna | Od nr 1 do dz.nr 481\/16 |<br>|-----------------------+--------------------------|<br>| T\u0119czowa | Od nr 1 do dz. nr 631 |<br>|-----------------------+--------------------------|<br>| Weso\u0142a | Od nr 1 do dz. nr 457\/5 |<br>|-----------------------+--------------------------|<br>| Wi\u015bniowa | ca\u0142a |<br>|-----------------------+--------------------------|<br>| Wsp\u00f3lna | ca\u0142a |<br>+--------------------------------------------------+<br><br>* Lis\u00f3wki - Dom Pomocy Spo\u0142ecznej w Lis\u00f3wkach<br><br>Zgodnie z art. 87 ust. 4 ustawy z dnia 20 lipca 2017r. Prawo<br>wodne (Dz. U. z 2017r. Dz. U. Nr 1566 ze zm.) Rada Gminy<br>Dopiewo podejmuje niniejsz\u0105 uchwa\u0142\u0119 po uzgodnieniu przez<br>W\u00f3jta Gminy Dopiewo z w\u0142a\u015bciwymi organami administracji.<br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 21
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=11962",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr V\/63\/19 Rady Gminy Dopiewo z dnia 25 lutego 2019 r. w sprawie wyznaczenia obszaru Aglomeracji Dopiewo"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/2295"
+        }
+    ],
+    "field_numer_porzadkowy": [
+        {
+            "value": 63
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "9217b350-0dce-429c-8d79-71fa1cd3023b"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d65d4643-0fbb-4770-a78e-dab80a4b7f12"
+        }
+    ]
+}

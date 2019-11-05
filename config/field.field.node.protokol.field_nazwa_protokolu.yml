@@ -1,0 +1,19 @@
+uuid: 0014d2f0-9802-47b7-be4e-5a247463d45a
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_nazwa_protokolu
+    - node.type.protokol
+id: node.protokol.field_nazwa_protokolu
+field_name: field_nazwa_protokolu
+entity_type: node
+bundle: protokol
+label: 'Nazwa protokołu'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

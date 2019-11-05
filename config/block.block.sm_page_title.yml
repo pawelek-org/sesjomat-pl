@@ -1,0 +1,20 @@
+uuid: 2637728d-15c1-43ac-a11c-4b524b3063fa
+langcode: pl
+status: true
+dependencies:
+  theme:
+    - sm
+_core:
+  default_config_hash: '-nQj3xM_zWmWZQpGjzHFHlLlDI4Az_00I0GzHk0kRoQ'
+id: sm_page_title
+theme: sm
+region: content
+weight: -4
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility: {  }

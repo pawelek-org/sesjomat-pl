@@ -1,0 +1,128 @@
+{
+    "uuid": [
+        {
+            "value": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "radny",
+            "target_type": "node_type",
+            "target_uuid": "969258ff-42f3-4752-a6eb-27fffd210068"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-27T11:47:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Anna Kwa\u015bnik"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-27T11:47:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-03T13:22:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/radni\/anna-kwasnik",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [],
+    "field_bip_oswiadczenia_majatkowe": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?p=document&action=save&id=29192&bar_id=11809"
+        },
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?p=document&action=save&id=30994&bar_id=12291"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/www.dopiewo.pl\/radni-z-rady-gminy-dopiewo",
+            "format": "full_html"
+        }
+    ],
+    "field_imie": [
+        {
+            "value": "Anna"
+        }
+    ],
+    "field_nazwisko": [
+        {
+            "value": "Kwa\u015bnik"
+        }
+    ],
+    "field_plec": [
+        {
+            "value": "k"
+        }
+    ],
+    "field_solectwo": [
+        {
+            "value": "Dopiewo, Dopiewiec, Konarzewo, Trzcielin i Wi\u0119ckowice"
+        }
+    ],
+    "field_telefon": [
+        {
+            "value": "501758062"
+        }
+    ]
+}

@@ -1,0 +1,254 @@
+{
+    "uuid": [
+        {
+            "value": "f0af2224-892b-4a16-9e70-095e5b3c525c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-29T19:03:36+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 109"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-29T19:02:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/9\/109",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": " Uchwa\u0142a Nr IX\/109\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 27 maja 2019 r.<br><br>w sprawie miejscowego planu zagospodarowania przestrzennego terenu<br>w miejscowo\u015bci Sk\u00f3rzewo w rejonie ulicy Pozna\u0144skiej i Szarotkowej.<br><br>Na podstawie art. 18 ust. 2 pkt 5 ustawy z dnia 8 marca 1990 r. o<br>samorz\u0105dzie gminnym (Dz. U. z 2019 r. poz. 506) oraz art. 20 ust. 1 ustawy<br>z dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym (Dz.<br>U. z 2018 r. poz. 1945 ze zm.), Rada Gminy Dopiewo uchwala, co nast\u0119puje:<br><br> 1. 1. Uchwala si\u0119 miejscowy plan zagospodarowania przestrzennego terenu<br>w miejscowo\u015bci Sk\u00f3rzewo w rejonie ulicy Pozna\u0144skiej i Szarotkowej,<br>zwany dalej \u201eplanem\u201d,<br>po stwierdzeniu, \u017ce nie narusza on ustale\u0144 Studium uwarunkowa\u0144 i<br>kierunk\u00f3w zagospodarowania przestrzennego gminy Dopiewo.<br><br> 2. Za\u0142\u0105czniki do uchwa\u0142y stanowi\u0105:<br><br> 1. cz\u0119\u015b\u0107 graficzna, b\u0119d\u0105ca integraln\u0105 cz\u0119\u015bci\u0105 uchwa\u0142y, zwana dalej<br>\u201erysunkiem planu\u201d - za\u0142\u0105cznik nr 1;<br><br> 2. rozstrzygni\u0119cie Rady Gminy Dopiewo o sposobie rozpatrzenia uwag do<br>projektu planu - za\u0142\u0105cznik nr 2;<br><br> 3. rozstrzygni\u0119cie Rady Gminy Dopiewo o sposobie realizacji, zapisanych w<br>planie inwestycji z zakresu infrastruktury technicznej, kt\u00f3re nale\u017c\u0105<br>do zada\u0144 w\u0142asnych gminy oraz zasadach ich finansowania, zgodnie z<br>przepisami o finansach publicznych - za\u0142\u0105cznik nr 3.<br><br> 3. Granice obszaru obj\u0119tego planem okre\u015blone s\u0105 na rysunku planu.<br><br> 2. Ilekro\u0107 w dalszych przepisach niniejszej uchwa\u0142y jest mowa o:<br><br> 1. budynku gara\u017cowo-gospodarczym - nale\u017cy przez to rozumie\u0107 budynek<br>\u0142\u0105cz\u0105cy funkcje, niezale\u017cnie od ich proporcji, budynku<br>gospodarczego i gara\u017cu w rozumieniu przepis\u00f3w odr\u0119bnych;<br><br> 2. budynku mieszkalno-us\u0142ugowym - nale\u017cy przez to rozumie\u0107 budynek, w<br>kt\u00f3rym dopuszcza si\u0119 wydzielenie jednego lokalu mieszkalnego i<br>jednego lokalu us\u0142ugowego;<br><br> 3. dachu p\u0142askim - nale\u017cy przez to rozumie\u0107 dach o k\u0105cie nachylenia<br>po\u0142aci dachowych do 12\u00b0;<br><br> 4. dachu stromym - nale\u017cy przez to rozumie\u0107 dach dwu lub wielospadowy<br>o k\u0105cie nachylenia po\u0142aci dachowych od 25\u00b0 do 45\u00b0;<br><br> 5. nieprzekraczalnej linii zabudowy - nale\u017cy przez to rozumie\u0107<br>wyznaczon\u0105 na rysunku planu lini\u0119 okre\u015blaj\u0105c\u0105 minimaln\u0105 odleg\u0142o\u015b\u0107<br>od linii rozgraniczaj\u0105cej tereny o r\u00f3\u017cnym przeznaczeniu lub r\u00f3\u017cnych<br>zasadach zagospodarowania, w jakiej mo\u017cna sytuowa\u0107 budynki;<br><br> 6. powierzchni ca\u0142kowitej zabudowy - nale\u017cy przez to rozumie\u0107 sum\u0119<br>powierzchni ca\u0142kowitej kondygnacji nadziemnych wszystkich budynk\u00f3w<br>na dzia\u0142ce budowlanej;<br><br> 7. powierzchni zabudowy - nale\u017cy przez to rozumie\u0107 sum\u0119 powierzchni<br>zaj\u0119t\u0105 budynkami, przy czym powierzchni\u0119 zabudowy budynku wyznacza<br>rzut pionowy jego zewn\u0119trznych kraw\u0119dzi \u015bcian do powierzchni<br>dzia\u0142ki budowlanej;<br><br> 8. tablicy informacyjnej - nale\u017cy przez to rozumie\u0107 element systemu<br>informacji gminnej, informacji turystycznej, przyrodniczej lub<br>edukacji ekologicznej;<br><br> 9. terenie - nale\u017cy przez to rozumie\u0107 fragment obszaru planu o<br>ustalonym przeznaczeniu i zasadach zagospodarowania, wydzielony na<br>rysunku planu liniami rozgraniczaj\u0105cymi i oznaczony symbolem<br>literowym lub cyfrowo-literowym.<br><br> 3. Ustala si\u0119 nast\u0119puj\u0105ce przeznaczenia teren\u00f3w:<br><br> 1. tereny zabudowy mieszkaniowej jednorodzinnej, oznaczone na rysunku<br>planu symbolami 1MN, 2MN;<br><br> 2. teren zabudowy mieszkaniowej jednorodzinnej oraz zabudowy us\u0142ugowej,<br>oznaczony<br>na rysunku planu symbolem MN\/U;<br><br> 3. teren zabudowy mieszkaniowej wielorodzinnej oraz zabudowy us\u0142ugowej,<br>oznaczony<br>na rysunku planu symbolem MW\/U;<br><br> 4. teren zabudowy us\u0142ugowej, oznaczony na rysunku planu symbolem U;<br><br> 5. teren w\u00f3d powierzchniowych \u015br\u00f3dl\u0105dowych, oznaczony na rysunku planu<br>symbolem WS;<br><br> 6. teren infrastruktury technicznej - elektroenergetyka, oznaczony na<br>rysunku planu symbolem E;<br><br> 7. tereny infrastruktury technicznej - wodoci\u0105g\u00f3w, oznaczone na rysunku<br>planu symbolami 1W, 2W;<br><br> 8. tereny komunikacji:<br><br> a. KDL - teren drogi publicznej klasy lokalnej,<br><br> b. KDW - teren drogi wewn\u0119trznej.<br><br> 4. W zakresie zasad ochrony i kszta\u0142towania \u0142adu przestrzennego ustala<br>si\u0119:<br><br> 1. nakaz sytuowania budynk\u00f3w przy uwzgl\u0119dnieniu nieprzekraczalnych linii<br>zabudowy, zgodnie z rysunkiem planu z zastrze\u017ceniem pkt 2 i 3;<br><br> 2. dopuszczenie wysuni\u0119cia poza nieprzekraczalne linie zabudowy pochylni<br>i spocznik\u00f3w oraz, na odleg\u0142o\u015b\u0107 nie wi\u0119ksz\u0105 ni\u017c 1,5 m, okap\u00f3w,<br>gzyms\u00f3w, balkon\u00f3w oraz schod\u00f3w zewn\u0119trznych, z zachowaniem przepis\u00f3w<br>odr\u0119bnych;<br><br> 3. dla istniej\u0105cej zabudowy dopuszczenie rozbi\u00f3rki, remontu, przebudowy,<br>rozbudowy, nadbudowy z zachowaniem ustale\u0144 planu;<br><br> 4. dla istniej\u0105cej zabudowy dopuszczenie zachowania geometrii dach\u00f3w,<br>wysoko\u015bci budynk\u00f3w, liczby kondygnacji, kolorystyki i u\u017cytych<br>materia\u0142\u00f3w elewacji i dach\u00f3w, w przypadku remontu, przebudowy i<br>rozbudowy;<br><br> 5. dopuszczenie lokalizacji doj\u015b\u0107, dojazd\u00f3w, sieci i urz\u0105dze\u0144<br>infrastruktury technicznej;<br><br> 6. minimalne powierzchnie dzia\u0142ek budowlanych, ustalone w planie, nie<br>dotycz\u0105 wydzielania dzia\u0142ek pod doj\u015bcia, dojazdy, pod obiekty<br>infrastruktury technicznej i w celu regulacji granic mi\u0119dzy<br>s\u0105siaduj\u0105cymi nieruchomo\u015bciami;<br><br> 7. dopuszczenie lokalizacji tablic informacyjnych;<br><br> 8. kolorystyk\u0119 elewacji budynk\u00f3w: biel, odcienie szaro\u015bci, pastelowe z<br>gamy be\u017c, oraz zastosowanych materia\u0142\u00f3w budowlanych w kolorach dla<br>nich naturalnych;<br><br> 9. materia\u0142 elewacji budynk\u00f3w: ceg\u0142a klinkierowa, licowa, kamie\u0144<br>naturalny, ok\u0142adziny ceramiczne, drewniane, tynki, p\u0142yty elewacyjne;<br><br>10. zasady stosowania kolorystyki i materia\u0142\u00f3w elewacji budynk\u00f3w,<br>okre\u015blone w pkt 8, 9 dotycz\u0105 80% powierzchni ka\u017cdej ze \u015bcian budynk\u00f3w;<br><br>11. zakaz stosowania blachy falistej i trapezowej jako materia\u0142u elewacji<br>zewn\u0119trznej budynk\u00f3w i gara\u017cy.<br><br> 5. W zakresie zasad ochrony \u015brodowiska, przyrody i krajobrazu ustala si\u0119:<br><br> 1. zakaz lokalizacji przedsi\u0119wzi\u0119\u0107 mog\u0105cych zawsze znacz\u0105co oddzia\u0142ywa\u0107<br>na \u015brodowisko oraz mog\u0105cych potencjalnie znacz\u0105co oddzia\u0142ywa\u0107 na<br>\u015brodowisko, z dopuszczeniem inwestycji celu publicznego oraz na<br>terenie 1W i 2W wierce\u0144 wykonywanych w celu zaopatrzenia w wod\u0119;<br><br> 2. zakaz lokalizacji zak\u0142ad\u00f3w i instalacji zwi\u0105zanych z odzyskiem i<br>unieszkodliwianiem odpad\u00f3w, w tym ich magazynowaniem oraz zbieraniem;<br><br> 3. nakaz aby oddzia\u0142ywanie z instalacji, zwi\u0105zanych z przeznaczeniem<br>terenu, nie powodowa\u0142o przekroczenia standard\u00f3w jako\u015bci \u015brodowiska,<br>zgodnie z przepisami odr\u0119bnymi;<br><br> 4. w zakresie ochrony przed ha\u0142asem:<br><br> a. tereny zabudowy mieszkaniowej jednorodzinnej, oznaczone na rysunku<br>planu symbolami 1MN, 2MN - kwalifikowane s\u0105 jako tereny zabudowy<br>mieszkaniowej jednorodzinnej, zgodnie z przepisami odr\u0119bnymi,<br><br> b. teren zabudowy mieszkaniowej jednorodzinnej oraz zabudowy us\u0142ugowej,<br>oznaczony na rysunku planu symbolem MN\/U, kwalifikowany jest jako<br>teren mieszkaniowo-us\u0142ugowy, zgodnie z przepisami odr\u0119bnymi,<br><br> c. teren zabudowy mieszkaniowej wielorodzinnej oraz zabudowy us\u0142ugowej,<br>oznaczony na rysunku planu symbolem MW\/U kwalifikowany jest jako teren<br>mieszkaniowo-us\u0142ugowy oraz teren zabudowy mieszkaniowej wielorodzinnej<br>i zamieszkania zbiorowego, zgodnie z przepisami odr\u0119bnymi.<br><br> 6. W zakresie zasad kszta\u0142towania krajobrazu nie podejmuje si\u0119 ustale\u0144.<br><br> 7. W zakresie zasad ochrony dziedzictwa kulturowego i zabytk\u00f3w, w tym<br>krajobraz\u00f3w kulturowych, oraz d\u00f3br kultury wsp\u00f3\u0142czesnej nie podejmuje<br>si\u0119 ustale\u0144.<br><br> 8. W zakresie wymaga\u0144 wynikaj\u0105cych z potrzeb kszta\u0142towania przestrzeni<br>publicznych nie podejmuje si\u0119 ustale\u0144.<br><br> 9. Nie ustala si\u0119 granic i sposob\u00f3w zagospodarowania teren\u00f3w lub obiekt\u00f3w<br>podlegaj\u0105cych ochronie, na podstawie odr\u0119bnych przepis\u00f3w, teren\u00f3w<br>g\u00f3rniczych, a tak\u017ce obszar\u00f3w szczeg\u00f3lnego zagro\u017cenia powodzi\u0105,<br>obszar\u00f3w osuwania si\u0119 mas ziemnych, krajobraz\u00f3w priorytetowych<br>okre\u015blonych w audycie krajobrazowym oraz w planach zagospodarowania<br>przestrzennego wojew\u00f3dztwa.<br><br>10. 1. Ustala si\u0119 nast\u0119puj\u0105ce szczeg\u00f3\u0142owe zasady i warunki scalania i<br>podzia\u0142u nieruchomo\u015bci obj\u0119tych planem:<br><br> 1. minimaln\u0105 powierzchni\u0119 dzia\u0142ki budowlanej:<br><br> a. na terenach MN - 700 m\u00b2,<br><br> b. na terenie MN\/U - 350 m\u00b2,<br><br> c. na terenie MW\/U - 1500 m\u00b2,<br><br> 2. minimaln\u0105 szeroko\u015b\u0107 frontu dzia\u0142ki budowlanej na terenach MN, MN\/U i<br>MW\/U - 18 m;<br><br> 3. k\u0105t po\u0142o\u017cenia granic dzia\u0142ek budowlanych w stosunku do pasa drogowego<br>przyleg\u0142ych dr\u00f3g 70\u00b0 do 110\u00b0.<br><br> 2. Nie wyznacza si\u0119 granic obszar\u00f3w wymagaj\u0105cych przeprowadzenia scale\u0144<br>i podzia\u0142\u00f3w nieruchomo\u015bci.<br><br>11. W zakresie szczeg\u00f3lnych warunk\u00f3w zagospodarowania teren\u00f3w oraz<br>ogranicze\u0144 w ich u\u017cytkowaniu, w tym zakazu zabudowy, ustala si\u0119:<br><br> 1. nakaz uwzgl\u0119dnienia w zagospodarowaniu i zabudowie terenu<br>ogranicze\u0144 wynikaj\u0105cych z odleg\u0142o\u015bci technicznych od sieci i<br>urz\u0105dze\u0144 infrastruktury technicznej, zgodnie z przepisami<br>odr\u0119bnymi;<br><br> 2. nakaz uwzgl\u0119dnienia w pasie ochrony funkcyjnej linii<br>elektroenergetycznej \u015bredniego napi\u0119cia 15 kV ogranicze\u0144 w<br>zagospodarowaniu i zabudowie terenu wynikaj\u0105cych z jej przebiegu,<br>zgodnie z przepisami odr\u0119bnymi;<br><br> 3. pasy techniczne rowu, wyznaczone na rysunku planu, dla kt\u00f3rych<br>ustala si\u0119:<br><br> a. szeroko\u015b\u0107 5,0 m od granicy rowu,<br><br> b. zakaz lokalizacji budynk\u00f3w,<br><br> c. zakaz realizacji zieleni wysokiej;<br><br> 4. w strefie ochrony bezpo\u015bredniej uj\u0119cia wody ustala si\u0119 zakazy,<br>ograniczenia i nakazy, zgodnie z przepisami odr\u0119bnymi;<br><br> 5. w przypadku lokalizacji obiekt\u00f3w budowlanych o wysoko\u015bci r\u00f3wnej i<br>wi\u0119kszej ni\u017c 50 m n.p.t. nakaz zg\u0142oszenia do w\u0142a\u015bciwego organu<br>ruchu lotniczego, przed wydaniem decyzji o pozwoleniu na budow\u0119;<br><br> 6. w granicach zasi\u0119gu powierzchni ograniczaj\u0105cych lotniska<br>Pozna\u0144-\u0141awica nakaz ograniczenia wysoko\u015bci obiekt\u00f3w budowlanych i <br>naturalnych, w tym tak\u017ce sieci i urz\u0105dze\u0144 infrastruktury<br>telekomunikacyjnej, zgodnie z dokumentacj\u0105 rejestracyjn\u0105 lotniska<br>Pozna\u0144-\u0141awica;<br><br> 7. zakaz budowy i rozbudowy obiekt\u00f3w budowlanych, kt\u00f3re mog\u0105 stanowi\u0107<br>\u017ar\u00f3d\u0142o \u017cerowania ptak\u00f3w, zgodnie z przepisami odr\u0119bnymi.<br><br>12. Dla teren\u00f3w zabudowy mieszkaniowej jednorodzinnej, oznaczonych na<br>rysunku planu symbolami 1MN, 2MN ustala si\u0119 nast\u0119puj\u0105ce zasady<br>kszta\u0142towania zabudowy oraz wska\u017aniki zagospodarowania terenu:<br><br> 1. dopuszczenie lokalizacji wy\u0142\u0105cznie jednego budynku mieszkalnego<br>jednorodzinnego wolnostoj\u0105cego na dzia\u0142ce budowlanej;<br><br> 2. dopuszczenie lokalizacji gara\u017cy, budynk\u00f3w gospodarczych i budynk\u00f3w<br>gara\u017cowo-gospodarczych wolnostoj\u0105cych \u015bcian\u0105 bez okien i drzwi w<br>odleg\u0142o\u015bci 1,5 m od granicy z s\u0105siednimi dzia\u0142kami budowlanymi lub<br>bezpo\u015brednio przy granicy z tymi dzia\u0142kami z uwzgl\u0119dnieniem linii<br>zabudowy wyznaczonych na rysunku planu oraz z zachowaniem<br>przepis\u00f3w odr\u0119bnych;<br><br> 3. wska\u017anik intensywno\u015bci zabudowy od 0,05 do 0,50, liczony jako<br>stosunek powierzchni ca\u0142kowitej zabudowy do powierzchni dzia\u0142ki<br>budowlanej;<br><br> 4. maksymaln\u0105 powierzchni\u0119 zabudowy - 25% powierzchni dzia\u0142ki<br>budowlanej;<br><br> 5. minimalny udzia\u0142 powierzchni terenu biologicznie czynnego w<br>stosunku do powierzchni dzia\u0142ki budowlanej - 55%;<br><br> 6. maksymaln\u0105 wysoko\u015b\u0107:<br><br> a. budynku mieszkalnego - 9,0 m,<br><br> b. gara\u017cy, budynk\u00f3w gospodarczych oraz gara\u017cowo-gospodarczych:<br><br>* o dachach stromych - 5,0 m,<br><br>* o dachach p\u0142askich - 4,0 m;<br><br> 1. liczb\u0119 kondygnacji:<br><br> a. budynku mieszkalnego - maksymalnie 2 kondygnacje nadziemne,<br><br> b. gara\u017cy, budynk\u00f3w gospodarczych oraz gara\u017cowo-gospodarczych -<br>1 kondygnacja nadziemna;<br><br> 2. zakaz lokalizacji kondygnacji podziemnych;<br><br> 3. geometri\u0119 dach\u00f3w:<br><br> a. budynku mieszkalnego - dachy strome,<br><br> b. gara\u017cy, budynk\u00f3w gospodarczych oraz<br>gara\u017cowo-gospodarczych - dachy p\u0142askie lub strome;<br><br> 4. minimaln\u0105 powierzchni\u0119 nowo wydzielanej dzia\u0142ki budowlanej -<br>700 m\u00b2;<br><br> 5. obs\u0142ug\u0119 komunikacyjn\u0105 z terenu drogi publicznej<br>zlokalizowanej poza obszarem planu lub z terenu drogi<br>wewn\u0119trznej w powi\u0105zaniu z drog\u0105 publiczn\u0105 zlokalizowan\u0105 poza<br>obszarem planu.<br><br>13. Dla terenu zabudowy mieszkaniowej jednorodzinnej oraz zabudowy<br>us\u0142ugowej, oznaczonego na rysunku planu symbolem MN\/U ustala si\u0119<br>nast\u0119puj\u0105ce zasady kszta\u0142towania zabudowy oraz wska\u017aniki<br>zagospodarowania terenu:<br><br> 1. lokalizacj\u0119 budynku mieszkalnego jednorodzinnego<br>wolnostoj\u0105cego;<br><br> 2. lokalizacj\u0119 budynku mieszkalno-us\u0142ugowego;<br><br> 3. lokalizacj\u0119 budynku us\u0142ugowego;<br><br> 4. dopuszczenie lokalizacji w ramach dzia\u0142ki budowlanej<br>wy\u0142\u0105cznie jednego rodzaju budynk\u00f3w, o kt\u00f3rych mowa w pkt 1, 2<br>i 3;<br><br> 5. zakaz lokalizacji budynk\u00f3w gospodarczych,<br>gara\u017cowo-gospodarczych i gara\u017cy;<br><br> 6. wska\u017anik intensywno\u015bci zabudowy od 0,05 do 1 liczony jako<br>stosunek powierzchni ca\u0142kowitej zabudowy do powierzchni<br>dzia\u0142ki budowlanej;<br><br> 7. maksymaln\u0105 powierzchni\u0119 zabudowy - 50% powierzchni dzia\u0142ki<br>budowlanej;<br><br> 8. minimalny udzia\u0142 powierzchni terenu biologicznie czynnego w<br>stosunku do powierzchni dzia\u0142ki budowlanej - 40%;<br><br> 9. maksymaln\u0105 wysoko\u015b\u0107 budynk\u00f3w - 10,0 m;<br><br>10. liczb\u0119 kondygnacji budynk\u00f3w - maksymalnie 2 kondygnacje<br>nadziemne;<br><br>11. zakaz lokalizacji kondygnacji podziemnych;<br><br>12. geometri\u0119 dach\u00f3w - dachy strome;<br><br>13. minimaln\u0105 powierzchni\u0119 nowo wydzielanej dzia\u0142ki budowlanej -<br>350 m\u00b2;<br><br>14. obs\u0142ug\u0119 komunikacyjn\u0105 z terenu drogi publicznej<br>zlokalizowanej poza obszarem planu.<br><br>14. Dla terenu zabudowy mieszkaniowej wielorodzinnej oraz zabudowy<br>us\u0142ugowej, oznaczonego na rysunku planu symbolem MW\/U ustala si\u0119<br>nast\u0119puj\u0105ce zasady kszta\u0142towania zabudowy oraz wska\u017aniki<br>zagospodarowania terenu:<br><br> 1. lokalizacj\u0119 budynk\u00f3w mieszkalnych wielorodzinnych;<br><br> 2. dopuszczenie lokalizacji lokali us\u0142ugowych w parterach<br>budynk\u00f3w mieszkalnych wielorodzinnych;<br><br> 3. lokalizacj\u0119 budynk\u00f3w us\u0142ugowych z zakazem lokalizacji<br>obiekt\u00f3w handlowych o powierzchni sprzeda\u017cy powy\u017cej 2000 m\u00b2;<br><br> 4. zakaz lokalizacji budynk\u00f3w gospodarczych,<br>gara\u017cowo-gospodarczych i gara\u017cy;<br><br> 5. wska\u017anik intensywno\u015bci zabudowy od 0,05 do 1,25 liczony jako<br>stosunek powierzchni ca\u0142kowitej zabudowy do powierzchni<br>dzia\u0142ki budowlanej;<br><br> 6. maksymaln\u0105 powierzchni\u0119 zabudowy - 25% powierzchni dzia\u0142ki<br>budowlanej;<br><br> 7. minimalny udzia\u0142 powierzchni terenu biologicznie czynnego w<br>stosunku do powierzchni dzia\u0142ki budowlanej - 30%;<br><br> 8. maksymaln\u0105 wysoko\u015b\u0107 budynk\u00f3w - 15,0 m;<br><br> 9. liczb\u0119 kondygnacji budynk\u00f3w - maksymalnie 5 kondygnacji<br>nadziemnych,<br><br>10. zakaz lokalizacji kondygnacji podziemnych;<br><br>11. geometri\u0119 dach\u00f3w budynk\u00f3w - dachy p\u0142askie;<br><br>12. minimaln\u0105 powierzchni\u0119 nowo wydzielanej dzia\u0142ki budowlanej -<br>1500m\u00b2;<br><br>13. obs\u0142ug\u0119 komunikacyjn\u0105 z terenu drogi publicznej<br>zlokalizowanej poza obszarem planu poprzez istniej\u0105ce zjazdy.<br><br>15. Dla terenu zabudowy us\u0142ugowej, oznaczonego na rysunku planu<br>symbolem U ustala si\u0119 nast\u0119puj\u0105ce zasady kszta\u0142towania zabudowy<br>oraz wska\u017aniki zagospodarowania terenu:<br><br> 1. lokalizacj\u0119 budynk\u00f3w us\u0142ugowych z zakresu handlu, gastronomii<br>i budynk\u00f3w administracyjno-biurowych, z zastrze\u017ceniem pkt 2;<br><br> 2. zakaz lokalizacji obiekt\u00f3w handlowych o powierzchni sprzeda\u017cy<br>powy\u017cej 2000 m\u00b2;<br><br> 3. zakaz lokalizacji budynk\u00f3w gospodarczych,<br>gara\u017cowo-gospodarczych i gara\u017cy;<br><br> 4. wska\u017anik intensywno\u015bci zabudowy od 0,05 do 0,50, liczony jako<br>stosunek powierzchni ca\u0142kowitej zabudowy do powierzchni<br>dzia\u0142ki budowlanej;<br><br> 5. maksymaln\u0105 powierzchni\u0119 zabudowy - 25% powierzchni dzia\u0142ki<br>budowlanej;<br><br> 6. minimalny udzia\u0142 powierzchni terenu biologicznie czynnego w<br>stosunku do powierzchni dzia\u0142ki budowlanej - 20%;<br><br> 7. maksymaln\u0105 wysoko\u015b\u0107 budynk\u00f3w - 9,0 m,<br><br> 8. liczb\u0119 kondygnacji budynk\u00f3w - maksymalnie 2 kondygnacje<br>nadziemne,<br><br> 9. zakaz lokalizacji kondygnacji podziemnych;<br><br>10. geometri\u0119 dach\u00f3w budynk\u00f3w - dachy p\u0142askie lub strome;<br><br>11. minimaln\u0105 powierzchni\u0119 nowo wydzielanej dzia\u0142ki budowlanej -<br>1500 m\u00b2;<br><br>12. obs\u0142ug\u0119 komunikacyjn\u0105 z terenu drogi publicznej, oznaczonej<br>na rysunku planu symbolem KDL - ulicy Szarotkowej.<br><br>16. Dla terenu w\u00f3d powierzchniowych \u015br\u00f3dl\u0105dowych, oznaczonego na<br>rysunku planu symbolem WS ustala si\u0119:<br><br> 1. zachowanie dotychczasowego sposobu u\u017cytkowania terenu - r\u00f3w;<br><br> 2. zakaz lokalizacji obiekt\u00f3w budowlanych z dopuszczeniem<br>urz\u0105dze\u0144 wodnych<br>w rozumieniu przepis\u00f3w odr\u0119bnych;<br><br> 3. dopuszczenie lokalizacji sieci infrastruktury technicznej z<br>zachowaniem ci\u0105g\u0142o\u015bci i przepustowo\u015bci rowu.<br><br>17. Dla terenu infrastruktury technicznej - elektroenergetyki,<br>oznaczonego na rysunku planu symbolem E ustala si\u0119:<br><br> 1. lokalizacj\u0119 stacji transformatorowych oraz sieci i urz\u0105dze\u0144<br>infrastruktury technicznej - elektroenergetycznej;<br><br> 2. zakaz lokalizacji budynk\u00f3w.<br><br>18. Dla teren\u00f3w infrastruktury technicznej - wodoci\u0105g\u00f3w, oznaczonych<br>na rysunku planu symbolami 1W, 2W ustala si\u0119:<br><br> 1. lokalizacj\u0119 obiekt\u00f3w budowlanych, w tym sieci i urz\u0105dze\u0144<br>technicznych, zwi\u0105zanych z infrastruktur\u0105 wodoci\u0105gow\u0105;<br><br> 2. dopuszczenie odbudowy, rozbudowy, przebudowy i remontu<br>istniej\u0105cych obiekt\u00f3w budowlanych pod warunkiem zachowania<br>ustale\u0144 planu i zgodno\u015bci z przepisami szczeg\u00f3lnymi;<br><br> 3. wska\u017anik intensywno\u015bci zabudowy od 0,00 do 0,60, liczony jako<br>stosunek powierzchni ca\u0142kowitej zabudowy do powierzchni<br>dzia\u0142ki budowlanej;<br><br> 4. maksymaln\u0105 powierzchni\u0119 zabudowy - 60% powierzchni dzia\u0142ki<br>budowlanej;<br><br> 5. minimalny udzia\u0142 powierzchni terenu biologicznie czynnego w<br>stosunku do powierzchni dzia\u0142ki budowlanej - 20%;<br><br> 6. maksymaln\u0105 wysoko\u015b\u0107 obiekt\u00f3w budowlanych - 8,0 m;<br><br> 7. geometri\u0119 dach\u00f3w - dachy p\u0142askie;<br><br> 8. obs\u0142ug\u0119 komunikacyjn\u0105:<br><br> a. terenu 1W - z terenu drogi publicznej, oznaczonej na rysunku<br>planu symbolem KDL - ulicy Szarotkowej,<br><br> b. terenu 2W - z terenu drogi wewn\u0119trznej w powi\u0105zaniu z drog\u0105<br>publiczn\u0105 zlokalizowan\u0105 poza granicami obszaru obj\u0119tego<br>planem.<br><br>19. 1. W zakresie zasad modernizacji, rozbudowy i budowy system\u00f3w<br>komunikacji ustala si\u0119:<br><br> 1. nakaz zapewnienia wymaganych stanowisk postojowych na dzia\u0142ce<br>budowlanej, w liczbie nie mniejszej ni\u017c:<br><br> a. na terenach MN i MN\/U dw\u00f3ch stanowisk postojowych na jeden<br>lokal mieszkalny, wliczaj\u0105c w to stanowiska postojowe w<br>gara\u017cach oraz budynkach gara\u017cowo-gospodarczych,<br><br> b. na terenie MW\/U dw\u00f3ch stanowisk postojowych na jeden lokal<br>mieszkalny,<br><br> c. jednego stanowiska postojowego na 45 m\u00b2 powierzchni<br>u\u017cytkowej lokalu us\u0142ugowego lub budynku us\u0142ugowego;<br><br> 2. nakaz zapewnienia stanowisk postojowych dla pojazd\u00f3w<br>zaopatrzonych w kart\u0119 parkingow\u0105 zgodnie z przepisami odr\u0119bnymi,<br><br> 3. dla terenu drogi publicznej klasy lokalnej, oznaczonego na<br>rysunku planu symbolem KDL:<br><br> a. szeroko\u015b\u0107 w liniach rozgraniczaj\u0105cych - zgodnie z rysunkiem<br>planu,<br><br> b. zakaz sytuowania tymczasowych obiekt\u00f3w budowlanych i<br>urz\u0105dze\u0144 niezwi\u0105zanych lub koliduj\u0105cych z funkcj\u0105 terenu,<br><br> c. zakaz lokalizacji stanowisk postojowych;<br><br> 4. dla terenu drogi wewn\u0119trznej, oznaczonej na rysunku planu<br>symbolem KDW:<br><br> a. szeroko\u015b\u0107 w liniach rozgraniczaj\u0105cych - zgodnie z rysunkiem<br>planu,<br><br> b. zakaz sytuowania tymczasowych obiekt\u00f3w budowlanych i<br>urz\u0105dze\u0144 niezwi\u0105zanych lub koliduj\u0105cych z funkcj\u0105 terenu,<br><br> c. zakaz lokalizacji stanowisk postojowych.<br><br>2. W zakresie zasad modernizacji, rozbudowy i budowy infrastruktury<br>technicznej ustala si\u0119:<br><br> 1. dopuszczenie budowy, przebudowy, rozbudowy, odbudowy, remontu<br>oraz rozbi\u00f3rki sieci i  urz\u0105dze\u0144 infrastruktury technicznej,<br>zgodnie z przepisami odr\u0119bnymi;<br><br> 2. zaopatrzenie w wod\u0119 z sieci wodoci\u0105gowej, zgodnie z przepisami<br>odr\u0119bnymi;<br><br> 3. w zakresie odprowadzania \u015bciek\u00f3w bytowych i komunalnych<br>odprowadzanie do sieci kanalizacji sanitarnej, zgodnie<br>z przepisami odr\u0119bnymi;<br><br> 4. w zakresie odprowadzania w\u00f3d opadowych i roztopowych:<br><br> a. odprowadzanie do sieci kanalizacji deszczowej, zgodnie z<br>przepisami odr\u0119bnymi,<br><br> b. dopuszczenie zagospodarowania w\u00f3d opadowych i roztopowych w<br>granicach w\u0142asnej dzia\u0142ki bez naruszania interesu os\u00f3b<br>trzecich, zgodnie z przepisami odr\u0119bnymi,<br><br> c. dopuszczenie odprowadzania w\u00f3d opadowych i roztopowych do<br>rowu, zgodnie<br>z przepisami odr\u0119bnymi;<br><br> 5. zasilanie z sieci gazowej, zgodnie z przepisami odr\u0119bnymi;<br><br> 6. w zakresie zaopatrzenia w energi\u0119 elektryczn\u0105:<br><br> a. pod\u0142\u0105czenie do sieci elektroenergetycznej,<br><br> b. dopuszczenie lokalizacji stacji transformatorowych;<br><br> 7. w zakresie zaopatrzenia w ciep\u0142o nakaz stosowania do cel\u00f3w<br>grzewczych paliw charakteryzuj\u0105cych si\u0119 niskimi wska\u017anikami<br>emisyjnymi, energii elektrycznej lub odnawialnych \u017ar\u00f3de\u0142<br>energii, zgodnie z przepisami odr\u0119bnymi;<br><br> 8. nakaz gromadzenia i zagospodarowania odpad\u00f3w, zgodnie z<br>przepisami odr\u0119bnymi.<br><br>20. W zakresie sposobu i terminu tymczasowego zagospodarowania,<br>urz\u0105dzania<br>i u\u017cytkowania teren\u00f3w nie podejmuje si\u0119 ustale\u0144.<br><br>21. Ustala si\u0119 stawk\u0119 procentow\u0105, s\u0142u\u017c\u0105c\u0105 naliczeniu jednorazowej<br>op\u0142aty od wzrostu warto\u015bci nieruchomo\u015bci, o kt\u00f3rej mowa w art. 36<br>ust. 4 ustawy o planowaniu<br>i zagospodarowaniu przestrzennym w wysoko\u015bci 15%.<br><br>22. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>23. Uchwa\u0142a wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia w<br>Dzienniku Urz\u0119dowym Wojew\u00f3dztwa Wielkopolskiego.<br><br>Uzasadnienie<br><br>Na podstawie Uchwa\u0142y Nr XLI\/577\/18 Rady Gminy Dopiewo z dnia 23<br>kwietnia 2018 r., podj\u0119to czynno\u015bci zmierzaj\u0105ce do opracowania<br>projektu miejscowego planu zagospodarowania przestrzennego terenu w<br>miejscowo\u015bci Sk\u00f3rzewo w rejonie ulicy Pozna\u0144skiej i Szarotkowej.<br><br>Procedura opracowania miejscowego planu przebiega\u0142a zgodnie z ustaw\u0105 z<br>dnia 27 marca 2003 r. o planowaniu i zagospodarowaniu przestrzennym<br>(Dz. U. z 2018 r. poz. 1945 ze zm.).<br><br>Na terenie obj\u0119tym projektem planu obowi\u0105zuj\u0105 ustalenia:<br><br>* miejscowego planu zagospodarowania przestrzennego terenu<br>aktywizacji gospodarczej w Sk\u00f3rzewie rejon ulic Pozna\u0144skiej i<br>Malwowej (Uchwa\u0142a nr XXXV\/233\/97 Rady Gminy Dopiewo z dnia 15<br>grudnia 1997r.),<br><br>* miejscowego planu zagospodarowania przestrzennego terenu w<br>miejscowo\u015bci Sk\u00f3rzewo dzia\u0142ka nr 306\/9 (Uchwa\u0142a Nr XLIX\/428\/02<br>Rady Gminy Dopiewo z dnia 25 lutego 2002r.).<br><br>Uwzgl\u0119dniaj\u0105c potrzeby interesu publicznego W\u00f3jt Gminy Dopiewo<br>zawiadomi\u0142 na pi\u015bmie o przyst\u0105pieniu do sporz\u0105dzenia miejscowego planu<br>zagospodarowania przestrzennego odpowiednie instytucje i organy<br>w\u0142a\u015bciwe do jego uzgadniania i opiniowania oraz zamie\u015bci\u0142<br>obwieszczenie oraz og\u0142oszenie w prasie miejscowej. Zgodnie z art. 53<br>ustawy z dnia 3 pa\u017adziernika 2008 r. o udost\u0119pnianiu informacji o<br>\u015brodowisku i jego ochronie, udziale spo\u0142ecze\u0144stwa w ochronie<br>\u015brodowiska oraz o ocenach oddzia\u0142ywania na \u015brodowisko (Dz. U. z 2018<br>r. poz. 2081 z p\u00f3\u017an. zm.) W\u00f3jt wyst\u0105pi\u0142 r\u00f3wnie\u017c o uzgodnienie zakresu<br>i stopnia szczeg\u00f3\u0142owo\u015bci informacji zawartych w prognozie<br>oddzia\u0142ywania na \u015brodowisko projektu planu do Regionalnego Dyrektora<br>Ochrony \u015arodowiska w Poznaniu oraz Pa\u0144stwowego Powiatowego Inspektora<br>Sanitarnego w Poznaniu.<br><br>Po rozpatrzeniu wniosk\u00f3w i odpowiedzi instytucji sporz\u0105dzono projekt<br>miejscowego planu wraz z prognoz\u0105 oddzia\u0142ywania na \u015brodowisko i<br>prognoz\u0105 skutk\u00f3w finansowych, stwierdzaj\u0105c jednocze\u015bnie, \u017ce nie<br>narusza on ustale\u0144 Studium uwarunkowa\u0144 i kierunk\u00f3w zagospodarowania<br>przestrzennego gminy Dopiewo.<br><br>W projekcie planu uwzgl\u0119dniono:<br><br>* wymagania \u0142adu przestrzennego, w tym urbanistyki i architektury<br>poprzez wprowadzenie w projekcie planu zasad ochrony i<br>kszta\u0142towania \u0142adu przestrzennego, okre\u015blenie zasad kszta\u0142towania<br>zabudowy i wska\u017anik\u00f3w zagospodarowania teren\u00f3w oraz<br>zaproponowanie podzia\u0142u funkcjonalnego teren\u00f3w zabudowy,<br><br>* walory architektoniczne i krajobrazowe poprzez okre\u015blenie zasad<br>kszta\u0142towania zabudowy oraz wska\u017anik\u00f3w zagospodarowania terenu,<br><br>* wymagania ochrony \u015brodowiska, w tym gospodarowania wodami i<br>ochrony grunt\u00f3w rolnych i le\u015bnych poprzez dokonanie szczeg\u00f3\u0142owej<br>analizy wszystkich zagadnie\u0144 dotycz\u0105cych ochrony \u015brodowiska w<br>prognozie oddzia\u0142ywania na \u015brodowisko oraz zawarcie w projekcie<br>planu zasad ochrony \u015brodowiska, przyrody i krajobrazu, a tak\u017ce<br>zasad pod\u0142\u0105czenia do sieci wodoci\u0105gowej oraz innych sieci<br>infrastruktury technicznej; z uwagi na brak wyst\u0119puj\u0105cych na<br>danym terenie u\u017cytk\u00f3w le\u015bnych nie podj\u0119to ustale\u0144 dotycz\u0105cych<br>ochrony grunt\u00f3w le\u015bnych, na terenie obj\u0119tym planem nie wyst\u0119puj\u0105<br>grunty rolne wysokiej klasy bonitacyjnej, w zwi\u0105zku z tym nie<br>jest wymagana zgoda na przeznaczenie grunt\u00f3w rolnych na cele<br>nierolnicze i niele\u015bne,<br><br>* wymagania ochrony dziedzictwa kulturowego i zabytk\u00f3w oraz d\u00f3br<br>kultury wsp\u00f3\u0142czesnej poprzez uzgodnienie projektu z Powiatowym<br>Konserwatorem Zabytk\u00f3w, w granicach obszaru obj\u0119tego planem nie<br>wyst\u0119puj\u0105 zewidencjonowane obiekty zabytkowe, podlegaj\u0105ce<br>ochronie konserwatorskiej;<br><br>* wymagania ochrony zdrowia oraz bezpiecze\u0144stwa ludzi i mienia, a<br>tak\u017ce potrzeby os\u00f3b niepe\u0142nosprawnych poprzez wprowadzenie zakazu<br>lokalizacji przedsi\u0119wzi\u0119\u0107 mog\u0105cych zawsze znacz\u0105co oraz<br>potencjalnie znacz\u0105co oddzia\u0142ywa\u0107 na \u015brodowisko, z dopuszczeniem<br>inwestycji celu publicznego oraz na terenie 1W i 2W wierce\u0144<br>wykonywanych w celu zaopatrzenia w wod\u0119; wprowadzenie zapis\u00f3w<br>reguluj\u0105cych spos\u00f3b zaopatrzenia w ciep\u0142o do cel\u00f3w grzewczych,<br>wprowadzenie nakazu zapewnienia miejsc postojowych dla pojazd\u00f3w<br>zaopatrzonych w kart\u0119 parkingow\u0105 zgodnie z przepisami odr\u0119bnymi;<br>analiza powy\u017cszych wymaga\u0144 zawarta zosta\u0142a r\u00f3wnie\u017c w prognozie<br>oddzia\u0142ywania na \u015brodowisko,<br><br>* walory ekonomiczne przestrzeni - poprzez stworzenie koncepcji<br>zagospodarowania uwzgl\u0119dniaj\u0105cej istniej\u0105ce uwarunkowania<br>komunikacyjne oraz sieci infrastruktury technicznej szczeg\u00f3\u0142owej<br>analizy walor\u00f3w ekonomicznych dokonano w prognozie skutk\u00f3w<br>finansowych dla miejscowego planu,<br><br>* prawo w\u0142asno\u015bci poprzez wykonanie analizy stanu w\u0142asno\u015bci terenu<br>obj\u0119tego planem oraz dostosowanie zagospodarowania do<br>istniej\u0105cych uwarunkowa\u0144 prawnych,<br><br>* potrzeby obronno\u015bci i bezpiecze\u0144stwa pa\u0144stwa poprzez uzgodnienie<br>projektu miejscowego planu z w\u0142a\u015bciwymi organami wojskowymi,<br>ochrony granic oraz bezpiecze\u0144stwa pa\u0144stwa,<br><br>* potrzeby interesu publicznego poprzez umo\u017cliwienie udzia\u0142u<br>spo\u0142ecze\u0144stwa w procedurze planistycznej zgodnie w wymogami<br>ustawy o planowaniu i zagospodarowaniu przestrzennym, oraz ustawy<br>o udost\u0119pnianiu informacji o \u015brodowisku i jego ochronie, udziale<br>spo\u0142ecze\u0144stwa w ochronie \u015brodowiska oraz o ocenach oddzia\u0142ywania<br>na \u015brodowisko,<br><br>* potrzeby w zakresie rozwoju infrastruktury technicznej, w<br>szczeg\u00f3lno\u015bci sieci szerokopasmowych poprzez wprowadzenie w<br>projekcie planu zasad modernizacji, rozbudowy i budowy<br>infrastruktury technicznej oraz dopuszczenie realizacji<br>inwestycji celu publicznego w zakresie inwestycji mog\u0105cych zawsze<br>znacz\u0105co i potencjalnie znacz\u0105co oddzia\u0142ywa\u0107 na \u015brodowisko,<br><br>* zapewnienie udzia\u0142u spo\u0142ecze\u0144stwa w pracach nad miejscowym planem<br>zagospodarowania przestrzennego, w tym przy u\u017cyciu \u015brodk\u00f3w<br>komunikacji elektronicznej poprzez umo\u017cliwienie udzia\u0142u<br>spo\u0142ecze\u0144stwa w procedurze planistycznej zgodnie z wymogami<br>ustawy o planowaniu i zagospodarowaniu przestrzennym oraz ustawy<br>o udost\u0119pnianiu informacji o \u015brodowisku i jego ochronie, udziale<br>spo\u0142ecze\u0144stwa w ochronie \u015brodowiska oraz o ocenach oddzia\u0142ywania<br>na \u015brodowisko,<br><br>* zachowanie jawno\u015bci i przejrzysto\u015bci procedur planistycznych<br>poprzez prowadzenie procedury zgodnie z zakresem okre\u015blonym w<br>ustawie o planowaniu i zagospodarowaniu przestrzennym, oraz w<br>innych aktach prawnych powszechnie obowi\u0105zuj\u0105cych,<br><br>* potrzeb\u0119 zapewnienia odpowiedniej ilo\u015bci i jako\u015bci wody do cel\u00f3w<br>zaopatrzenia ludno\u015bci, poprzez wprowadzenie zabudowy w<br>s\u0105siedztwie teren\u00f3w wyposa\u017conych w sieci infrastruktury<br>technicznej, w tym wodoci\u0105gowej, wprowadzenie zapis\u00f3w w zakresie<br>zaopatrzenie w wod\u0119, zgodnie z przepisami odr\u0119bnymi. Ponadto w<br>projekcie planu wyznaczone zosta\u0142y tereny infrastruktury<br>technicznej - wodoci\u0105g\u00f3w, na kt\u00f3rych zlokalizowane s\u0105 uj\u0119cia w\u00f3d<br>podziemnych. Dopuszczono r\u00f3wnie\u017c ich rozbudow\u0119.<br><br>Ustalaj\u0105c przeznaczenie poszczeg\u00f3lnych teren\u00f3w lub okre\u015blaj\u0105c<br>potencjalny spos\u00f3b zagospodarowania i korzystania z terenu wywa\u017cone<br>zosta\u0142y interesy zar\u00f3wno publiczne jak i interesy prywatne poprzez<br>analiz\u0119 w\u0142asno\u015bciow\u0105 teren\u00f3w i stworzenie uk\u0142adu funkcjonalnego, z<br>uwzgl\u0119dnieniem istniej\u0105cych uwarunkowa\u0144 w\u0142asno\u015bciowych,<br>przyrodniczych, spo\u0142ecznych i prawnych. Zosta\u0142y sporz\u0105dzone r\u00f3wnie\u017c<br>prognoza oddzia\u0142ywania na \u015brodowisko oraz prognoza skutk\u00f3w finansowych<br>uchwalenia planu, w kt\u00f3rych zawarte zosta\u0142y analizy ekonomiczne,<br>\u015brodowiskowe i spo\u0142eczne.<br><br>Spos\u00f3b lokalizacji nowej zabudowy poprzedzony zosta\u0142 wykonaniem<br>szczeg\u00f3\u0142owych analiz w zakresie zainwestowania i u\u017cytkowania terenu<br>obj\u0119tego planem, infrastruktury technicznej oraz w\u0142asno\u015bci<br>analizowanych obszar\u00f3w. Bior\u0105c pod uwag\u0119 powy\u017csze opracowania, projekt<br>planu wykonany zosta\u0142 z uwzgl\u0119dnieniem wymaga\u0144 \u0142adu przestrzennego,<br>efektywnego gospodarowania przestrzeni\u0105 oraz walor\u00f3w ekonomicznych<br>przestrzeni. W celu ochrony \u015brodowiska przyrodniczego, w zapisach<br>miejscowego planu zawarto ustalenia minimalizuj\u0105ce negatywne<br>oddzia\u0142ywanie na \u015brodowisko, co zosta\u0142o opisane w prognozie<br>oddzia\u0142ywania na \u015brodowisko. Okre\u015blone zosta\u0142y tak\u017ce zasady<br>w zakresie szczeg\u00f3lnych warunk\u00f3w zagospodarowania teren\u00f3w oraz<br>ogranicze\u0144 w ich u\u017cytkowaniu. Projektowana zabudowa nie jest sprzeczna<br>z polityk\u0105 przestrzenn\u0105 gminy zawart\u0105 w studium uwarunkowa\u0144 i<br>kierunk\u00f3w zagospodarowania przestrzennego. Projektowane tereny<br>zabudowy posiadaj\u0105 dost\u0119p do dr\u00f3g publicznych, obs\u0142uga komunikacyjna<br>realizowana jest tak\u017ce poprzez istniej\u0105ce drogi publiczne oraz drogi<br>wewn\u0119trzne, zapewniaj\u0105c tym samym mo\u017cliwo\u015b\u0107 wprowadzenia rozwi\u0105za\u0144<br>w zakresie ruchu pieszego i rowerowego. W granicach planu znajduje si\u0119<br>cz\u0119\u015b\u0107 sieci infrastruktury technicznej oraz istnieje mo\u017cliwo\u015b\u0107<br>realizacji pozosta\u0142ych sieci niezb\u0119dnych dla funkcjonowania przysz\u0142ej<br>zabudowy.<br><br>Na obszarze projektu planu nie wyst\u0119puj\u0105 grunty rolne, wymagaj\u0105ce<br>uzyskania zgody Ministra Rolnictwa i Rozwoju Wsi na zmian\u0119<br>przeznaczenia na cele nierolnicze.<br><br>Wp\u0142yw ustale\u0144 planu na bud\u017cet gminy przedstawia si\u0119 w prognozie<br>skutk\u00f3w finansowych. Realizacja ustale\u0144 planu nie wp\u0142ynie na pozosta\u0142e<br>finanse publiczne.<br><br>W projekcie planu nie zosta\u0142y okre\u015blone szczeg\u00f3\u0142owe zasady i warunki<br>scalania i podzia\u0142u nieruchomo\u015bci dla terenu zabudowy us\u0142ugowej,<br>oznaczonego na rysunku planu symbolem U, poniewa\u017c teren ten po\u0142o\u017cony<br>jest w granicach jednej dzia\u0142ki ewidencyjnej. W zwi\u0105zku z powy\u017cszym<br>nie b\u0119dzie podlega\u0142 procedurze scalania i podzia\u0142u zgodnie<br>z przepisami odr\u0119bnymi.<br><br>W obecnej kadencji Rady Gminy Dopiewo nie podj\u0119to uchwa\u0142y w sprawie<br>aktualno\u015bci studium i plan\u00f3w miejscowych. Analiza zmian w<br>zagospodarowaniu przestrzennym gminy o kt\u00f3rej mowa w art. 32 ust. 1<br>ustawy o planowaniu i zagospodarowaniu przestrzennym jest w trakcie<br>opracowania.<br><br>Projekt planu zosta\u0142 przekazany do zaopiniowania i uzgodnienia przez<br>organy zobowi\u0105zane do wsp\u00f3\u0142pracy przy sporz\u0105dzaniu miejscowych plan\u00f3w<br>zagospodarowania przestrzennego.<br><br>Po wprowadzeniu zmian wynikaj\u0105cych z opinii i uzgodnie\u0144, projekt planu<br>wraz z prognoz\u0105 oddzia\u0142ywania na \u015brodowisko zosta\u0142 wy\u0142o\u017cony do<br>publicznego wgl\u0105du<br>w dniach od 7 marca 2019 r. do 29 marca 2019 r. w siedzibie Urz\u0119du<br>Gminy Dopiewo. W dniu 15 marca 2019 r. odby\u0142a si\u0119 dyskusja publiczna<br>nad rozwi\u0105zaniami przyj\u0119tymi<br>w projekcie planu. Termin sk\u0142adania uwag wyznaczono w<br>nieprzekraczalnym terminie do dnia 15 kwietnia 2019 r. Og\u0142oszenie o<br>wy\u0142o\u017ceniu do publicznego wgl\u0105du planu ukaza\u0142o si\u0119<br>w \u201eGazecie Wyborczej\u201d, a obwieszczenie zosta\u0142o zamieszczone na<br>tablicach og\u0142osze\u0144 Urz\u0119du Gminy Dopiewo oraz na stronie Biuletynu<br>Informacji Publicznej.<br><br>W wyznaczonym terminie do Urz\u0119du Gminy nie wp\u0142yn\u0119\u0142y \u017cadne uwagi.<br><br>Projekt miejscowego planu zagospodarowania przestrzennego zosta\u0142<br>przed\u0142o\u017cony Komisji Rady Gminy Dopiewo do zaopiniowania.<br><br>W zwi\u0105zku z przeprowadzeniem wy\u017cej opisanej, procedury<br>formalno-prawnej przewidzianej ustaw\u0105 z dnia 27 marca 2003 r. o<br>planowaniu i zagospodarowaniu przestrzennym, przyj\u0119cie uchwa\u0142y dla<br>przedmiotowego terenu uznaje si\u0119 za uzasadnione.<br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 1
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 20
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        }
+    ],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=12336",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr IX\/109\/19 Rady Gminy Dopiewo z dnia 27 maja 2019 r. w sprawie miejscowego planu zagospodarowania przestrzennego terenu w miejscowo\u015bci Sk\u00f3rzewo w rejonie ulicy Pozna\u0144skiej i Szarotkowej"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/5475"
+        }
+    ],
+    "field_numer_porzadkowy": [
+        {
+            "value": 109
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "a287d1b5-c3ec-4bee-89a8-ed47fb8e53d7"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e2f02672-97ea-4d46-9f1f-2eb3b03e0593"
+        }
+    ]
+}

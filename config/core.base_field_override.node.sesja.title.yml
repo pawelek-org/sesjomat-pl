@@ -1,0 +1,18 @@
+uuid: 6cc760e1-dd26-40d5-8d2c-6c6a2b0f663f
+langcode: pl
+status: true
+dependencies:
+  config:
+    - node.type.sesja
+id: node.sesja.title
+field_name: title
+entity_type: node
+bundle: sesja
+label: Tytuł
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

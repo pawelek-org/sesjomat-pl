@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pl">
+  <head>
+    <title>{{ head_title['title'] }} &bull; {{ head_title['name'] }} Gmina Dopiewo</title>
+    <meta charset="utf-8">
+    <meta name="description" content="{{ head_title['name'] }} to projekt non-profit prezentujący dane sektora publicznego z prac Rady Gminy Dopiewo."/>
+    <meta name="robots" content="index, follow, noarchive">
+    <meta name="author" content="pawelek.org" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta property="og:title" content="{{ head_title['title'] }} &bull; {{ head_title['name'] }} Gmina Dopiewo">
+    <meta property="og:site_name" content="{{ head_title['name'] }}" />
+    <meta property="og:image" content="https://sesjomat.pl/themes/custom/sm/img/sesjomat-logo-og.jpg" />
+    <link rel="icon" href="/themes/custom/sm/img/sesjomat-logo.png">
+    <link rel="shortcut icon" href="/themes/custom/sm/img/favicon.ico">
+    <link rel="icon" href="/themes/custom/sm/img/sesjomat-logo.svg">
+    <css-placeholder token="{{ placeholder_token }}">
+    <js-placeholder token="{{ placeholder_token }}">
+  </head>
+  <body>
+    <div class="docs-container off-canvas off-canvas-sidebar-show">
+      <div class="docs-navbar"><a class="off-canvas-toggle btn btn-link btn-action" href="#sidebar"><i class="icon icon-menu"></i></a></div>
+      <div class="docs-sidebar off-canvas-sidebar" id="sidebar">
+        <div class="docs-brand"><a class="docs-logo" href="/" title="{{ head_title['name'] }}"><img src="/themes/custom/sm/img/sesjomat-logo.svg" alt="{{ head_title['name'] }}">
+          <h2>Sesjomat</h2><small class="label label-secondary text-bold">.pl</small></a>
+        </div>
+        <div class="docs-nav">
+          <div class="accordion-container">
+            <div class="accordion">
+              <input id="accordion-uchwaly" type="checkbox" name="docs-accordion-checkbox" hidden="" checked="checked"/>
+              <label class="accordion-header c-hand" for="accordion-uchwaly">Uchwały</label>
+              <div class="accordion-body">
+                <ul class="menu menu-nav">
+                  <li class="menu-item"><a href="/uchwaly">Lista uchwał</a></li>
+                  <li class="menu-item"><a href="/typy-uchwal">Typy uchwał</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="accordion">
+              <input id="accordion-radni" type="checkbox" name="docs-accordion-checkbox" hidden="" checked="checked"/>
+              <label class="accordion-header c-hand" for="accordion-radni">Radni</label>
+              <div class="accordion-body">
+                <ul class="menu menu-nav">
+                  <li class="menu-item"><a href="/radni">Lista radnych</a></li>
+                  <li class="menu-item"><a href="/glosowanie-imienne">Głosowanie</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="accordion">
+              <input id="accordion-sesje" type="checkbox" name="docs-accordion-checkbox" hidden="" checked="checked"/>
+              <label class="accordion-header c-hand" for="accordion-sesje">Sesje</label>
+              <div class="accordion-body">
+                <ul class="menu menu-nav">
+                  <li class="menu-item"><a href="/sesje">Lista sesji</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="accordion">
+              <input id="accordion-protokoly" type="checkbox" name="docs-accordion-checkbox" hidden="" checked="checked"/>
+              <label class="accordion-header c-hand" for="accordion-protokoly">Sesjomat</label>
+              <div class="accordion-body">
+                <ul class="menu menu-nav">
+                  <li class="menu-item"><a href="/szukaj">Szukaj</a></li>
+                  <li class="menu-item"><a href="/sesjomat">O projekcie</a></li>
+                  <li class="menu-item"><a href="/kontakt">Kontakt</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div><a class="off-canvas-overlay" href="#close"></a>
+      <div class="off-canvas-content">
+        <div class="docs-content" id="content">
+          <div class="container">
+            <h3 class="s-title"><i class="icon icon-arrow-right"></i> {{ head_title['title'] }}</h3>
+              {{ page }}
+          </div>
+          <div class="docs-footer container grid-lg" id="copyright">
+            <p><a href="/" title="Sesjomat.pl - strona startowa">Strona główna</a> · <a href="/sesjomat" title="Więcej informacji o Sesjomat.pl">Jak powstaje Sesjomat?</a> · <a href="/kontakt" title="Kontakt">Skontaktuj się</a> · <a href="https://www.mornel.com" target="_blank" title="Tworzenie stron Poznań">Odwiedź sponsora projektu</a></p>
+            <p>Stworzone na oprogramowaniu z wolnych źródeł w oparciu o <a href="https://en.wikipedia.org/wiki/MIT_License" target="_blank" rel="nofollow" title="MIT License">MIT License</a>.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  <js-bottom-placeholder token="{{ placeholder_token }}">
+  </body>
+</html>

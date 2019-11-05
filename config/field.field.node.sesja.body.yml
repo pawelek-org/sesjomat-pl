@@ -1,0 +1,22 @@
+uuid: 8f5e9c7a-8082-4edc-ac3e-2fe366f468ab
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.sesja
+  module:
+    - text
+id: node.sesja.body
+field_name: body
+entity_type: node
+bundle: sesja
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+field_type: text_with_summary

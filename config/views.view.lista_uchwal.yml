@@ -1,0 +1,2430 @@
+uuid: e87c8287-86ad-4d70-b866-5490ff73f6ef
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_count_votes
+    - field.storage.node.field_data
+    - field.storage.node.field_nazwa_uchwaly
+    - field.storage.node.field_nr_w_dz_wojewody
+    - field.storage.node.field_numer_porzadkowy
+    - field.storage.node.field_ref_sesja
+    - field.storage.node.field_typ_uchwaly
+    - node.type.uchwala
+    - user.role.administrator
+  module:
+    - computed_field
+    - datetime
+    - node
+    - taxonomy
+    - user
+    - views_conditional
+id: lista_uchwal
+label: 'Lista uchwał'
+module: views
+description: ''
+tag: ''
+base_table: node_field_data
+base_field: nid
+core: 8.x
+display:
+  default:
+    display_plugin: default
+    id: default
+    display_title: Master
+    position: 0
+    display_options:
+      access:
+        type: role
+        options:
+          role:
+            administrator: administrator
+      cache:
+        type: none
+        options: {  }
+      query:
+        type: views_query
+        options:
+          disable_sql_rewrite: false
+          distinct: false
+          replica: false
+          query_comment: ''
+          query_tags: {  }
+      exposed_form:
+        type: basic
+        options:
+          submit_button: Apply
+          reset_button: false
+          reset_button_label: Reset
+          exposed_sorts_label: 'Sort by'
+          expose_sort_order: true
+          sort_asc_label: Asc
+          sort_desc_label: Desc
+      pager:
+        type: none
+        options:
+          items_per_page: 0
+          offset: 0
+      style:
+        type: table
+        options:
+          grouping:
+            -
+              field: field_ref_sesja
+              rendered: false
+              rendered_strip: false
+          row_class: ''
+          default_row_class: false
+          override: false
+          sticky: false
+          caption: ''
+          summary: ''
+          description: ''
+          columns:
+            field_ref_sesja: field_ref_sesja
+            field_numer_porzadkowy: field_numer_porzadkowy
+            title: title
+            field_glos_za: field_glos_za
+            field_glos_brak: field_glos_brak
+            field_glos_nieobecny: field_glos_nieobecny
+            field_glos_przeciw: field_glos_przeciw
+            field_glos_wstrzymujacy: field_glos_wstrzymujacy
+          info:
+            field_ref_sesja:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_numer_porzadkowy:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            title:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_glos_za:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_glos_brak:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_glos_nieobecny:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_glos_przeciw:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_glos_wstrzymujacy:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+          default: '-1'
+          empty_table: false
+      row:
+        type: fields
+      fields:
+        field_ref_sesja:
+          id: field_ref_sesja
+          table: node__field_ref_sesja
+          field: field_ref_sesja
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: ''
+          exclude: true
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: false
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: target_id
+          type: entity_reference_label
+          settings:
+            link: false
+          group_column: target_id
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
+        field_numer_porzadkowy:
+          id: field_numer_porzadkowy
+          table: node__field_numer_porzadkowy
+          field: field_numer_porzadkowy
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: Lp.
+          exclude: false
+          alter:
+            alter_text: true
+            text: '{{ field_numer_porzadkowy }}.'
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: value
+          type: number_integer
+          settings:
+            thousand_separator: ''
+            prefix_suffix: true
+          group_column: value
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
+        field_count_votes:
+          id: field_count_votes
+          table: node__field_count_votes
+          field: field_count_votes
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: 'Suma kontrolna'
+          exclude: false
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: value
+          type: computed_integer
+          settings:
+            cache_unit: '-1'
+            cache_duration: '1'
+            thousand_separator: ''
+            prefix_suffix: 1
+          group_column: value
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
+        title:
+          id: title
+          table: node_field_data
+          field: title
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: 'Nazwa uchwały'
+          exclude: false
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: false
+            ellipsis: false
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: value
+          type: string
+          settings:
+            link_to_entity: true
+          group_column: value
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          entity_type: node
+          entity_field: title
+          plugin_id: field
+        field_glos_za:
+          id: field_glos_za
+          table: node__field_glos_za
+          field: field_glos_za
+          relationship: none
+          group_type: count
+          admin_label: ''
+          label: 'Głos ZA'
+          exclude: true
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          set_precision: false
+          precision: 0
+          decimal: .
+          separator: ', '
+          format_plural: 0
+          format_plural_string: !!binary MQNAY291bnQD
+          prefix: ''
+          suffix: ''
+          click_sort_column: target_id
+          type: entity_reference_label
+          settings:
+            link: false
+          group_column: entity_id
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          field_api_classes: false
+          plugin_id: field
+        field_glos_brak:
+          id: field_glos_brak
+          table: node__field_glos_brak
+          field: field_glos_brak
+          relationship: none
+          group_type: count
+          admin_label: ''
+          label: 'Głos BRAK'
+          exclude: true
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          set_precision: false
+          precision: 0
+          decimal: .
+          separator: ', '
+          format_plural: 0
+          format_plural_string: !!binary MQNAY291bnQD
+          prefix: ''
+          suffix: ''
+          click_sort_column: target_id
+          type: entity_reference_label
+          settings: {  }
+          group_column: entity_id
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          field_api_classes: false
+          plugin_id: field
+        field_glos_nieobecny:
+          id: field_glos_nieobecny
+          table: node__field_glos_nieobecny
+          field: field_glos_nieobecny
+          relationship: none
+          group_type: count
+          admin_label: ''
+          label: 'Głos NIEOBECNY'
+          exclude: true
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          set_precision: false
+          precision: 0
+          decimal: .
+          separator: ', '
+          format_plural: 0
+          format_plural_string: !!binary MQNAY291bnQD
+          prefix: ''
+          suffix: ''
+          click_sort_column: target_id
+          type: entity_reference_label
+          settings: {  }
+          group_column: entity_id
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          field_api_classes: false
+          plugin_id: field
+        field_glos_przeciw:
+          id: field_glos_przeciw
+          table: node__field_glos_przeciw
+          field: field_glos_przeciw
+          relationship: none
+          group_type: count
+          admin_label: ''
+          label: 'Głos PRZECIW'
+          exclude: true
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          set_precision: false
+          precision: 0
+          decimal: .
+          separator: ', '
+          format_plural: 0
+          format_plural_string: !!binary MQNAY291bnQD
+          prefix: ''
+          suffix: ''
+          click_sort_column: target_id
+          type: entity_reference_label
+          settings: {  }
+          group_column: entity_id
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          field_api_classes: false
+          plugin_id: field
+        field_glos_wstrzymujacy:
+          id: field_glos_wstrzymujacy
+          table: node__field_glos_wstrzymujacy
+          field: field_glos_wstrzymujacy
+          relationship: none
+          group_type: count
+          admin_label: ''
+          label: 'Głos WSTRZYMUJĄCY'
+          exclude: true
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          set_precision: false
+          precision: 0
+          decimal: .
+          separator: ', '
+          format_plural: 0
+          format_plural_string: !!binary MQNAY291bnQD
+          prefix: ''
+          suffix: ''
+          click_sort_column: target_id
+          type: entity_reference_label
+          settings: {  }
+          group_column: entity_id
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          field_api_classes: false
+          plugin_id: field
+      filters:
+        status:
+          value: '1'
+          table: node_field_data
+          field: status
+          plugin_id: boolean
+          entity_type: node
+          entity_field: status
+          id: status
+          expose:
+            operator: ''
+          group: 1
+        type:
+          id: type
+          table: node_field_data
+          field: type
+          value:
+            uchwala: uchwala
+          entity_type: node
+          entity_field: type
+          plugin_id: bundle
+      sorts:
+        created:
+          id: created
+          table: node_field_data
+          field: created
+          relationship: none
+          group_type: group
+          admin_label: ''
+          order: ASC
+          exposed: false
+          expose:
+            label: ''
+          granularity: second
+          entity_type: node
+          entity_field: created
+          plugin_id: date
+        field_numer_porzadkowy_value:
+          id: field_numer_porzadkowy_value
+          table: node__field_numer_porzadkowy
+          field: field_numer_porzadkowy_value
+          relationship: none
+          group_type: group
+          admin_label: ''
+          order: ASC
+          exposed: false
+          expose:
+            label: ''
+          plugin_id: standard
+      title: 'Podjęte uchwały'
+      header:
+        area_text_custom:
+          id: area_text_custom
+          table: views
+          field: area_text_custom
+          plugin_id: text_custom
+      footer: {  }
+      empty: {  }
+      relationships:
+        field_ref_sesja:
+          id: field_ref_sesja
+          table: node__field_ref_sesja
+          field: field_ref_sesja
+          relationship: none
+          group_type: group
+          admin_label: 'field_ref_sesja: Content'
+          required: true
+          plugin_id: standard
+      arguments:
+        field_numer_porzadkowy_value:
+          id: field_numer_porzadkowy_value
+          table: node__field_numer_porzadkowy
+          field: field_numer_porzadkowy_value
+          relationship: field_ref_sesja
+          group_type: group
+          admin_label: ''
+          default_action: ignore
+          exception:
+            value: all
+            title_enable: false
+            title: All
+          title_enable: true
+          title: 'Podjęte uchwały (sesja {{ raw_arguments.field_numer_porzadkowy_value }})'
+          default_argument_type: fixed
+          default_argument_options:
+            argument: ''
+          default_argument_skip_url: false
+          summary_options:
+            base_path: ''
+            count: true
+            items_per_page: 25
+            override: false
+          summary:
+            sort_order: asc
+            number_of_records: 0
+            format: default_summary
+          specify_validation: false
+          validate:
+            type: none
+            fail: 'not found'
+          validate_options: {  }
+          break_phrase: false
+          not: false
+          plugin_id: numeric
+      display_extenders: {  }
+      group_by: true
+    cache_metadata:
+      max-age: -1
+      contexts:
+        - 'languages:language_content'
+        - 'languages:language_interface'
+        - url
+        - 'user.node_grants:view'
+        - user.roles
+      tags:
+        - 'config:field.storage.node.field_count_votes'
+        - 'config:field.storage.node.field_numer_porzadkowy'
+        - 'config:field.storage.node.field_ref_sesja'
+  page_2:
+    display_plugin: page
+    id: page_2
+    display_title: 'Page 2'
+    position: 2
+    display_options:
+      display_extenders:
+        metatag_display_extender: {  }
+      path: admin/uchwaly
+      fields:
+        field_ref_sesja:
+          id: field_ref_sesja
+          table: node__field_ref_sesja
+          field: field_ref_sesja
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: ''
+          exclude: true
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: false
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: target_id
+          type: entity_reference_label
+          settings:
+            link: false
+          group_column: target_id
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
+        edit_node:
+          id: edit_node
+          table: node_field_revision
+          field: edit_node
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: Edit
+          exclude: true
+          alter:
+            alter_text: true
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          text: ''
+          output_url_as_text: true
+          absolute: false
+          entity_type: node
+          plugin_id: entity_link_edit
+        field_numer_porzadkowy:
+          id: field_numer_porzadkowy
+          table: node__field_numer_porzadkowy
+          field: field_numer_porzadkowy
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: Lp.
+          exclude: false
+          alter:
+            alter_text: true
+            text: '{{ field_numer_porzadkowy }}.'
+            make_link: true
+            path: '{{ edit_node }}?destination=/admin/uchwaly'
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: value
+          type: number_integer
+          settings:
+            thousand_separator: ''
+            prefix_suffix: true
+          group_column: value
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
+        field_count_votes:
+          id: field_count_votes
+          table: node__field_count_votes
+          field: field_count_votes
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: 'Suma kontrolna'
+          exclude: false
+          alter:
+            alter_text: false
+            text: '{{ field_count_votes }}{{ views_conditional_field }}'
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: value
+          type: computed_integer
+          settings:
+            cache_unit: '-1'
+            cache_duration: '1'
+            thousand_separator: ''
+            prefix_suffix: 1
+          group_column: value
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
+        views_conditional_field:
+          id: views_conditional_field
+          table: views_conditional
+          field: views_conditional_field
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: 'Suma kontrolna check'
+          exclude: true
+          alter:
+            alter_text: true
+            text: '<strong style="color: red;">{{ views_conditional_field }}</strong><br />'
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          if: field_count_votes
+          condition: '2'
+          equalto: '21'
+          then: 'Suma kontrolna ERROR'
+          or: ''
+          strip_tags: 0
+          plugin_id: views_conditional_field
+        field_nr_w_dz_wojewody:
+          id: field_nr_w_dz_wojewody
+          table: node__field_nr_w_dz_wojewody
+          field: field_nr_w_dz_wojewody
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: Dz.Wojew.
+          exclude: false
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: value
+          type: string
+          settings:
+            link_to_entity: false
+          group_column: value
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
+        title:
+          id: title
+          table: node_field_data
+          field: title
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: Nazwa
+          exclude: false
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: false
+            ellipsis: false
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: value
+          type: string
+          settings:
+            link_to_entity: true
+          group_column: value
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          entity_type: node
+          entity_field: title
+          plugin_id: field
+        field_typ_uchwaly:
+          id: field_typ_uchwaly
+          table: node__field_typ_uchwaly
+          field: field_typ_uchwaly
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: 'Typ uchwały'
+          exclude: true
+          alter:
+            alter_text: false
+            text: ''
+            make_link: true
+            path: '/admin/uchwaly/all/{{ field_typ_uchwaly__target_id }}'
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: '<strong>['
+            suffix: ']</strong>'
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: false
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: target_id
+          type: entity_reference_label
+          settings:
+            link: false
+          group_column: target_id
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
+        field_nazwa_uchwaly:
+          id: field_nazwa_uchwaly
+          table: node__field_nazwa_uchwaly
+          field: field_nazwa_uchwaly
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: 'Nazwa uchwały'
+          exclude: true
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: value
+          type: basic_string
+          settings: {  }
+          group_column: value
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
+        nothing:
+          id: nothing
+          table: views
+          field: nothing
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: 'Nazwa uchwały'
+          exclude: false
+          alter:
+            alter_text: true
+            text: '{{ views_conditional_field }}{{ field_nazwa_uchwaly }}<br />{{ field_typ_uchwaly }}'
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: false
+          plugin_id: custom
+      defaults:
+        fields: false
+        query: true
+        group_by: false
+        sorts: false
+        header: false
+        arguments: false
+        pager: false
+        filters: false
+        filter_groups: false
+      group_by: false
+      sorts:
+        field_numer_porzadkowy_value:
+          id: field_numer_porzadkowy_value
+          table: node__field_numer_porzadkowy
+          field: field_numer_porzadkowy_value
+          relationship: field_ref_sesja
+          group_type: group
+          admin_label: ''
+          order: DESC
+          exposed: false
+          expose:
+            label: ''
+          plugin_id: standard
+        created:
+          id: created
+          table: node_field_data
+          field: created
+          relationship: none
+          group_type: group
+          admin_label: ''
+          order: ASC
+          exposed: false
+          expose:
+            label: ''
+          granularity: second
+          entity_type: node
+          entity_field: created
+          plugin_id: date
+      header:
+        result:
+          id: result
+          table: views
+          field: result
+          relationship: none
+          group_type: group
+          admin_label: ''
+          empty: false
+          content: 'Liczba uchwał: <strong>@total</strong>'
+          plugin_id: result
+        area_text_custom:
+          id: area_text_custom
+          table: views
+          field: area_text_custom
+          relationship: none
+          group_type: group
+          admin_label: ''
+          empty: true
+          tokenize: false
+          content: '<div id="block-adminimal-theme-local-actions"><ul class="action-links"><li><a href="/node/add/uchwala?destination=/admin/uchwaly" class="button button-action button--primary button--small">Nowa uchwała</a></li></ul></div>'
+          plugin_id: text_custom
+      arguments:
+        field_numer_porzadkowy_value:
+          id: field_numer_porzadkowy_value
+          table: node__field_numer_porzadkowy
+          field: field_numer_porzadkowy_value
+          relationship: field_ref_sesja
+          group_type: group
+          admin_label: ''
+          default_action: ignore
+          exception:
+            value: all
+            title_enable: false
+            title: All
+          title_enable: true
+          title: 'Podjęte uchwały (sesja {{ raw_arguments.field_numer_porzadkowy_value }})'
+          default_argument_type: fixed
+          default_argument_options:
+            argument: ''
+          default_argument_skip_url: false
+          summary_options:
+            base_path: ''
+            count: true
+            items_per_page: 25
+            override: false
+          summary:
+            sort_order: asc
+            number_of_records: 0
+            format: default_summary
+          specify_validation: false
+          validate:
+            type: none
+            fail: 'not found'
+          validate_options: {  }
+          break_phrase: false
+          not: false
+          plugin_id: numeric
+        tid:
+          id: tid
+          table: taxonomy_index
+          field: tid
+          relationship: none
+          group_type: group
+          admin_label: ''
+          default_action: ignore
+          exception:
+            value: all
+            title_enable: false
+            title: All
+          title_enable: true
+          title: 'Lista uchwał (wg typu: {{ arguments.tid }})'
+          default_argument_type: fixed
+          default_argument_options:
+            argument: ''
+          default_argument_skip_url: false
+          summary_options:
+            base_path: ''
+            count: true
+            items_per_page: 25
+            override: false
+          summary:
+            sort_order: asc
+            number_of_records: 0
+            format: default_summary
+          specify_validation: false
+          validate:
+            type: none
+            fail: 'not found'
+          validate_options: {  }
+          break_phrase: false
+          add_table: false
+          require_value: false
+          reduce_duplicates: false
+          plugin_id: taxonomy_index_tid
+      pager:
+        type: mini
+        options:
+          items_per_page: 25
+          offset: 0
+          id: 0
+          total_pages: null
+          tags:
+            previous: ‹‹
+            next: ››
+          expose:
+            items_per_page: false
+            items_per_page_label: 'Items per page'
+            items_per_page_options: '5, 10, 25, 50'
+            items_per_page_options_all: false
+            items_per_page_options_all_label: '- All -'
+            offset: false
+            offset_label: Offset
+      filters:
+        status:
+          value: '1'
+          table: node_field_data
+          field: status
+          plugin_id: boolean
+          entity_type: node
+          entity_field: status
+          id: status
+          expose:
+            operator: ''
+          group: 1
+        type:
+          id: type
+          table: node_field_data
+          field: type
+          value:
+            uchwala: uchwala
+          entity_type: node
+          entity_field: type
+          plugin_id: bundle
+      filter_groups:
+        operator: AND
+        groups:
+          1: AND
+    cache_metadata:
+      max-age: -1
+      contexts:
+        - 'languages:language_content'
+        - 'languages:language_interface'
+        - url
+        - url.query_args
+        - 'user.node_grants:view'
+        - user.roles
+      tags:
+        - 'config:field.storage.node.field_count_votes'
+        - 'config:field.storage.node.field_nazwa_uchwaly'
+        - 'config:field.storage.node.field_nr_w_dz_wojewody'
+        - 'config:field.storage.node.field_numer_porzadkowy'
+        - 'config:field.storage.node.field_ref_sesja'
+        - 'config:field.storage.node.field_typ_uchwaly'
+  page_3:
+    display_plugin: page
+    id: page_3
+    display_title: 'Page 3'
+    position: 2
+    display_options:
+      display_extenders:
+        metatag_display_extender: {  }
+      path: uchwaly
+      fields:
+        field_data:
+          id: field_data
+          table: node__field_data
+          field: field_data
+          relationship: field_ref_sesja
+          group_type: group
+          admin_label: ''
+          label: Data
+          exclude: true
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: value
+          type: datetime_default
+          settings:
+            timezone_override: ''
+            format_type: html_date
+          group_column: value
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
+        field_numer_porzadkowy_1:
+          id: field_numer_porzadkowy_1
+          table: node__field_numer_porzadkowy
+          field: field_numer_porzadkowy
+          relationship: field_ref_sesja
+          group_type: group
+          admin_label: ''
+          label: 'Numer porządkowy sesji'
+          exclude: true
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: true
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: true
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: false
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: value
+          type: number_integer
+          settings:
+            thousand_separator: ''
+            prefix_suffix: true
+          group_column: value
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
+        field_ref_sesja:
+          id: field_ref_sesja
+          table: node__field_ref_sesja
+          field: field_ref_sesja
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: ''
+          exclude: true
+          alter:
+            alter_text: true
+            text: '{{ field_data }} - {{ field_ref_sesja }}'
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: false
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: false
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: target_id
+          type: entity_reference_label
+          settings:
+            link: false
+          group_column: target_id
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
+        view_node:
+          id: view_node
+          table: node
+          field: view_node
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: path
+          exclude: true
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: true
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          text: przeglądaj
+          output_url_as_text: true
+          absolute: false
+          entity_type: node
+          plugin_id: entity_link
+        field_numer_porzadkowy:
+          id: field_numer_porzadkowy
+          table: node__field_numer_porzadkowy
+          field: field_numer_porzadkowy
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: 'Numer uchwały'
+          exclude: false
+          alter:
+            alter_text: true
+            text: '<a href="{{ view_node }}" title="Przejdź do uchwały nr {{ field_numer_porzadkowy }}">{{ field_numer_porzadkowy }}.</a>'
+            make_link: false
+            path: '{{ edit_node }}?destination=/admin/uchwaly'
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: false
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: value
+          type: number_integer
+          settings:
+            thousand_separator: ''
+            prefix_suffix: true
+          group_column: value
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
+        field_typ_uchwaly:
+          id: field_typ_uchwaly
+          table: node__field_typ_uchwaly
+          field: field_typ_uchwaly
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: 'Typ uchwały'
+          exclude: true
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: '/uchwaly/all/{{ field_typ_uchwaly__target_id }}'
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: 'Przejdź do uchwał wg typu: {{ field_typ_uchwaly }}'
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: false
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: target_id
+          type: entity_reference_label
+          settings:
+            link: false
+          group_column: target_id
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
+        field_nazwa_uchwaly:
+          id: field_nazwa_uchwaly
+          table: node__field_nazwa_uchwaly
+          field: field_nazwa_uchwaly
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: 'Nazwa uchwały'
+          exclude: true
+          alter:
+            alter_text: false
+            text: ''
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: false
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: true
+          click_sort_column: value
+          type: basic_string
+          settings: {  }
+          group_column: value
+          group_columns: {  }
+          group_rows: true
+          delta_limit: 0
+          delta_offset: 0
+          delta_reversed: false
+          delta_first_last: false
+          multi_type: separator
+          separator: ', '
+          field_api_classes: false
+          plugin_id: field
+        nothing:
+          id: nothing
+          table: views
+          field: nothing
+          relationship: none
+          group_type: group
+          admin_label: ''
+          label: 'Nazwa uchwały'
+          exclude: false
+          alter:
+            alter_text: true
+            text: '<span class="text-gray"><em>{{ field_typ_uchwaly }}</em></span><br>{{ field_nazwa_uchwaly }}'
+            make_link: false
+            path: ''
+            absolute: false
+            external: false
+            replace_spaces: false
+            path_case: none
+            trim_whitespace: false
+            alt: ''
+            rel: ''
+            link_class: ''
+            prefix: ''
+            suffix: ''
+            target: ''
+            nl2br: false
+            max_length: 0
+            word_boundary: true
+            ellipsis: true
+            more_link: false
+            more_link_text: ''
+            more_link_path: ''
+            strip_tags: false
+            trim: false
+            preserve_tags: ''
+            html: false
+          element_type: ''
+          element_class: ''
+          element_label_type: ''
+          element_label_class: ''
+          element_label_colon: true
+          element_wrapper_type: ''
+          element_wrapper_class: ''
+          element_default_classes: false
+          empty: ''
+          hide_empty: false
+          empty_zero: false
+          hide_alter_empty: false
+          plugin_id: custom
+      defaults:
+        fields: false
+        query: true
+        group_by: false
+        sorts: false
+        header: false
+        arguments: false
+        pager: false
+        filters: false
+        filter_groups: false
+        access: false
+        style: false
+        row: false
+        title: false
+      group_by: false
+      sorts:
+        field_numer_porzadkowy_value:
+          id: field_numer_porzadkowy_value
+          table: node__field_numer_porzadkowy
+          field: field_numer_porzadkowy_value
+          relationship: field_ref_sesja
+          group_type: group
+          admin_label: ''
+          order: DESC
+          exposed: false
+          expose:
+            label: ''
+          plugin_id: standard
+        created:
+          id: created
+          table: node_field_data
+          field: created
+          relationship: none
+          group_type: group
+          admin_label: ''
+          order: ASC
+          exposed: false
+          expose:
+            label: ''
+          granularity: second
+          entity_type: node
+          entity_field: created
+          plugin_id: date
+      header:
+        result:
+          id: result
+          table: views
+          field: result
+          relationship: none
+          group_type: group
+          admin_label: ''
+          empty: true
+          content: '<p>Liczba uchwał: <strong>@total</strong></p>'
+          plugin_id: result
+        area:
+          id: area
+          table: views
+          field: area
+          relationship: none
+          group_type: group
+          admin_label: ''
+          empty: false
+          tokenize: true
+          content:
+            value: '{{ views_conditional_field }}'
+            format: full_html
+          plugin_id: text
+      arguments:
+        field_numer_porzadkowy_value:
+          id: field_numer_porzadkowy_value
+          table: node__field_numer_porzadkowy
+          field: field_numer_porzadkowy_value
+          relationship: field_ref_sesja
+          group_type: group
+          admin_label: ''
+          default_action: ignore
+          exception:
+            value: all
+            title_enable: false
+            title: All
+          title_enable: true
+          title: 'Uchwały podjęte na sesji nr {{ raw_arguments.field_numer_porzadkowy_value }}'
+          default_argument_type: fixed
+          default_argument_options:
+            argument: all
+          default_argument_skip_url: false
+          summary_options:
+            base_path: ''
+            count: true
+            items_per_page: 25
+            override: false
+          summary:
+            sort_order: asc
+            number_of_records: 0
+            format: default_summary
+          specify_validation: false
+          validate:
+            type: none
+            fail: 'not found'
+          validate_options: {  }
+          break_phrase: false
+          not: false
+          plugin_id: numeric
+        tid:
+          id: tid
+          table: taxonomy_index
+          field: tid
+          relationship: none
+          group_type: group
+          admin_label: ''
+          default_action: ignore
+          exception:
+            value: all
+            title_enable: false
+            title: All
+          title_enable: true
+          title: 'Uchwały: {{ arguments.tid }}'
+          default_argument_type: fixed
+          default_argument_options:
+            argument: ''
+          default_argument_skip_url: false
+          summary_options:
+            base_path: ''
+            count: true
+            items_per_page: 25
+            override: false
+          summary:
+            sort_order: asc
+            number_of_records: 0
+            format: default_summary
+          specify_validation: false
+          validate:
+            type: none
+            fail: 'not found'
+          validate_options: {  }
+          break_phrase: false
+          add_table: false
+          require_value: false
+          reduce_duplicates: false
+          plugin_id: taxonomy_index_tid
+      pager:
+        type: none
+        options:
+          offset: 0
+      filters:
+        status:
+          value: '1'
+          table: node_field_data
+          field: status
+          plugin_id: boolean
+          entity_type: node
+          entity_field: status
+          id: status
+          expose:
+            operator: ''
+          group: 1
+        type:
+          id: type
+          table: node_field_data
+          field: type
+          value:
+            uchwala: uchwala
+          entity_type: node
+          entity_field: type
+          plugin_id: bundle
+      filter_groups:
+        operator: AND
+        groups:
+          1: AND
+      display_description: ''
+      access:
+        type: perm
+        options:
+          perm: 'access content'
+      style:
+        type: table
+        options:
+          grouping:
+            -
+              field: field_ref_sesja
+              rendered: false
+              rendered_strip: false
+          row_class: ''
+          default_row_class: false
+          override: false
+          sticky: false
+          caption: ''
+          summary: ''
+          description: ''
+          columns:
+            field_data: field_data
+            field_ref_sesja: field_ref_sesja
+            field_numer_porzadkowy: field_numer_porzadkowy
+            field_typ_uchwaly: field_typ_uchwaly
+            field_nazwa_uchwaly: field_nazwa_uchwaly
+            nothing: nothing
+          info:
+            field_data:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_ref_sesja:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_numer_porzadkowy:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_typ_uchwaly:
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            field_nazwa_uchwaly:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+            nothing:
+              sortable: false
+              default_sort_order: asc
+              align: ''
+              separator: ''
+              empty_column: false
+              responsive: ''
+          default: '-1'
+          empty_table: false
+      row:
+        type: fields
+        options: {  }
+      title: Uchwały
+    cache_metadata:
+      max-age: -1
+      contexts:
+        - 'languages:language_content'
+        - 'languages:language_interface'
+        - url
+        - 'user.node_grants:view'
+        - user.permissions
+      tags:
+        - 'config:field.storage.node.field_data'
+        - 'config:field.storage.node.field_nazwa_uchwaly'
+        - 'config:field.storage.node.field_numer_porzadkowy'
+        - 'config:field.storage.node.field_ref_sesja'
+        - 'config:field.storage.node.field_typ_uchwaly'

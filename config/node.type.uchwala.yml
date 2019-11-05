@@ -1,0 +1,17 @@
+uuid: 0172546f-5d03-4b2e-b6ae-b5f787fca34c
+langcode: pl
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: Uchwała
+type: uchwala
+description: ''
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: false

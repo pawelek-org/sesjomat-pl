@@ -1,0 +1,60 @@
+uuid: 2f6a5b37-c65f-48df-aea8-911632cfa9d3
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.field.node.sesja.body
+    - field.field.node.sesja.field_data
+    - field.field.node.sesja.field_kadencja
+    - field.field.node.sesja.field_nazwa_sesji
+    - field.field.node.sesja.field_numer_porzadkowy
+    - node.type.sesja
+  module:
+    - datetime
+    - text
+    - user
+id: node.sesja.default
+targetEntityType: node
+bundle: sesja
+mode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: 3
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  field_data:
+    weight: 1
+    label: inline
+    settings:
+      timezone_override: ''
+      format_type: html_date
+    third_party_settings: {  }
+    type: datetime_default
+    region: content
+  field_kadencja:
+    type: entity_reference_label
+    weight: 0
+    region: content
+    label: inline
+    settings:
+      link: false
+    third_party_settings: {  }
+  field_nazwa_sesji:
+    weight: 4
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  links:
+    weight: 2
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden:
+  field_numer_porzadkowy: true
+  langcode: true

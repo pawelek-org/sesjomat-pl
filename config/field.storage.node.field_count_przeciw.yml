@@ -1,0 +1,21 @@
+uuid: 34d395f8-7a4c-4948-b5d3-fc864663d2a3
+langcode: pl
+status: true
+dependencies:
+  module:
+    - computed_field
+    - node
+id: node.field_count_przeciw
+field_name: field_count_przeciw
+entity_type: node
+type: computed_integer
+settings:
+  unsigned: false
+  size: normal
+module: computed_field
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

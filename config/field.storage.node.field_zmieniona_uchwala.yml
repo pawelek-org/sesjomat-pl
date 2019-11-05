@@ -1,0 +1,19 @@
+uuid: aab74da2-f988-4c7e-af3b-12ea450794fe
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_zmieniona_uchwala
+field_name: field_zmieniona_uchwala
+entity_type: node
+type: entity_reference
+settings:
+  target_type: node
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

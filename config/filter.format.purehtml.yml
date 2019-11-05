@@ -1,0 +1,8 @@
+uuid: 18900b68-8eb7-4112-bf35-2877be672d42
+langcode: pl
+status: true
+dependencies: {  }
+name: PureHTML
+format: purehtml
+weight: 0
+filters: {  }

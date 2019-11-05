@@ -1,0 +1,26 @@
+uuid: 82403344-501f-413f-9308-ca86e9bb5f41
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_count_przeciw
+    - node.type.uchwala
+  module:
+    - computed_field
+id: node.uchwala.field_count_przeciw
+field_name: field_count_przeciw
+entity_type: node
+bundle: uchwala
+label: 'Suma przeciw'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: 0
+default_value_callback: ''
+settings:
+  code: '$value = count($fields[''field_glos_przeciw'']);'
+  prefix: ''
+  suffix: ''
+field_type: computed_integer

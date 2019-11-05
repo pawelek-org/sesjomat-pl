@@ -1,0 +1,250 @@
+{
+    "uuid": [
+        {
+            "value": "5e675a64-ae8b-4d75-b6aa-6ffe47982c49"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-29T09:27:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 46"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-29T09:26:03+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/4\/46",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": " Uchwa\u0142a Nr IV\/46\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 28 stycznia 2019 r.<br><br>w sprawie udzielenia pomocy finansowej dla Powiatu Pozna\u0144skiego.<br><br>Na podstawie art. 10 ust. 2 i art. 18 ust. 2 pkt 15 ustawy z dnia 8 marca<br>1990 roku<br>o samorz\u0105dzie gminnym (t.j. Dz. U. z 2018 r. poz. 994 z p\u00f3\u017an. zm.) art.<br>216 ust. 2 pkt 5 i art. 220 ustawy z dnia 27 sierpnia 2009 r. o finansach<br>publicznych (t.j. Dz. U. z 2017 r. poz. 2077<br>z p\u00f3\u017an. zm.), Rada Gminy Dopiewo uchwala co nast\u0119puje:<br><br>\u00a7 1. 1. Udziela si\u0119 z bud\u017cetu Gminy Dopiewo pomocy finansowej Powiatowi<br>Pozna\u0144skiemu<br>z przeznaczeniem na realizacj\u0119 zadania pn. \u201eBudowa chodnika w miejscowo\u015bci<br>Zakrzewo<br>w ci\u0105gu drogi powiatowej nr 2417P na odcinku od skrzy\u017cowania z DW 307 do<br>istniej\u0105cego chodnika na terenie Gminy Tarnowo Podg\u00f3rne\u201d.<br><br>2. Udziela si\u0119 z bud\u017cetu Gminy Dopiewo pomocy finansowej Powiatowi<br>Pozna\u0144skiemu<br>z przeznaczeniem na pozyskanie nieruchomo\u015bci zwi\u0105zanych z realizacj\u0105<br>zadania pn. \u201eBudowa chodnika w miejscowo\u015bci Zakrzewo w ci\u0105gu drogi<br>powiatowej nr 2417P na odcinku od skrzy\u017cowania z DW 307 do istniej\u0105cego<br>chodnika na terenie Gminy Tarnowo Podg\u00f3rne\u201d.<br><br>\u00a7 2.1. Pomoc finansowa, o kt\u00f3rej mowa w \u00a7 1.1 zostanie udzielona w formie<br>dotacji celowej ze \u015brodk\u00f3w bud\u017cetu w latach 2019-2020, w wysoko\u015bci<br>600.000,00 z\u0142 (s\u0142ownie: sze\u015b\u0107set tysi\u0119cy z\u0142otych ^00\/_100), w tym w roku<br>2019 w kwocie: 50.000,00 z\u0142 (s\u0142ownie: pi\u0119\u0107dziesi\u0105t tysi\u0119cy z\u0142otych<br>^00\/_100) na dokumentacj\u0119 projektow\u0105, w roku 2020 w kwocie: 550.000,00 z\u0142<br>(s\u0142ownie: pi\u0119\u0107set pi\u0119\u0107dziesi\u0105t tysi\u0119cy z\u0142otych ^00\/_100) z przeznaczeniem<br>na dokumentacj\u0119 projektow\u0105 kwoty 50.000,00 z\u0142, na budow\u0119 chodnika kwoty<br>500.000,00 z\u0142.<br><br>2. Pomoc finansowa, o kt\u00f3rej mowa w \u00a7 1.2 zostanie udzielona w formie<br>dotacji celowej ze \u015brodk\u00f3w bud\u017cetu w 2020 roku w wysoko\u015bci 100.000,00 z\u0142<br>(s\u0142ownie: sto tysi\u0119cy z\u0142otych ^00\/_100).<br><br>\u00a7 3. Szczeg\u00f3\u0142owe warunki udzielenia pomocy, o kt\u00f3rej mowa w \u00a7 1 zostan\u0105<br>okre\u015blone<br>w umowie zawartej pomi\u0119dzy Gmin\u0105 Dopiewo, a Powiatem Pozna\u0144skim.<br><br>\u00a7 4. Traci moc uchwa\u0142a Nr XLV\/643\/18 Rady Gminy Dopiewo z dnia 12 wrze\u015bnia<br>2018 roku.<br><br>\u00a7 5. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a7 6. Uchwa\u0142a wchodzi w \u017cycie z dniem podj\u0119cia.<br><br>Uzasadnienie<br><br>Powiat Pozna\u0144ski w latach 2019-2020 planuje realizowa\u0107 zadanie w<br>miejscowo\u015bci Zakrzewo przy udziale finansowym Gminy Dopiewo. W zwi\u0105zku z<br>tym, \u017ce realizacja zadania poprawi bezpiecze\u0144stwo mieszka\u0144c\u00f3w Gminy<br>Dopiewo przyznanie pomocy finansowej uznaje si\u0119 za zasadne.<br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 1
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 20
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        }
+    ],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=11886",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr IV\/46\/19 Rady Gminy Dopiewo z dnia 28 stycznia 2019 r. w sprawie udzielenia pomocy finansowej dla Powiatu Pozna\u0144skiego"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 46
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "482f3897-3915-410e-9fec-3cf1c2505bd4"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "40085d2d-762e-49b5-8127-222e668d63a8"
+        }
+    ]
+}

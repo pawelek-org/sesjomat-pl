@@ -1,0 +1,23 @@
+uuid: bbe3720a-2fae-45ea-a72e-27db0e362eb3
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_numer_porzadkowy
+    - node.type.sesja
+id: node.sesja.field_numer_porzadkowy
+field_name: field_numer_porzadkowy
+entity_type: node
+bundle: sesja
+label: 'Numer porządkowy'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: 1
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

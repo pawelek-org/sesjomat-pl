@@ -1,0 +1,22 @@
+uuid: f66cd178-874f-469b-867b-ef137918e1a4
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+id: uchwala
+label: uchwala
+type: 'canonical_entities:node'
+pattern: 'uchwala/[node:field_numer_porzadkowy]'
+selection_criteria:
+  195afe97-aac9-44f7-82af-834becb6b45a:
+    id: node_type
+    bundles:
+      uchwala: uchwala
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 195afe97-aac9-44f7-82af-834becb6b45a
+selection_logic: and
+weight: -5
+relationships: {  }

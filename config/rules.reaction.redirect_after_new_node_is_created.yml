@@ -1,0 +1,34 @@
+uuid: e667e966-a8ca-4fe0-9070-67f07def9e4e
+langcode: pl
+status: true
+dependencies: {  }
+id: redirect_after_new_node_is_created
+label: 'redirect after new node is created'
+events:
+  -
+    event_name: 'rules_entity_insert:node'
+description: ''
+tags: {  }
+config_version: '3'
+expression:
+  id: rules_rule
+  uuid: 23255af7-6c2e-4ff2-acbf-e9063a569ad5
+  conditions:
+    id: rules_and
+    uuid: 81398685-7a51-4128-bc2a-5c0b0a6abb81
+    conditions: {  }
+  actions:
+    id: rules_action_set
+    uuid: 3d9d89df-1323-4236-81fa-9d32c644749d
+    actions:
+      -
+        id: rules_action
+        uuid: 2fa89082-c7c1-41c0-ba89-1e3fe750e292
+        context_values:
+          url: /admin/content
+        context_mapping: {  }
+        context_processors:
+          url:
+            rules_tokens: {  }
+        provides_mapping: {  }
+        action_id: rules_page_redirect

@@ -1,0 +1,21 @@
+uuid: 30cbd3bc-4a00-4e8d-a303-673d634cb5d5
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_bip_oswiadczenia_majatkowe
+field_name: field_bip_oswiadczenia_majatkowe
+entity_type: node
+type: string
+settings:
+  max_length: 150
+  is_ascii: false
+  case_sensitive: false
+module: core
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

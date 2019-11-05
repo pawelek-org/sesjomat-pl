@@ -1,0 +1,31 @@
+uuid: f9c375f1-02e1-4f54-b75d-7f31cac9f57f
+langcode: pl
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.protokol.body
+    - node.type.protokol
+  module:
+    - text
+    - user
+id: node.protokol.teaser
+targetEntityType: node
+bundle: protokol
+mode: teaser
+content:
+  body:
+    label: hidden
+    type: text_summary_or_trimmed
+    weight: 101
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  langcode: true

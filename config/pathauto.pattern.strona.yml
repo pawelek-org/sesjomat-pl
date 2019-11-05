@@ -1,0 +1,22 @@
+uuid: b1ee1315-6e39-4f56-b640-cf05a15d6db1
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+id: strona
+label: strona
+type: 'canonical_entities:node'
+pattern: '[node:title]'
+selection_criteria:
+  668d2ea8-e798-4d4e-a97c-1a9bcd640a6e:
+    id: node_type
+    bundles:
+      page: page
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 668d2ea8-e798-4d4e-a97c-1a9bcd640a6e
+selection_logic: and
+weight: -5
+relationships: {  }

@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "c1096b50-62ae-4cdb-8961-02871b4b4491"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "4d6415e1-6a23-44d0-a829-e7323c005b13"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-27T09:22:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": false
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Linki"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-27T09:18:37+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-05T15:40:57+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/linki",
+            "langcode": "pl",
+            "pathauto": 0
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": "<h3>Sesje 2018-2023<\/h3>\r\n\r\n<p>https:\/\/bip.dopiewo.pl\/?c=1366<\/p>\r\n\r\n<h3>Protoko\u0142y 2018-2023<\/h3>\r\n\r\n<p>https:\/\/bip.dopiewo.pl\/?c=1362<\/p>\r\n\r\n<h3>Podj\u0119te uchwa\u0142y 2018-2023<\/h3>\r\n\r\n<p>https:\/\/bip.dopiewo.pl\/?c=1369<\/p>\r\n",
+            "format": "purehtml",
+            "summary": "Pomocne linki"
+        }
+    ]
+}

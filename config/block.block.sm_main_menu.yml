@@ -1,0 +1,27 @@
+uuid: c6b6dfbc-a126-4174-a711-b249430070a5
+langcode: pl
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - sm
+_core:
+  default_config_hash: 2J0FPvx-PxvZTbxkzlACbQhr05SWt-rRV9v5ibbEnYQ
+id: sm_main_menu
+theme: sm
+region: navbar
+weight: -5
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 1
+  expand_all_items: false
+visibility: {  }

@@ -1,0 +1,20 @@
+uuid: 2c3e02e3-c118-4289-9973-37f206a2315d
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_numer_porzadkowy
+field_name: field_numer_porzadkowy
+entity_type: node
+type: integer
+settings:
+  unsigned: false
+  size: normal
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

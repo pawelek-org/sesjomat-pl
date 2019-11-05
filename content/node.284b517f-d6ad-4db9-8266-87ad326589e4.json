@@ -1,0 +1,249 @@
+{
+    "uuid": [
+        {
+            "value": "284b517f-d6ad-4db9-8266-87ad326589e4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-29T09:47:42+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 53"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-29T09:46:47+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/5\/53",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": " Uchwa\u0142a Nr V\/53\/19<br><br>Rady Gminy Dopiewo<br>z dnia 25 lutego 2019 r.<br><br>w sprawie udzielenia bonifikaty od op\u0142aty z tytu\u0142u przekszta\u0142cenia prawa<br>u\u017cytkowania wieczystego grunt\u00f3w zabudowanych na cele mieszkaniowe w prawo<br>w\u0142asno\u015bci tych grunt\u00f3w.<br><br>Na podstawie art. 18 ust. 2 pkt 15 ustawy z dnia 8 marca 1990 r. o<br>samorz\u0105dzie gminnym<br>(t.j. Dz. U. z 2018 r. poz. 994 z p\u00f3\u017an. zm.) oraz art. 9 ust. 1 pkt 2,<br>ust. 4 i ust. 5 ustawy z dnia 20 lipca 2018 r. o przekszta\u0142ceniu prawa<br>u\u017cytkowania wieczystego grunt\u00f3w zabudowanych na cele mieszkaniowe w prawo<br>w\u0142asno\u015bci tych grunt\u00f3w (Dz. U. z 2018 r. poz. 1716), Rada Gminy Dopiewo<br>uchwala co nast\u0119puje:<br><br>\u00a71. Ustala si\u0119 bonifikat\u0119 od op\u0142aty z tytu\u0142u przekszta\u0142cenia prawa<br>u\u017cytkowania wieczystego<br>w prawo w\u0142asno\u015bci nieruchomo\u015bci zabudowanych na cele mieszkaniowe -<br>zgodnie z art. 1 ust. 2 ustawy z dnia 20 lipca 2018 r. o przekszta\u0142ceniu<br>prawa u\u017cytkowania wieczystego grunt\u00f3w zabudowanych na cele mieszkaniowe w<br>prawo w\u0142asno\u015bci tych grunt\u00f3w (Dz. U.<br>z 2018 r. poz. 1716), w odniesieniu do nieruchomo\u015bci gruntowych<br>stanowi\u0105cych przed przekszta\u0142ceniem w\u0142asno\u015b\u0107 Gminy Dopiewo, w wysoko\u015bci:<br><br>1. 60% - w przypadku, gdy op\u0142ata jednorazowa zostanie wniesiona w roku, w<br>kt\u00f3rym nast\u0105pi\u0142o przekszta\u0142cenie;<br><br>2. 50 % - w przypadku, gdy op\u0142ata jednorazowa zostanie wniesiona w drugim<br>roku po przekszta\u0142ceniu;<br><br>3. 40 % - w przypadku, gdy op\u0142ata jednorazowa zostanie wniesiona w<br>trzecim roku po przekszta\u0142ceniu;<br><br>4. 30 % - w przypadku, gdy op\u0142ata jednorazowa zostanie wniesiona w<br>czwartym roku po przekszta\u0142ceniu;<br><br>5. 20 % - w przypadku, gdy op\u0142ata jednorazowa zostanie wniesiona w pi\u0105tym<br>roku po przekszta\u0142ceniu;<br><br>6. 10 % - w przypadku, gdy op\u0142ata jednorazowa zostanie wniesiona w<br>sz\u00f3stym roku po przekszta\u0142ceniu.<br><br>\u00a72. Za nieruchomo\u015b\u0107 zabudowan\u0105, o kt\u00f3rej mowa w \u00a71 ust. 1 uwa\u017ca si\u0119<br>nieruchomo\u015b\u0107, na kt\u00f3rej, na dzie\u0144 z\u0142o\u017cenia wniosku o przekszta\u0142cenie prawa<br>u\u017cytkowania wieczystego w prawo w\u0142asno\u015bci, znajduje si\u0119 co najmniej jeden<br>budynek, co do kt\u00f3rego zosta\u0142a wydana ostateczna decyzja o pozwoleniu na<br>u\u017cytkowanie.<br><br>\u00a73. Bonifikaty, o kt\u00f3rej mowa w \u00a71, udziela si\u0119 na wniosek u\u017cytkownika<br>wieczystego.<br><br>\u00a74. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a75. Uchwa\u0142a wchodzi w \u017cycie z dniem 1 stycznia 2019 roku.<br><br>UZASADNIENIE<br><br>Na podstawie art. 1 ust. 1 ustawy z dnia 20 lipca 2018 roku o<br>przekszta\u0142ceniu prawa u\u017cytkowania wieczystego grunt\u00f3w zabudowanych na cele<br>mieszkaniowe w prawo w\u0142asno\u015bci tych grunt\u00f3w (Dz.U. z 2018 roku, poz. 1716)<br>z dniem 1 stycznia 2019 roku dojdzie do przekszta\u0142cenia prawa u\u017cytkowania<br>wieczystego grunt\u00f3w zabudowanych na cele mieszkaniowe w prawo w\u0142asno\u015bci<br>tych nieruchomo\u015bci. Ustawa ta, nak\u0142ada na nowych w\u0142a\u015bcicieli, b\u0119d\u0105cych<br>dotychczasowymi u\u017cytkownikami wieczystymi, obowi\u0105zek ponoszenia op\u0142at z<br>tytu\u0142u przekszta\u0142cenia przez okres 20 lat w kwocie r\u00f3wnej wysoko\u015bci<br>dotychczasowych op\u0142at rocznych z tytu\u0142u u\u017cytkowania wieczystego (art. 7<br>ust. 1,2,6).<br><br>Jednocze\u015bnie, ustawa ta, dopuszcza mo\u017cliwo\u015b\u0107 jednorazowego wniesienia<br>wszystkich zsumowanych op\u0142at za przekszta\u0142cenie w ka\u017cdym czasie trwania<br>obowi\u0105zku p\u0142atno\u015bci (art. 7 ust. 7). Sumowane b\u0119d\u0105 op\u0142aty<br>przekszta\u0142ceniowe w wysoko\u015bci obowi\u0105zuj\u0105cej w roku wyst\u0105pienia przez<br>w\u0142a\u015bciciela z zamiarem jednorazowego wniesienia nale\u017cno\u015bci za<br>przekszta\u0142cenie. Gmina Dopiewo, aby zach\u0119ci\u0107 nowych w\u0142a\u015bcicieli do<br>uregulowania swych nale\u017cno\u015bci w tej formie, wprowadzi\u0142a bonifikaty od<br>op\u0142aty jednorazowej.<br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 21
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=11952",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr V\/53\/19 Rady Gminy Dopiewo z dnia 25 lutego 2019 r. w sprawie udzielenia bonifikaty od op\u0142aty z tytu\u0142u przekszta\u0142cenia prawa u\u017cytkowania wieczystego grunt\u00f3w zabudowanych na cele mieszkaniowe w prawo w\u0142asno\u015bci tych grunt\u00f3w"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 53
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "9217b350-0dce-429c-8d79-71fa1cd3023b"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "bac32b08-7dae-4677-b1cf-83ea4727c82a"
+        }
+    ]
+}

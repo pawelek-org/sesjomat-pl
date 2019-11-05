@@ -1,0 +1,31 @@
+uuid: ec085e0d-bbb8-4ac4-8f83-6f38280560db
+langcode: pl
+status: true
+dependencies:
+  config:
+    - core.entity_view_mode.node.teaser
+    - field.field.node.interpelacja.body
+    - node.type.interpelacja
+  module:
+    - text
+    - user
+id: node.interpelacja.teaser
+targetEntityType: node
+bundle: interpelacja
+mode: teaser
+content:
+  body:
+    label: hidden
+    type: text_summary_or_trimmed
+    weight: 101
+    settings:
+      trim_length: 600
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+hidden:
+  langcode: true

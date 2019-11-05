@@ -1,0 +1,28 @@
+uuid: 550f424d-a06b-464e-b85f-6f02d0d89999
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_ref_sesja
+    - node.type.protokol
+    - node.type.sesja
+id: node.protokol.field_ref_sesja
+field_name: field_ref_sesja
+entity_type: node
+bundle: protokol
+label: Sesja
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      sesja: sesja
+    sort:
+      field: _none
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

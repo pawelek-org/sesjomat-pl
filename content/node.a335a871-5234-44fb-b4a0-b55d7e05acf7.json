@@ -1,0 +1,249 @@
+{
+    "uuid": [
+        {
+            "value": "a335a871-5234-44fb-b4a0-b55d7e05acf7"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-29T09:49:30+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 54"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-29T09:48:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/5\/54",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": " Uchwa\u0142a Nr V\/54\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 25 lutego 2019 r.<br><br>w sprawie wsp\u00f3\u0142dzia\u0142ania z Powiatem Pozna\u0144skim przy usuwaniu i<br>unieszkodliwianiu wyrob\u00f3w zawieraj\u0105cych azbest na terenie Gminy Dopiewo.<br><br>Na podstawie art. 18 ust. 1 w zwi\u0105zku z art. 7 ust. 1 pkt 1 i art. 10 ust.<br>1 ustawy z dnia 8 marca 1990 r. o samorz\u0105dzie gminnym (t. j. Dz. U. z 2018<br>r. , poz. 994, ze zm.) oraz art. 216 ust. 2 pkt 4 i art. 220 ust. 1 i 2<br>ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (t. j. Dz. U. z<br>2017 r. poz. 2077, ze zm.) Rada Gminy Dopiewo uchwala, co nast\u0119puje:<br><br>\u00a7 1. Postanawia si\u0119 wsp\u00f3\u0142dzia\u0142a\u0107 z Powiatem Pozna\u0144skim w realizacji<br>zadania w zakresie usuwania i unieszkodliwiania wyrob\u00f3w zawieraj\u0105cych<br>azbest na terenie Gminy Dopiewo z wykorzystaniem \u015brodk\u00f3w z bud\u017cetu Powiatu<br>oraz z bud\u017cetu Gminy, zwanych dalej \u201eFunduszami\u201d.<br><br>\u00a7 2. Zadanie, o kt\u00f3rym mowa w \u00a7 1, realizowane b\u0119dzie zgodnie z zasadami<br>likwidacji wyrob\u00f3w zawieraj\u0105cych azbest na terenie Powiatu Pozna\u0144skiego<br>uchwalonymi przez Zarz\u0105d Powiatu Pozna\u0144skiego.<br><br>2. Finansowanie zadania nast\u0119powa\u0107 b\u0119dzie ze \u015brodk\u00f3w Funduszy, o kt\u00f3rych<br>mowa w niniejszej uchwale.<br><br>\u00a73. Na realizacj\u0119 zadania przeznacza si\u0119 w 2019 r. z bud\u017cetu Gminy Dopiewo<br>kwot\u0119 30.000,00 z\u0142 (s\u0142ownie: trzydzie\u015bci tysi\u0119cy 00\/100 z\u0142otych), kt\u00f3ra<br>zostanie przekazana Powiatowi Pozna\u0144skiemu w formie dotacji celowej.<br><br>\u00a74. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a75. Uchwa\u0142a wchodzi w \u017cycie z dniem podj\u0119cia.<br><br>UZASADNIENIE<br><br>\u015arodki finansowe na realizacj\u0119 programu likwidacji wyrob\u00f3w zawieraj\u0105cych<br>azbest na terenie powiatu pozna\u0144skiego pochodz\u0105 z bud\u017cetu powiatu oraz<br>bud\u017cetu gminy. W 2019 r. planuje si\u0119, i\u017c koszty zwi\u0105zane likwidacj\u0105<br>wyrob\u00f3w zawieraj\u0105cych azbest realizowane b\u0119d\u0105 w 100% z w\/w \u017ar\u00f3de\u0142, tj. bez<br>udzia\u0142u finansowego wnioskodawc\u00f3w.<br><br>W wyniku analizy wykorzystanych w ubieg\u0142ych latach \u015brodk\u00f3w finansowych<br>przeznaczonych na realizacj\u0119 w\/w programu proponuje si\u0119, aby tegoroczny<br>udzia\u0142 Gminy Dopiewo w finansowaniu tego programu wyni\u00f3s\u0142 30.000 z\u0142.<br>Szczeg\u00f3\u0142owe zasady rozliczania \u015brodk\u00f3w okre\u015blone zostan\u0105 w porozumieniu<br>pomi\u0119dzy Gmin\u0105 a Powiatem Pozna\u0144skim. Podpisanie porozumienia z Powiatem<br>Pozna\u0144skim wymaga podj\u0119cia stosownej uchwa\u0142y przez Rad\u0119 Gminy Dopiewo.<br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 21
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=11953",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr V\/54\/19 Rady Gminy Dopiewo z dnia 25 lutego 2019 r. w sprawie wsp\u00f3\u0142dzia\u0142ania z Powiatem Pozna\u0144skim przy usuwaniu i unieszkodliwianiu wyrob\u00f3w zawieraj\u0105cych azbest na terenie Gminy Dopiewo"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 54
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "9217b350-0dce-429c-8d79-71fa1cd3023b"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "77127f35-d5f2-4b0c-9af3-b4bd6ffc2d0c"
+        }
+    ]
+}

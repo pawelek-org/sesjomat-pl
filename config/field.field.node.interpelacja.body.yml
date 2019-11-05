@@ -1,0 +1,22 @@
+uuid: 87a2fa2f-2e79-4de5-80ee-ab515be1d7b2
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.interpelacja
+  module:
+    - text
+id: node.interpelacja.body
+field_name: body
+entity_type: node
+bundle: interpelacja
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+field_type: text_with_summary

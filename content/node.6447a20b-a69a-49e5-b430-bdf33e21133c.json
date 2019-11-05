@@ -1,0 +1,257 @@
+{
+    "uuid": [
+        {
+            "value": "6447a20b-a69a-49e5-b430-bdf33e21133c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-27T13:06:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 20"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-27T13:04:55+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/2\/20",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": "<br>Uchwa\u0142a Nr II\/20\/18<br><br>Rady Gminy Dopiewo<br><br>z dnia 3 grudnia 2018 roku<br><br>w sprawie zmiany uchwa\u0142y Nr XXXVII\/500\/17 Rady Gminy Dopiewo z dnia 18<br>grudnia 2017 roku w sprawie uchwa\u0142y bud\u017cetowej Gminy Dopiewo na 2018 rok.<br><br>Na podstawie art. 18 ust. 2 pkt 4, pkt 9 lit. d oraz pkt 10 ustawy z dnia<br>8 marca 1990 roku o samorz\u0105dzie gminnym (t.j. Dz. U. z 2018 r., poz. 994 z<br>p\u00f3\u017an. zm.) oraz art. 212, 239, 258<br>i 264 ust. 3 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych<br>(t.j. Dz. U. z 2017r. poz. 2077 z p\u00f3\u017an. zm.) Rada Gminy uchwala,<br>co nast\u0119puje:<br><br>\u00a7 1. W uchwale Nr XXXVII\/500\/17 Rady Gminy Dopiewo z dnia 18 grudnia 2017<br>roku wprowadza si\u0119 nast\u0119puj\u0105ce zmiany:<br><br>1) w \u00a7 1 ust. 1 zmniejsza si\u0119 dochody og\u00f3\u0142em o kwot\u0119 40.200,50 z\u0142 do<br>kwoty<br>140.282.269,73 z\u0142;<br><br>2) w \u00a7 1 ust. 2 pkt 1 zwi\u0119ksza si\u0119 dochody bie\u017c\u0105ce o kwot\u0119 1.281.334,50<br>z\u0142 do kwoty 128.817.603,73 z\u0142;<br><br>3) w \u00a7 1 ust. 2 pkt 2 zmniejsza si\u0119 dochody maj\u0105tkowe o kwot\u0119 1.321.535,00<br>z\u0142 do kwoty 11.464.666,00 z\u0142;<br><br>4) w \u00a7 2 ust. 1 zmniejsza si\u0119 wydatki og\u00f3\u0142em o kwot\u0119 9.206.069,50 z\u0142 do<br>kwoty<br>156.622.077,73 z\u0142;<br><br>5) w \u00a7 2 ust. 2 pkt 1 zmniejsza si\u0119 wydatki bie\u017c\u0105ce o kwot\u0119 1.468.578,50<br>z\u0142 do kwoty<br>111.474.813,73 z\u0142;<br><br>6) w \u00a7 2 ust. 2 pkt 2 zmniejsza si\u0119 wydatki maj\u0105tkowe o kwot\u0119 7.737.491,00<br>z\u0142 do kwoty 45.147.264,00 z\u0142;<br><br>7) \u00a7 2 ust. 3 otrzymuje brzmienie:<br><br>\u201e\u00a7 2. 3. Ustala si\u0119 deficyt bud\u017cetu Gminy w wysoko\u015bci 16.339.808,00 z\u0142,<br>kt\u00f3ry zostanie pokryty przychodami z tytu\u0142u planowanych do zaci\u0105gni\u0119cia<br>kredyt\u00f3w, po\u017cyczek i emitowanych papier\u00f3w warto\u015bciowych w kwocie<br>5.087.516,00 z\u0142 oraz przychodami w wysoko\u015bci 11.252.292,00 z\u0142 z tytu\u0142u<br>wolnych \u015brodk\u00f3w, jako nadwy\u017cki \u015brodk\u00f3w pieni\u0119\u017cnych na rachunku bankowym<br>bud\u017cetu, wynikaj\u0105cych z rozlicze\u0144 wyemitowanych papier\u00f3w warto\u015bciowych,<br>kredyt\u00f3w i po\u017cyczek z lat ubieg\u0142ych.\u201d;<br><br>8) \u00a7 4 otrzymuje brzmienie: \u201eOkre\u015bla si\u0119 dochody z tytu\u0142u op\u0142at i kar, o<br>kt\u00f3rych mowa w art. 402 ust. 4-6 ustawy Prawo ochrony \u015brodowiska w<br>wysoko\u015bci 580.000,00 z\u0142 i przeznacza si\u0119 je na finansowanie wydatk\u00f3w z<br>zakresu ochrony \u015brodowiska w zakresie okre\u015blonym t\u0105 ustaw\u0105.\u201d<br><br>9) \u00a7 8 ust. 1 otrzymuje brzmienie:<br><br>\u201e\u00a7 8. 1. Ustala si\u0119 \u0142\u0105czn\u0105 kwot\u0119 przychod\u00f3w bud\u017cetu Gminy w wysoko\u015bci<br>22.252.292,00 z\u0142,<br>w tym z tytu\u0142u wolnych \u015brodk\u00f3w, jako nadwy\u017cki \u015brodk\u00f3w pieni\u0119\u017cnych na<br>rachunku bankowym bud\u017cetu, wynikaj\u0105cych z rozlicze\u0144 wyemitowanych papier\u00f3w<br>warto\u015bciowych, kredyt\u00f3w<br>i po\u017cyczek z lat ubieg\u0142ych w wysoko\u015bci 11.252.292,00 z\u0142 oraz emisji<br>papier\u00f3w warto\u015bciowych w wysoko\u015bci 11.000.000,00 z\u0142.\u201d;<br><br>10) \u00a7 10 otrzymuje brzmienie:<br><br>Ustala si\u0119 limit zobowi\u0105za\u0144 z tytu\u0142u zaci\u0105ganych kredyt\u00f3w i po\u017cyczek oraz<br>emitowanych papier\u00f3w warto\u015bciowych w wysoko\u015bci 14.000.000,00 z\u0142, w tym na<br>pokrycie wyst\u0119puj\u0105cego<br>w ci\u0105gu roku przej\u015bciowego deficytu bud\u017cetu w wysoko\u015bci 3.000.000,00 z\u0142.<br><br>11) w za\u0142\u0105czniku nr 1 wprowadza si\u0119 zmiany zgodnie z za\u0142\u0105cznikiem nr 1 do<br>niniejszej uchwa\u0142y;<br><br>12) w za\u0142\u0105czniku nr 2 wprowadza si\u0119 zmiany zgodnie z za\u0142\u0105cznikiem nr 2 do<br>niniejszej uchwa\u0142y;<br><br>13) w za\u0142\u0105czniku nr 3 wprowadza si\u0119 zmiany zgodnie z za\u0142\u0105cznikiem nr 3 do<br>niniejszej uchwa\u0142y.<br><br>\u00a7 2. Pozosta\u0142a tre\u015b\u0107 uchwa\u0142y bud\u017cetowej Nr XXXVII\/500\/17 Rady Gminy<br>Dopiewo z dnia 18 grudnia 2017 roku pozostaje bez zmian.<br><br>\u00a7 3. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy.<br><br>\u00a7 4. Uchwa\u0142a wchodzi w \u017cycie z dniem podj\u0119cia i podlega publikacji w<br>Dzienniku Urz\u0119dowym Wojew\u00f3dztwa Wielkopolskiego.<br><br>Uzasadnienie do uchwa\u0142y w sprawie zmiany uchwa\u0142y XXXVII\/500\/17 Rady Gminy<br>Dopiewo z dnia 18 grudnia 2017 roku w sprawie uchwa\u0142y bud\u017cetowej Gminy<br>Dopiewo na 2018 rok<br><br>Dochody<br><br> 1. W dziale 600 zwi\u0119ksza si\u0119 plan dochod\u00f3w z tytu\u0142u dotacji na zadania<br>bie\u017c\u0105ce dofinansowane z WRPO o kwot\u0119 1.339,00 z\u0142, zmniejsza si\u0119 plan<br>dochod\u00f3w z tytu\u0142u dotacji na zadania maj\u0105tkowe o kwot\u0119 1.321.535,00<br>z\u0142;<br><br> 2. W dziale 750 zwi\u0119ksza si\u0119 plan dochod\u00f3w z tytu\u0142u r\u00f3\u017cnych dochod\u00f3w o<br>kwot\u0119<br>150,00 z\u0142, zwi\u0119ksza si\u0119 plan dochod\u00f3w z tytu\u0142u dotacji kwot\u0119<br>123.600,00 z\u0142;<br><br> 3. W dziale 754 zwi\u0119ksza si\u0119 plan dochod\u00f3w z tytu\u0142u wp\u0142yw\u00f3w dochod\u00f3w z<br>koszt\u00f3w upomnie\u0144 o kwot\u0119 20,00 z\u0142;<br><br> 4. W dziale 756 zwi\u0119ksza si\u0119 plan dochod\u00f3w z tytu\u0142u udzia\u0142u we wp\u0142ywach z<br>podatku dochodowego od os\u00f3b fizycznych o kwot\u0119 1.000.000,00 z\u0142, z<br>tytu\u0142u podatku od nieruchomo\u015bci o kwot\u0119 400.000,00 z\u0142, z tytu\u0142u<br>podatku le\u015bnego o kwot\u0119 2.000,00 z\u0142,<br>z tytu\u0142u podatku od \u015brodk\u00f3w transportowych o kwot\u0119 30.000,00 z\u0142, z<br>tytu\u0142u podatku od spadk\u00f3w i darowizn o kwot\u0119 40.000,00 z\u0142, z tytu\u0142u<br>op\u0142aty skarbowej o kwot\u0119 3.000,00 z\u0142, z tytu\u0142u koszt\u00f3w upomnie\u0144 o<br>kwot\u0119 1.870,00 z\u0142, z tytu\u0142u rekompensaty utraconych dochod\u00f3w o kwot\u0119<br>8.681,00 z\u0142; zmniejsza si\u0119 plan dochod\u00f3w z tytu\u0142u op\u0142aty<br>eksploatacyjnej o kwot\u0119 50.000,00 z\u0142;<br><br> 5. W dziale 801 zmniejsza si\u0119 plan dochod\u00f3w z tytu\u0142u dotacji z WRPO o<br>kwot\u0119<br>244.144,50 z\u0142, z tytu\u0142u r\u00f3\u017cnych wp\u0142yw\u00f3w o kwot\u0119 36,00 z\u0142, z tytu\u0142u<br>us\u0142ug o kwot\u0119 12.700,00 z\u0142, zmniejsza si\u0119 plan dochod\u00f3w z tytu\u0142u<br>odsetek o kwot\u0119 405,00 z\u0142;<br><br> 6. W dziale 855 zwi\u0119ksza si\u0119 plan dochod\u00f3w z tytu\u0142u \u015brodk\u00f3w z Funduszu<br>Pracy o kwot\u0119 5.508,00 z\u0142;<br><br> 7. W dziale 900 zmniejsza si\u0119 plan dochod\u00f3w z tytu\u0142u op\u0142at i kar, o<br>kt\u00f3rych mowa w art. 402 ust. 4-6 ustawy Prawo ochrony \u015brodowiska o<br>kwot\u0119 53.000,00 z\u0142, zwi\u0119ksza si\u0119 plan dochod\u00f3w z tytu\u0142u r\u00f3\u017cnych op\u0142at<br>o kwot\u0119 710,00 z\u0142, a zmniejsza si\u0119 o kwot\u0119 750,00 z\u0142;<br><br> 8. W dziale 926 zwi\u0119ksza si\u0119 plan dochod\u00f3w z tytu\u0142u wp\u0142yw\u00f3w z pozosta\u0142ych<br>odsetek o kwot\u0119 20,00 z\u0142.<br><br>Wydatki<br><br> 1. W rozdziale 01010 zmniejsza si\u0119 plan wydatk\u00f3w maj\u0105tkowych o kwot\u0119<br>1.647.358,00 z\u0142 (szczeg\u00f3\u0142y za\u0142\u0105cznik Nr 3 do uchwa\u0142y), zmniejsza si\u0119<br>plan wydatk\u00f3w zwi\u0105zanych<br>z realizacj\u0105 zada\u0144 statutowych o kwot\u0119 11.000,00 z\u0142;<br><br> 2. W rozdziale 05002 zmniejsza si\u0119 plan wydatk\u00f3w maj\u0105tkowych o kwot\u0119<br>13.600,00 z\u0142 (szczeg\u00f3\u0142y za\u0142\u0105cznik Nr 3 do uchwa\u0142y), zmniejsza si\u0119<br>plan wydatk\u00f3w zwi\u0105zanych<br>z realizacj\u0105 zada\u0144 statutowych o kwot\u0119 13.000,00 z\u0142;<br><br> 3. W rozdziale 60004 zmniejsza si\u0119 plan wydatk\u00f3w maj\u0105tkowych o kwot\u0119<br>10.000,00 z\u0142 (szczeg\u00f3\u0142y za\u0142\u0105cznik Nr 3 do uchwa\u0142y), zmniejsza si\u0119 plan<br>wydatk\u00f3w na wynagrodzenia i sk\u0142adki od nich naliczane o kwot\u0119 2.700,00<br>z\u0142;<br><br> 4. W rozdziale 60014 zmniejsza si\u0119 plan wydatk\u00f3w maj\u0105tkowych o kwot\u0119<br>267.077,00 z\u0142 (szczeg\u00f3\u0142y za\u0142\u0105cznik Nr 3 do uchwa\u0142y);<br><br> 5. W rozdziale 60016 zmniejsza si\u0119 plan wydatk\u00f3w maj\u0105tkowych o kwot\u0119<br>5.008.669,00 z\u0142 (szczeg\u00f3\u0142y za\u0142\u0105cznik Nr 3 do uchwa\u0142y), zmniejsza si\u0119<br>plan wydatk\u00f3w zwi\u0105zanych<br>z realizacj\u0105 zada\u0144 statutowych o kwot\u0119 402.629,00 z\u0142;<br><br> 6. W rozdziale 70005 zmniejsza si\u0119 plan wydatk\u00f3w maj\u0105tkowych o kwot\u0119<br>8.770,00 z\u0142 (szczeg\u00f3\u0142y za\u0142\u0105cznik Nr 3 do uchwa\u0142y), zmniejsza si\u0119 plan<br>wydatk\u00f3w zwi\u0105zanych<br>z realizacj\u0105 zada\u0144 statutowych o kwot\u0119 113.680,00 z\u0142;<br><br> 7. W rozdziale 71004 zmniejsza si\u0119 plan wydatk\u00f3w na wynagrodzenia i<br>sk\u0142adki od nich naliczane o kwot\u0119 7.000,00 z\u0142, zmniejsza si\u0119 plan<br>wydatk\u00f3w zwi\u0105zanych<br>z realizacj\u0105 zada\u0144 statutowych o kwot\u0119 700,00 z\u0142;<br><br> 8. W rozdziale 71035 zmniejsza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 5.000,00 z\u0142;<br><br> 9. W rozdziale 75022 zwi\u0119ksza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 4.000,00 z\u0142;<br><br>10. W rozdziale 75023 zmniejsza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 316.000,00 z\u0142, zwi\u0119ksza si\u0119 plan wydatk\u00f3w na<br>wynagrodzenia<br>i sk\u0142adki od nich naliczane o kwot\u0119 14.000,00 z\u0142, zmniejsza si\u0119 plan<br>wydatk\u00f3w maj\u0105tkowych o kwot\u0119 67.600,00 z\u0142 (szczeg\u00f3\u0142y za\u0142\u0105cznik Nr 3 do<br>uchwa\u0142y), zmniejsza si\u0119 plan wydatk\u00f3w na \u015bwiadczenia na rzecz os\u00f3b<br>fizycznych o kwot\u0119 2.000,00 z\u0142;<br><br>11. W rozdziale 75075 zmniejsza si\u0119 plan wydatk\u00f3w zwi\u0105zanych<br>z realizacj\u0105 zada\u0144 statutowych o kwot\u0119 75.000,00 z\u0142;<br><br>12. W rozdziale 75085 zmniejsza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 5.000,00 z\u0142;<br><br>13. W rozdziale 75095 zmniejsza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 10.000,00 z\u0142;<br><br>14.  W rozdziale 75702 zmniejsza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z obs\u0142ug\u0105<br>d\u0142ugu o kwot\u0119 230.000,00 z\u0142;<br><br>15. W rozdziale 80101 zwi\u0119ksza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 63.631,00 z\u0142, zwi\u0119ksza si\u0119 plan wydatk\u00f3w na<br>wynagrodzenia<br>i sk\u0142adki od nich naliczane o kwot\u0119 762.325,00 z\u0142, zmniejsza si\u0119 plan<br>wydatk\u00f3w na \u015bwiadczenia na rzecz os\u00f3b fizycznych o kwot\u0119 28.000,00 z\u0142,<br>zmniejsza si\u0119 plan wydatk\u00f3w na programy finansowane z udzia\u0142em \u015brodk\u00f3w<br>unijnych o kwot\u0119 251.497,50 z\u0142, zmniejsza si\u0119 plan wydatk\u00f3w<br>maj\u0105tkowych o kwot\u0119 146.300,00 z\u0142;<br><br>16. W rozdziale 80103 zwi\u0119ksza si\u0119 plan wydatk\u00f3w na wynagrodzenia<br>i sk\u0142adki od nich naliczane o kwot\u0119 3.500,00 z\u0142, zmniejsza si\u0119 plan<br>wydatk\u00f3w na \u015bwiadczenia na rzecz os\u00f3b fizycznych o kwot\u0119 500,00 z\u0142;<br><br>17. W rozdziale 80104 zmniejsza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 5.178,00 z\u0142, zmniejsza si\u0119 plan wydatk\u00f3w na<br>wynagrodzenia<br>i sk\u0142adki od nich naliczane o kwot\u0119 35.822,00 z\u0142, zwi\u0119ksza si\u0119 plan<br>wydatk\u00f3w na \u015bwiadczenia na rzecz os\u00f3b fizycznych o kwot\u0119 800,00 z\u0142;<br><br>18. W rozdziale 80110 zmniejsza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 48.600,00 z\u0142, zmniejsza si\u0119 plan wydatk\u00f3w na<br>wynagrodzenia<br>i sk\u0142adki od nich naliczane o kwot\u0119 208.419,00 z\u0142, zmniejsza si\u0119 plan<br>wydatk\u00f3w na \u015bwiadczenia na rzecz os\u00f3b fizycznych o kwot\u0119 35.000,00 z\u0142;<br><br>19. W rozdziale 80113 zmniejsza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 200.000,00 z\u0142, zmniejsza si\u0119 plan wydatk\u00f3w<br>na wynagrodzenia<br>i sk\u0142adki od nich naliczane o kwot\u0119 2.539,00 z\u0142;<br><br>20. W rozdziale 80148 zmniejsza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 12.300,00 z\u0142, zwi\u0119ksza si\u0119 plan wydatk\u00f3w na<br>wynagrodzenia<br>i sk\u0142adki od nich naliczane o kwot\u0119 12.300,00 z\u0142;<br><br>21. W rozdziale 80149 zwi\u0119ksza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 2.100,00 z\u0142, zmniejsza si\u0119 plan wydatk\u00f3w na<br>wynagrodzenia<br>i sk\u0142adki od nich naliczane o kwot\u0119 100,00 z\u0142;<br><br>22. W rozdziale 80150 zwi\u0119ksza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 2.400,00 z\u0142, zmniejsza si\u0119 plan wydatk\u00f3w na<br>wynagrodzenia<br>i sk\u0142adki od nich naliczane o kwot\u0119 142.690,00 z\u0142;<br><br>23. W rozdziale 80152 zwi\u0119ksza si\u0119 plan wydatk\u00f3w na wynagrodzenia<br>i sk\u0142adki od nich naliczane o kwot\u0119 3.337,00 z\u0142, zwi\u0119ksza si\u0119 plan<br>wydatk\u00f3w na \u015bwiadczenia na rzecz os\u00f3b fizycznych o kwot\u0119 227,00 z\u0142;<br><br>24. W rozdziale 80195 zmniejsza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 7.660,00 z\u0142;<br><br>25. W rozdziale 85401 zmniejsza si\u0119 plan wydatk\u00f3w na wynagrodzenia i<br>sk\u0142adki od nich naliczane o kwot\u0119 94.260,00 z\u0142, zmniejsza si\u0119 plan<br>wydatk\u00f3w na \u015bwiadczenia na rzecz os\u00f3b fizycznych o kwot\u0119 20.350,00 z\u0142,<br>zwi\u0119ksza si\u0119 plan wydatk\u00f3w zwi\u0105zanych<br>z realizacj\u0105 zada\u0144 statutowych o kwot\u0119 850,00 z\u0142;<br><br>26. W rozdziale 85412 zmniejsza si\u0119 plan zwi\u0105zanych z realizacja zada\u0144<br>statutowych<br>o kwot\u0119 432,00 z\u0142;<br><br>27. W rozdziale 85508 zwi\u0119ksza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 5.508,00 z\u0142;<br><br>28. W rozdziale 90004 zmniejsza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 20.000,00 z\u0142, zmniejsza si\u0119 plan wydatk\u00f3w na<br>wynagrodzenia<br>i sk\u0142adki od nich naliczane o kwot\u0119 2.000,00 z\u0142, zmniejsza si\u0119 plan<br>wydatk\u00f3w maj\u0105tkowych o kwot\u0119 82.361,00 z\u0142;<br><br>29. W rozdziale 90013 zmniejsza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 5.000,00 z\u0142;<br><br>30.  W rozdziale 90015 zmniejsza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 100.000,00 z\u0142, zmniejsza si\u0119 plan wydatk\u00f3w<br>maj\u0105tkowych o kwot\u0119 158.403,00 z\u0142;<br><br>31. W rozdziale 90019 zmniejsza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 9.500,00 z\u0142;<br><br>32. W rozdziale 90095 zwi\u0119ksza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 6.000,00 z\u0142;<br><br>33. W rozdziale 92195 zwi\u0119ksza si\u0119 plan wydatk\u00f3w zwi\u0105zanych z realizacj\u0105<br>zada\u0144 statutowych o kwot\u0119 74.000,00 z\u0142, zmniejsza si\u0119 plan wydatk\u00f3w<br>maj\u0105tkowych o kwot\u0119 207.500,00 z\u0142 (szczeg\u00f3\u0142y za\u0142\u0105cznik Nr 3 do<br>uchwa\u0142y);<br><br>34. W rozdziale 92601 zmniejsza si\u0119 plan wydatk\u00f3w maj\u0105tkowych o kwot\u0119<br>20.249,00 z\u0142 (szczeg\u00f3\u0142y za\u0142\u0105cznik Nr 3 do uchwa\u0142y);<br><br>35. W rozdziale 92695 zmniejsza si\u0119 plan wydatk\u00f3w maj\u0105tkowych o kwot\u0119<br>99.604,00 z\u0142 (szczeg\u00f3\u0142y za\u0142\u0105cznik Nr 3 do uchwa\u0142y).<br><br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 21
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=11687",
+            "format": "full_html"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr II\/20\/18 Rady Gminy Dopiewo z dnia 3 grudnia 2018 roku w sprawie zmiany uchwa\u0142y Nr XXXVII\/500\/17 Rady Gminy Dopiewo z dnia 18 grudnia 2017 roku w sprawie uchwa\u0142y bud\u017cetowej Gminy Dopiewo na 2018 rok"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2018\/9563"
+        }
+    ],
+    "field_numer_porzadkowy": [
+        {
+            "value": 20
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "342a90ad-27cc-42f4-838f-272362c9ef53"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "58f7e65f-df04-4f48-bd4a-fcc5bfed174f"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f7bc3232-e843-46a0-a723-f92c00bfb62d"
+        }
+    ]
+}

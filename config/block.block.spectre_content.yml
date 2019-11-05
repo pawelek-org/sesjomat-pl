@@ -1,0 +1,22 @@
+uuid: 9c39b99e-1b42-4f77-8332-6dac0ce96460
+langcode: pl
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - spectre
+_core:
+  default_config_hash: fcVZZjfXv0nOQvVhkGEuaOLc7JBDOVuwaxJWWzfjC-A
+id: spectre_content
+theme: spectre
+region: content
+weight: 0
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

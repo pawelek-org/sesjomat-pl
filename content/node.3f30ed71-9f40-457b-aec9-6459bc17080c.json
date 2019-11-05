@@ -1,0 +1,164 @@
+{
+    "uuid": [
+        {
+            "value": "3f30ed71-9f40-457b-aec9-6459bc17080c"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-30T11:38:00+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 150"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-30T11:33:51+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:08+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/13\/150",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": " Uchwa\u0142a Nr XIII\/150\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 30 wrze\u015bnia 2019 r.<br><br>w sprawie wyboru \u0142awnik\u00f3w na kadencj\u0119 w latach 2020-2023.<br><br>Na podstawie art. 18 ust. 2 pkt 15 ustawy z dnia 8 marca 1990 r. o<br>samorz\u0105dzie gminnym (t.j. Dz. U. z 2019r., poz. 506 z p\u00f3\u017an. zm.) art. 160<br>\u00a7 1 ustawy z dnia 27 lipca 2001r. Prawo o ustroju s\u0105d\u00f3w powszechnych (t.j.<br>Dz. U. z 2019r. poz. 52 z p\u00f3\u017an. zm.) Rada Gminy Dopiewo uchwala co<br>nast\u0119puje:<br><br>\u00a7 1. Stwierdza si\u0119, \u017ce w wyniku tajnego g\u0142osowania, na \u0142awnika do S\u0105du<br>Okr\u0119gowego w Poznaniu wybrany zosta\u0142:<br><br>Dariusz Przybylski \u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026..<br><br>\u00a7 2. Wykonanie uchwa\u0142y powierza si\u0119 Przewodnicz\u0105cemu Rady Gminy Dopiewo.<br><br>\u00a7 3. Uchwa\u0142a wchodzi w \u017cycie z dniem jej podj\u0119cia.<br><br>U Z A S A D N I E N I E<br><br>Art. 160 ustawy z dnia 27 lipca 2001r. Prawo o ustroju s\u0105d\u00f3w powszechnych,<br>nak\u0142ada na Rad\u0119 Gminy obowi\u0105zek wyboru \u0142awnik\u00f3w w g\u0142osowaniu tajnym. W tym<br>celu Rada Gminy Dopiewo Uchwa\u0142\u0105 Nr XII\/126\/19 z dnia 29 lipca 2019r.<br>powo\u0142a\u0142a Zesp\u00f3\u0142 opiniuj\u0105cy kandydat\u00f3w na \u0142awnik\u00f3w. Zesp\u00f3\u0142 wypracowa\u0142<br>opini\u0119 o kandydacie, kt\u00f3r\u0105 przedstawi\u0142 Radzie Gminy.<br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 0
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=12802",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr XIII\/150\/19 Rady Gminy Dopiewo z dnia 30 wrze\u015bnia 2019 r. w sprawie wyboru \u0142awnik\u00f3w na kadencj\u0119 w latach 2020-2023"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 150
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "f066fe41-fdc5-41c7-9878-16e31acb8dc3"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 1
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "c4703c26-9d17-4c2d-bc4e-72763ccd0985"
+        }
+    ]
+}

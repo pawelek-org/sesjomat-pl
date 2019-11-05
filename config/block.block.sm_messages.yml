@@ -1,0 +1,26 @@
+uuid: f16a112b-cfec-4324-87bd-37bae4eedf7a
+langcode: pl
+status: true
+dependencies:
+  module:
+    - block_class
+    - system
+  theme:
+    - sm
+third_party_settings:
+  block_class:
+    classes: container
+_core:
+  default_config_hash: MGQDQp3lJ2xhC7iSvXMEwpQLe8RYlMxchaBSQK0UQc0
+id: sm_messages
+theme: sm
+region: content
+weight: -3
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

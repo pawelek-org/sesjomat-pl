@@ -1,0 +1,26 @@
+uuid: d7ccba37-ad13-40a6-a419-df79ef9ebf50
+langcode: pl
+status: false
+dependencies:
+  module:
+    - block_class
+    - system
+  theme:
+    - sm
+third_party_settings:
+  block_class:
+    classes: container
+_core:
+  default_config_hash: aJ36P9ma8EzuapIRNCr7zJvfMK7KtXA_vG3iXsccMcM
+id: sm_powered
+theme: sm
+region: footer
+weight: -5
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  provider: system
+  label_display: '0'
+visibility: {  }

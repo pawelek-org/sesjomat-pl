@@ -1,0 +1,19 @@
+uuid: a4314599-2793-4c29-8a80-c7e7597a189c
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_nazwisko
+    - node.type.radny
+id: node.radny.field_nazwisko
+field_name: field_nazwisko
+entity_type: node
+bundle: radny
+label: Nazwisko
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

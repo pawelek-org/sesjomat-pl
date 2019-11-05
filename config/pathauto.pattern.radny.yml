@@ -1,0 +1,22 @@
+uuid: 897b83a1-03a1-4090-8c1f-c005a6ce6d48
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+id: radny
+label: radny
+type: 'canonical_entities:node'
+pattern: 'radni/[node:title]'
+selection_criteria:
+  6ac0f292-ec7b-46e0-a0a3-68caa3359037:
+    id: node_type
+    bundles:
+      radny: radny
+    negate: false
+    context_mapping:
+      node: node
+    uuid: 6ac0f292-ec7b-46e0-a0a3-68caa3359037
+selection_logic: and
+weight: -5
+relationships: {  }

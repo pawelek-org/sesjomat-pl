@@ -1,0 +1,18 @@
+uuid: a703d6f9-0152-4ea8-ad93-f1577a8fab16
+langcode: pl
+status: true
+dependencies:
+  config:
+    - node.type.protokol
+id: node.protokol.title
+field_name: title
+entity_type: node
+bundle: protokol
+label: Tytuł
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

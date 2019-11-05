@@ -1,0 +1,29 @@
+uuid: 1fc63a9e-b0b9-4496-a725-12aabbf94940
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_glos_wstrzymujacy
+    - node.type.radny
+    - node.type.uchwala
+id: node.uchwala.field_glos_wstrzymujacy
+field_name: field_glos_wstrzymujacy
+entity_type: node
+bundle: uchwala
+label: 'Głos WSTRZYMUJĄCY'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      radny: radny
+    sort:
+      field: nid
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

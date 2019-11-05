@@ -1,0 +1,20 @@
+uuid: 39789d76-4d57-4188-bb54-098b7cc04054
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+    - taxonomy
+id: node.field_typ_uchwaly
+field_name: field_typ_uchwaly
+entity_type: node
+type: entity_reference
+settings:
+  target_type: taxonomy_term
+module: core
+locked: false
+cardinality: -1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

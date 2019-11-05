@@ -1,0 +1,11 @@
+uuid: a89cb4d9-7ab9-46df-ba75-527a340f58f6
+langcode: pl
+status: true
+dependencies:
+  config:
+    - node.type.radny
+id: node.radny
+target_entity_type_id: node
+target_bundle: radny
+default_langcode: site_default
+language_alterable: false

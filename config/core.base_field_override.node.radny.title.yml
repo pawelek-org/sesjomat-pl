@@ -1,0 +1,18 @@
+uuid: 12e747f9-d1f7-4905-b527-1233c4884b9f
+langcode: pl
+status: true
+dependencies:
+  config:
+    - node.type.radny
+id: node.radny.title
+field_name: title
+entity_type: node
+bundle: radny
+label: 'Imię i nazwisko'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

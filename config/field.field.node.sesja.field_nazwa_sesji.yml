@@ -1,0 +1,19 @@
+uuid: c3eb8a58-ec9b-45f0-8dd0-7bc9ac058ae4
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_nazwa_sesji
+    - node.type.sesja
+id: node.sesja.field_nazwa_sesji
+field_name: field_nazwa_sesji
+entity_type: node
+bundle: sesja
+label: 'Nazwa sesji'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

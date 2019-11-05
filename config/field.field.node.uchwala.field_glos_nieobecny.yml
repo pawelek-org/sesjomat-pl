@@ -1,0 +1,29 @@
+uuid: 2cf35eb3-f222-4bf7-91bc-529325c7b8a6
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_glos_nieobecny
+    - node.type.radny
+    - node.type.uchwala
+id: node.uchwala.field_glos_nieobecny
+field_name: field_glos_nieobecny
+entity_type: node
+bundle: uchwala
+label: 'Głos NIEOBECNY'
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      radny: radny
+    sort:
+      field: nid
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

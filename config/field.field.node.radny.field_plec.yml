@@ -1,0 +1,21 @@
+uuid: a291a872-0c09-456a-9ad6-fa1a0713fdf1
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_plec
+    - node.type.radny
+  module:
+    - options
+id: node.radny.field_plec
+field_name: field_plec
+entity_type: node
+bundle: radny
+label: Płeć
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: list_string

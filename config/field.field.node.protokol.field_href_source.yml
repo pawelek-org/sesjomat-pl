@@ -1,0 +1,21 @@
+uuid: df679acd-5759-4846-89f5-ce529617371a
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_href_source
+    - node.type.protokol
+  module:
+    - text
+id: node.protokol.field_href_source
+field_name: field_href_source
+entity_type: node
+bundle: protokol
+label: 'Odnośnik do strony źródłowej'
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text

@@ -1,0 +1,21 @@
+uuid: 81e69b6c-d129-46a6-a319-14cffb7a1cd9
+langcode: pl
+status: true
+dependencies:
+  module:
+    - node
+id: node.field_interpelacja_bip
+field_name: field_interpelacja_bip
+entity_type: node
+type: string
+settings:
+  max_length: 150
+  is_ascii: false
+  case_sensitive: false
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

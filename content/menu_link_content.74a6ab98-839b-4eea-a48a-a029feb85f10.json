@@ -1,0 +1,85 @@
+{
+    "uuid": [
+        {
+            "value": "74a6ab98-839b-4eea-a48a-a029feb85f10"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "bundle": [
+        {
+            "value": "menu_link_content"
+        }
+    ],
+    "revision_created": [
+        {
+            "value": "2019-10-28T08:42:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_user": [],
+    "revision_log_message": [],
+    "enabled": [
+        {
+            "value": true
+        }
+    ],
+    "title": [
+        {
+            "value": "Szukaj"
+        }
+    ],
+    "description": [],
+    "menu_name": [
+        {
+            "value": "main"
+        }
+    ],
+    "link": [
+        {
+            "uri": "internal:\/szukaj",
+            "title": "",
+            "options": []
+        }
+    ],
+    "external": [
+        {
+            "value": false
+        }
+    ],
+    "rediscover": [
+        {
+            "value": true
+        }
+    ],
+    "weight": [
+        {
+            "value": 0
+        }
+    ],
+    "expanded": [
+        {
+            "value": false
+        }
+    ],
+    "parent": [],
+    "changed": [
+        {
+            "value": "2019-10-28T08:42:18+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ]
+}

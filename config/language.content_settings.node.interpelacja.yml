@@ -1,0 +1,11 @@
+uuid: 74d187f2-190b-45db-8a48-07a3387702bd
+langcode: pl
+status: true
+dependencies:
+  config:
+    - node.type.interpelacja
+id: node.interpelacja
+target_entity_type_id: node
+target_bundle: interpelacja
+default_langcode: site_default
+language_alterable: false

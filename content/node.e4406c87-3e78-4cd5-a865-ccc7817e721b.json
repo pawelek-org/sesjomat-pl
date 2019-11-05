@@ -1,0 +1,128 @@
+{
+    "uuid": [
+        {
+            "value": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "radny",
+            "target_type": "node_type",
+            "target_uuid": "969258ff-42f3-4752-a6eb-27fffd210068"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-27T11:47:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Pawe\u0142 Jazy"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-27T11:47:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-03T14:45:35+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/radni\/pawel-jazy",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [],
+    "field_bip_oswiadczenia_majatkowe": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?p=document&action=save&id=29187&bar_id=11803"
+        },
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?p=document&action=save&id=30990&bar_id=12291"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/www.dopiewo.pl\/radni-z-rady-gminy-dopiewo",
+            "format": "full_html"
+        }
+    ],
+    "field_imie": [
+        {
+            "value": "Pawe\u0142"
+        }
+    ],
+    "field_nazwisko": [
+        {
+            "value": "Jazy"
+        }
+    ],
+    "field_plec": [
+        {
+            "value": "m"
+        }
+    ],
+    "field_solectwo": [
+        {
+            "value": "Konarzewo, Dopiewo, Dopiewiec, Trzcielin i Wi\u0119ckowice"
+        }
+    ],
+    "field_telefon": [
+        {
+            "value": "695214993"
+        }
+    ]
+}

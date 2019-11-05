@@ -1,0 +1,22 @@
+uuid: 8aa2539f-4741-41d7-a9ff-e6cd290d639b
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.body
+    - node.type.protokol
+  module:
+    - text
+id: node.protokol.body
+field_name: body
+entity_type: node
+bundle: protokol
+label: Body
+description: ''
+required: false
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  display_summary: true
+field_type: text_with_summary

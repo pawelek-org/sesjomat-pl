@@ -1,0 +1,164 @@
+{
+    "uuid": [
+        {
+            "value": "807d39b1-f134-45ae-b8f0-28b2d6504129"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-27T12:11:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 2"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-27T12:10:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/1\/2",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": "<br>Uchwa\u0142a Nr I\/2\/18<br><br>Rady Gminy Dopiewo<br><br>z dnia 19 listopada 2018 r.<br><br>w sprawie wyboru Wiceprzewodnicz\u0105cych Rady Gminy Dopiewo.<br><br>Na podstawie art. 19 ust.1 ustawy z dnia 8 marca 1990 r. o samorz\u0105dzie<br>gminnym (t.j. Dz. U. z 2018r. poz. 994 z p\u00f3\u017an. zm.) Rada Gminy Dopiewo<br>uchwala, co nast\u0119puje:<br><br>\u00a7 1. W wyniku g\u0142osowania tajnego dokonano wyboru dw\u00f3ch<br>Wiceprzewodnicz\u0105cych Rady Gminy Dopiewo:<br><br> 1. Wojciech Dorna,<br><br> 2. Piotr Dziembowski.<br><br>\u00a7 2. Uchwa\u0142a wchodzi w \u017cycie z dniem podj\u0119cia.<br><br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 0
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=11627",
+            "format": "full_html"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr I\/02\/18 Rady Gminy Dopiewo z dnia 19 listopada 2018 r. w sprawie wyboru Wiceprzewodnicz\u0105cych Rady Gminy Dopiewo"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 2
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "56e0a9ce-0e6e-4f96-8299-3ca2f8f0a45e"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 1
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "d6b72755-3cc0-48b5-9c6d-00c5802eaabe"
+        }
+    ]
+}

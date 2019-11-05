@@ -1,0 +1,23 @@
+uuid: 36eefd44-c3aa-4a32-a54b-67792dc4a514
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_numer_porzadkowy
+    - node.type.uchwala
+id: node.uchwala.field_numer_porzadkowy
+field_name: field_numer_porzadkowy
+entity_type: node
+bundle: uchwala
+label: 'Numer porządkowy'
+description: ''
+required: true
+translatable: true
+default_value: {  }
+default_value_callback: ''
+settings:
+  min: 1
+  max: null
+  prefix: ''
+  suffix: ''
+field_type: integer

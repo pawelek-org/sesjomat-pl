@@ -1,0 +1,253 @@
+{
+    "uuid": [
+        {
+            "value": "46c0354f-4801-4d34-bfe5-dbc5a68d775e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-10-29T10:06:32+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 64"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-10-29T10:05:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-01T11:00:07+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwaly\/5\/64",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": " Uchwa\u0142a Nr V\/64\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 25 lutego 2019 r.<br><br>w sprawie zmiany Wieloletniego programu gospodarowania mieszkaniowym<br>zasobem Gminy Dopiewo na lata 2016-2020.<br><br>Na podstawie art. 18 ust. 2 pkt. 15, art. 40 ust. 1 ustawa z dnia 8 marca<br>1990 roku o samorz\u0105dzie gminnym (t.j. Dz. U. z 2018 r. poz. 994 z p\u00f3\u017an.<br>zm.) oraz art. 21 ust. 1 pkt 1 i ust. 2 ustawy z dnia 21 czerwca 2001 r. o<br>ochronie praw lokator\u00f3w, mieszkaniowym zasobie gminy i o zmianie Kodeksu<br>cywilnego (Dz. U. z 2018 r. poz. 1234) Rada Gminy Dopiewo uchwala, co<br>nast\u0119puje:<br><br>\u00a7 1. W Wieloletnim programie gospodarowania mieszkaniowym zasobem Gminy<br>Dopiewo na lata 2016-2020, stanowi\u0105cym za\u0142\u0105cznik do uchwa\u0142y Nr XIV\/192\/15<br>Rady Gminy Dopiewo z dnia<br><br>14 grudnia 2015 r. (Dziennik Urz\u0119dowy Wojew\u00f3dztwa Wielkopolskiego z dnia<br>17 grudnia 2015 roku poz.8576) wprowadza si\u0119 nast\u0119puj\u0105ce zmiany:.<br><br>1. Rozdzia\u0142 2 PROGNOZA DOTYCZ\u0104CA WIELKO\u015aCI ORAZ STANU TECHNICZNEGO ZASOBU<br>MIESZKANIOWEGO GMINY otrzymuj\u0119 brzmienie:<br><br>\u201eAnaliza wielko\u015bci oraz stanu technicznego zasobu mieszkaniowego.<br><br>Mieszkaniowy zas\u00f3b Gminy Dopiewo tworz\u0105 lokale mieszkalne w ilo\u015bci 11<br>sztuk usytuowane w budynkach stanowi\u0105cych w\u0142asno\u015b\u0107 gminy w nast\u0119puj\u0105cych<br>lokalizacjach:<br><br>\u2022 D\u0105br\u00f3wka ul. Parkowa 1\/2 o powierzchni 59,26 m\u00b2<br><br>\u2022 Dopiewiec ul. Szkolna 7\/1 o powierzchni 80,8 m\u00b2<br><br>\u2022 Dopiewiec ul. Szkolna 7\/2 o powierzchni 34,08 m\u00b2<br><br>\u2022 Dopiewo ul. Dworcowa 1 o powierzchni 108,89 m\u00b2<br><br>\u2022 Dopiewo ul. Le\u015bna 2C o powierzchni 55,94 m\u00b2<br><br>\u2022 Dopiewo ul. \u0141\u0105kowa 4A\/1 o powierzchni 78,42 m\u00b2<br><br>\u2022 Dopiewo ul. \u0141\u0105kowa 4A\/2 o powierzchni 48,74 m\u00b2<br><br>\u2022 Go\u0142uski ul. Szkolna 4 o powierzchni 82,10 m\u00b2<br><br>\u2022 Trzcielin ul. P\u0142k. A. Kopy 36 o powierzchni 58,32 m\u00b2<br><br>\u2022 Trzcielin ul. P\u0142k. A. Kopy 36 o powierzchni 55,74 m\u00b2<br><br>\u2022 Trzcielin ul. P\u0142k. A. Kopy 36 o powierzchni 82,20 m\u00b2<br><br>Gmina Dopiewo nie dysponuje lokalami socjalnymi.<br><br>Prognoza dotycz\u0105ca wielko\u015bci mieszkaniowego zasobu gminy.<br><br>Gmina Dopiewo nie planuje zwi\u0119kszania zasobu mieszkaniowego poprzez budow\u0119<br>nowych lokali mieszkalnych. Dopuszcza si\u0119 w uzasadnionych przypadkach i<br>mo\u017cliwo\u015bciach finansowych gminy zaakceptowanych przez Rad\u0119 Gminy zakup<br>kolejnych lokali mieszkalnych.<br><br>Prognoza stanu technicznego zasobu mieszkaniowego gminy.<br><br>Stan techniczny budynk\u00f3w w kt\u00f3rych znajduj\u0105 si\u0119 lokale mieszkalne jest<br>zr\u00f3\u017cnicowany, lecz nie wymagaj\u0105 remont\u00f3w kapitalnych. Wyst\u0119powa\u0107 b\u0119d\u0105<br>jedynie drobne remonty i naprawy\u201d<br><br>2. Rozdzia\u0142 4 PLANOWANA SPRZEDA\u017b LOKALI otrzymuje brzmienie:<br><br>\u201eGmina Dopiewo nie przewiduje sprzeda\u017cy lokali, chyba \u017ce wyst\u0105pi\u0105<br>uzasadnione przes\u0142anki ku temu.\u201d<br><br>3. W rozdziale 5 ZASADY POLITYKI CZYNSZOWEJ zmienia si\u0119 ust.1 w<br>nast\u0119puj\u0105cy spos\u00f3b:<br><br>\u201e1. Z uwagi na ma\u0142y zas\u00f3b mieszkaniowy Gminy oraz nisk\u0105 stawk\u0119 bazow\u0105<br>czynszu, wp\u0142ywy z czynsz\u00f3w nie pokrywaj\u0105 wydatk\u00f3w na bie\u017c\u0105c\u0105 eksploatacj\u0119<br>i remonty . Obecnie ustalona stawka czynszu na poziomie 4,90 z\u0142\/m\u00b2 jest<br>niewyg\u00f3rowana. Planuje si\u0119 zwi\u0119kszy\u0107 w kolejnych latach wp\u0142ywy z czynsz\u00f3w<br>poprzez podniesienie stawki bazowej czynszu.\u201d<br><br>4. Rozdzia\u0142 8 WYSOKO\u015a\u0106 WYDATK\u00d3W NA GOSPODAROWANIE MIESZKANIOWYM ZASOBEM<br>GMINY otrzymuje brzmienie:<br><br>\u201eRok Planowane wydatki na bie\u017c\u0105ce remonty i utrzymanie<br><br>2016 77.000,00 z\u0142<br><br>2017 80.000,00z\u0142<br><br>2018 83.000,00 z\u0142<br><br>2019 90.000,00 z\u0142<br><br>2020 95.000,00 z\u0142.\u201d<br><br>\u00a7 2. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a7 3. Uchwa\u0142a wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia w<br>Dzienniku Urz\u0119dowym Wojew\u00f3dztwa Wielkopolskiego.<br><br>UZASADNIENIE<br><br>Przepis art. 21 ust.1 i ust.2 ustawy z dnia 21 czerwca 2001 r. o ochronie<br>praw lokator\u00f3w, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego<br>nak\u0142ada na Rad\u0119 Gminy Dopiewo obowi\u0105zek uchwalenia programu gospodarowania<br>mieszkaniowym zasobem gminy na co najmniej pi\u0119\u0107 kolejnych lat, kt\u00f3ry<br>powinien obejmowa\u0107 w szczeg\u00f3lno\u015bci :<br><br>1. prognoz\u0119 dotycz\u0105c\u0105 wielko\u015bci oraz stanu technicznego zasobu<br>mieszkaniowego gminy w poszczeg\u00f3lnych latach, z podzia\u0142em na lokale<br>socjalne i lokale mieszkalne,<br><br>1. analiz\u0119 potrzeb oraz plan remont\u00f3w i modernizacji wynikaj\u0105cy ze stanu<br>technicznego budynk\u00f3w i lokali, z podzia\u0142em na kolejne lata,<br><br>2. planowan\u0105 sprzeda\u017c lokali w kolejnych latach,<br><br>3. zasady polityki czynszowej oraz warunki obni\u017cania czynszu,<br><br>4. spos\u00f3b i zasady zarz\u0105dzania lokalami i budynkami wchodz\u0105cymi w sk\u0142ad<br>mieszkaniowego zasobu gminy, w kolejnych latach,<br><br>5. \u017ar\u00f3d\u0142a finansowania gospodarki mieszkaniowej w kolejnych latach,<br><br>6. wysoko\u015b\u0107 wydatk\u00f3w w kolejnych latach,<br><br>7. inne dzia\u0142ania maj\u0105ce na celu popraw\u0119 wykorzystania i racjonalizacj\u0119<br>gospodarowania mieszkaniowym zasobem gminy.<br><br>W zwi\u0105zku ze zbyciem nieruchomo\u015bci lokalowych oraz zmiana stawki bazowej<br>czynszu zasadna jest zmian uchwa\u0142y<br>",
+            "format": "raw_text",
+            "summary": null
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 21
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=11964",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr V\/64\/19 Rady Gminy Dopiewo z dnia 25 lutego 2019 r. sprawie zmiany Wieloletniego programu gospodarowania mieszkaniowym zasobem Gminy Dopiewo na lata 2016-2020"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/2300"
+        }
+    ],
+    "field_numer_porzadkowy": [
+        {
+            "value": 64
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "9217b350-0dce-429c-8d79-71fa1cd3023b"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "6db7b53d-5dd8-4f64-b030-4721e51bc362"
+        }
+    ]
+}
