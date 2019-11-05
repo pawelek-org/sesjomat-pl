@@ -1,6 +1,0 @@
-[build]
-command = "./sesjomat_install.sh"
-publish = "html"
-
-[build.environment]
-PHP_VERSION = "7.2"
