@@ -1,6 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d872c478-90d3-4bf3-bcbc-dd29c0177a76/deploy-status)](https://app.netlify.com/sites/amazing-hawking-9983bb/deploys)
 
-# Composer template for Sesjomat.pl (based on Tome project)
+# Composer template for Sesjomat.pl
+
+Sesjomat is mainly based on Tome composer template.
 
 - See: [Tome](https://github.com/drupal-tome/tome-project)
 
