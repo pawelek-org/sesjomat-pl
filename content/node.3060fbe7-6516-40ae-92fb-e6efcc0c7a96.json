@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/1\/3",
+            "alias": "\/uchwala\/3",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -122,6 +122,11 @@
             "value": 0
         }
     ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr I\/03\/18 Rady Gminy Dopiewo z dnia 19 listopada 2018 r. w sprawie powo\u0142ania cz\u0142onk\u00f3w Komisji Bud\u017cetu, Finans\u00f3w, Inwestycji, Porz\u0105dku Publicznego i Ochrony Przeciwpo\u017carowej Rady Gminy Dopiewo"
+        }
+    ],
     "field_glos_brak": [],
     "field_glos_nieobecny": [],
     "field_glos_przeciw": [],
@@ -160,5 +165,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "165e700f-2071-4419-a194-d94dfb86a808"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

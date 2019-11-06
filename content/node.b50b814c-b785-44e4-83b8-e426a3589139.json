@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/4\/34",
+            "alias": "\/uchwala\/34",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr IV\/34\/19 Rady Gminy Dopiewo z dnia 28 stycznia 2019 r. w sprawie zatwierdzenia plan\u00f3w pracy Komisji Rady Gminy Dopiewo na rok 2019"
         }
     ],
     "field_glos_brak": [],
@@ -246,5 +251,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "a5a55bac-1089-4f9c-93f5-e6b69e1c5537"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

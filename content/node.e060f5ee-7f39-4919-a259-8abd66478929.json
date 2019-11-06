@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:08+00:00",
+            "value": "2019-11-06T15:20:10+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/13\/155",
+            "alias": "\/uchwala\/155",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XIII\/155\/19 Rady Gminy Dopiewo z dnia 30 wrze\u015bnia 2019 r. w sprawie nadania nazwy ulicy S\u0105siedzka w miejscowo\u015bci Sk\u00f3rzewo"
         }
     ],
     "field_glos_brak": [
@@ -250,5 +255,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "37f2824c-7d92-4cbc-9868-b0ff49dd8589"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

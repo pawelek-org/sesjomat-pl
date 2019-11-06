@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-03T13:21:02+00:00",
+            "value": "2019-11-06T15:09:27+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -92,6 +92,11 @@
         },
         {
             "value": "https:\/\/bip.dopiewo.pl\/?p=document&action=save&id=31001&bar_id=12291"
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Pani Mariola Walich jest radn\u0105 w so\u0142ectwie Sk\u00f3rzewo i D\u0105browa."
         }
     ],
     "field_href_source": [

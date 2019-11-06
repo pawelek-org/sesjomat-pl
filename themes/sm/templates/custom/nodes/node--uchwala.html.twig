@@ -32,7 +32,9 @@ TEASER
   <div class="hero-body">
     <div class="columns">
       <div class="column col-12">
-        <p><div class="text-bold"><i class="icon icon-bookmark"></i> {{ content.field_nazwa_uchwaly|render|trim }}</div></p>
+      <div class="text-bold">
+        <p><i class="icon icon-bookmark"></i> {{ content.field_nazwa_uchwaly|render|trim }}</p>
+      </div>
       </div>
     </div>
   </div>
@@ -49,7 +51,7 @@ TEASER
     <ul>
       <li><a title="Odnośnik do sesji nr {{ nr_porzadkowy_sesji }}" href="/sesje/{{ nr_porzadkowy_sesji }}" rel="nofollow">Sesja nr {{ nr_porzadkowy_sesji }}</a> odbyła się w dniu {{ data }}.</li>
       <li>Głosowanie uchwały było {{ content.field_typ_glosowania|render|trim|lower }}.</li>
-      <li>Z tej sesji dostępny jest <a title="Odnośnik do protokołu nr {{ nr_porzadkowy_sesji }}" href="/protokoly/{{ nr_porzadkowy_sesji }}"rel="nofollow">protokół nr {{ nr_porzadkowy_sesji }}</a>.</li>
+      <li>Z tej sesji dostępny jest <a title="Odnośnik do protokołu nr {{ nr_porzadkowy_sesji }}" href="/protokoly/{{ nr_porzadkowy_sesji }}" rel="nofollow">protokół nr {{ nr_porzadkowy_sesji }}</a>.</li>
       {% if url_zmiany %}<li>Niniejsza uchwała zmienia <a title="Odnośnik do zmienionej uchwały" href="{{ url_zmiany }}" rel="nofollow">uchwałę nr {{ nr_porzadkowy_zmienianej_uchwaly }}</a> z dnia {{ data_zmienianej_uchwaly }}.</li>{% endif %}
       <li>Za przyjęciem uchwały głosowało {{ node.field_count_za.0.value }} radnych spośród {{ liczba_obecnych }} obecnych w trakcie głosowania.</li>
     </ul>

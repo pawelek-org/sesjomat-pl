@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-03T13:21:58+00:00",
+            "value": "2019-11-06T15:09:27+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -92,6 +92,11 @@
         },
         {
             "value": "https:\/\/bip.dopiewo.pl\/?p=document&action=save&id=30989&bar_id=12291"
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Pani Marta Jamont jest radn\u0105 w so\u0142ectwie D\u0105br\u00f3wka, Pal\u0119dzie, Zakrzewo i Go\u0142uski."
         }
     ],
     "field_href_source": [

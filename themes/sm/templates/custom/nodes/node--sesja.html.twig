@@ -1,5 +1,24 @@
 <p>Zobacz też <a href="/protokoly/{{ node.field_numer_porzadkowy.0.value|trim }}" title="Przejdź do Protokół nr {{ node.field_numer_porzadkowy.0.value|trim }}">Protokół nr {{ node.field_numer_porzadkowy.0.value|trim }}</a></p>
-{{ drupal_view('lista_uchwal', 'page_3', node.field_numer_porzadkowy.0.value|trim) }}
+
+{# NAZWA #}
+<div class="hero hero-sm bg-secondary">
+  <div class="hero-body">
+    <div class="columns">
+      <div class="column col-12">
+      <div class="text-bold">
+        <p><i class="icon icon-bookmark"></i> {{ content.field_nazwa_sesji|render|trim }}</p>
+      </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+{# WYKAZ UCHWAŁ #}
+<div class="columns">
+  <div class="column col-12">
+    {{ drupal_view('lista_uchwal', 'page_3', node.field_numer_porzadkowy.0.value|trim) }}
+  </div>
+</div>
 
 {#
 /**

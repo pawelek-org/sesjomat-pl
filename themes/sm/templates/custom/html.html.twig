@@ -3,14 +3,18 @@
   <head>
     <title>{{ head_title['title'] }} &bull; {{ head_title['name'] }} Gmina Dopiewo</title>
     <meta charset="utf-8">
-    <meta name="description" content="{{ head_title['name'] }} to projekt non-profit prezentujący dane sektora publicznego z prac Rady Gminy Dopiewo."/>
+    {% if head_title['description'] %}
+      <meta name="description" content="{{ head_title['description'] }}"/>
+    {% else %}
+      <meta name="description" content="{{ head_title['name'] }} to projekt non-profit prezentujący dane sektora publicznego z prac Rady Gminy Dopiewo."/>
+    {% endif %}
+    <meta property="og:title" content="{{ head_title['title'] }} &bull; {{ head_title['name'] }} Gmina Dopiewo">
+    <meta property="og:site_name" content="{{ head_title['name'] }}" />
+    <meta property="og:image" content="https://sesjomat.pl/themes/custom/sm/img/sesjomat-logo-og.jpg" />
     <meta name="robots" content="index, follow, noarchive">
     <meta name="author" content="pawelek.org" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta property="og:title" content="{{ head_title['title'] }} &bull; {{ head_title['name'] }} Gmina Dopiewo">
-    <meta property="og:site_name" content="{{ head_title['name'] }}" />
-    <meta property="og:image" content="https://sesjomat.pl/themes/custom/sm/img/sesjomat-logo-og.jpg" />
     <link rel="icon" href="/themes/custom/sm/img/sesjomat-logo.png">
     <link rel="shortcut icon" href="/themes/custom/sm/img/favicon.ico">
     <link rel="icon" href="/themes/custom/sm/img/sesjomat-logo.svg">

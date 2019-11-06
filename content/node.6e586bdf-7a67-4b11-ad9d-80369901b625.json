@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:08+00:00",
+            "value": "2019-11-06T15:20:09+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/12\/135",
+            "alias": "\/uchwala\/135",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 17
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XII\/135\/19 Rady Gminy Dopiewo z dnia 29 lipca 2019 r. w sprawie przyst\u0105pienia do sporz\u0105dzenia miejscowego planu zagospodarowania przestrzennego terenu w miejscowo\u015bci Sk\u00f3rzewo, w rejonie ulicy Sp\u00f3\u0142dzielczej, dla dzia\u0142ki o nr ewid. 421\/6"
         }
     ],
     "field_glos_brak": [],
@@ -246,5 +251,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "70483d86-17ab-4160-a9ed-e93c709615e5"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

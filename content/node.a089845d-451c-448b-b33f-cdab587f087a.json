@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-02T14:33:28+00:00",
+            "value": "2019-11-06T15:20:09+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/11\/124",
+            "alias": "\/uchwala\/124",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -89,7 +89,7 @@
         {
             "value": " Uchwa\u0142a Nr XI\/124\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 24 czerwca 2019 roku<br><br>w sprawie zmiany uchwa\u0142y Nr III\/32\/18 Rady Gminy Dopiewo z dnia 17 grudnia<br>2018 roku w sprawie uchwalenia Wieloletniej Prognozy Finansowej Gminy<br>Dopiewo<br><br>na lata 2019-2026<br><br>Na podstawie art. 18 ust. 2 pkt 15 ustawy z dnia 8 marca 1990 roku<br>o samorz\u0105dzie gminnym<br>(t.j. Dz. U. z 2019 r. poz. 506), art. 226- 228 i 230 ust. 6 ustawy z dnia<br>27 sierpnia 2009 r.<br>o finansach publicznych (t.j. Dz. U. z 2019 r. poz. 869) Rada Gminy<br>uchwala, co nast\u0119puje:<br><br>\u00a7 1. W uchwale Nr III\/32\/18 Rady Gminy Dopiewo z dnia 17 grudnia 2018 roku<br>wprowadza si\u0119 nast\u0119puj\u0105ce zmiany:<br><br> 1. za\u0142\u0105cznik Nr 1 otrzymuje brzmienie zgodnie z za\u0142\u0105cznikiem Nr 1 do<br>niniejszej uchwa\u0142y,<br><br> 2. za\u0142\u0105cznik Nr 2 otrzymuje brzmienie zgodnie z za\u0142\u0105cznikiem Nr 2 do<br>niniejszej uchwa\u0142y.<br><br>\u00a7 2. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy.<br><br>\u00a7 3. Uchwa\u0142a wchodzi w \u017cycie z dniem podj\u0119cia.<br><br>Uzasadnienie do uchwa\u0142y w sprawie zmiany uchwa\u0142y Nr III\/32\/18 Rady Gminy<br>Dopiewo z dnia 17 grudnia 2018 roku w sprawie uchwalenia Wieloletniej<br>Prognozy Finansowej Gminy Dopiewo na lata 2019- 2026<br><br> 1. Zmiany dokonane w za\u0142\u0105czniku Nr 1 zwi\u0105zane s\u0105 ze zmianami uchwa\u0142y<br>bud\u017cetowej i zmianami w wykazie przedsi\u0119wzi\u0119\u0107. W zakresie dochod\u00f3w i<br>wydatk\u00f3w w 2020 i 2021 roku dokonano zmian w zwi\u0105zku z przyznanym<br>dofinansowaniem na zadanie \u201dWsparcie na starcie w Przedszkolu M\u0105dra<br>Sowa w Konarzewie\u201d .<br><br> 2. Zmiany dokonane w za\u0142\u0105czniku Nr 2 - wykaz przedsi\u0119wzi\u0119\u0107 :<br><br>- poz. 1.1.1.4 dodano nowe przedsi\u0119wzi\u0119cie pn. Wsparcie na starcie w<br>Przedszkolu M\u0105dra Sowa w Konarzewie\u201d okres realizacji 2019-2021,<br>zwi\u0119kszono \u0142\u0105czne nak\u0142ady, limit zobowi\u0105za\u0144 o kwot\u0119 518.750,00 z\u0142, limit<br>2020 - 271.000,00 z\u0142, limit 2021 - 247.750,00 z\u0142;<br><br>- poz. 1.1.1.5 dodano nowe przedsi\u0119wzi\u0119cie pn. Podniesienie kompetencji<br>cyfrowych mieszka\u0144c\u00f3w\u201d okres realizacji 2019-2020, zwi\u0119kszono \u0142\u0105czne<br>nak\u0142ady, limit zobowi\u0105za\u0144 o kwot\u0119 123.600,00 z\u0142, limit 2019- 113.712,00<br>z\u0142, limit 2020 - 9.888,00 z\u0142;<br><br>- poz. 1.3.1.23 dodano nowe przedsi\u0119wzi\u0119cie pn. \u015awiadczenie us\u0142ug<br>transportowych 2020, limit zobowi\u0105za\u0144, \u0142\u0105czne nak\u0142ady, limit 2020 - kwota<br>550.000,00 z\u0142;<br><br>- poz. 1.3.2.2 zmniejszono \u0142\u0105czne nak\u0142ady, limit 2019 o kwot\u0119 200.000,00<br>z\u0142;<br><br>- poz. 1.3.2.3 zwi\u0119kszono \u0142\u0105czne nak\u0142ady, limit 2019 o kwot\u0119 300.000,00<br>z\u0142;<br><br>- poz. 1.3.2.4 zwi\u0119kszono \u0142\u0105czne nak\u0142ady, limit 2019 o kwot\u0119 70.000,00 z\u0142;<br><br>Ponadto dokonano aktualizacji limitu zobowi\u0105za\u0144 w zakresie zawartych um\u00f3w.<br>",
             "format": "raw_text",
-            "summary": ""
+            "summary": null
         }
     ],
     "field_count_brak": [
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XI\/124\/19 Rady Gminy Dopiewo z dnia 24 czerwca 2019 roku w sprawie zmiany uchwa\u0142y Nr III\/32\/18 Rady Gminy Dopiewo z dnia 17 grudnia 2018 roku w sprawie uchwalenia Wieloletniej Prognozy Finansowej Gminy Dopiewo na lata 2019-2026"
         }
     ],
     "field_glos_brak": [],

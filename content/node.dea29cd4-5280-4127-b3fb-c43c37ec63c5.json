@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:07+00:00",
+            "value": "2019-11-06T15:20:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/5\/69",
+            "alias": "\/uchwala\/69",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr V\/69\/19 Rady Gminy Dopiewo z dnia 25 lutego 2019 r. w sprawie rozpatrzenia skargi na W\u00f3jta Gminy Dopiewo"
         }
     ],
     "field_glos_brak": [],
@@ -246,5 +251,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "bb6752b3-c5e4-4838-bbc8-64e45289a4b8"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

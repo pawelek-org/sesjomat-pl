@@ -1,0 +1,22 @@
+uuid: 52722426-5af4-4b2e-a864-6f9445099398
+langcode: pl
+status: true
+dependencies:
+  module:
+    - computed_field
+    - node
+id: node.field_custom_meta_descr
+field_name: field_custom_meta_descr
+entity_type: node
+type: computed_string
+settings:
+  max_length: '255'
+  is_ascii: false
+  case_sensitive: false
+module: computed_field
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

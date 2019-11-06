@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/3\/32",
+            "alias": "\/uchwala\/32",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 21
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr III\/32\/18 Rady Gminy Dopiewo z dnia 17 grudnia 2018 roku w sprawie uchwalenia Wieloletniej Prognozy Finansowej Gminy Dopiewo na lata 2019-2026"
         }
     ],
     "field_glos_brak": [],
@@ -245,5 +250,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "af319f3a-4ec2-41d6-aa9b-3e214986f37f"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

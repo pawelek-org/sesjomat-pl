@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:07+00:00",
+            "value": "2019-11-06T15:20:09+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/11\/120",
+            "alias": "\/uchwala\/120",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 21
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XI\/120\/19 Rady Gminy Dopiewo z dnia 24 czerwca 2019 r. w sprawie zapewnienia zwrotu koszt\u00f3w dowozu dzieci niepe\u0142nosprawnych w wieku do 4 lat do przedszkola, oddzia\u0142u przedszkolnego w szkole podstawowej lub innej formy wychowania przedszkolnego"
         }
     ],
     "field_glos_brak": [],
@@ -249,5 +254,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "ad245f4e-c063-42ce-8dca-ad0af7349bdb"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

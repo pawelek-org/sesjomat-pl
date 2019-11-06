@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:07+00:00",
+            "value": "2019-11-06T15:20:09+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/9\/103",
+            "alias": "\/uchwala\/103",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr IX\/103\/19 Rady Gminy Dopiewo z dnia 27 maja 2019 r. w sprawie przyst\u0105pienia do sporz\u0105dzenia miejscowego planu zagospodarowania przestrzennego terenu w miejscowo\u015bci D\u0105br\u00f3wka, w rejonie ul. Widok"
         }
     ],
     "field_glos_brak": [],
@@ -246,5 +251,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "70483d86-17ab-4160-a9ed-e93c709615e5"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

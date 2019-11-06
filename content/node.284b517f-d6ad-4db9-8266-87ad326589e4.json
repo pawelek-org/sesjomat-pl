@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/5\/53",
+            "alias": "\/uchwala\/53",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 21
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr V\/53\/19 Rady Gminy Dopiewo z dnia 25 lutego 2019 r. w sprawie udzielenia bonifikaty od op\u0142aty z tytu\u0142u przekszta\u0142cenia prawa u\u017cytkowania wieczystego grunt\u00f3w zabudowanych na cele mieszkaniowe w prawo w\u0142asno\u015bci tych grunt\u00f3w"
         }
     ],
     "field_glos_brak": [],
@@ -245,5 +250,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "bac32b08-7dae-4677-b1cf-83ea4727c82a"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

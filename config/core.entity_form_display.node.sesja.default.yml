@@ -4,12 +4,14 @@ status: true
 dependencies:
   config:
     - field.field.node.sesja.body
+    - field.field.node.sesja.field_custom_meta_descr
     - field.field.node.sesja.field_data
     - field.field.node.sesja.field_kadencja
     - field.field.node.sesja.field_nazwa_sesji
     - field.field.node.sesja.field_numer_porzadkowy
     - node.type.sesja
   module:
+    - computed_field
     - datetime
     - path
     - text
@@ -33,6 +35,12 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
+  field_custom_meta_descr:
+    weight: 26
+    settings: {  }
+    third_party_settings: {  }
+    type: computed_string_widget
+    region: content
   field_data:
     weight: 4
     settings: {  }

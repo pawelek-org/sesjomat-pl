@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:07+00:00",
+            "value": "2019-11-06T15:20:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/8\/96",
+            "alias": "\/uchwala\/96",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr VIII\/96\/19 Rady Gminy Dopiewo z dnia 29 kwietnia 2019 r. w sprawie uchylenia uchwa\u0142y XLV\/390\/01 Rady Gminy Dopiewo z dnia 26 listopada 2001 roku w sprawie wprowadzenia op\u0142aty prolongacyjnej"
         }
     ],
     "field_glos_brak": [],
@@ -254,5 +259,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "b808e8c6-0b4a-407e-8ba9-9f7aae019525"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

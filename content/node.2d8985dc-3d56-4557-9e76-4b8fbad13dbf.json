@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:07+00:00",
+            "value": "2019-11-06T15:20:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/8\/90",
+            "alias": "\/uchwala\/90",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr VIII\/90\/19 Rady Gminy Dopiewo z dnia 29 kwietnia 2019 r. w sprawie przyst\u0105pienia do sporz\u0105dzenia zmiany Studium uwarunkowa\u0144 i kierunk\u00f3w zagospodarowania przestrzennego gminy Dopiewo dla cz\u0119\u015bci obszaru gminy po\u0142o\u017conej w miejscowo\u015bci Konarzewo"
         }
     ],
     "field_glos_brak": [],
@@ -246,5 +251,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "b8ef64b0-4905-455f-b1e7-4ed4ce7aac96"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:08+00:00",
+            "value": "2019-11-06T15:20:09+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/12\/133",
+            "alias": "\/uchwala\/133",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 17
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XII\/133\/19 Rady Gminy Dopiewo z dnia 29 lipca 2019 r. w sprawie miejscowego planu zagospodarowania przestrzennego terenu w miejscowo\u015bci D\u0105br\u00f3wka, pomi\u0119dzy ulicami Komornick\u0105 i Piastowsk\u0105"
         }
     ],
     "field_glos_brak": [],
@@ -250,5 +255,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "e2f02672-97ea-4d46-9f1f-2eb3b03e0593"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

@@ -1,0 +1,24 @@
+uuid: 65d1fe16-8f8d-40c0-9a41-c2ad1b4f28cb
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_custom_meta_descr
+    - node.type.sesja
+  module:
+    - computed_field
+id: node.sesja.field_custom_meta_descr
+field_name: field_custom_meta_descr
+entity_type: node
+bundle: sesja
+label: 'Custom Meta Description'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: ''
+default_value_callback: ''
+settings:
+  code: '$value = $fields[''field_nazwa_sesji''][0][''value''];'
+field_type: computed_string

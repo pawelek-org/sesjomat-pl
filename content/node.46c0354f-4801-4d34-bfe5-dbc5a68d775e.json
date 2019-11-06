@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:07+00:00",
+            "value": "2019-11-06T15:20:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/5\/64",
+            "alias": "\/uchwala\/64",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 21
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr V\/64\/19 Rady Gminy Dopiewo z dnia 25 lutego 2019 r. sprawie zmiany Wieloletniego programu gospodarowania mieszkaniowym zasobem Gminy Dopiewo na lata 2016-2020"
         }
     ],
     "field_glos_brak": [],
@@ -249,5 +254,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "6db7b53d-5dd8-4f64-b030-4721e51bc362"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

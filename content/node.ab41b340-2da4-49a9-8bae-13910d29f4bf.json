@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:08+00:00",
+            "value": "2019-11-06T15:20:09+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/12\/146",
+            "alias": "\/uchwala\/146",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 12
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XII\/146\/19 Rady Gminy Dopiewo z dnia 29 lipca 2019 r. w sprawie zmiany uchwa\u0142y Nr XXIX\/178\/08 Rady Gminy Dopiewo z dnia 27 pa\u017adziernika 2008r. w sprawie wprowadzenia i okre\u015blenia zasad ustalania i poboru oraz termin\u00f3w p\u0142atno\u015bci i wysoko\u015bci sta"
         }
     ],
     "field_glos_brak": [
@@ -255,5 +260,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "f7bc3232-e843-46a0-a723-f92c00bfb62d"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

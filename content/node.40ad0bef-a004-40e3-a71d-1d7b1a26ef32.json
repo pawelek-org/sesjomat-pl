@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/4\/36",
+            "alias": "\/uchwala\/36",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 17
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr IV\/36\/19 Rady Gminy Dopiewo z dnia 28 stycznia 2019 r. w sprawie wskazania miejsca realizacji obowi\u0105zku szkolnego uczniom oddzia\u0142\u00f3w klas VI Szko\u0142y Podstawowej nr 1 im. Fryderyka Chopina w Sk\u00f3rzewie ko\u0144cz\u0105cych klas\u0119 IV w roku szkolnym 2018\/2019"
         }
     ],
     "field_glos_brak": [],
@@ -251,5 +256,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "ad245f4e-c063-42ce-8dca-ad0af7349bdb"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

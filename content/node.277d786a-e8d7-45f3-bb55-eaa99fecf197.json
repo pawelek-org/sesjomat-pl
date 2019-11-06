@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/3\/22",
+            "alias": "\/uchwala\/22",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr III\/22\/18 Rady Gminy Dopiewo z dnia 17 grudnia 2018 r. w sprawie powo\u0142ania Kapitu\u0142y Stypendium Sportowego Gminy Dopiewo "
         }
     ],
     "field_glos_brak": [],
@@ -246,5 +251,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "85528956-6559-4951-abe4-03970e56d308"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

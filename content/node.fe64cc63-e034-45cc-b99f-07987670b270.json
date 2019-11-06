@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:07+00:00",
+            "value": "2019-11-06T15:20:09+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/9\/105",
+            "alias": "\/uchwala\/105",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr IX\/105\/19 Rady Gminy Dopiewo z dnia 27 maja 2019 r. w sprawie zmiany miejscowego planu zagospodarowania przestrzennego terenu w miejscowo\u015bci Pal\u0119dzie, w rejonie ul. Jagodowej, dla dzia\u0142ki o nr ewid. 18\/47"
         }
     ],
     "field_glos_brak": [],
@@ -250,5 +255,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "d53e217b-fe85-4db9-b42f-2962b370d139"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

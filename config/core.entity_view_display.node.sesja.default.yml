@@ -4,12 +4,14 @@ status: true
 dependencies:
   config:
     - field.field.node.sesja.body
+    - field.field.node.sesja.field_custom_meta_descr
     - field.field.node.sesja.field_data
     - field.field.node.sesja.field_kadencja
     - field.field.node.sesja.field_nazwa_sesji
     - field.field.node.sesja.field_numer_porzadkowy
     - node.type.sesja
   module:
+    - computed_field
     - datetime
     - text
     - user
@@ -24,6 +26,16 @@ content:
     weight: 3
     settings: {  }
     third_party_settings: {  }
+    region: content
+  field_custom_meta_descr:
+    weight: 5
+    label: hidden
+    settings:
+      sanitized: true
+      cache_unit: -1
+      cache_duration: 1
+    third_party_settings: {  }
+    type: computed_string
     region: content
   field_data:
     weight: 1
@@ -44,7 +56,7 @@ content:
     third_party_settings: {  }
   field_nazwa_sesji:
     weight: 4
-    label: above
+    label: hidden
     settings:
       link_to_entity: false
     third_party_settings: {  }

@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:08+00:00",
+            "value": "2019-11-06T15:20:09+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/12\/145",
+            "alias": "\/uchwala\/145",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 12
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XII\/145\/19 Rady Gminy Dopiewo z dnia 29 lipca 2019 r. w sprawie poboru podatk\u00f3w w drodze inkasa oraz wyznaczenia inkasent\u00f3w i ustalenia wysoko\u015bci wynagrodzenia za inkaso"
         }
     ],
     "field_glos_brak": [
@@ -251,5 +256,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "e8635567-bca7-4271-8037-3ad64c609258"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

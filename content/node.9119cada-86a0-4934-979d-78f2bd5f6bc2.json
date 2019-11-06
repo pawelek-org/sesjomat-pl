@@ -1,0 +1,95 @@
+{
+    "uuid": [
+        {
+            "value": "9119cada-86a0-4934-979d-78f2bd5f6bc2"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "page",
+            "target_type": "node_type",
+            "target_uuid": "4d6415e1-6a23-44d0-a829-e7323c005b13"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-11-06T12:34:40+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Witaj na Sesjomat.pl"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-11-06T12:33:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-06T12:36:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": true
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/witaj-na-sesjomatpl",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": "<p><strong>Sesjomat.pl <\/strong>to zestawienie danych publicznych dotycz\u0105cych prac Rady Gminy Dopiewo w kadencji 2018-2023. Prezentowane dane dotycz\u0105 przeg\u0142osowanych pozytywnie uchwa\u0142 w trakcie sesji.<\/p>\r\n<p>Wszystkie informacje prezentowane na <strong>Sesjomat.pl <\/strong> pochodz\u0105 z <a href=\"https:\/\/bip.dopiewo.pl\" target=\"_blank\" rel=\"nofollow\" title=\"Gmina Dopiewo - Biuletyn Informacji Publicznej\">Biuletynu Informacji Publicznej<\/a> (BIP). Ze wzgl\u0119du na ograniczony dost\u0119p do niekt\u00f3rych informacji w BIP, nie zosta\u0142y uwzgl\u0119dnione inne dane, takie jak np. obrad komisji merytorycznych. Wi\u0119cej informacji na stronie <a href=\"\/sesjomat\" title=\"Wi\u0119cej o Sesjomat.pl\">Jak powstaje Sesjomat?<\/a>.<\/p>\r\n<div class=\"docs-demo columns\">\r\n  <div class=\"column col-6 col-xs-12\">\r\n    <div class=\"card\">\r\n      <div class=\"card-header\">\r\n        <div class=\"card-title h5\">Sesje<\/div>\r\n      <\/div>\r\n      <div class=\"card-body\">Wykaz sesji Rady Gminy Dopiewo w kadencji 2018-2023.<\/div>\r\n      <div class=\"card-footer\"><a class=\"btn btn-primary\" title=\"Zestawienie sesji rady gminy\" href=\"\/sesje\">Zobacz<\/a><\/div>\r\n    <\/div>\r\n  <\/div>\r\n  <div class=\"column col-6 col-xs-12\">\r\n    <div class=\"card\">\r\n      <div class=\"card-header\">\r\n        <div class=\"card-title h5\">Uchwa\u0142y<\/div>\r\n      <\/div>\r\n      <div class=\"card-body\">Wykaz uchwa\u0142 podj\u0119tych przez Rad\u0119 Gminy Dopiewo w kadencji 2018-2023.<\/div>\r\n      <div class=\"card-footer\"><a class=\"btn btn-primary\" title=\"Rejestr podj\u0119tych uchwa\u0142\" href=\"\/uchwaly\">Zobacz<\/a><\/div>\r\n    <\/div>\r\n  <\/div>\r\n  <div class=\"column col-6 col-xs-12\">\r\n    <div class=\"card\">\r\n      <div class=\"card-header\">\r\n        <div class=\"card-title h5\">G\u0142osowanie imienne<\/div>\r\n      <\/div>\r\n      <div class=\"card-body\">Rejestr oddanych g\u0142os\u00f3w podczas sesji w kadencji 2018-2023.<\/div>\r\n      <div class=\"card-footer\"><a class=\"btn btn-primary\" title=\"Jak g\u0142osowali radni?\" href=\"\/glosowanie-imienne\">Zobacz<\/a><\/div>\r\n    <\/div>\r\n  <\/div>\r\n  <div class=\"column col-6 col-xs-12\">\r\n    <div class=\"card\">\r\n      <div class=\"card-header\">\r\n        <div class=\"card-title h5\">Jak powstaje Sesjomat?<\/div>\r\n      <\/div>\r\n      <div class=\"card-body\">Sk\u0105d i jakie dane s\u0105 gromadzone na tej stronie? Plus dodatkowe informacje.<\/div>\r\n      <div class=\"card-footer\"><a class=\"btn btn-primary\" title=\"Wi\u0119cej o Sesjomat.pl\" href=\"\/sesjomat\">Zobacz<\/a><\/div>\r\n    <\/div>\r\n  <\/div>\r\n<\/div>",
+            "format": "purehtml",
+            "summary": "Sesjomat.pl to projekt non-profit prezentuj\u0105cy dane sektora publicznego z prac Rady Gminy Dopiewo. Uchwa\u0142y, sesje, protoko\u0142y, interpelacje radnych i nie tylko."
+        }
+    ]
+}

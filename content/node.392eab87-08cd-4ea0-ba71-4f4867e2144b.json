@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-02T14:28:32+00:00",
+            "value": "2019-11-06T15:20:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/4\/45",
+            "alias": "\/uchwala\/45",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -89,7 +89,7 @@
         {
             "value": " Uchwa\u0142a Nr IV\/45\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 28 stycznia 2019 r.<br><br>w sprawie zmiany uchwa\u0142y Nr II\/16\/18 Rady Gminy Dopiewo z dnia 3 grudnia<br>2018 roku w sprawie udzielenia pomocy finansowej dla Powiatu<br>Pozna\u0144skiego.<br><br>Na podstawie art. 10 ust. 2 i art. 18 ust. 2 pkt 15 ustawy z dnia 8 marca<br>1990 roku<br>o samorz\u0105dzie gminnym (t.j. Dz. U. z 2018 r. poz. 994 z p\u00f3\u017an. zm.) art.<br>216 ust. 2 pkt 5 i art. 220 ustawy z dnia 27 sierpnia 2009 r. o finansach<br>publicznych (t.j. Dz. U. z 2017 r. poz. 2077<br>z p\u00f3\u017an. zm.), Rada Gminy Dopiewo uchwala co nast\u0119puje:<br><br>\u00a7 1. W uchwale Nr II\/16\/18 Rady Gminy Dopiewo z dnia 3 grudnia 2018 roku<br>wprowadza si\u0119 nast\u0119puj\u0105ce zmiany: \u00a7 1 otrzymuje brzmienie:<br><br>\u201e\u00a7 1. Udziela si\u0119 z bud\u017cetu Gminy Dopiewo dotacji celowej w formie pomocy<br>finansowej dla Powiatu Pozna\u0144skiego, z przeznaczeniem na realizacj\u0119<br>zadania: przebudowa\/rozbudowa drogi powiatowej nr 2392P Tarnowo Podg\u00f3rne -<br>Wi\u0119ckowice na odcinku Lus\u00f3wko (Rozalin) - Wi\u0119ckowice oraz nr 2403P<br>Wi\u0119ckowice - Dopiewo, m. Wi\u0119ckowice w wysoko\u015bci 2.500.000,00 z\u0142 (dwa<br>miliony pi\u0119\u0107set tysi\u0119cy z\u0142otych ^00\/_100)\u201d.<br><br>\u00a7 2. Pozosta\u0142a tre\u015b\u0107 uchwa\u0142y II\/16\/18 Rady Gminy Dopiewo z dnia 3 grudnia<br>2018 roku pozostaje bez zmian.<br><br>\u00a7 3. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a7 4. Uchwa\u0142a wchodzi w \u017cycie z dniem podj\u0119cia.<br><br>Uzasadnienie<br><br>Zmiana uchwa\u0142y zwi\u0105zana jest ze zmian\u0105 w nazwie zadania poprzez dodanie<br>s\u0142owa rozbudowa.<br>",
             "format": "raw_text",
-            "summary": ""
+            "summary": null
         }
     ],
     "field_count_brak": [
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr IV\/45\/19 Rady Gminy Dopiewo z dnia 28 stycznia 2019 r. w sprawie zmiany uchwa\u0142y Nr II\/16\/18 Rady Gminy Dopiewo z dnia 3 grudnia 2018 roku w sprawie udzielenia pomocy finansowej dla Powiatu Pozna\u0144skiego"
         }
     ],
     "field_glos_brak": [],

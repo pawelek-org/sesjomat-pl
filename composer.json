@@ -26,7 +26,6 @@
         "drupal/tome": "^1.0",
         "drupal-tome/tome_drush": "dev-master",
         "drupal/admin_toolbar": "^1.27",
-        "drupal/metatag": "^1.10",
         "drupal/adminimal_theme": "^1.5",
         "drupal/minifyhtml": "^1.8",
         "drupal/adminimal_admin_toolbar": "^1.10",

@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/4\/43",
+            "alias": "\/uchwala\/43",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr IV\/43\/19 Rady Gminy Dopiewo z dnia 28 stycznia 2019 r. w sprawie podwy\u017cszenia kryterium dochodowego uprawniaj\u0105cego do przyznania pomocy w formie posi\u0142ku, \u015bwiadczenia pieni\u0119\u017cnego w postaci zasi\u0142ku celowego na zakup posi\u0142ku lub \u017cywno\u015bci oraz \u015bwi"
         }
     ],
     "field_glos_brak": [],
@@ -250,5 +255,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "a202e8f4-ddf0-488c-8a81-a94697b7b1f4"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

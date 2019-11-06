@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:07+00:00",
+            "value": "2019-11-06T15:20:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/6\/82",
+            "alias": "\/uchwala\/82",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 19
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr VI\/82\/19 Rady Gminy Dopiewo z dnia 25 marca 2019 r. w sprawie przyst\u0105pienia do sporz\u0105dzenia zmiany miejscowego planu zagospodarowania przestrzennego terenu w miejscowo\u015bci D\u0105br\u00f3wka, dla dzia\u0142ki o nr ewid. 37\/4"
         }
     ],
     "field_glos_brak": [],
@@ -247,5 +252,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "4a7eb986-0f0f-49da-b8d4-1fb0bb72534b"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

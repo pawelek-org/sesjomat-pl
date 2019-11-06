@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/1\/1",
+            "alias": "\/uchwala\/1",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -122,6 +122,11 @@
             "value": 0
         }
     ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr I\/01\/18 Rady Gminy Dopiewo z dnia 19 listopada 2018 r. w sprawie wyboru Przewodnicz\u0105cego Rady Gminy Dopiewo"
+        }
+    ],
     "field_glos_brak": [],
     "field_glos_nieobecny": [],
     "field_glos_przeciw": [],
@@ -160,5 +165,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "d6b72755-3cc0-48b5-9c6d-00c5802eaabe"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

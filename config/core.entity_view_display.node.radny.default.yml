@@ -5,6 +5,7 @@ dependencies:
   config:
     - field.field.node.radny.body
     - field.field.node.radny.field_bip_oswiadczenia_majatkowe
+    - field.field.node.radny.field_custom_meta_descr
     - field.field.node.radny.field_href_source
     - field.field.node.radny.field_imie
     - field.field.node.radny.field_nazwisko
@@ -13,6 +14,7 @@ dependencies:
     - field.field.node.radny.field_telefon
     - node.type.radny
   module:
+    - computed_field
     - options
     - text
     - user
@@ -35,6 +37,16 @@ content:
       link_to_entity: false
     third_party_settings: {  }
     type: string
+    region: content
+  field_custom_meta_descr:
+    weight: 7
+    label: hidden
+    settings:
+      sanitized: true
+      cache_unit: -1
+      cache_duration: 1
+    third_party_settings: {  }
+    type: computed_string
     region: content
   field_href_source:
     weight: 4

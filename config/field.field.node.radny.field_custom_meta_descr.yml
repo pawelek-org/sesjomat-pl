@@ -1,0 +1,24 @@
+uuid: 2d988d40-7657-46f6-ac4e-e255e4c25f71
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_custom_meta_descr
+    - node.type.radny
+  module:
+    - computed_field
+id: node.radny.field_custom_meta_descr
+field_name: field_custom_meta_descr
+entity_type: node
+bundle: radny
+label: 'Custom Meta Description'
+description: ''
+required: false
+translatable: false
+default_value:
+  -
+    value: ''
+default_value_callback: ''
+settings:
+  code: "$name = $fields['field_imie'][0]['value'] . ' ' . $fields['field_nazwisko'][0]['value'];\r\n$p = $fields['field_plec'][0]['value'];\r\n$s = $fields['field_solectwo'][0]['value'];\r\n\r\n$t1 = ($p == 'k' ? 'Pani ' : 'Pan ');\r\n$t2 = ($p == 'k' ? ' jest radną ' : ' jest radnym ');\r\n\r\n$value = $t1 . $name . $t2 . 'w sołectwie ' . $s . '.';"
+field_type: computed_string

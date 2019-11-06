@@ -10,6 +10,7 @@ dependencies:
     - field.field.node.uchwala.field_count_votes
     - field.field.node.uchwala.field_count_wstrzymujacy
     - field.field.node.uchwala.field_count_za
+    - field.field.node.uchwala.field_custom_meta_descr
     - field.field.node.uchwala.field_glos_brak
     - field.field.node.uchwala.field_glos_nieobecny
     - field.field.node.uchwala.field_glos_przeciw
@@ -104,6 +105,12 @@ content:
     settings: {  }
     third_party_settings: {  }
     type: computed_number_widget
+    region: content
+  field_custom_meta_descr:
+    weight: 26
+    settings: {  }
+    third_party_settings: {  }
+    type: computed_string_widget
     region: content
   field_glos_brak:
     weight: 14

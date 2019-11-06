@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/2\/19",
+            "alias": "\/uchwala\/19",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 21
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr II\/19\/18 Rady Gminy Dopiewo z dnia 3 grudnia 2018 r. w sprawie ustalenia wysoko\u015bci wynagrodzenia W\u00f3jta Gminy Dopiewo"
         }
     ],
     "field_glos_brak": [],
@@ -245,5 +250,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "6aac8ab4-61c0-4360-a8dd-db5e941bd3d6"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

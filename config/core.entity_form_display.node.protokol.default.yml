@@ -4,11 +4,13 @@ status: true
 dependencies:
   config:
     - field.field.node.protokol.body
+    - field.field.node.protokol.field_custom_meta_descr
     - field.field.node.protokol.field_href_source
     - field.field.node.protokol.field_nazwa_protokolu
     - field.field.node.protokol.field_ref_sesja
     - node.type.protokol
   module:
+    - computed_field
     - path
     - text
 id: node.protokol.default
@@ -31,6 +33,12 @@ content:
     region: content
     settings: {  }
     third_party_settings: {  }
+  field_custom_meta_descr:
+    weight: 26
+    settings: {  }
+    third_party_settings: {  }
+    type: computed_string_widget
+    region: content
   field_href_source:
     weight: 3
     settings:

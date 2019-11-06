@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-02T14:35:00+00:00",
+            "value": "2019-11-06T15:20:09+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/12\/149",
+            "alias": "\/uchwala\/149",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -89,7 +89,7 @@
         {
             "value": " Uchwa\u0142a Nr XII\/149\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 29 lipca 2019 r.<br><br>w sprawie zmiany uchwa\u0142y Nr XI\/122\/2019 Rady Gminy Dopiewo z dnia 24<br>czerwca 2019 r. w sprawie wsp\u00f3\u0142dzia\u0142ania z Powiatem Pozna\u0144skim przy<br>Aktualizacji inwentaryzacji wyrob\u00f3w zawieraj\u0105cych azbest na terenie<br>powiatu pozna\u0144skiego obejmuj\u0105ca nast\u0119puj\u0105ce gminy: Buk, Czerwonak,<br>Dopiewo, Kleszczewo, Komorniki, Kostrzyn, K\u00f3rnik, Lubo\u0144, Mosina,<br>Pobiedziska, Puszczykowo, Rokietnica, Suchy Las.<br><br>Na podstawie art. 18 ust. 1 w zwi\u0105zku z art. 7 ust. 1 pkt 1 i art. 10 ust.<br>1 ustawy z dnia 8 marca 1990 r. o samorz\u0105dzie gminnym (t. j. Dz. U. z 2019<br>r., poz. 506) oraz art. 216 ust. 2 pkt 4 i art. 220 ust. 1 i 2 ustawy z<br>dnia 27 sierpnia 2009 r. o finansach publicznych (t. j. Dz. U. z 2019 r.<br>poz. 869) Rada Gminy Dopiewo uchwala, co nast\u0119puje:<br><br>\u00a71. W uchwale Nr XI\/122\/2019 Rady Gminy Dopiewo z dnia 24 czerwca 2019 r.<br>w sprawie wsp\u00f3\u0142dzia\u0142ania z Powiatem Pozna\u0144skim przy Aktualizacji<br>inwentaryzacji wyrob\u00f3w zawieraj\u0105cych azbest na terenie powiatu<br>pozna\u0144skiego obejmuj\u0105ca nast\u0119puj\u0105ce gminy: Buk, Czerwonak, Dopiewo,<br>Kleszczewo, Komorniki, Kostrzyn, K\u00f3rnik, Lubo\u0144, Mosina, Pobiedziska,<br>Puszczykowo, Rokietnica, Suchy Las \u00a7 3 otrzymuje nast\u0119puj\u0105ce brzmienie:<br><br>\u201e\u00a7 3. Na realizacj\u0119 zadania przeznacza si\u0119 w 2019 r. z bud\u017cetu Gminy<br>Dopiewo kwot\u0119 3.752,14 z\u0142 (s\u0142ownie: trzy tysi\u0105ce siedemset pi\u0119\u0107dziesi\u0105t<br>dwa z\u0142ote ^14\/[100]), kt\u00f3ra zostanie przekazana Powiatowi Pozna\u0144skiemu w<br>formie dotacji celowej.\u201d<br><br>\u00a7 2. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a7 3. Uchwa\u0142a wchodzi w \u017cycie z dniem podj\u0119cia.<br><br>UZASADNIENIE<br><br>\u015arodki finansowe na realizacj\u0119 Aktualizacji inwentaryzacji wyrob\u00f3w<br>zawieraj\u0105cych azbest na terenie powiatu pozna\u0144skiego obejmuj\u0105cego<br>nast\u0119puj\u0105ce gminy: Buk, Czerwonak, Dopiewo, Kleszczewo, Komorniki,<br>Kostrzyn, K\u00f3rnik, Lubo\u0144, Mosina, Pobiedziska, Puszczykowo, Rokietnica,<br>Suchy Las pochodz\u0105 z bud\u017cetu Ministerstwo Przedsi\u0119biorczo\u015bci i<br>Technologii, Powiatu oraz bud\u017cetu Gminy. W wyniku rozstrzygni\u0119cia<br>przetargu nieograniczonego przez Starostwo Powiatowe w Poznaniu ostateczna<br>kwota na realizacj\u0119 ww. zadania wyniesie 239.850 z\u0142 i jest wy\u017csza od<br>planowanej o 39.850 z\u0142. W zwi\u0105zku z powy\u017cszym udzia\u0142 gminy Dopiewo w<br>realizacji ca\u0142ego zadania zwi\u0119kszy si\u0119 o 1.876,07 z\u0142 i ostatecznie<br>wyniesie 3.752,14 z\u0142.<br><br>Przekazanie \u015brodk\u00f3w odb\u0119dzie si\u0119 na podstawie porozumienia z Powiatem<br>Pozna\u0144skim, co wymaga podj\u0119cia stosownej uchwa\u0142y przez Rad\u0119 Gminy Dopiewo.<br>",
             "format": "raw_text",
-            "summary": ""
+            "summary": null
         }
     ],
     "field_count_brak": [
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 17
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XII\/149\/19 Rady Gminy Dopiewo z dnia 29 lipca 2019 r. w sprawie zmiany uchwa\u0142y Nr XI\/122\/2019 Rady Gminy Dopiewo z dnia 24 czerwca 2019 r. w sprawie wsp\u00f3\u0142dzia\u0142ania z Powiatem Pozna\u0144skim przy Aktualizacji inwentaryzacji wyrob\u00f3w zawieraj\u0105cych az"
         }
     ],
     "field_glos_brak": [],

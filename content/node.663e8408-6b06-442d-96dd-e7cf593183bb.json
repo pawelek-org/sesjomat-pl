@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/5\/51",
+            "alias": "\/uchwala\/51",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 17
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr V\/51\/19 Rady Gminy Dopiewo z dnia 25 lutego 2019 r. w sprawie wyodr\u0119bnienia w bud\u017cecie gminy \u015brodk\u00f3w stanowi\u0105cych fundusz so\u0142ecki"
         }
     ],
     "field_glos_brak": [],
@@ -247,5 +252,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "2186ac44-d9dd-47b4-b1a1-8929a3a388ff"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

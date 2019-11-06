@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-02T14:33:08+00:00",
+            "value": "2019-11-06T15:20:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/8\/95",
+            "alias": "\/uchwala\/95",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -89,7 +89,7 @@
         {
             "value": " Uchwa\u0142a Nr VIII\/95\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 29 kwietnia 2019 roku<br><br>w sprawie zmiany uchwa\u0142y Nr III\/32\/18 Rady Gminy Dopiewo z dnia 17 grudnia<br>2018 roku w sprawie uchwalenia Wieloletniej Prognozy Finansowej Gminy<br>Dopiewo<br><br>na lata 2019-2026<br><br>Na podstawie art. 18 ust. 2 pkt 15 ustawy z dnia 8 marca 1990 roku<br>o samorz\u0105dzie gminnym<br>(t.j. Dz. U. z 2019 r. poz. 506), art. 226- 228 i 230 ust. 6 ustawy z dnia<br>27 sierpnia 2009 r.<br>o finansach publicznych (t.j. Dz. U. z 2017r. poz. 2077 z p\u00f3\u017an. zm.) Rada<br>Gminy uchwala, co nast\u0119puje:<br><br>\u00a7 1. W uchwale Nr III\/32\/18 Rady Gminy Dopiewo z dnia 17 grudnia 2018 roku<br>wprowadza si\u0119 nast\u0119puj\u0105ce zmiany:<br><br> 1. za\u0142\u0105cznik Nr 1 otrzymuje brzmienie zgodnie z za\u0142\u0105cznikiem Nr 1 do<br>niniejszej uchwa\u0142y,<br><br> 2. za\u0142\u0105cznik Nr 2 otrzymuje brzmienie zgodnie z za\u0142\u0105cznikiem Nr 2 do<br>niniejszej uchwa\u0142y.<br><br>\u00a7 2. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy.<br><br>\u00a7 3. Uchwa\u0142a wchodzi w \u017cycie z dniem podj\u0119cia.<br><br>Uzasadnienie do uchwa\u0142y w sprawie zmiany uchwa\u0142y Nr III\/32\/18 Rady Gminy<br>Dopiewo z dnia 17 grudnia 2018 roku w sprawie uchwalenia Wieloletniej<br>Prognozy Finansowej Gminy Dopiewo na lata 2019- 2026<br><br> 1. Zmiany dokonane w za\u0142\u0105czniku Nr 1 zwi\u0105zane s\u0105 ze zmianami uchwa\u0142y<br>bud\u017cetowej<br><br>i zmianami w wykazie przedsi\u0119wzi\u0119\u0107.<br><br> 2. Zmiany dokonane w za\u0142\u0105czniku Nr 2 - wykaz przedsi\u0119wzi\u0119\u0107 :<br><br>- poz. 1.3.1.20 zwi\u0119kszono \u0142\u0105czne nak\u0142ady, limit zobowi\u0105za\u0144 o kwot\u0119<br>7.500,00 z\u0142,<br><br>limit 2019 o kwot\u0119 5.000,00 z\u0142, limit 2020 roku<br>o kwot\u0119 2.500,00 z\u0142, limit 2021 roku o kwot\u0119 750,00 z\u0142, limit 2022 roku o<br>kwot\u0119<br>750,00 z\u0142 ;<br><br>- poz.1.3.1.21 nowe przedsi\u0119wzi\u0119cie pn. Dow\u00f3z uczni\u00f3w do szk\u00f3\u0142 2019\/2020 -<br><br>okres realizacji 2019-2020, \u0142\u0105czne nak\u0142ady, limit zobowi\u0105za\u0144 o kwot\u0119<br><br>1.200.000,00 z\u0142, limit 2019 kwota 200.000,00 z\u0142, limit 2020 roku<br>kwota 1.000.000,00 z\u0142;<br><br>- poz. 1.3.2.2 zwi\u0119kszono \u0142\u0105czne nak\u0142ady, limit zobowi\u0105za\u0144 i limit 2019 o<br>kwot\u0119 220.000,00 z\u0142;<br><br>- poz. 1.3.2.9 okres realizacji 2018-2020, zwi\u0119kszono \u0142\u0105czne nak\u0142ady i<br>limit<br><br>zobowi\u0105za\u0144 o kwot\u0119 370.000,00 z\u0142, zmniejszono limit 2019 o kwot\u0119<br>560.000,00<br><br>z\u0142, zwi\u0119kszono limit 2020 o kwot\u0119 930.000,00 z\u0142.<br>",
             "format": "raw_text",
-            "summary": ""
+            "summary": null
         }
     ],
     "field_count_brak": [
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr VIII\/95\/19 Rady Gminy Dopiewo z dnia 29 kwietnia 2019 roku w sprawie zmiany uchwa\u0142y Nr III\/32\/18 Rady Gminy Dopiewo z dnia 17 grudnia 2018 roku w sprawie uchwalenia Wieloletniej Prognozy Finansowej Gminy Dopiewo na lata 2019-2026"
         }
     ],
     "field_glos_brak": [],

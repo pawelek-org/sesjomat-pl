@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/5\/54",
+            "alias": "\/uchwala\/54",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 21
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr V\/54\/19 Rady Gminy Dopiewo z dnia 25 lutego 2019 r. w sprawie wsp\u00f3\u0142dzia\u0142ania z Powiatem Pozna\u0144skim przy usuwaniu i unieszkodliwianiu wyrob\u00f3w zawieraj\u0105cych azbest na terenie Gminy Dopiewo"
         }
     ],
     "field_glos_brak": [],
@@ -245,5 +250,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "77127f35-d5f2-4b0c-9af3-b4bd6ffc2d0c"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

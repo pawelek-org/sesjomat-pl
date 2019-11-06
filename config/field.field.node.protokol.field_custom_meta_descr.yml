@@ -1,0 +1,24 @@
+uuid: daa157b3-d045-473a-8521-0910c9dd4784
+langcode: pl
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_custom_meta_descr
+    - node.type.protokol
+  module:
+    - computed_field
+id: node.protokol.field_custom_meta_descr
+field_name: field_custom_meta_descr
+entity_type: node
+bundle: protokol
+label: 'Custom Meta Description'
+description: ''
+required: false
+translatable: true
+default_value:
+  -
+    value: ''
+default_value_callback: ''
+settings:
+  code: '$value = $value = $fields[''field_nazwa_protokolu''][0][''value''];'
+field_type: computed_string

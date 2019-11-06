@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/3\/28",
+            "alias": "\/uchwala\/28",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 21
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr III\/28\/18 Rady Gminy Dopiewo z dnia 17 grudnia 2018 r. w sprawie miejscowego planu zagospodarowania przestrzennego w obr\u0119bie geodezyjnym Trzcielin terenu wzd\u0142u\u017c drogi powiatowej Dopiewo - St\u0119szew"
         }
     ],
     "field_glos_brak": [],
@@ -249,5 +254,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "e2f02672-97ea-4d46-9f1f-2eb3b03e0593"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

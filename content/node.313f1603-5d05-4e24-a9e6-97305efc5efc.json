@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/2\/15",
+            "alias": "\/uchwala\/15",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 21
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr II\/15\/18 Rady Gminy Dopiewo z dnia 3 grudnia 2018 r. w sprawie przej\u0119cia od Powiatu Pozna\u0144skiego zada\u0144 zarz\u0105dzania niekt\u00f3rymi odcinkami dr\u00f3g powiatowych"
         }
     ],
     "field_glos_brak": [],
@@ -245,5 +250,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "85db8344-a8da-4394-85a2-3b1c1d51205e"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

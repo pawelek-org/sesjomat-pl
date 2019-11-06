@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/2\/17",
+            "alias": "\/uchwala\/17",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 21
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr II\/17\/18 Rady Gminy Dopiewo z dnia 3 grudnia 2018 r. w sprawie uchylenia uchwa\u0142y Nr XLV\/637\/18 Rady Gminy Dopiewo z dnia 12 wrze\u015bnia 2018 roku w sprawie emisji obligacji komunalnych"
         }
     ],
     "field_glos_brak": [],
@@ -249,5 +254,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "b808e8c6-0b4a-407e-8ba9-9f7aae019525"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

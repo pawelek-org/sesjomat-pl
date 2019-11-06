@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:08+00:00",
+            "value": "2019-11-06T18:42:26+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/14\/171",
+            "alias": "\/uchwala\/171",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -89,7 +89,7 @@
         {
             "value": " Uchwa\u0142a Nr XIV\/171\/19<br><br>Rady Gminy Dopiewo<br><br>z dnia 28 pa\u017adziernika 2019 r.<br><br>w sprawie nadania nazwy ulicy Arnikowa w miejscowo\u015bci Go\u0142uski.<br><br>Na podstawie art. 18 ust. 2 pkt. 13 ustawy z dnia 8 marca 1990 r. o<br>samorz\u0105dzie gminnym (t.j. Dz. U. z 2019 r., poz. 506 z p\u00f3\u017an. zm.), oraz<br>art. 8 ust. 1a ustawy z dnia 21 marca 1985 r. o drogach publicznych (t.j.<br>Dz. U. z 2018 r., poz. 2068 z p\u00f3\u017an. zm.), Rada Gminy Dopiewo uchwala, co<br>nast\u0119puje:<br><br>\u00a71.1. Nadaje si\u0119 drodze wewn\u0119trznej po\u0142o\u017conej w miejscowo\u015bci Go\u0142uski,<br>obejmuj\u0105cej dzia\u0142ki o numerze ewidencyjnym 175\/5, 176\/3, nazw\u0119 \u201eArnikowa\u201d.<br><br>2. Szczeg\u00f3\u0142owe po\u0142o\u017cenie drogi wymienionej w \u00a71 ust. 1 przedstawia szkic<br>stanowi\u0105cy za\u0142\u0105cznik nr 1 do niniejszej uchwa\u0142y.<br><br>\u00a72. Uchwalona nazwa drogi podlega naniesieniu na map\u0119 zasadnicz\u0105 i<br>ewidencyjn\u0105 miejscowo\u015bci Go\u0142uski.<br><br>\u00a73. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a74. Uchwa\u0142a wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia w<br>Dzienniku Urz\u0119dowym Wojew\u00f3dztwa Wielkopolskiego.<br><br>Uzasadnienie<br><br>W wyniku podzia\u0142u nieruchomo\u015bci po\u0142o\u017conej w miejscowo\u015bci Go\u0142uski, zosta\u0142a<br>wydzielona dzia\u0142ka pod drog\u0119 wewn\u0119trzn\u0105. W zwi\u0105zku z planowan\u0105 zabudow\u0105<br>dzia\u0142ek bezpo\u015brednio granicz\u0105cych z wydzielon\u0105 drog\u0105 zaistnia\u0142a potrzeba<br>nadania nazwy ulicy. Z takim wnioskiem wyst\u0105pili jej w\u0142a\u015bciciele. Wobec<br>powy\u017cszego podj\u0119cie niniejszej uchwa\u0142y jest uzasadnione.<br>",
             "format": "raw_text",
-            "summary": null
+            "summary": ""
         }
     ],
     "field_count_brak": [
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XIV\/171\/19 Rady Gminy Dopiewo z dnia 28 pa\u017adziernika 2019 r. w sprawie nadania nazwy ulicy Arnikowa w miejscowo\u015bci Go\u0142uski"
         }
     ],
     "field_glos_brak": [],
@@ -224,7 +229,11 @@
             "value": "Uchwa\u0142a Nr XIV\/171\/19 Rady Gminy Dopiewo z dnia 28 pa\u017adziernika 2019 r. w sprawie nadania nazwy ulicy Arnikowa w miejscowo\u015bci Go\u0142uski"
         }
     ],
-    "field_nr_w_dz_wojewody": [],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/9057"
+        }
+    ],
     "field_numer_porzadkowy": [
         {
             "value": 171
@@ -246,5 +255,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "37f2824c-7d92-4cbc-9868-b0ff49dd8589"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

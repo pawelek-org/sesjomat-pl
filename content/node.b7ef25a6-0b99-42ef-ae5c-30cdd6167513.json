@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:07+00:00",
+            "value": "2019-11-06T15:20:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/5\/65",
+            "alias": "\/uchwala\/65",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 21
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr V\/65\/19 Rady Gminy Dopiewo z dnia 25 lutego 2019 r. w sprawie ustalenia regulaminu okre\u015blaj\u0105cego zasady i tryb korzystania ze \u015bwietlic wiejskich i Domu Stra\u017caka b\u0119d\u0105cych w\u0142asno\u015bci\u0105 Gminy Dopiewo"
         }
     ],
     "field_glos_brak": [],
@@ -249,5 +254,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "ce813fb8-0eea-4a3c-9680-8bed3ae51bac"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

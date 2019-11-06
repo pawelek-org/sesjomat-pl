@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:08+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/5\/52",
+            "alias": "\/uchwala\/52",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 17
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr V\/52\/19 Rady Gminy Dopiewo z dnia 25 lutego 2019 r. w sprawie udzielenia dotacji w 2019 roku na prace konserwatorskie, restauratorskie lub roboty budowlane przy zabytkach wpisanych do rejestru zabytk\u00f3w"
         }
     ],
     "field_glos_brak": [],
@@ -251,5 +256,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "e549f657-c7c5-45fe-b4f1-fc93288f1d67"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:08+00:00",
+            "value": "2019-11-06T15:20:10+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/14\/173",
+            "alias": "\/uchwala\/173",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XIV\/173\/19 Rady Gminy Dopiewo z dnia 28 pa\u017adziernika 2019 r. w sprawie udzielenia pomocy finansowej dla Gminy St\u0119szew"
         }
     ],
     "field_glos_brak": [],
@@ -246,5 +251,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "40085d2d-762e-49b5-8127-222e668d63a8"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

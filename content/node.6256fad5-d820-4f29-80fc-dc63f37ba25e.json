@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:08+00:00",
+            "value": "2019-11-06T15:20:09+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/12\/129",
+            "alias": "\/uchwala\/129",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 17
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XII\/129\/19 Rady Gminy Dopiewo z dnia 29 lipca 2019 r. w sprawie okre\u015blenia wzoru wniosku o wyp\u0142at\u0119 dodatku energetycznego"
         }
     ],
     "field_glos_brak": [],
@@ -250,5 +255,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "cf6c0d14-0ce5-464a-89a2-bb7f6431d4d0"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

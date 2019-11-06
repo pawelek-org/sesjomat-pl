@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/3\/30",
+            "alias": "\/uchwala\/30",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 21
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr III\/30\/18 Rady Gminy Dopiewo z dnia 17 grudnia 2018 rokuw sprawie zmiany uchwa\u0142y Nr XXXVII\/500\/17 Rady Gminy Dopiewo z dnia 18 grudnia 2017 roku w sprawie uchwa\u0142y bud\u017cetowej Gminy Dopiewo na 2018 rok"
         }
     ],
     "field_glos_brak": [],
@@ -253,5 +258,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "f7bc3232-e843-46a0-a723-f92c00bfb62d"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

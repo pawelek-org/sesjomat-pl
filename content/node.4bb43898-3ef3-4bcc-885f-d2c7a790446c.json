@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:08+00:00",
+            "value": "2019-11-06T15:20:10+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/13\/164",
+            "alias": "\/uchwala\/164",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 21
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XIII\/164\/19 Rady Gminy Dopiewo z dnia 30 wrze\u015bnia 2019 r. w sprawie pozbawienia kategorii cz\u0119\u015bci drogi gminnej ul. Marato\u0144skiej w Sk\u00f3rzewie poprzez wy\u0142\u0105czenie z u\u017cytkowania jako drogi publicznej"
         }
     ],
     "field_glos_brak": [],
@@ -249,5 +254,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "4ec308c9-a1d1-4c11-89c5-4fede4382a0d"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:05+00:00",
+            "value": "2019-11-06T15:20:07+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/3\/23",
+            "alias": "\/uchwala\/23",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr III\/23\/18 Rady Gminy Dopiewo z dnia 17 grudnia 2018 r. w sprawie okre\u015blania zasad udzielania dotacji celowych z bud\u017cetu Gminy Dopiewo na dofinansowanie koszt\u00f3w wymiany \u017ar\u00f3de\u0142 ciep\u0142a w mieszkalnych budynkach jednorodzinnych lub lokalach"
         }
     ],
     "field_glos_brak": [],
@@ -250,5 +255,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "abc1c31d-68a4-42e9-a405-a9bd860aa65a"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

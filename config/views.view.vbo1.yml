@@ -3,7 +3,7 @@ langcode: pl
 status: true
 dependencies:
   config:
-    - node.type.uchwala
+    - node.type.protokol
     - user.role.administrator
   module:
     - node
@@ -185,7 +185,7 @@ display:
             views_bulk_edit: views_bulk_edit
             views_bulk_operations_delete_entity: 0
             pathauto_update_alias: pathauto_update_alias
-            'entity:save_action:node': 0
+            'entity:save_action:node': 'entity:save_action:node'
             'entity:delete_action:node': 0
             'entity:publish_action:node': 0
             'entity:unpublish_action:node': 0
@@ -194,6 +194,8 @@ display:
               label_override: ''
               get_bundles_from_results: 1
             pathauto_update_alias:
+              label_override: ''
+            'entity:save_action:node':
               label_override: ''
           plugin_id: views_bulk_operations_bulk_form
       filters:
@@ -217,7 +219,7 @@ display:
           admin_label: ''
           operator: in
           value:
-            uchwala: uchwala
+            protokol: protokol
           group: 1
           exposed: false
           expose:

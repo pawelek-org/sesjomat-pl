@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:07+00:00",
+            "value": "2019-11-06T15:20:09+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/9\/108",
+            "alias": "\/uchwala\/108",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 16
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr IX\/108\/19 Rady Gminy Dopiewo z dnia 27 maja 2019 r. w sprawie zmiany Studium uwarunkowa\u0144 i kierunk\u00f3w zagospodarowania przestrzennego gminy Dopiewo dla cz\u0119\u015bci obszaru gminy po\u0142o\u017conych w miejscowo\u015bci Dopiewo, Sk\u00f3rzewo i D\u0105browa"
         }
     ],
     "field_glos_brak": [],
@@ -248,5 +253,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "2dcafada-13fd-4f9d-8443-438e214b4f4c"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:08+00:00",
+            "value": "2019-11-06T18:42:57+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/14\/176",
+            "alias": "\/uchwala\/176",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 20
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XIV\/176\/19 Rady Gminy Dopiewo z dnia 28 pa\u017adziernika 2019 r. w sprawie zmiany uchwa\u0142y Nr XXII\/311\/16 Rady Gminy Dopiewo z dnia 26 wrze\u015bnia 2016 r. w sprawie okre\u015blenia stawek podatku od nieruchomo\u015bci i zwolnie\u0144 w tym podatku"
         }
     ],
     "field_glos_brak": [],
@@ -224,7 +229,11 @@
             "value": "Uchwa\u0142a Nr XIV\/176\/19 Rady Gminy Dopiewo z dnia 28 pa\u017adziernika 2019 r. w sprawie zmiany uchwa\u0142y Nr XXII\/311\/16 Rady Gminy Dopiewo z dnia 26 wrze\u015bnia 2016 r. w sprawie okre\u015blenia stawek podatku od nieruchomo\u015bci i zwolnie\u0144 w tym podatku"
         }
     ],
-    "field_nr_w_dz_wojewody": [],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/9072"
+        }
+    ],
     "field_numer_porzadkowy": [
         {
             "value": 176
@@ -250,5 +259,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "f7bc3232-e843-46a0-a723-f92c00bfb62d"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

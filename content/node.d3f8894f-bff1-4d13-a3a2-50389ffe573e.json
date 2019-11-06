@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-01T11:00:08+00:00",
+            "value": "2019-11-06T15:20:09+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,7 +79,7 @@
     ],
     "path": [
         {
-            "alias": "\/uchwaly\/12\/128",
+            "alias": "\/uchwala\/128",
             "langcode": "pl",
             "pathauto": 1
         }
@@ -120,6 +120,11 @@
     "field_count_za": [
         {
             "value": 17
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XII\/128\/19 Rady Gminy Dopiewo z dnia 29 lipca 2019 r. w sprawie zmiany Uchwa\u0142y Nr VIII\/89\/15 Rady Gminy Dopiewo z dnia 25 maja 2015r. w sprawie szczeg\u00f3\u0142owych warunk\u00f3w przyznawania i odp\u0142atno\u015bci za us\u0142ugi opieku\u0144cze i specjalistyczne us\u0142ugi opi"
         }
     ],
     "field_glos_brak": [],
@@ -254,5 +259,6 @@
             "target_type": "taxonomy_term",
             "target_uuid": "f7bc3232-e843-46a0-a723-f92c00bfb62d"
         }
-    ]
+    ],
+    "field_zmieniona_uchwala": []
 }

@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-05T14:32:34+00:00",
+            "value": "2019-11-06T18:36:41+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -89,7 +89,7 @@
         {
             "value": "<h5 class=\"s-subtitle\"><i class=\"icon icon-mail\"><\/i> Wy\u015blij e-mail<\/h5>\r\n<ul>\r\n  <li>Zauwa\u017cy\u0142e\u015b(-a\u015b) b\u0142\u0105d na stronie?<\/li>\r\n  <li>Masz propozycje rozwoju, wsp\u00f3\u0142pracy?<\/li>\r\n  <li>Chcesz uruchomi\u0107 podobny projekt w swoim mie\u015bcie\/gminie?<\/li>\r\n<\/ul>\r\n<p><script type=\"text\/javascript\" language=\"javascript\">\r\n<!--\r\n{ coded = \"QaBBM@KaKRMeqU.aT8qHi.JMe\"\r\n  key = \"TUDlayrJsF9IMWiYmVEL5wfvx7NjBqhHpKng04t1beukc68GzoZdRSOQP3CX2A\"\r\n  shift=coded.length\r\n  link=\"\"\r\n  for (i=0; i<coded.length; i++) {\r\n    if (key.indexOf(coded.charAt(i))==-1) {\r\n      ltr = coded.charAt(i)\r\n      link += (ltr)\r\n    }\r\n    else {     \r\n      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length\r\n      link += (key.charAt(ltr))\r\n    }\r\n  }\r\ndocument.write(\"<a class='btn btn-lg' title='Wy\u015blij e-mail' href='mailto:\"+link+\"'><i class='icon icon-mail'><\/i> Kliknij tutaj aby wys\u0142a\u0107 e-mail<\/a>\")\r\n}\r\n\/\/-->\r\n<\/script><noscript>Sorry, you need Javascript!<\/noscript><\/p>",
             "format": "purehtml",
-            "summary": "Skontaktuj si\u0119"
+            "summary": "Masz propozycje rozwoju, wsp\u00f3\u0142pracy? Chcesz uruchomi\u0107 podobny projekt w swoim mie\u015bcie\/gminie? Skontaktuj si\u0119!"
         }
     ]
 }

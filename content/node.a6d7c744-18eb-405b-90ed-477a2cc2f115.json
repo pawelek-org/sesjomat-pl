@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-03T13:20:43+00:00",
+            "value": "2019-11-06T15:09:27+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -92,6 +92,11 @@
         },
         {
             "value": "https:\/\/bip.dopiewo.pl\/?p=document&action=save&id=30984&bar_id=12291"
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Pan Jan B\u0105k jest radnym w so\u0142ectwie Go\u0142uski, D\u0105br\u00f3wka, Pal\u0119dzie i Zakrzewo."
         }
     ],
     "field_href_source": [
