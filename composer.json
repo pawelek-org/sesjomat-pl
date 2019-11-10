@@ -1,12 +1,12 @@
 {
-    "name": "drupal-tome/tome-project",
-    "description": "A starter project for Tome.",
+    "name": "drupal-sesjomat/sesjomat.pl",
+    "description": "A starter Sesjomat.pl project based on Drupal/Tome.",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "Samuel Mortenson",
-            "email": "samuel@mortenson.coffee"
+            "name": "Pawelek.org",
+            "email": "hello@sesjomat.e4ward.com"
         }
     ],
     "minimum-stability": "dev",
