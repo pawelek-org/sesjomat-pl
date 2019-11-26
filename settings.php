@@ -792,3 +792,22 @@ $databases['default']['default'] = array (
   'driver' => 'sqlite',
 );
 $config_directories['sync'] = '../config';
+
+/**
+ * Custom translations for PL languague without localization module
+ */
+$settings['locale_custom_strings_pl'][''] = array(
+  'Keywords'              => 'Wpisz słowo(a) kluczowe',
+  'Search'                => 'Szukaj',
+  'Next ›'                => 'Następna ›',
+  'Last »'                => 'Ostatnia »',
+  '« First'               => '« Pierwsza',
+  '‹ Previous'            => '‹ Poprzednia',
+  'Found one result'      => 'Znaleziono jeden wynik wyszukiwania',
+  'Page @page of @count results'      => 'Znaleziono @count wyników. Strona: @page',
+  'No results found'      => 'Nie znaleziono wyników wyszukiwania',
+);
+
+
+
+
