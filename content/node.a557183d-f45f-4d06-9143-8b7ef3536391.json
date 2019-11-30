@@ -1,0 +1,261 @@
+{
+    "uuid": [
+        {
+            "value": "a557183d-f45f-4d06-9143-8b7ef3536391"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-11-30T16:26:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 187"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-11-30T16:25:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-30T16:26:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [
+        {
+            "target_id": null
+        }
+    ],
+    "body": [
+        {
+            "value": "   Uchwa\u0142a Nr XV\/187\/19\r\n\r\n   Rady Gminy Dopiewo\r\n\r\n   z dnia 25 listopada 2019 r.\r\n\r\n   w sprawie  miejscowego planu zagospodarowania przestrzennego w\r\n   miejscowo\u015bci Dopiewo,  rejon ulicy Wysokiej.\r\n\r\n   Na podstawie art. 18 ust. 2 pkt 5 ustawy z dnia 8 marca 1990 r. o\r\n   samorz\u0105dzie gminnym (t.j. Dz.\u00a0U.\u00a0z\u00a02019\u00a0r. poz. 506 z p\u00f3\u017an. zm.) i art. 20\r\n   ust. 1 ustawy z dnia 27 marca 2003 r. o planowaniu i\u00a0zagospodarowaniu\r\n   przestrzennym (Dz. U. z 2018 r., poz. 1945 z p\u00f3\u017an. zm.) Rada Gminy Dopiewo\r\n   uchwala, co nast\u0119puje:\r\n\r\n   \u00a71. 1. Uchwala si\u0119 miejscowy plan zagospodarowania przestrzennego terenu w\r\n   miejscowo\u015bci Dopiewo, rejon ulicy Wysokiej zwany dalej \u201eplanem\u201d,\r\n   stwierdzaj\u0105c i\u017c nie narusza on ustale\u0144 studium uwarunkowa\u0144 i\u00a0kierunk\u00f3w\r\n   zagospodarowania przestrzennego gminy Dopiewo, uchwalonym uchwa\u0142\u0105\r\n   Nr\u00a0XVI\/226\/16  Rady Gminy Dopiewo z dnia 29 lutego 2016 r. ze zm.\r\n\r\n   \u00a02.\u00a0Za\u0142\u0105czniki do uchwa\u0142y stanowi\u0105:\r\n\r\n      \u00a01.\u00a0cz\u0119\u015b\u0107 graficzna planu w skali 1:1000, zwana dalej \u201erysunkiem planu\u201d\r\n          - za\u0142\u0105cznik nr 1;\r\n\r\n      \u00a02.\u00a0rozstrzygni\u0119cie Rady Gminy Dopiewo o sposobie rozpatrzenia uwag do\r\n          projektu planu - za\u0142\u0105cznik nr\u00a02;\r\n\r\n      \u00a03.\u00a0rozstrzygni\u0119cie Rady Gminy Dopiewo o sposobie realizacji,\r\n          zapisanych w planie inwestycji z\u00a0zakresu infrastruktury\r\n          technicznej, kt\u00f3re nale\u017c\u0105 do zada\u0144 w\u0142asnych gminy oraz zasadach ich\r\n          finansowania, zgodnie z przepisami o finansach publicznych -\r\n          za\u0142\u0105cznik nr 3.\r\n\r\n   \u00a03.\u00a0Granice obszaru obj\u0119tego planem okre\u015blono na rysunku planu.\r\n\r\n   \u00a72. Ilekro\u0107 w uchwale jest mowa o:\r\n\r\n   \u00a01.\u00a0budynku gospodarczo-gara\u017cowym - nale\u017cy przez to rozumie\u0107 budynek\r\n       gospodarczy z\u00a0wydzielon\u0105 przestrzeni\u0105 do cel\u00f3w gara\u017cowania pojazd\u00f3w\r\n       samochodowych;\r\n\r\n   \u00a02.\u00a0dachu pochy\u0142ym - nale\u017cy przez to rozumie\u0107 dach o k\u0105cie nachylenia\r\n       po\u0142aci dachowych powy\u017cej 15\u00b0;\r\n\r\n   \u00a03.\u00a0dzia\u0142ce - nale\u017cy przez to rozumie\u0107 dzia\u0142k\u0119 budowlan\u0105 w rozumieniu\r\n       ustawy o\u00a0planowaniu i\u00a0zagospodarowaniu przestrzennym;\r\n\r\n   \u00a04.\u00a0materiale dach\u00f3wkopodobnym - nale\u017cy przez to rozumie\u0107 materia\u0142\r\n       o\u00a0podobnych walorach estetycznych jak dach\u00f3wka ceramiczna;\r\n\r\n   \u00a05.\u00a0nieprzekraczalnej linii zabudowy - nale\u017cy przez to rozumie\u0107 lini\u0119\r\n       ograniczaj\u0105c\u0105 teren, na kt\u00f3rym ustala si\u0119 usytuowanie budynku\r\n       z\u00a0dopuszczeniem wysuni\u0119cia poza t\u0119 lini\u0119 na odleg\u0142o\u015b\u0107 nie wi\u0119ksz\u0105 ni\u017c\r\n       1,5 m okap\u00f3w, gzyms\u00f3w, balkon\u00f3w, galerii, przedsionk\u00f3w, taras\u00f3w\r\n       i\u00a0schod\u00f3w zewn\u0119trznych;\r\n\r\n   \u00a06.\u00a0powierzchni ca\u0142kowitej zabudowy - nale\u017cy przez to rozumie\u0107 sum\u0119\r\n       powierzchni ca\u0142kowitej kondygnacji nadziemnych wszystkich budynk\u00f3w na\r\n       dzia\u0142ce budowlanej;\r\n\r\n   \u00a07.\u00a0tablicy informacyjnej - nale\u017cy przez to rozumie\u0107 element systemu\r\n       informacji gminnej, o\u015bwiatowej, turystycznej, przyrodniczej, edukacji\r\n       ekologicznej i innej wymaganej przepisami odr\u0119bnymi;\r\n\r\n   \u00a7 3. Ustala si\u0119 nast\u0119puj\u0105ce przeznaczenie teren\u00f3w;\r\n\r\n    \u00a01.\u00a0tereny zabudowy mieszkaniowej jednorodzinnej, oznaczone symbolami\r\n        1MN, 2MN;\r\n\r\n    \u00a02.\u00a0teren drogi publicznej, klasy dojazdowej, oznaczony symbolem KD-D.\r\n\r\n   \u00a7 4. Ustala si\u0119 nast\u0119puj\u0105ce zasady ochrony i kszta\u0142towania \u0142adu\r\n   przestrzennego:\r\n\r\n   \u00a01.\u00a0zakaz budowy ogrodze\u0144 pe\u0142nych i sk\u0142adaj\u0105cych si\u0119 z prz\u0119se\u0142 wykonanych\r\n       z\u00a0prefabrykat\u00f3w betonowych od strony dr\u00f3g publicznych;\r\n\r\n   \u00a02.\u00a0zakaz lokalizacji urz\u0105dze\u0144 reklamowych;\r\n\r\n   \u00a03.\u00a0dopuszczenie lokalizacji szyld\u00f3w wolnostoj\u0105cych o wysoko\u015bci do 3m i\r\n       o\u00a0maksymalnej \u0142\u0105cznej powierzchni na jednej dzia\u0142ce nieprzekraczaj\u0105cej\r\n       4 m^2 lub umieszczanych na elewacji budynku lub na ogrodzeniu\r\n       o\u00a0maksymalnej \u0142\u0105cznej powierzchni na jednej dzia\u0142ce nieprzekraczaj\u0105cej\r\n       4 m^2;\r\n\r\n   \u00a04.\u00a0dopuszczenie lokalizacji tablic informacyjnych wolnostoj\u0105cych o\r\n       wysoko\u015bci do 3m\r\n       i o\u00a0maksymalnej \u0142\u0105cznej powierzchni na jednej dzia\u0142ce\r\n       nieprzekraczaj\u0105cej 4 m^2 lub umieszczanych na elewacji budynku lub na\r\n       ogrodzeniu o\u00a0maksymalnej \u0142\u0105cznej powierzchni na jednej dzia\u0142ce\r\n       nieprzekraczaj\u0105cej 4 m^2.\r\n\r\n   \u00a7 5. Ustala si\u0119 nast\u0119puj\u0105ce zasady ochrony \u015brodowiska, przyrody i\r\n   krajobrazu kulturowego:\r\n\r\n   \u00a01.\u00a0zakaz lokalizacji przedsi\u0119wzi\u0119\u0107 mog\u0105cych zawsze znacz\u0105co oddzia\u0142ywa\u0107\r\n       na \u015brodowisko w\u00a0rozumieniu przepis\u00f3w odr\u0119bnych, z wy\u0142\u0105czeniem\r\n       inwestycji celu publicznego;\r\n\r\n   \u00a02.\u00a0zakaz lokalizacji przedsi\u0119wzi\u0119\u0107 mog\u0105cych potencjalnie znacz\u0105co\r\n       oddzia\u0142ywa\u0107 na \u015brodowisko w\u00a0rozumieniu przepis\u00f3w odr\u0119bnych, z\r\n       wy\u0142\u0105czeniem inwestycji celu publicznego;\r\n\r\n   \u00a03.\u00a0nakaz zachowania, na terenach MN, dopuszczalnych poziom\u00f3w ha\u0142asu\r\n       wymaganych dla teren\u00f3w zabudowy mieszkaniowej jednorodzinnej, zgodnie\r\n       z\u00a0przepisami odr\u0119bnymi.\r\n\r\n   \u00a7 6. Nie ustala si\u0119 zasad ochrony dziedzictwa kulturowego i zabytk\u00f3w, w\r\n   tym krajobraz\u00f3w kulturowych, oraz\u00a0d\u00f3br kultury wsp\u00f3\u0142czesnej.\r\n\r\n   \u00a7 7. Nie ustala si\u0119 wymaga\u0144 wynikaj\u0105cych z potrzeb kszta\u0142towania\r\n   przestrzeni publicznych.\r\n\r\n   \u00a7 8. Nie ustala si\u0119 zasad kszta\u0142towania krajobrazu.\r\n\r\n   \u00a7 9. Dla teren\u00f3w 1MN, 2MN ustala si\u0119 nast\u0119puj\u0105ce parametry i wska\u017aniki\r\n   kszta\u0142towania zabudowy oraz\u00a0zagospodarowania terenu:\r\n\r\n   \u00a01.\u00a0rodzaj zabudowy: zabudowa mieszkaniowa jednorodzinna wolno stoj\u0105ca;\r\n\r\n   \u00a02.\u00a0na jednej dzia\u0142ce mo\u017cliwo\u015b\u0107 lokalizacji wy\u0142\u0105cznie jednego budynku\r\n       mieszkalnego jednorodzinnego wolno stoj\u0105cego oraz jednego budynku\r\n       gara\u017cowego lub gospodarczego lub\u00a0gospodarczo-gara\u017cowego;\r\n\r\n   \u00a03.\u00a0dopuszczenie lokalizacji gara\u017cu w budynku mieszkalnym lub w formie\r\n       wolno stoj\u0105cej\r\n       o powierzchni zabudowy nie wi\u0119kszej ni\u017c 50\u00a0m^2;\r\n\r\n   \u00a04.\u00a0dopuszczenie lokalizacji budynku gospodarczego lub\r\n       gospodarczo-gara\u017cowego w formie wolno stoj\u0105cej o powierzchni zabudowy\r\n       nie wi\u0119kszej ni\u017c 50\u00a0m^2;\r\n\r\n   \u00a05.\u00a0dopuszczenie lokalizacji wolno stoj\u0105cych budynk\u00f3w gara\u017cowych,\r\n       gospodarczych i\u00a0gospodarczo-gara\u017cowych w granicy z dzia\u0142k\u0105 s\u0105siedni\u0105;\r\n\r\n   \u00a06.\u00a0dopuszczenie lokalizacji wolno stoj\u0105cych budynk\u00f3w gara\u017cowych,\r\n       gospodarczych i\u00a0gospodarczo-gara\u017cowych w odleg\u0142o\u015bci 1,5m od granicy z\r\n       dzia\u0142k\u0105 s\u0105siedni\u0105;\r\n\r\n   \u00a07.\u00a0zakaz lokalizacji blaszanych budynk\u00f3w gara\u017cowych, gospodarczych\r\n       i\u00a0gospodarczo-gara\u017cowych;\r\n\r\n   \u00a08.\u00a0dopuszczenie lokalizacji obiekt\u00f3w ma\u0142ej architektury oraz sieci i\r\n       urz\u0105dze\u0144 infrastruktury technicznej;\r\n\r\n   \u00a09.\u00a0wska\u017anik intensywno\u015bci zabudowy od 0,1 do 0,6 liczony jako stosunek\r\n       powierzchni ca\u0142kowitej zabudowy do powierzchni dzia\u0142ki budowlanej;\r\n\r\n   10.\u00a0maksymaln\u0105 powierzchni\u0119 zabudowy - 30% powierzchni dzia\u0142ki;\r\n\r\n   11.\u00a0minimaln\u0105 powierzchni\u0119 terenu biologicznie czynnego - 40% powierzchni\r\n       dzia\u0142ki;\r\n\r\n   12.\u00a0posadowienie posadzki parteru budynk\u00f3w nie wy\u017cej ni\u017c 0,5 m nad\r\n       projektowanym poziomem terenu;\r\n\r\n   13.\u00a0dachy pochy\u0142e dwuspadowe lub wielospadowe, symetryczne, o k\u0105cie\r\n       nachylenia po\u0142aci dachowych od 22\u00ba do 45\u00ba;\r\n\r\n   14.\u00a0usytuowanie kalenicy g\u0142\u00f3wnej budynku mieszkalnego r\u00f3wnolegle do\r\n       nieprzekraczalnej linii zabudowy;\r\n\r\n   15.\u00a0dowolne usytuowanie kalenicy g\u0142\u00f3wnej budynku gara\u017cowego, gospodarczego\r\n       i\u00a0gospodarczo-gara\u017cowego;\r\n\r\n   16.\u00a0wysoko\u015b\u0107 budynk\u00f3w mieszkalnych:\r\n\r\n        \u00a0a.\u00a0do 2 kondygnacji nadziemnych;\r\n\r\n        \u00a0b.\u00a0nie wi\u0119cej ni\u017c 9,0 m;\r\n\r\n   17.\u00a0wysoko\u015b\u0107 budynk\u00f3w gara\u017cowych, gospodarczych i gospodarczo-gara\u017cowych:\r\n\r\n        \u00a0a.\u00a01 kondygnacja nadziemna,\r\n\r\n        \u00a0b.\u00a0nie wi\u0119cej ni\u017c 6,0 m;\r\n\r\n   18.\u00a0maksymalna wysoko\u015b\u0107 budowli do 10,0m\r\n\r\n   19.\u00a0zakaz lokalizacji kondygnacji podziemnej budynk\u00f3w;\r\n\r\n   20.\u00a0szeroko\u015b\u0107 elewacji frontowej budynk\u00f3w mieszkalnych do 17,0 m;\r\n\r\n   21.\u00a0szeroko\u015b\u0107 elewacji frontowej budynk\u00f3w gara\u017cowych, gospodarczych i\r\n       gospodarczo-gara\u017cowych do 6,0 m;\r\n\r\n   22.\u00a0zastosowanie materia\u0142\u00f3w elewacyjnych w kolorach pastelowych lub\u00a0w\r\n       kolorze naturalnym materia\u0142u ceramicznego, szarym i bia\u0142ym;\r\n\r\n   23.\u00a0zastosowanie dach\u00f3wki ceramicznej, betonowej lub materia\u0142u\r\n       dach\u00f3wkopodobnego w kolorze ceglasto-czerwonym, br\u0105zowym lub\r\n       grafitowym;\r\n\r\n   24.\u00a0lokalizacj\u0119 miejsc postojowych dla samochod\u00f3w osobowych w ilo\u015bci\r\n       minimum 2 miejsca na ka\u017cdy lokal mieszkalny na terenie dzia\u0142ki;\r\n\r\n   25.\u00a0minimaln\u0105 powierzchni\u0119 nowo wydzielanych dzia\u0142ek - 700m^2.\r\n\r\n   \u00a7 10. W zakresie granic i sposob\u00f3w zagospodarowania teren\u00f3w lub obiekt\u00f3w\r\n   podlegaj\u0105cych ochronie, na podstawie przepis\u00f3w odr\u0119bnych, w tym teren\u00f3w\r\n   g\u00f3rniczych, a tak\u017ce nara\u017conych na niebezpiecze\u0144stwo powodzi oraz\r\n   zagro\u017conych osuwaniem si\u0119 mas ziemnych ustala si\u0119 nakaz uwzgl\u0119dnienia\r\n   wszelkich ogranicze\u0144 w zagospodarowaniu terenu wynikaj\u0105cych z\u00a0po\u0142o\u017cenia na\r\n   obszarze zewidencjowanego z\u0142o\u017ca kopalin Tarnowo Podg\u00f3rne GT-1.\r\n\r\n   \u00a7 11. 1. Ustala si\u0119 nast\u0119puj\u0105ce szczeg\u00f3\u0142owe zasady i warunki scalania i\r\n   podzia\u0142u nieruchomo\u015bci obj\u0119tych planem:\r\n\r\n   \u00a01.\u00a0minimalna szeroko\u015b\u0107 frontu dzia\u0142ki:\r\n\r\n     \u00a0a.\u00a0na terenach 1MN i 2MN - 18,0m,\r\n\r\n   \u00a02.\u00a0minimalna powierzchnia dzia\u0142ki:\r\n\r\n   a) na terenach 1MN i 2MN - 700m^2,\r\n\r\n   \u00a03.\u00a0k\u0105t po\u0142o\u017cenia granic dzia\u0142ek w stosunku do pasa drogowego dr\u00f3g\r\n       wewn\u0119trznych i publicznych od 70\u00b0 do 110\u00b0.\r\n\r\n         \u00a01.\u00a0Nie wyznacza si\u0119 granic obszar\u00f3w wymagaj\u0105cych przeprowadzenia\r\n             scale\u0144 i\u00a0podzia\u0142\u00f3w nieruchomo\u015bci.\r\n\r\n   \u00a7 12. W zakresie szczeg\u00f3lnych warunk\u00f3w zagospodarowania teren\u00f3w oraz\r\n   ogranicze\u0144 w ich u\u017cytkowaniu, w\u00a0tym zakazu zabudowy ustala si\u0119:\r\n\r\n   \u00a01.\u00a0nakaz zastosowania rozwi\u0105za\u0144 zamiennych w przypadku wyst\u0105pienia\r\n       kolizji inwestycji z\u00a0urz\u0105dzeniami drena\u017cu melioracyjnego;\r\n\r\n   \u00a02.\u00a0nakaz zachowania wolnych od zabudowy i nasadze\u0144 zieleni wysokiej pas\u00f3w\r\n       technologicznych linii elektroenergetycznych 15 kV;\r\n\r\n   \u00a03.\u00a0dopuszczenie zastosowania \u015brodk\u00f3w ochrony w postaci np. barier\r\n       akustycznych, zieleni izolacyjnej, rozwi\u0105za\u0144\r\n       konstrukcyjno-materia\u0142owych i\u00a0funkcjonalnych poszczeg\u00f3lnych obiekt\u00f3w\r\n       i\u00a0teren\u00f3w w celu zmniejszenia emisji ha\u0142asu z dr\u00f3g.\r\n\r\n   \u00a713. Ustala si\u0119 nast\u0119puj\u0105ce zasady modernizacji, rozbudowy i budowy\r\n   system\u00f3w komunikacji i\u00a0infrastruktury technicznej:\r\n\r\n   \u00a01.\u00a0w zakresie system\u00f3w komunikacji:\r\n\r\n   \u00a0a.\u00a0nakaz wyznaczenia miejsc postojowych dla pojazd\u00f3w zaopatrzonych w\r\n       kart\u0119 parkingow\u0105, zgodnie z przepisami odr\u0119bnymi,\r\n\r\n   \u00a0b.\u00a0teren drogi publicznej klasy dojazdowej, oznaczony symbolem KD-D,\r\n       o\u00a0szeroko\u015bci zgodnej z rysunkiem planu;\r\n\r\n             \u00a01.\u00a0obs\u0142ug\u0119 komunikacyjn\u0105 teren\u00f3w 1MN i 2MN z drogi publicznej\r\n                 klasy dojazdowej KD-D oraz z dr\u00f3g publicznych\r\n                 zlokalizowanych poza granicami planu;\r\n\r\n             \u00a02.\u00a0nowoprojektowane sieci i urz\u0105dzenia uzbrojenia technicznego\r\n                 nale\u017cy lokalizowa\u0107 na terenach dr\u00f3g, a w uzasadnionych\r\n                 przypadkach r\u00f3wnie\u017c na terenach o innym przeznaczeniu;\r\n\r\n             \u00a03.\u00a0dopuszczenie remontu, budowy, przebudowy i rozbudowy sieci i\r\n                 urz\u0105dze\u0144 infrastruktury technicznej;\r\n\r\n             \u00a04.\u00a0pod\u0142\u0105czenie do projektowanej i istniej\u0105cej sieci\r\n                 wodoci\u0105gowej;\r\n\r\n             \u00a05.\u00a0nakaz zapewnienia przeciwpo\u017carowego zaopatrzenia w wod\u0119 do\r\n                 zewn\u0119trznego gaszenia po\u017car\u00f3w oraz dr\u00f3g po\u017carowych, zgodnie\r\n                 z przepisami odr\u0119bnymi;\r\n\r\n             \u00a06.\u00a0w zakresie sieci kanalizacyjnej:\r\n\r\n   \u00a0a.\u00a0odprowadzanie \u015bciek\u00f3w docelowo do sieci kanalizacji sanitarnej,\r\n\r\n   \u00a0b.\u00a0do czasu realizacji sieci, dopuszczenie stosowania indywidualnych\r\n       szczelnych zbiornik\u00f3w bezodp\u0142ywowych, z kt\u00f3rych \u015bcieki b\u0119d\u0105\r\n       systematycznie wywo\u017cone przez koncesjonowanego przewo\u017anika do\r\n       oczyszczalni \u015bciek\u00f3w;\r\n\r\n         \u00a02.\u00a0zagospodarowanie w\u00f3d opadowych i roztopowych z teren\u00f3w MN do\r\n             sieci kanalizacji deszczowej, a\u00a0w\u00a0przypadku braku mo\u017cliwo\u015bci\r\n             przy\u0142\u0105czenia do sieci, na w\u0142asny teren nieutwardzony, do do\u0142\u00f3w\r\n             ch\u0142onnych lub do zbiornik\u00f3w retencyjnych, zgodnie z\u00a0przepisami\r\n             odr\u0119bnymi,\r\n\r\n         \u00a03.\u00a0nakaz stosowania przy pozyskiwaniu ciep\u0142a dla cel\u00f3w grzewczych i\r\n             technologicznych paliw charakteryzuj\u0105cych si\u0119 najni\u017cszymi\r\n             wska\u017anikami emisyjnymi z\u00a0dopuszczeniem wprowadzania odnawialnych\r\n             \u017ar\u00f3de\u0142 energii o mocy nie przekraczaj\u0105cej 100 kW;\r\n\r\n         \u00a04.\u00a0zasilanie w energi\u0119 elektryczn\u0105 z istniej\u0105cej i projektowanej\r\n             sieci elektroenergetycznej;\r\n\r\n         \u00a05.\u00a0zasilanie w energi\u0119 gazow\u0105 z istniej\u0105cej i projektowanej sieci\r\n             gazowej;\r\n\r\n         \u00a06.\u00a0post\u0119powanie z odpadami zgodnie z przepisami odr\u0119bnymi.\r\n\r\n   \u00a7 14. Nie ustala si\u0119 sposob\u00f3w i termin\u00f3w tymczasowego zagospodarowania,\r\n   urz\u0105dzenia i\u00a0u\u017cytkowania teren\u00f3w.\r\n\r\n   \u00a7 15. Ustala si\u0119 stawk\u0119 s\u0142u\u017c\u0105c\u0105 naliczeniu jednorazowych op\u0142at, o jakich\r\n   mowa w art. 36 ust. 4 ustawy o\u00a0planowaniu i zagospodarowaniu\r\n   przestrzennym, w wysoko\u015bci 15% dla teren\u00f3w obj\u0119tych planem.\r\n\r\n   \u00a7 16. Dla grunt\u00f3w rolnych klasy IIIb, o powierzchni 0,2566 ha, uzyskano\r\n   zgod\u0119 Ministra Rolnictwa i Rozwoju Wsi Nr GZ.tr.602.388.2018 z dnia 12\r\n   lipca 2019r. na zmian\u0119 przeznaczenia grunt\u00f3w rolnych na cele nierolnicze.\r\n\r\n   \u00a7 17. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.\r\n\r\n   \u00a7 18. Uchwa\u0142a wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia jej og\u0142oszenia w\r\n   Dzienniku Urz\u0119dowym Wojew\u00f3dztwa Wielkopolskiego.\r\n\r\n                                  Uzasadnienie\r\n\r\n   Rada Gminy Dopiewo w dniu 29 maja 2017 r. podj\u0119\u0142a Uchwa\u0142\u0119 Nr XXXI\/399\/16 w\r\n   sprawie przyst\u0105pienia do sporz\u0105dzenia miejscowego planu zagospodarowania\r\n   przestrzennego terenu w miejscowo\u015bci Dopiewo, w rejonie ul. Wysokiej, co\r\n   sta\u0142o si\u0119 podstaw\u0105 do przeprowadzenia procedury planistycznej uchwalenia\r\n   miejscowego planu zagospodarowania przestrzennego zgodnie z art. 17 ustawy\r\n   z dnia 27 marca 2003r o planowaniu i zagospodarowaniu przestrzennym.\r\n\r\n   Og\u0142oszenie W\u00f3jta Gminy Dopiewo o przyst\u0105pieniu do opracowania planu\r\n   ukaza\u0142o si\u0119 w dniu 7 czerwca 2017r. w prasie miejscowej, wskazuj\u0105c o\r\n   mo\u017cliwo\u015bci sk\u0142adania wniosk\u00f3w do przedmiotowego planu w terminie do dnia\r\n   30 czerwca 2017 r. Obwieszczenie W\u00f3jta Gminy Dopiewo nr\r\n   RPPiOS.6721.6-9.2017 o przyst\u0105pieniu do opracowania planu zosta\u0142o\r\n   wywieszone w 7 czerwca 2017 r. na tablicy og\u0142osze\u0144 Urz\u0119du Gminy Dopiewo,\r\n   wskazuj\u0105c o mo\u017cliwo\u015bci sk\u0142adania wniosk\u00f3w do przedmiotowego planu w\r\n   terminie do dnia 30 czerwca 2017r. Jednocze\u015bnie zawiadomieniem z dnia 5\r\n   czerwca 2017 r. nr RPPiOS.6721.6-9.2017 poinformowano organy i instytucje\r\n   w\u0142a\u015bciwe do opiniowania i uzgodnienia projektu, o podj\u0119ciu przedmiotowej\r\n   uchwa\u0142y i mo\u017cliwo\u015bci sk\u0142adania uwag do projektu planu w terminie 21 dni od\r\n   dnia otrzymania zawiadomienia.\r\n\r\n   W ustalonym terminie wp\u0142yn\u0119\u0142o 11 wniosk\u00f3w od organ\u00f3w i instytucji\r\n   w\u0142a\u015bciwych do opiniowania i uzgodnienia projektu planu. W\u00f3jt Gminy Dopiewo\r\n   podj\u0105\u0142 rozstrzygni\u0119cie o sposobie uwzgl\u0119dnienia zebranych wniosk\u00f3w.\r\n\r\n   Zosta\u0142 opracowany projekt miejscowego planu zagospodarowania\r\n   przestrzennego wraz z prognoz\u0105 oddzia\u0142ywania na \u015brodowisko oraz prognoz\u0105\r\n   skutk\u00f3w finansowych uchwalenia miejscowego planu zagospodarowania\r\n   przestrzennego.\r\n\r\n   Projekt miejscowego planu zagospodarowania przestrzennego, pismem z dnia 3\r\n   stycznia 2018 r. nr RPPiOS.6721.7\/8\/9\/12\/15.2017 zosta\u0142 przekazany\r\n   w\u0142a\u015bciwym organom do zaopiniowania i uzgodnienia. Uzyskano wszystkie\r\n   wymagane ustaw\u0105 opinie i uzgodnienia.\r\n\r\n   Projekt planu zosta\u0142 wy\u0142o\u017cony do publicznego wgl\u0105du w dniach od 2 marca\r\n   2018r. do 26 marca 2018 r. Termin sk\u0142adania uwag zosta\u0142 wyznaczony na\r\n   dzie\u0144 12 kwietnia 2018r. Dyskusja publiczna nad przyj\u0119tymi w projekcie\r\n   planu rozwi\u0105zaniami odby\u0142a si\u0119 w dniu 15 marca 2018 r. w siedzibie Urz\u0119du\r\n   Gminy Dopiewo. W wyznaczonym nie wp\u0142yn\u0119\u0142y uwagi.\r\n\r\n   Pismem z dnia 9 lipca 2018 r. nr RPPiO\u015a.6721.7.2017 W\u00f3jt Gminy Dopiewo\r\n   wyst\u0105pi\u0142 Ministra Rolnictwa i Rozwoju Wsi z wnioskiem o wyra\u017cenie zgody na\r\n   zmian\u0119 przeznaczenia 0,18546 ha grunt\u00f3w rolnych klasy III na cele\r\n   nierolnicze. Minister Rolnictwa i Rozwoju Wsi decyzj\u0105 nr\r\n   GZ.tr.602.388.2018 z dnia 12 lipca 2019r. wyda\u0142 zgod\u0119 na zmian\u0119\r\n   przeznaczenia 0,2566 ha grunt\u00f3w rolnych klasy IIIb na cele nierolnicze.\r\n\r\n   Projekt planu zosta\u0142 wy\u0142o\u017cony do publicznego wgl\u0105du w dniach od 25\r\n   wrze\u015bnia 2019r. do 17 pa\u017adziernika 2019 r. Termin sk\u0142adania uwag zosta\u0142\r\n   wyznaczony na dzie\u0144 4 listopada 2019r. Dyskusja publiczna nad przyj\u0119tymi w\r\n   projekcie planu rozwi\u0105zaniami odby\u0142a si\u0119 w dniu 11 pa\u017adziernika 2019 r. w\r\n   siedzibie Urz\u0119du Gminy Dopiewo. W wyznaczonym nie wp\u0142yn\u0119\u0142y uwagi\r\n\r\n   Projekt miejscowego planu zagospodarowania przestrzennego zosta\u0142\r\n   przed\u0142o\u017cony Komisji Rady Gminy Dopiewo do zaopiniowania.\r\n\r\n   Uzasadnienie zawieraj\u0105ce elementy wynikaj\u0105ce z przepis\u00f3w ustawy z dnia 9\r\n   pa\u017adziernika 2015r. o rewitalizacji (Dz. U. z 2015r. poz. 1777).\r\n\r\n   Zgodnie z art. 15 ust. 1 ustawy z dnia 27 marca 2003r. o planowaniu i\r\n   zagospodarowaniu przestrzennym (Dz. U. z 2018, poz. 1945 ze zm.):\r\n\r\n   \"W\u00f3jt, burmistrz albo prezydent miasta sporz\u0105dza projekt planu\r\n   miejscowego, zawieraj\u0105cy cz\u0119\u015b\u0107 tekstow\u0105 i graficzn\u0105, zgodnie z zapisami\r\n   studium oraz z przepisami odr\u0119bnymi, odnosz\u0105cymi si\u0119 do obszaru obj\u0119tego\r\n   planem, wraz z uzasadnieniem. W uzasadnieniu przedstawia si\u0119 w\r\n   szczeg\u00f3lno\u015bci:\r\n\r\n   1)\u00a0\u00a0\u00a0spos\u00f3b realizacji wymog\u00f3w wynikaj\u0105cych z art. 1 ust. 2-4;\r\n\r\n   2)\u00a0\u00a0\u00a0zgodno\u015b\u0107 z wynikami analizy, o kt\u00f3rej mowa w art. 32 ust. 1, wraz\r\n   dat\u0105 uchwa\u0142y rady gminy, o kt\u00f3rej mowa w art. 32 ust. 2;\r\n\r\n   3)\u00a0\u00a0\u00a0wp\u0142yw na finanse publiczne, w tym bud\u017cet gminy.\";\r\n\r\n   Spos\u00f3b realizacji wymog\u00f3w wynikaj\u0105cych z art. 1 ust. 2-4 ustawy o\r\n   planowaniu i zagospodarowaniu przestrzennym.\r\n\r\n     *\u00a0zapewnienie udzia\u0142u spo\u0142ecze\u0144stwa w pracach nad studium uwarunkowa\u0144 i\r\n       kierunk\u00f3w zagospodarowania przestrzennego gminy, miejscowym planem\r\n       zagospodarowania przestrzennego oraz planem zagospodarowania\r\n       przestrzennego wojew\u00f3dztwa, w tym przy u\u017cyciu \u015brodk\u00f3w komunikacji\r\n       elektronicznej;\r\n\r\n   Udzia\u0142 spo\u0142ecze\u0144stwa z pracach nad miejscowym planem zagospodarowania\r\n   przestrzennego zosta\u0142 zachowany na mocy art. 17 pkt. 1), pkt. 9), pkt. 11)\r\n   ustawy z dnia 27 marca 2003r. o planowaniu i zagospodarowaniu\r\n   przestrzennym (Dz. U. z 2018r., poz. 1945 ze zm.)\r\n\r\n     *\u00a0zachowanie jawno\u015bci i przejrzysto\u015bci procedur planistycznych;\r\n\r\n   Podczas procedury planistycznej zachowano przejrzysto\u015b\u0107 i jawno\u015b\u0107\r\n   procedury planistycznej, podczas ca\u0142ej procedury udzielano pe\u0142nej\r\n   informacji osob\u0105 zainteresowanym o stopniu zaawansowania prac\r\n   planistycznych i etapu procedury planistycznej. Udzielano r\u00f3wnie\u017c dost\u0119pu\r\n   do procedury planistycznej na wniosek osoby zainteresowanej na mocy\r\n   udost\u0119pnienia informacji publicznej. Instytucje i organy w\u0142a\u015bciwe do\r\n   opiniowania i uzgodnienia projektu by\u0142y zawiadamiane pisemnie, stosownie\r\n   do ich w\u0142a\u015bciwo\u015bci wraz ze wskazaniem terminu w jakim winny by\u0142y si\u0119\r\n   wypowiedzie\u0107.\r\n\r\n     *\u00a0potrzeb\u0119 zapewnienia odpowiedniej ilo\u015bci i jako\u015bci wody, do cel\u00f3w\r\n       zaopatrzenia ludno\u015bci;\r\n\r\n   Plan szczeg\u00f3\u0142owo okre\u015bla zasady modernizacji, rozbudowy i budowy system\u00f3w\r\n   infrastruktury technicznej, w tym sieci wodoci\u0105gowej.\r\n\r\n     *\u00a0Ustalaj\u0105c przeznaczenie terenu lub okre\u015blaj\u0105c potencjalny spos\u00f3b\r\n       zagospodarowania i korzystania z terenu, organ wa\u017cy interes publiczny\r\n       i interesy prywatne, w tym zg\u0142aszane w postaci wniosk\u00f3w i uwag,\r\n       zmierzaj\u0105ce do ochrony istniej\u0105cego stanu zagospodarowania terenu, jak\r\n       i zmian w zakresie jego zagospodarowania, a tak\u017ce analizy ekonomiczne,\r\n       \u015brodowiskowe i spo\u0142eczne.\r\n\r\n   Plan zosta\u0142 opracowany w oparciu o zasad\u0119 zr\u00f3wnowa\u017conego rozwoju,\r\n   uwzgl\u0119dniaj\u0105c walory ekonomiczne, \u015brodowiskowe i spo\u0142eczne. Opracowanie\r\n   projektu poprzedzone zosta\u0142o wykonaniem analizy poszczeg\u00f3lnych\r\n   komponent\u00f3w. Na podstawie jej wynik\u00f3w opracowano projekt najkorzystniejszy\r\n   z punktu widzenia ekonomicznego, spo\u0142ecznego i \u015brodowiskowego. Wnioski i\r\n   uwagi sk\u0142adane do projektu planu zosta\u0142y rozstrzygni\u0119te zgodnie z\r\n   w\u0142a\u015bciwo\u015bciami organ\u00f3w odpowiedzialnych za sporz\u0105dzenie projekt planu.\r\n\r\n     *\u00a0W przypadku sytuowania nowej zabudowy, uwzgl\u0119dnienie wymaga\u0144 \u0142adu\r\n       przestrzennego, efektywnego gospodarowania przestrzeni\u0105 oraz walor\u00f3w\r\n       ekonomicznych przestrzeni nast\u0119puje poprzez:\r\n\r\n   - kszta\u0142towanie struktur przestrzennych przy uwzgl\u0119dnieniu d\u0105\u017cenia do\r\n   minimalizowania transportoch\u0142onno\u015bci uk\u0142adu przestrzennego;\r\n\r\n   Plan w wi\u0119kszo\u015bci wprowadza tereny zabudowy mieszkaniowej jednorodzinnej o\r\n   stosunkowo niskiej transportoch\u0142onno\u015bci. Teren obj\u0119ty opracowaniem planu\r\n   przylega do istniej\u0105cej sieci dr\u00f3g publicznych, zaproponowany uk\u0142ad\r\n   komunikacyjny stanowi kontynuacje istniej\u0105cej sieci drogowej.\r\n\r\n   - lokalizowanie nowej zabudowy mieszkaniowej w spos\u00f3b umo\u017cliwiaj\u0105cy\r\n   mieszka\u0144com maksymalne wykorzystanie publicznego transportu zbiorowego\r\n   jako podstawowego \u015brodka transportu;\r\n\r\n   Obszar opracowania planu oddalony jest w odleg\u0142o\u015bci 900 m od stacji\r\n   kolejowej Dopiewo, kt\u00f3ra jest zaliczona do stacji kolei metropolitalnej.\r\n   Dojazd do centrum miasta Poznania lini\u0105 kolejow\u0105 zajmuje ok. 20 min. W\r\n   odleg\u0142o\u015bci ok 550m. od terenu obj\u0119tego opracowaniem zlokalizowany jest\r\n   przystanek autobusowy obs\u0142ugiwany przez lini\u0119 podmiejsk\u0105 oraz prywatnych\r\n   przewo\u017anik\u00f3w.\r\n\r\n   - zapewnianie rozwi\u0105za\u0144 przestrzennych, u\u0142atwiaj\u0105cych przemieszczanie si\u0119\r\n   pieszych i rowerzyst\u00f3w;\r\n\r\n   Uk\u0142ad komunikacyjny stanowi sie\u0107 dr\u00f3g publicznych o szeroko\u015bciach\r\n   spe\u0142niaj\u0105cych wymogi dla prawid\u0142owego funkcjonowania, uwzgl\u0119dniaj\u0105c ruch\r\n   pieszy i rowerowy.\r\n\r\n   - d\u0105\u017cenie do planowania i lokalizowania nowej zabudowy;\r\n\r\n   Opracowanie miejscowego planu zagospodarowania przestrzennego jest\r\n   konieczne z uwagi na unormowanie zasad zagospodarowania przestrzennego.\r\n   Wprowadzenie zabudowy o \u015bci\u015ble okre\u015blonej funkcji, gabarytach i zasadach\r\n   zagospodarowania przestrzennego jest jedynym narz\u0119dziem dla ochrony \u0142adu\r\n   przestrzennego. Brak przeprowadzenia procedury opracowania planu spowoduje\r\n   chaotyczne zagospodarowanie terenu w oparciu o decyzje administracyjne.\r\n\r\n   Zgodno\u015b\u0107 z wynikami analizy, o kt\u00f3rej mowa w art. 32 ust. 1, wraz dat\u0105\r\n   uchwa\u0142y rady gminy, o kt\u00f3rej mowa w art. 32 ust. 2.\r\n\r\n   W obecnej kadencji Rady Gminy Dopiewo nie podj\u0119to stosownej uchwa\u0142y.\r\n   Analiza o kt\u00f3rej mowa w art. 32 ust. 1 ustawy planowaniu i\r\n   zagospodarowaniu przestrzennym jest w trakcie opracowania.\r\n\r\n   Wp\u0142yw na finanse publiczne, w tym bud\u017cet gminy.\r\n\r\n   Szczeg\u00f3\u0142owy wp\u0142yw ustale\u0144 planu na finanse publiczne, w tym bud\u017cet gminy\r\n   zosta\u0142 okre\u015blony w prognozie finansowej skutk\u00f3w uchwalenia miejscowego\r\n   planu zagospodarowania przestrzennego.",
+            "format": "raw_text",
+            "summary": ""
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 3
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 18
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XV\/187\/19 Rady Gminy Dopiewo z dnia 25 listopada 2019 r.w sprawie miejscowego planu zagospodarowania przestrzennego w miejscowo\u015bci Dopiewo, rejon ulicy Wysokiej"
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        }
+    ],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=12979",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr XV\/187\/19 Rady Gminy Dopiewo z dnia 25 listopada 2019 r.w sprawie miejscowego planu zagospodarowania przestrzennego w miejscowo\u015bci Dopiewo, rejon ulicy Wysokiej"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 187
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "823d320a-342b-41c6-acb5-54dd9630f47e"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e2f02672-97ea-4d46-9f1f-2eb3b03e0593"
+        }
+    ],
+    "field_zmieniona_uchwala": []
+}

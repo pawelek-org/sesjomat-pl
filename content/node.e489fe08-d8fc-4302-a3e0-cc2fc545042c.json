@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-06T15:20:07+00:00",
+            "value": "2019-11-30T16:42:40+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -89,7 +89,7 @@
         {
             "value": " Uchwa\u0142a Nr III\/23\/18<br><br>Rady Gminy Dopiewo<br><br>z dnia 17 grudnia 2018 r.<br><br>w sprawie okre\u015blania zasad udzielania dotacji celowych z bud\u017cetu Gminy<br>Dopiewo na dofinansowanie koszt\u00f3w wymiany \u017ar\u00f3de\u0142 ciep\u0142a w mieszkalnych<br>budynkach jednorodzinnych lub lokalach na obszarze Gminy Dopiewo.<br><br>Na podstawie art. 18 ust. 2 pkt 15 ustawy z dnia 8 marca 1990 r. o<br>samorz\u0105dzie gminnym (t. j. Dz.U. z 2018 r., poz. 994, z po\u017an. zm.), art.<br>400 a ust. 1 pkt 5 i 21 oraz art. 403 ust. 2, 4-6 ustawy z dnia 27<br>kwietnia 2001r. - Prawo ochrony \u015brodowiska (t.j. Dz. U. z 2018 r., poz.<br>799, z po\u017an. zm.) Rada Gminy Dopiewo uchwala, co nast\u0119puje:<br><br>\u00a71. 1. W celu poprawy efektywno\u015bci energetycznej, a w konsekwencji<br>ograniczenia emisji zanieczyszcze\u0144 pochodz\u0105cych z piec\u00f3w oraz kot\u0142owni<br>w\u0119glowych okre\u015bla si\u0119 zasady udzielania dotacji celowej z bud\u017cetu Gminy<br>Dopiewo na trwa\u0142\u0105 likwidacj\u0119 ogrzewania w\u0119glowego i zast\u0105pienie go<br>proekologicznymi systemami grzewczymi.<br><br>2. Zasady udzielania dotacji, o kt\u00f3rych mowa w ust. 1, okre\u015bla Regulamin<br>stanowi\u0105cy za\u0142\u0105cznik do niniejszej uchwa\u0142y.<br><br>\u00a72. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.<br><br>\u00a73. Traci moc Uchwa\u0142a Nr XXXVI\/471\/17 Rady Gminy Dopiewo z dnia 20<br>listopada 2017 r. w sprawie okre\u015blania zasad udzielania dotacji celowych<br>z bud\u017cetu Gminy Dopiewo na dofinansowanie koszt\u00f3w wymiany \u017ar\u00f3de\u0142 ciep\u0142a w<br>mieszkalnych budynkach jednorodzinnych lub lokalach na obszarze Gminy<br>Dopiewo (Dz. Urz. Woj. Wielk. z 2017 r., poz. 7577).<br><br>\u00a74. Uchwa\u0142a wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia jej og\u0142oszenia w<br>Dzienniku Urz\u0119dowym Wojew\u00f3dztwa Wielkopolskiego i obowi\u0105zuje do dnia 30<br>czerwca 2021 r.<br><br>UZASADNIENIE<br><br>W celu poprawy jako\u015bci \u015brodowiska naturalnego, przez ograniczenie jego<br>zanieczyszczenia na terenie Gminy Dopiewo planuje si\u0119 wprowadzi\u0107 dotacj\u0119<br>celow\u0105 ze \u015brodk\u00f3w bud\u017cetu b\u0119d\u0105c\u0105 wsparciem dla mieszka\u0144c\u00f3w podejmuj\u0105cych<br>dzia\u0142ania proekologiczne s\u0142u\u017c\u0105ce ochronie powietrza. W celu okre\u015blenia<br>zasad dotacji opracowano regulamin oraz wniosek i wz\u00f3r rozliczenia<br>dotacji, stanowi\u0105ce za\u0142\u0105czniki do niniejszej uchwa\u0142y. Dotacja stanowi\u0107<br>b\u0119dzie mechanizm zach\u0119caj\u0105cy mieszka\u0144c\u00f3w do inwestowania w ekologiczne<br>\u017ar\u00f3d\u0142a ogrzewania.<br><br>Zgodnie z art. 7 ust. 3 i ust 3a ustawy z dnia 30 kwietnia 2004r. o<br>post\u0119powaniu w sprawach dotycz\u0105cych pomocy publicznej (t. j. Dz. U. z 2018<br>r., poz. 362) projekt uchwa\u0142y wraz z za\u0142\u0105cznikami zosta\u0142 zg\u0142oszony<br>Prezesowi Urz\u0119du Ochrony Konkurencji Konsument\u00f3w i Ministrowi Rolnictwa i<br>Rozwoju Wsi. Wy\u017cej wymienione instytucje nie wnios\u0142y zastrze\u017ce\u0144.<br>",
             "format": "raw_text",
-            "summary": null
+            "summary": ""
         }
     ],
     "field_count_brak": [
@@ -254,6 +254,10 @@
         {
             "target_type": "taxonomy_term",
             "target_uuid": "abc1c31d-68a4-42e9-a405-a9bd860aa65a"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "851a5804-7197-41f6-a870-dd5bccb74f4d"
         }
     ],
     "field_zmieniona_uchwala": []

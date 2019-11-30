@@ -1,0 +1,122 @@
+{
+    "uuid": [
+        {
+            "value": "42eac0b0-877b-4614-94cb-25415524bc77"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "protokol",
+            "target_type": "node_type",
+            "target_uuid": "2e00ab45-cc90-4423-80d5-6d49bc14600c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-11-30T15:51:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Protok\u00f3\u0142 nr 15"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-11-30T15:49:58+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-30T15:51:19+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [
+        {
+            "target_id": null
+        }
+    ],
+    "body": [
+        {
+            "value": "Protok\u00f3\u0142 zostanie dodany po zatwierdzeniu na kolejnej sesji",
+            "format": "raw_text",
+            "summary": ""
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Protok\u00f3\u0142 Nr XV\/19 z Sesji Rady Gminy Dopiewo odbytej w dniu 25 listopada 2019 roku"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?c=1400",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_protokolu": [
+        {
+            "value": "Protok\u00f3\u0142 Nr XV\/19 z Sesji Rady Gminy Dopiewo odbytej w dniu 25 listopada 2019 roku"
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "823d320a-342b-41c6-acb5-54dd9630f47e"
+        }
+    ]
+}

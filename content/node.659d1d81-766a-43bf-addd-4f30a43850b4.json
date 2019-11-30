@@ -1,0 +1,270 @@
+{
+    "uuid": [
+        {
+            "value": "659d1d81-766a-43bf-addd-4f30a43850b4"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-11-30T16:35:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 192"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-11-30T16:34:16+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-30T16:35:26+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [
+        {
+            "target_id": null
+        }
+    ],
+    "body": [
+        {
+            "value": "                              Uchwa\u0142a Nr XV\/192\/19\r\n\r\n                               Rady Gminy Dopiewo\r\n\r\n                         z dnia 25 listopada 2019 roku\r\n\r\n   w sprawie zmiany uchwa\u0142y Nr III\/32\/18 Rady Gminy Dopiewo z dnia 17 grudnia\r\n     2018 roku w sprawie uchwalenia Wieloletniej Prognozy Finansowej Gminy\r\n                                    Dopiewo\r\n\r\n                               na lata 2019-2028\r\n\r\n   Na podstawie art. 18 ust.\u00a02\u00a0pkt 15 ustawy z dnia 8 marca 1990 roku\r\n   o\u00a0samorz\u0105dzie gminnym\r\n   (t.j. Dz. U. z 2019 r. poz. 506 z p\u00f3\u017an. zm.), art. 226- 228 i 230 ust. 6\r\n   ustawy z\u00a0dnia 27 sierpnia 2009 r. o finansach publicznych (t.j. Dz. U. z\r\n   2019 r. poz. 869 z p\u00f3\u017an. zm.) Rada Gminy uchwala, co nast\u0119puje:\r\n\r\n   \u00a7\u00a01. W uchwale Nr III\/32\/18 Rady Gminy Dopiewo z dnia 17 grudnia 2018 roku\r\n   zmienia si\u0119 okres obowi\u0105zywania Wieloletniej Prognozy Finansowej na lata\r\n   2019-2030.\r\n\r\n   \u00a7\u00a02.W uchwale Nr III\/32\/18 Rady Gminy Dopiewo z dnia 17 grudnia 2018 roku\r\n   wprowadza si\u0119 nast\u0119puj\u0105ce zmiany:\r\n\r\n   \u00a01.\u00a0za\u0142\u0105cznik Nr 1 otrzymuje brzmienie zgodnie z\u00a0za\u0142\u0105cznikiem Nr 1 do\r\n       niniejszej uchwa\u0142y,\r\n\r\n   \u00a02.\u00a0za\u0142\u0105cznik Nr 2 otrzymuje brzmienie zgodnie z za\u0142\u0105cznikiem Nr 2 do\r\n       niniejszej uchwa\u0142y.\r\n\r\n   \u00a7\u00a03. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy.\r\n\r\n   \u00a7 4. Uchwa\u0142a wchodzi w \u017cycie z dniem podj\u0119cia.\r\n\r\n   Uzasadnienie do uchwa\u0142y w sprawie zmiany uchwa\u0142y Nr III\/32\/18 Rady Gminy\r\n   Dopiewo z dnia 17 grudnia 2018 roku\r\n\r\n     \u00a01.\u00a0Zmiany dokonane w za\u0142\u0105czniku Nr 1 zwi\u0105zane s\u0105 ze zmianami uchwa\u0142y\r\n         bud\u017cetowej\r\n         i zmianami w wykazie przedsi\u0119wzi\u0119\u0107.\r\n\r\n     \u00a02.\u00a0Zmiany dokonane w za\u0142\u0105czniku Nr 1 zwi\u0105zane s\u0105 ze zmianami uchwa\u0142y\r\n         bud\u017cetowej\r\n         i zmianami w wykazie przedsi\u0119wzi\u0119\u0107. W latach 2020-2030 wprowadzono\r\n         zmiany w zakresie dochod\u00f3w wydatk\u00f3w, przychod\u00f3w, rozchod\u00f3w, d\u0142ugu. W\r\n         2020 roku planuje si\u0119 emisj\u0119 obligacji na kwot\u0119 20.000.000,00 z\u0142,\r\n         natomiast w 2021-2023 planuje si\u0119 emisj\u0119 obligacji na kwot\u0119\r\n         10.000.000,00 z\u0142 w ka\u017cdym roku.\r\n\r\n     \u00a03.\u00a0Zmiany dokonane w za\u0142\u0105czniku Nr 2 - wykaz przedsi\u0119wzi\u0119\u0107 :\r\n\r\n   - poz. 1.1.1.2 zwi\u0119kszono limit 2019 o kwot\u0119 6.800,00 z\u0142, zwi\u0119kszono limit\r\n   2020\r\n   o kwot\u0119 6.800,00 z\u0142, zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 15.273,80 z\u0142;\r\n\r\n   - poz. 1.1.1.3 zmniejszono limit 2019 o kwot\u0119 46.122,00 z\u0142, zwi\u0119kszono\r\n   limit 2020 o kwot\u0119 29.487,00 z\u0142, zwi\u0119kszono limit 2021 o kwot\u0119 16.635,00\r\n   z\u0142, zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 8.705,16 z\u0142;\r\n\r\n   - poz. 1.1.1.5 zmniejszono limit 2019 o kwot\u0119 8.772,00 z\u0142, zwi\u0119kszono\r\n   limit 2020\r\n   o kwot\u0119 8.772,00 z\u0142, zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 12.263,48 z\u0142;\r\n\r\n   - poz. 1.1.1.6 zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 86.091,83 z\u0142;\r\n\r\n   - poz. 1.1.2.1 zmniejszono \u0142\u0105czne nak\u0142ady i limit 2020 o kwot\u0119 800.000,00\r\n   z\u0142, zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 18.097.301,99 z\u0142;\r\n\r\n   - poz. 1.1.2.2 zmniejszono \u0142\u0105czne nak\u0142ady i limit 2019 o kwot\u0119 49.835,00\r\n   z\u0142, zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 116.922,24 z\u0142;\r\n\r\n   - poz. 1.1.2.3 zmniejszono \u0142\u0105czne nak\u0142ady i limit 2019 o kwot\u0119 9.000,00\r\n   z\u0142, zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 9.000,00 z\u0142;\r\n\r\n   - poz. 1.3.1.2 zwi\u0119kszono okres realizacji 2015-2021, zwi\u0119kszono \u0142\u0105czne\r\n   nak\u0142ady\r\n   i limit zobowi\u0105za\u0144 o kwot\u0119 225.000,00 z\u0142, zwi\u0119kszono limit 2020 o kwot\u0119\r\n   175.000,00 z\u0142, limit 2021 o kwot\u0119 50.000,00 z\u0142;\r\n\r\n   - poz. 1.3.1.11 zmniejszono \u0142\u0105czne nak\u0142ady i limit 2019 o kwot\u0119 7.000,00\r\n   z\u0142, zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 7.018,88 z\u0142;\r\n\r\n   - poz. 1.3.1.13 zmniejszono \u0142\u0105czne nak\u0142ady o kwot\u0119 20.625,00 z\u0142, limit\r\n   2019 i 2020 o kwot\u0119 8.100,00 z\u0142, limit 2021 o kwot\u0119 4.425,00 z\u0142,\r\n   zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 20.625,00 z\u0142;\r\n\r\n   - poz. 1.3.1.15 zwi\u0119kszono \u0142\u0105czne nak\u0142ady i limit 2019 o kwot\u0119 7.000,00\r\n   z\u0142, zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 8.855,93 z\u0142;\r\n\r\n   - poz. 1.3.1.22 zwi\u0119kszono \u0142\u0105czne nak\u0142ady o kwot\u0119 30.600,00 z\u0142, zwi\u0119kszono\r\n   limit 2019 o kwot\u0119 850,00 z\u0142, zwi\u0119kszono limit 2020 o kwot\u0119 10.200,00 z\u0142\r\n   limit 2021 o kwot\u0119 10.200,00 z\u0142 limit 2022 o kwot\u0119 9.350,00 z\u0142, zwi\u0119kszono\r\n   limit zobowi\u0105za\u0144 o kwot\u0119 25.299,17 z\u0142;\r\n\r\n   - poz. 1.3.1.25 zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 136.000,00 z\u0142;\r\n\r\n   - poz. 1.3.1.39 dodano nowe przedsi\u0119wzi\u0119cie pn. us\u0142ugi zwi\u0105zane z wysy\u0142k\u0105\r\n   sms dla mieszka\u0144c\u00f3w, okres 2019-2020, limit zobowi\u0105za\u0144, \u0142\u0105czne nak\u0142ady,\r\n   limit 2020 - kwota 10.000,00 z\u0142;\r\n\r\n   - poz. 1.3.2.1 zmniejszono \u0142\u0105czne nak\u0142ady o kwot\u0119 1.046,00 z\u0142, limit 2019\r\n   o kwot\u0119 1.046,00 z\u0142, zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 34,06 z\u0142;\r\n\r\n   - poz. 1.3.2.2 zwi\u0119kszono okres realizacji 2016-2021, zwi\u0119kszono \u0142\u0105czne\r\n   nak\u0142ady\r\n   o kwot\u0119 6.497.883,00 z\u0142, zwi\u0119kszono limit zobowi\u0105za\u0144 o kwot\u0119 3.184.869,17\r\n   z\u0142, zmniejszono limit 2019 roku o kwot\u0119 2.272.597,00, zwi\u0119kszono limit\r\n   2020 o kwot\u0119 770.480,00 z\u0142, limit 2021 o kwot\u0119 8.000.000,00 z\u0142;\r\n\r\n   - poz. 1.3.2.3 zwi\u0119kszono okres realizacji 2015-2021, zmniejszono \u0142\u0105czne\r\n   nak\u0142ady\r\n   o kwot\u0119 973.412,00 z\u0142, zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 3.108.134,71\r\n   z\u0142, zmniejszono limit 2019 roku o kwot\u0119 683.412,00, zmniejszono limit 2020\r\n   o kwot\u0119 690.000,00 z\u0142, zwi\u0119kszono limit 2021 o kwot\u0119 400.000,00 z\u0142;\r\n\r\n   - poz. 1.3.2.4 zwi\u0119kszono okres realizacji 2015-2021, zwi\u0119kszono \u0142\u0105czne\r\n   nak\u0142ady\r\n   o kwot\u0119 685.715,00 z\u0142, zwi\u0119kszono limit zobowi\u0105za\u0144 o kwot\u0119 223.450,94 z\u0142,\r\n   zmniejszono limit 2019 roku o kwot\u0119 189.285,00, zwi\u0119kszono limit 2020 o\r\n   kwot\u0119 75.000,00 z\u0142, zwi\u0119kszono limit 2021 o kwot\u0119 800.000,00 z\u0142;\r\n\r\n   - poz. 1.3.2.5 zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 5.955,16 z\u0142;\r\n\r\n   - poz. 1.3.2.6 zmniejszono \u0142\u0105czne nak\u0142ady, limit 2019 o kwot\u0119 33.043,00\r\n   z\u0142, zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 33.043,18 z\u0142;\r\n\r\n   - poz. 1.3.2.7 zmniejszono \u0142\u0105czne nak\u0142ady, limit 2019 o kwot\u0119 621,00 z\u0142,\r\n   zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 621,74 z\u0142;\r\n\r\n   - poz. 1.3.2.9 zmniejszono \u0142\u0105czne nak\u0142ady, limit 2019, limit zobowi\u0105za\u0144 o\r\n   kwot\u0119 17.835,00 z\u0142;\r\n\r\n   - poz. 1.3.2.10 zmniejszono \u0142\u0105czne nak\u0142ady, limit 2019 o kwot\u0119 460,00 z\u0142,\r\n   zmniejszono limit zobowi\u0105za\u0144 o kwot\u0119 1.110,98 z\u0142.",
+            "format": "raw_text",
+            "summary": ""
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 4
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 17
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XV\/192\/19 Rady Gminy Dopiewo z dnia 25 listopada 2019 roku w sprawie zmiany uchwa\u0142y Nr III\/32\/18 Rady Gminy Dopiewo z dnia 17 grudnia 2018 roku w sprawie uchwalenia Wieloletniej Prognozy Finansowej Gminy Dopiewo na lata 2019-2028"
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        }
+    ],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=12974",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr XV\/192\/19 Rady Gminy Dopiewo z dnia 25 listopada 2019 roku w sprawie zmiany uchwa\u0142y Nr III\/32\/18 Rady Gminy Dopiewo z dnia 17 grudnia 2018 roku w sprawie uchwalenia Wieloletniej Prognozy Finansowej Gminy Dopiewo na lata 2019-2028"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 192
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "823d320a-342b-41c6-acb5-54dd9630f47e"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "af319f3a-4ec2-41d6-aa9b-3e214986f37f"
+        },
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "f7bc3232-e843-46a0-a723-f92c00bfb62d"
+        }
+    ],
+    "field_zmieniona_uchwala": [
+        {
+            "target_type": "node",
+            "target_uuid": "1a8e5e23-d513-41fd-8269-a8ba47db6255"
+        }
+    ]
+}

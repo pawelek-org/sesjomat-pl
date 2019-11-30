@@ -1,0 +1,261 @@
+{
+    "uuid": [
+        {
+            "value": "1e64631f-8904-4e09-bb17-03f0a8e5022e"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-11-30T16:16:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 183"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-11-30T16:15:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-11-30T16:16:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [
+        {
+            "target_id": null
+        }
+    ],
+    "body": [
+        {
+            "value": "   Uchwa\u0142a Nr XV\/183\/19\r\n\r\n   Rady Gminy Dopiewo\r\n\r\n   z dnia 25 listopada 2019 r.\r\n\r\n   w sprawie  przyst\u0105pienia do sporz\u0105dzenia miejscowego planu\r\n   zagospodarowania przestrzennego terenu w miejscowo\u015bci Konarzewo, w rejonie\r\n   ulicy Szkolnej, Pozna\u0144skiej i Kwiatowej, gmina Dopiewo.\r\n\r\n   Na podstawie art. 18 ust. 2 pkt. 15 ustawy z 8 marca 1990 r. o samorz\u0105dzie\r\n   gminnym (t.j. Dz. U. z\u00a02019\u00a0r., poz. 506 ze zm.) oraz art. 14 ust. 1\r\n   ustawy z 27 marca 2003 r. o planowaniu\r\n   i zagospodarowaniu przestrzennym (t.j. Dz. U. z 2018 r. poz. 1945 ze zm.)\r\n   Rada Gminy Dopiewo uchwala co nast\u0119puje:\r\n\r\n   * 1. Przyst\u0119puje si\u0119 do sporz\u0105dzenia miejscowego planu zagospodarowania\r\n   przestrzennego terenu w miejscowo\u015bci Konarzewo, w rejonie ulicy Szkolnej,\r\n   Pozna\u0144skiej i Kwiatowej, gmina Dopiewo, w granicach wskazanych w\r\n   za\u0142\u0105czniku graficznym do uchwa\u0142y, stanowi\u0105cym jej integraln\u0105 cz\u0119\u015b\u0107.\r\n\r\n   \u00a7 2. Opracowanie i uchwalenie planu wymienionego w * 1. mo\u017ce nast\u0105pi\u0107\r\n   odr\u0119bnie dla poszczeg\u00f3lnych fragment\u00f3w tego terenu.\r\n\r\n   * 3. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.\r\n\r\n   * 4. Uchwa\u0142a wchodzi w \u017cycie z dniem jej podj\u0119cia.\r\n\r\n   Uzasadnienie\r\n\r\n   Teren wskazany do opracowania nie jest obj\u0119ty  obowi\u0105zuj\u0105cym miejscowym\r\n   planem zagospodarowania  przestrzennego. Przedmiotem opracowania planu\r\n   jest  okre\u015blenie  zasad zagospodarowania terenu, poprzez okre\u015blenie\r\n   parametr\u00f3w i wska\u017anik\u00f3w kszta\u0142towania zabudowy  w tym r\u00f3wnie\u017c zasad\r\n   obs\u0142ugi komunikacyjnej teren\u00f3w obj\u0119tych przyst\u0105pieniem do opracowania\r\n   planu. Zgodnie z ustaleniami Studium uwarunkowa\u0144 i kierunk\u00f3w\r\n   zagospodarowania gminy Dopiewo, zatwierdzonym  Uchwa\u0142\u0105 nr XVI\/226\/16 Rady\r\n   Gminy Dopiewo z dnia 29.02.2016  r., zmienionym Uchwa\u0142\u0105 Nr IX\/108\/19 Rady\r\n   Gminy Dopiewo z dnia 27.05.2019 r., dla terenu obj\u0119tego przyst\u0105pieniem do\r\n   opracowania planu okre\u015blono kierunek zagospodarowania jako tereny zabudowy\r\n   mieszkaniowej z dzia\u0142alno\u015bci\u0105 gospodarcz\u0105 (M1U) oraz tereny zabudowy\r\n   us\u0142ugowej (U). Powierzchnia opracowania wynosi ok. 3 ha.",
+            "format": "raw_text",
+            "summary": ""
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 3
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 18
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XV\/183\/19 Rady Gminy Dopiewo z dnia 25 listopada 2019 r.w sprawie przyst\u0105pienia do sporz\u0105dzenia miejscowego planu zagospodarowania przestrzennego terenu w miejscowo\u015bci Konarzewo, w rejonie ulicy Szkolnej, Pozna\u0144skiej i Kwiatowej, gmina Dopiewo"
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        }
+    ],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=12983",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr XV\/183\/19 Rady Gminy Dopiewo z dnia 25 listopada 2019 r.w sprawie przyst\u0105pienia do sporz\u0105dzenia miejscowego planu zagospodarowania przestrzennego terenu w miejscowo\u015bci Konarzewo, w rejonie ulicy Szkolnej, Pozna\u0144skiej i Kwiatowej, gmina Dopiewo"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 183
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "823d320a-342b-41c6-acb5-54dd9630f47e"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "70483d86-17ab-4160-a9ed-e93c709615e5"
+        }
+    ],
+    "field_zmieniona_uchwala": []
+}

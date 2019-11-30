@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-26T14:34:38+00:00",
+            "value": "2019-11-30T15:51:50+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -99,7 +99,7 @@
     ],
     "field_href_source": [
         {
-            "value": "https:\/\/bip.dopiewo.pl\/?c=1400",
+            "value": "https:\/\/bip.dopiewo.pl\/?a=12962",
             "format": "raw_text"
         }
     ],
