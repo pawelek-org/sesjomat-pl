@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "6dfe4e9e-750a-4e75-b793-d80ff4449206"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/266"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/protokoly\/16"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

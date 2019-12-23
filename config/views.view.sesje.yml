@@ -530,7 +530,19 @@ display:
           expose:
             operator_limit_selection: false
             operator_list: {  }
-      sorts: {  }
+      sorts:
+        field_numer_porzadkowy_value:
+          id: field_numer_porzadkowy_value
+          table: node__field_numer_porzadkowy
+          field: field_numer_porzadkowy_value
+          relationship: none
+          group_type: group
+          admin_label: ''
+          order: DESC
+          exposed: false
+          expose:
+            label: ''
+          plugin_id: standard
       title: Sesje
       header: {  }
       footer: {  }

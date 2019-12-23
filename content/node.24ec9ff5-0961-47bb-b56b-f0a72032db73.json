@@ -1,0 +1,260 @@
+{
+    "uuid": [
+        {
+            "value": "24ec9ff5-0961-47bb-b56b-f0a72032db73"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-12-23T15:10:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 195"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-12-23T15:08:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-12-23T15:10:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [
+        {
+            "target_id": null
+        }
+    ],
+    "body": [
+        {
+            "value": "   Uchwa\u0142a Nr XVI\/195\/19\r\n\r\n   Rady Gminy Dopiewo\r\n\r\n   z dnia 18 grudnia 2019 r.\r\n\r\n   w sprawie wskazania miejsca realizacji obowi\u0105zku szkolnego uczniom\r\n   wybranych  oddzia\u0142\u00f3w klas VI Szko\u0142y Podstawowej nr 1 im. Fryderyka Chopina\r\n   w Sk\u00f3rzewie ko\u0144cz\u0105cych klas\u0119 sz\u00f3st\u0105 w roku szkolnym  2019\/2020.\r\n\r\n   Na podstawie art. 18 ust. 2 pkt 15 ustawy z dnia 8 marca 1990 r. o\r\n   samorz\u0105dzie gminnym\r\n\r\n   (t.j. Dz. U. z 2019 r., poz. 506 z p\u00f3\u017an. zm.) oraz art. 205 ust. 4 i 6\r\n   ustawy z dnia 14 grudnia 2016 r. Przepisy wprowadzaj\u0105ce ustaw\u0119 - Prawo\r\n   o\u015bwiatowe (t.j. Dz.U. z 2017 r., poz. 60 z p\u00f3\u017an. zm.) uchwala si\u0119, co\r\n   nast\u0119puje:\r\n\r\n   \u00a7 1. Wskazuje si\u0119 uczniom klas: 6b, 6c, 6d, 6e i 6g, ko\u0144cz\u0105cym w roku\r\n   szkolnym 2019\/2020 klas\u0119 sz\u00f3st\u0105 w Szkole Podstawowej nr 1 im. Fryderyka\r\n   Chopina w Sk\u00f3rzewie miejsce realizacji obowi\u0105zku szkolnego od klasy VII do\r\n   VIII w Szkole Podstawowej nr 2 im. Ignacego Jana Paderewskiego w\r\n   Sk\u00f3rzewie, powsta\u0142ej z przekszta\u0142cenia gimnazjum.\r\n\r\n   \u00a7 2. Niniejsza uchwa\u0142a podlega podaniu do publicznej wiadomo\u015bci poprzez\r\n   umieszczenie jej na tablicy og\u0142osze\u0144 w siedzibie Urz\u0119du Gminy w Dopiewie a\r\n   tak\u017ce na stronie Biuletynu Informacji Publicznej Urz\u0119du Gminy Dopiewo.\r\n\r\n   \u00a7 3. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.\r\n\r\n   \u00a7 4 Uchwa\u0142a wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia w\r\n   Dzienniku Urz\u0119dowym Wojew\u00f3dztwa Wielkopolskiego.\r\n\r\n                                  Uzasadnienie\r\n\r\n   Wywo\u0142anie niniejszej uchwa\u0142y wynika z delegacji zawartej w art. 205 ust. 4\r\n   i 6 ustawy \u201ePrzepisy wprowadzaj\u0105ce ustaw\u0119 - Prawo O\u015bwiatowe\u201d. Ust\u0119p 4 w\/w\r\n   ustawy okre\u015bla, \u017ce organ stanowi\u0105cy jednostki samorz\u0105du terytorialnego\r\n   mo\u017ce wskaza\u0107 uczniom oddzia\u0142\u00f3w klasy VI szko\u0142y podstawowej, prowadzonej\r\n   przez t\u0119 jednostk\u0119, miejsce realizacji obowi\u0105zku szkolnego od klasy VII do\r\n   VIII, w latach szkolnych 2017\/2018-2022\/2023, w publicznej szkole\r\n   podstawowej, powsta\u0142ej z przekszta\u0142cenia gimnazjum, prowadzonej przez t\u0119\r\n   jednostk\u0119.\r\n\r\n   Wobec powy\u017cszego w uchwale wskazuje si\u0119 uczniom wskazanych oddzia\u0142\u00f3w\r\n   ko\u0144cz\u0105cym w roku szkolnym 2019\/2020 klas\u0119 sz\u00f3st\u0105 w Szkole Podstawowej nr 1\r\n   im. Fryderyka Chopina w Sk\u00f3rzewie miejsce realizacji obowi\u0105zku szkolnego\r\n   od klasy VII do VIII w Szkole Podstawowej nr 2 im. Ignacego Jana\r\n   Paderewskiego w Sk\u00f3rzewie, powsta\u0142ej z przekszta\u0142cenia gimnazjum.\r\n",
+            "format": "raw_text",
+            "summary": ""
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 21
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XVI\/195\/19 Rady Gminy Dopiewo z dnia 18 grudnia 2019 r. w sprawie wskazania miejsca realizacji obowi\u0105zku szkolnego uczniom wybranych oddzia\u0142\u00f3w klas VI Szko\u0142y Podstawowej nr 1 im. Fryderyka Chopina w Sk\u00f3rzewie ko\u0144cz\u0105cych klas\u0119 sz\u00f3st\u0105 w roku szk"
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=13074",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr XVI\/195\/19 Rady Gminy Dopiewo z dnia 18 grudnia 2019 r. w sprawie wskazania miejsca realizacji obowi\u0105zku szkolnego uczniom wybranych oddzia\u0142\u00f3w klas VI Szko\u0142y Podstawowej nr 1 im. Fryderyka Chopina w Sk\u00f3rzewie ko\u0144cz\u0105cych klas\u0119 sz\u00f3st\u0105 w roku szkolnym 2019\/2020"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 195
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "4b2daa4a-77c3-4134-8b76-477cad7a1d36"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ad245f4e-c063-42ce-8dca-ad0af7349bdb"
+        }
+    ],
+    "field_zmieniona_uchwala": []
+}

@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-30T16:24:44+00:00",
+            "value": "2019-12-12T16:41:35+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -229,7 +229,11 @@
             "value": "Uchwa\u0142a Nr XV\/186\/19 Rady Gminy Dopiewo z dnia 25 listopada 2019 r. w sprawie miejscowego planu zagospodarowania przestrzennego terenu w miejscowo\u015bci D\u0105browa, w rejonie ul. Batorowskiej, Rolnej i drogi wojew\u00f3dzkiej nr 307, gmina Dopiewo"
         }
     ],
-    "field_nr_w_dz_wojewody": [],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/10686"
+        }
+    ],
     "field_numer_porzadkowy": [
         {
             "value": 186

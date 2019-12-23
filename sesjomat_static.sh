@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 
-drush cr
-drush tscr
-drush cron
-drush tome:static -l https://sesjomat.pl -y
+./vendor/bin/drush cr
+./vendor/bin/drush tscr
+./vendor/bin/drush cron
+./vendor/bin/drush tome:static -l https://sesjomat.pl -y
 cp -f ./themes/sm/img/sesjomat-logo-og.jpg ./html/themes/custom/sm/img/sesjomat-logo-og.jpg
 cp -f ./themes/sm/img/favicon.ico ./html/favicon.ico
 mkdir -p ./html/core/assets/vendor/jquery
@@ -12,4 +12,4 @@ mkdir -p ./html/modules/contrib/xmlsitemap/xsl
 cp -f ./web/modules/contrib/xmlsitemap/xsl/jquery.tablesorter.min.js ./html/modules/contrib/xmlsitemap/xsl/jquery.tablesorter.min.js
 cp -f ./web/modules/contrib/xmlsitemap/xsl/xmlsitemap.xsl.js ./html/modules/contrib/xmlsitemap/xsl/xmlsitemap.xsl.js
 cp -f ./web/modules/contrib/xmlsitemap/xsl/xmlsitemap.xsl.css ./html/modules/contrib/xmlsitemap/xsl/xmlsitemap.xsl.css
-drush tome:preview
+./vendor/bin/drush tome:preview

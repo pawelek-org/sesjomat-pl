@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "4de3845d-4563-481a-bf3e-91db0f57b2c3"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/275"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/uchwala\/202"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

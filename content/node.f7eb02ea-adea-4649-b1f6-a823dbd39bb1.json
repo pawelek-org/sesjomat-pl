@@ -1,0 +1,255 @@
+{
+    "uuid": [
+        {
+            "value": "f7eb02ea-adea-4649-b1f6-a823dbd39bb1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-12-23T15:21:46+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 202"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-12-23T15:20:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-12-23T15:22:39+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwala\/202",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": "   Uchwa\u0142a Nr XVI\/202\/19\r\n\r\n   Rady Gminy Dopiewo\r\n\r\n   z dnia 18 grudnia 2019 r.\r\n\r\n   w sprawie: ustalenia wykazu wydatk\u00f3w niewygasaj\u0105cych z up\u0142ywem roku\r\n   bud\u017cetowego 2019 oraz ustalenia ostatecznego terminu ich wydatkowania.\r\n\r\n   Na podstawie art. 18 ust.\u00a02\u00a0pkt 15 ustawy z dnia 8 marca 1990 roku\r\n   o\u00a0samorz\u0105dzie gminnym (t.j. Dz. U. z 2019 r., poz. 506 z p\u00f3\u017an. zm.) oraz\r\n   art. 263 ust. 2 i 3 ustawy z dnia 27 sierpnia 2009 r. o finansach\r\n   publicznych (t.j. Dz. U. z 2019 r. poz. 869 z p\u00f3\u017an. zm.) Rada Gminy\r\n   uchwala, co\u00a0nast\u0119puje:\r\n\r\n   \u00a71. 1. Ustala si\u0119 wykaz wydatk\u00f3w uj\u0119tych w bud\u017cecie Gminy Dopiewo, kt\u00f3re\r\n   nie wygasaj\u0105\r\n\r\n   z up\u0142ywem roku bud\u017cetowego 2019.\r\n\r\n   2. \u0141\u0105czna kwota wydatk\u00f3w, o kt\u00f3rych mowa w ust. 1, wynosi 2.662.408,50 z\u0142\r\n   brutto, w tym:\r\n\r\n   +-----------------------------------------------------------------------+\r\n   |     |                  |                |              | Ostateczny   |\r\n   | Lp. | Wykaz wydatk\u00f3w   | Klasyfikacja   | Kwota        | termin       |\r\n   |     | niewygasaj\u0105cych  | bud\u017cetowa      | wydatk\u00f3w     | wydatkowania |\r\n   |     |                  |                |              | \u015brodk\u00f3w      |\r\n   |-----+------------------+----------------+--------------+--------------|\r\n   |     | Remont budynku   |                |   595.259,94 |              |\r\n   | 1.  | Urz\u0119du Gminy     | 750\/75023\/4270 |           z\u0142 | 30.06.2020r. |\r\n   |     | Dopiewo - etap I |                |              |              |\r\n   |-----+------------------+----------------+--------------+--------------|\r\n   |     | Wi\u0119ckowice -     |                |              |              |\r\n   |     | budowa           |                |              |              |\r\n   | 2.  | kanalizacji      | 010\/01010\/6050 | 2.067.148,56 | 30.06.2020r. |\r\n   |     | sanitarnej       |                |           z\u0142 |              |\r\n   |     | (obr\u0119b ul.       |                |              |              |\r\n   |     | Gromadzkiej)     |                |              |              |\r\n   +-----------------------------------------------------------------------+\r\n\r\n   \u00a7 2. Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy.\r\n\r\n   \u00a7 3. Uchwa\u0142a wchodzi w \u017cycie z dniem podj\u0119cia.\r\n\r\n                                  Uzasadnienie\r\n\r\n   W odniesieniu do zada\u0144 dotycz\u0105cych remontu budynku Urz\u0119du Gminy Dopiewo -\r\n   etap I\r\n   i budowy kanalizacji sanitarnej w Wi\u0119ckowicach (obr\u0119b ul. Gromadzkiej)\r\n   ustalenie wydatk\u00f3w niewygasaj\u0105cych uzasadnia si\u0119 tym, \u017ce \u015brodki zwi\u0105zane z\r\n   realizacj\u0105 um\u00f3w na ww. zadania nie zostan\u0105 wydatkowane w 2019 roku w\r\n   zwi\u0105zku z op\u00f3\u017anieniami w ich realizacji.\r\n",
+            "format": "raw_text",
+            "summary": ""
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 21
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XVI\/202\/19 Rady Gminy Dopiewo z dnia 18 grudnia 2019 r. w sprawie: ustalenia wykazu wydatk\u00f3w niewygasaj\u0105cych z up\u0142ywem roku bud\u017cetowego 2019 oraz ustalenia ostatecznego terminu ich wydatkowania"
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=13081",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr XVI\/202\/19 Rady Gminy Dopiewo z dnia 18 grudnia 2019 r. w sprawie: ustalenia wykazu wydatk\u00f3w niewygasaj\u0105cych z up\u0142ywem roku bud\u017cetowego 2019 oraz ustalenia ostatecznego terminu ich wydatkowania"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 202
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "4b2daa4a-77c3-4134-8b76-477cad7a1d36"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "e1a01e56-ca60-43cc-88aa-f93de8951d65"
+        }
+    ],
+    "field_zmieniona_uchwala": []
+}

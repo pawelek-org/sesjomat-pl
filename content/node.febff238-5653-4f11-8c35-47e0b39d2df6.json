@@ -1,0 +1,255 @@
+{
+    "uuid": [
+        {
+            "value": "febff238-5653-4f11-8c35-47e0b39d2df6"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-12-23T15:06:04+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 194"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-12-23T15:00:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-12-23T15:08:06+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwala\/194",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [],
+    "body": [
+        {
+            "value": "   Uchwa\u0142a Nr XVI\/194\/19\r\n\r\n   Rady  Gminy Dopiewo\r\n\r\n   z dnia 18 grudnia 2019  r.\r\n\r\n   w sprawie ustalenia kryteri\u00f3w wraz z liczb\u0105 punkt\u00f3w w post\u0119powaniu\r\n   rekrutacyjnym do publicznych przedszkoli, oddzia\u0142\u00f3w przedszkolnych na\r\n   terenie Gminy Dopiewo.\r\n\r\n   Na podstawie art. 18 ust. 2 pkt 15 ustawy z dnia 8 marca 1990 r. o\r\n   samorz\u0105dzie gminnym (t.j. Dz. U. z 2019 r., poz. 506 z p\u00f3\u017an. zm.) oraz\r\n   art. 131 ust. 4 i 6 ustawy z dnia 14 grudnia 2016r. Prawo o\u015bwiatowe (t.j.\r\n   Dz. U. z 2019 r. poz. 1148 z p\u00f3\u017an. zm.) uchwala si\u0119, co nast\u0119puje:\r\n\r\n   \u00a7 1.  Na drugim etapie post\u0119powania rekrutacyjnego ustala si\u0119 kryteria\r\n   wraz z liczb\u0105 punkt\u00f3w w post\u0119powaniu rekrutacyjnym do publicznych\r\n   przedszkoli, oddzia\u0142\u00f3w przedszkolnych w szko\u0142ach podstawowych na terenie\r\n   Gminy Dopiewo:\r\n\r\n   \u00a01.\u00a0Dziecko rodzic\u00f3w\/opiekun\u00f3w pracuj\u0105cych i nieprzebywaj\u0105cych na urlopie\r\n       wychowawczym:\r\n\r\n   \u00a0a.\u00a0oboje rodzic\u00f3w\/opiekun\u00f3w pracuj\u0105cych - 3 pkt.\r\n\r\n   \u00a0b.\u00a0jeden rodzic\/opiekun pracuj\u0105cy - 1 pkt.\r\n\r\n   \u00a02.\u00a0Dziecko, kt\u00f3rego rodze\u0144stwo b\u0119dzie kontynuowa\u0142o edukacj\u0119 przedszkoln\u0105\r\n       w przedszkolu pierwszego wyboru - 3 pkt.\r\n\r\n   \u00a03.\u00a0Dziecko z rodziny znajduj\u0105cej si\u0119 w trudnej sytuacji materialnej b\u0105d\u017a\r\n       rodzinnej, b\u0105d\u017a pozostaj\u0105cej pod opiek\u0105 o\u015brodka pomocy spo\u0142ecznej - 2\r\n       pkt.\r\n\r\n   \u00a04.\u00a0Dziecko z pierwszej preferencji - 5 pkt.\r\n\r\n   \u00a05.\u00a0Dziecko rodzic\u00f3w\/opiekun\u00f3w rozliczaj\u0105cych podatek dochodowy od os\u00f3b\r\n       fizycznych w urz\u0119dzie skarbowym w\u0142a\u015bciwym dla Gminy Dopiewo:\r\n\r\n   \u00a0a.\u00a0oboje rodzic\u00f3w\/opiekun\u00f3w - 4 pkt;\r\n\r\n   \u00a0b.\u00a0jeden rodzic\/opiekun - 1 pkt.\r\n\r\n   \u00a06.\u00a0Dzieci zamieszka\u0142e blisko przedszkola - zgodnie z za\u0142\u0105cznikiem nr 1 -\r\n       3 pkt.\r\n\r\n   \u00a7 2.  Okre\u015bla si\u0119 dokumenty niezb\u0119dne do potwierdzenia kryteri\u00f3w o kt\u00f3rych\r\n   mowa w \u00a7 1 tj.:\r\n\r\n   \u00a01.\u00a0o\u015bwiadczenie rodzica\/-\u00f3w\/opiekuna\/-\u00f3w o pobieraniu nauki w systemie\r\n       dziennym, o zatrudnieniu i nieprzebywaniu na urlopie wychowawczym lub\r\n       prowadzeniu dzia\u0142alno\u015bci gospodarczej lub gospodarstwa rolnego;\r\n\r\n   \u00a02.\u00a0za\u015bwiadczenie z O\u015brodka Pomocy Spo\u0142ecznej o pobieraniu zasi\u0142k\u00f3w lub\r\n       udokumentowana trudna sytuacja rodzinna wraz z o\u015bwiadczeniem\r\n       rodzica\/\u00f3w;\r\n\r\n   \u00a03.\u00a0o\u015bwiadczenie rodzica\/opiekuna o rozliczaniu podatku dochodowego, za\r\n       poprzedni rok podatkowy, od os\u00f3b fizycznych w urz\u0119dzie skarbowym\r\n       w\u0142a\u015bciwym dla Gminy Dopiewo.\r\n\r\n   \u00a04.\u00a0o\u015bwiadczenie o miejscu zamieszkania dziecka\r\n\r\n   \u00a7 3.  Wykonanie uchwa\u0142y powierza si\u0119 W\u00f3jtowi Gminy Dopiewo.\r\n\r\n   \u00a7  4. Traci moc uchwa\u0142a Nr XXXVI\/457\/17 Rady Gminy Dopiewo z dnia 20\r\n   listopada 2017 r. w sprawie ustalenia kryteri\u00f3w wraz z liczb\u0105 punkt\u00f3w w\r\n   post\u0119powaniu rekrutacyjnym do publicznych przedszkoli, oddzia\u0142\u00f3w\r\n   przedszkolnych na terenie Gminy Dopiewo.\r\n\r\n   \u00a7  5.  Uchwa\u0142a wchodzi w \u017cycie po up\u0142ywie 14 dni od dnia og\u0142oszenia w\r\n   Dzienniku Urz\u0119dowym Wojew\u00f3dztwa Wielkopolskiego.\r\n\r\n                                  Uzasadnienie\r\n\r\n   Art. 131 ustawy z dnia 14 grudnia 2016r. Prawo o\u015bwiatowe (Dz. U. z 2019\r\n   r., poz. 1148 t.j. z p\u00f3\u017an. zm.) okre\u015bla zasady przyj\u0119\u0107 dzieci do\r\n   publicznych przedszkoli, oddzia\u0142\u00f3w przedszkolnych, innych form wychowania\r\n   przedszkolnego. W my\u015bl w\/w przepis\u00f3w do w\/w plac\u00f3wek przyjmowane s\u0105 dzieci\r\n   zamieszka\u0142e na obszarze danej gminy. W przypadku wi\u0119kszej liczby\r\n   kandydat\u00f3w ni\u017c liczba miejsc na pierwszym etapie post\u0119powania\r\n   rekrutacyjnego brane s\u0105 pod uwag\u0119 \u0142\u0105cznie nast\u0119puj\u0105ce kryteria ustawowe:\r\n\r\n   \u00a01.\u00a0wielodzietno\u015b\u0107 rodziny kandydata,\r\n\r\n   \u00a01.\u00a0niepe\u0142nosprawno\u015b\u0107 kandydata,\r\n\r\n   \u00a02.\u00a0niepe\u0142nosprawno\u015b\u0107 jednego z rodzic\u00f3w kandydata,\r\n\r\n   \u00a03.\u00a0niepe\u0142nosprawno\u015b\u0107 obojga rodzic\u00f3w kandydata,\r\n\r\n   \u00a04.\u00a0niepe\u0142nosprawno\u015b\u0107 rodze\u0144stwa kandydata,\r\n\r\n   \u00a05.\u00a0samotne wychowywanie kandydata w rodzinie,\r\n\r\n   \u00a06.\u00a0obj\u0119cie kandydata piecz\u0105 zast\u0119pcz\u0105.\r\n\r\n   W przypadku r\u00f3wnorz\u0119dnych wynik\u00f3w uzyskanych na pierwszym etapie\r\n   post\u0119powania rekrutacyjnego lub je\u015bli po zako\u0144czeniu tego etapu\r\n   przedszkole, zesp\u00f3\u0142 szkolno - przedszkolny albo inna forma wychowania\r\n   przedszkolnego nadal dysponuje wolnymi miejscami, rada gminy upowa\u017cniona\r\n   jest do okre\u015blenia kryteri\u00f3w, branych pod uwag\u0119 na drugim etapie, tzw.\r\n   \u201ekryteri\u00f3w gminnych\u201d. Mog\u0105 mie\u0107 one r\u00f3\u017cn\u0105 wag\u0119. Rada Gminy okre\u015bla\r\n   dokumenty niezb\u0119dne do potwierdzenia ich spe\u0142nienia.\r\n\r\n   Powy\u017csze kryteria wychodz\u0105 naprzeciw potrzebom rodzic\u00f3w dzieci w wieku\r\n   przedszkolnym i zapewniaj\u0105 jak najpe\u0142niejsz\u0105 realizacji potrzeb dziecka i\r\n   jego rodziny oraz lokalnych potrzeb spo\u0142ecznych w odniesieniu do\r\n   wszystkich uprawnionych kandydat\u00f3w - niezale\u017cnie od ich wieku. Szczeg\u00f3lnie\r\n   ostatnie kryterium \u201eblisko\u015b\u0107 do przedszkola\u201d by\u0142o wielokrotnie w trakcie\r\n   minionych rekrutacji wskazywane przez rodzic\u00f3w, jako to kt\u00f3re powinno si\u0119\r\n   znale\u017a\u0107 w\u015br\u00f3d kryteri\u00f3w rekrutacyjnych okre\u015blanych przez gmin\u0119.\r\n\r\n                  Za\u0142\u0105cznik Nr 1 do Uchwa\u0142y Nr XVI\/194\/19  Rady Gminy Dopiewo\r\n\r\n                                                    z dnia 18 grudnia 2019 r.\r\n\r\n   Kryterium okre\u015blone w par. 1 ust. 6 jest spe\u0142nione, je\u015bli dziecko\r\n   zamieszka\u0142e w so\u0142ectwach wymienionych w kolumnie 1 aplikuje do przedszkola\r\n   zlokalizowanego w so\u0142ectwie wymienionym w kolumnie 2.\r\n\r\n   +---------------------------------------------------------+\r\n   |  Miejsce zamieszkania   |    Lokalizacja przedszkola    |\r\n   |   dziecka (so\u0142ectwo)    |          (so\u0142ectwo)           |\r\n   |-------------------------+-------------------------------|\r\n   |        KOLUMNA 1        |           KOLUMNA 2           |\r\n   |-------------------------+-------------------------------|\r\n   | D\u0105browa                 | D\u0105browa, Sk\u00f3rzewo             |\r\n   |-------------------------+-------------------------------|\r\n   | D\u0105br\u00f3wka                | D\u0105br\u00f3wka, Dopiewiec, Pal\u0119dzie |\r\n   |-------------------------+-------------------------------|\r\n   | Dopiewiec               | Dopiewiec, Dopiewo            |\r\n   |-------------------------+-------------------------------|\r\n   | Dopiewo                 | Dopiewo                       |\r\n   |-------------------------+-------------------------------|\r\n   | Konarzewo               | Dopiewo, Konarzewo            |\r\n   |-------------------------+-------------------------------|\r\n   | Go\u0142uski                 | D\u0105br\u00f3wka, Dopiewiec, Pal\u0119dzie |\r\n   |-------------------------+-------------------------------|\r\n   | Pal\u0119dzie                | D\u0105br\u00f3wka, Dopiewiec, Pal\u0119dzie |\r\n   |-------------------------+-------------------------------|\r\n   | Sk\u00f3rzewo                | D\u0105browa, Sk\u00f3rzewo             |\r\n   |-------------------------+-------------------------------|\r\n   | Trzcielin               | Dopiewo, Konarzewo            |\r\n   |-------------------------+-------------------------------|\r\n   | Zakrzewo                | D\u0105browa, Sk\u00f3rzewo, Zakrzewo   |\r\n   |-------------------------+-------------------------------|\r\n   | Wi\u0119ckowice              | Wi\u0119ckowice                    |\r\n   +---------------------------------------------------------+\r\n",
+            "format": "raw_text",
+            "summary": ""
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 21
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a Nr XVI\/194\/19 Rady Gminy Dopiewo z dnia 18 grudnia 2019 r. w sprawie ustalenia kryteri\u00f3w wraz z liczb\u0105 punkt\u00f3w w post\u0119powaniu rekrutacyjnym do publicznych przedszkoli, oddzia\u0142\u00f3w przedszkolnych na terenie Gminy Dopiewo"
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=13073",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a Nr XVI\/194\/19 Rady Gminy Dopiewo z dnia 18 grudnia 2019 r. w sprawie ustalenia kryteri\u00f3w wraz z liczb\u0105 punkt\u00f3w w post\u0119powaniu rekrutacyjnym do publicznych przedszkoli, oddzia\u0142\u00f3w przedszkolnych na terenie Gminy Dopiewo"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 194
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "4b2daa4a-77c3-4134-8b76-477cad7a1d36"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "ad245f4e-c063-42ce-8dca-ad0af7349bdb"
+        }
+    ],
+    "field_zmieniona_uchwala": []
+}

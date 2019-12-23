@@ -1,0 +1,122 @@
+{
+    "uuid": [
+        {
+            "value": "9099d007-96d9-412b-8ec1-e33509e51c40"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "protokol",
+            "target_type": "node_type",
+            "target_uuid": "2e00ab45-cc90-4423-80d5-6d49bc14600c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-12-19T09:31:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Protok\u00f3\u0142 nr 16"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-12-19T09:30:21+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-12-19T09:31:28+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [
+        {
+            "target_id": null
+        }
+    ],
+    "body": [
+        {
+            "value": "Tre\u015b\u0107 protoko\u0142u zostanie opublikowana po zaakceptowaniu przez Rad\u0119 Gminy w trakcie g\u0142osowania na kolejnej sesji.",
+            "format": "raw_text",
+            "summary": ""
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Protok\u00f3\u0142 Nr XVI\/19 z Sesji Rady Gminy Dopiewo odbytej w dniu 18 grudnia 2019 roku"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?c=1400",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_protokolu": [
+        {
+            "value": "Protok\u00f3\u0142 Nr XVI\/19 z Sesji Rady Gminy Dopiewo odbytej w dniu 18 grudnia 2019 roku"
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "4b2daa4a-77c3-4134-8b76-477cad7a1d36"
+        }
+    ]
+}

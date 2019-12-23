@@ -1,0 +1,120 @@
+{
+    "uuid": [
+        {
+            "value": "4b2daa4a-77c3-4134-8b76-477cad7a1d36"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "sesja",
+            "target_type": "node_type",
+            "target_uuid": "d586344f-f05e-4d84-bfa7-33b420b1e8ad"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2019-12-19T09:30:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Sesja nr 16"
+        }
+    ],
+    "created": [
+        {
+            "value": "2019-12-19T09:29:31+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2019-12-19T09:30:02+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "menu_link": [
+        {
+            "target_id": null
+        }
+    ],
+    "body": [],
+    "field_custom_meta_descr": [
+        {
+            "value": "XVI sesja Rady Gminy Dopiewo - 18 grudnia 2019 r."
+        }
+    ],
+    "field_data": [
+        {
+            "value": "2019-12-18"
+        }
+    ],
+    "field_kadencja": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "0f1a3f7c-c180-4e6f-ad29-25deaa699d0c"
+        }
+    ],
+    "field_nazwa_sesji": [
+        {
+            "value": "XVI sesja Rady Gminy Dopiewo - 18 grudnia 2019 r."
+        }
+    ],
+    "field_numer_porzadkowy": [
+        {
+            "value": 16
+        }
+    ]
+}
