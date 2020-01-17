@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-12-23T15:13:24+00:00",
+            "value": "2020-01-17T14:45:59+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,15 +79,9 @@
     ],
     "path": [
         {
-            "alias": "",
-            "pid": null,
+            "alias": "\/uchwala\/197",
             "langcode": "pl",
             "pathauto": 1
-        }
-    ],
-    "menu_link": [
-        {
-            "target_id": null
         }
     ],
     "body": [
@@ -233,7 +227,11 @@
             "value": "Uchwa\u0142a Nr XVI\/197\/19 Rady Gminy Dopiewo z dnia 18 grudnia 2019 r. w sprawie ustalenia \u015bredniej ceny jednostki paliwa w Gminie Dopiewo na rok szkolny 2019\/2020"
         }
     ],
-    "field_nr_w_dz_wojewody": [],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/11354"
+        }
+    ],
     "field_numer_porzadkowy": [
         {
             "value": 197

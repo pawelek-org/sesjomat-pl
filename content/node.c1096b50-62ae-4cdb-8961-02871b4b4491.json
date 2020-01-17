@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-05T15:40:57+00:00",
+            "value": "2019-12-26T16:00:03+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -87,8 +87,8 @@
     "menu_link": [],
     "body": [
         {
-            "value": "<h3>Sesje 2018-2023<\/h3>\r\n\r\n<p>https:\/\/bip.dopiewo.pl\/?c=1366<\/p>\r\n\r\n<h3>Protoko\u0142y 2018-2023<\/h3>\r\n\r\n<p>https:\/\/bip.dopiewo.pl\/?c=1362<\/p>\r\n\r\n<h3>Podj\u0119te uchwa\u0142y 2018-2023<\/h3>\r\n\r\n<p>https:\/\/bip.dopiewo.pl\/?c=1369<\/p>\r\n",
-            "format": "purehtml",
+            "value": "<h3>Sesje 2018-2023<\/h3>\r\n\r\n<p>https:\/\/bip.dopiewo.pl\/?c=1366<\/p>\r\n\r\n<h3>Protoko\u0142y 2018-2023<\/h3>\r\n\r\n<p>https:\/\/bip.dopiewo.pl\/?c=1362<\/p>\r\n\r\n<h3>Podj\u0119te uchwa\u0142y 2018-2023<\/h3>\r\n\r\n<p>https:\/\/bip.dopiewo.pl\/?c=1369<\/p>",
+            "format": "raw_text",
             "summary": "Pomocne linki"
         }
     ]

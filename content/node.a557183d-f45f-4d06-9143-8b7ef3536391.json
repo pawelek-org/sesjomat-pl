@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-30T16:26:04+00:00",
+            "value": "2020-01-17T14:48:24+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,15 +79,9 @@
     ],
     "path": [
         {
-            "alias": "",
-            "pid": null,
+            "alias": "\/uchwala\/187",
             "langcode": "pl",
             "pathauto": 1
-        }
-    ],
-    "menu_link": [
-        {
-            "target_id": null
         }
     ],
     "body": [
@@ -234,7 +228,11 @@
             "value": "Uchwa\u0142a Nr XV\/187\/19 Rady Gminy Dopiewo z dnia 25 listopada 2019 r.w sprawie miejscowego planu zagospodarowania przestrzennego w miejscowo\u015bci Dopiewo, rejon ulicy Wysokiej"
         }
     ],
-    "field_nr_w_dz_wojewody": [],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/10687"
+        }
+    ],
     "field_numer_porzadkowy": [
         {
             "value": 187

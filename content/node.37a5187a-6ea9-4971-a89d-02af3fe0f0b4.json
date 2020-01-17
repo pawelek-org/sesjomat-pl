@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-11-30T16:10:55+00:00",
+            "value": "2020-01-17T14:49:40+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,15 +79,9 @@
     ],
     "path": [
         {
-            "alias": "",
-            "pid": null,
+            "alias": "\/uchwala\/181",
             "langcode": "pl",
             "pathauto": 1
-        }
-    ],
-    "menu_link": [
-        {
-            "target_id": null
         }
     ],
     "body": [
@@ -234,7 +228,11 @@
             "value": "Uchwa\u0142a Nr XV\/181\/19 Rady Gminy Dopiewo z dnia 25 listopada 2019 r.w sprawie nadania nazwy ulicy Wysoka w miejscowo\u015bci Dopiewo"
         }
     ],
-    "field_nr_w_dz_wojewody": [],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/10494"
+        }
+    ],
     "field_numer_porzadkowy": [
         {
             "value": 181

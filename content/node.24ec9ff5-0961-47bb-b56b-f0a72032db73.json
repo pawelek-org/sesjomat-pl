@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-12-23T15:10:21+00:00",
+            "value": "2020-01-17T14:46:18+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,15 +79,9 @@
     ],
     "path": [
         {
-            "alias": "",
-            "pid": null,
+            "alias": "\/uchwala\/195",
             "langcode": "pl",
             "pathauto": 1
-        }
-    ],
-    "menu_link": [
-        {
-            "target_id": null
         }
     ],
     "body": [
@@ -233,7 +227,11 @@
             "value": "Uchwa\u0142a Nr XVI\/195\/19 Rady Gminy Dopiewo z dnia 18 grudnia 2019 r. w sprawie wskazania miejsca realizacji obowi\u0105zku szkolnego uczniom wybranych oddzia\u0142\u00f3w klas VI Szko\u0142y Podstawowej nr 1 im. Fryderyka Chopina w Sk\u00f3rzewie ko\u0144cz\u0105cych klas\u0119 sz\u00f3st\u0105 w roku szkolnym 2019\/2020"
         }
     ],
-    "field_nr_w_dz_wojewody": [],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/11353"
+        }
+    ],
     "field_numer_porzadkowy": [
         {
             "value": 195

@@ -53,7 +53,7 @@
     ],
     "changed": [
         {
-            "value": "2019-12-23T15:25:37+00:00",
+            "value": "2020-01-17T14:45:44+00:00",
             "format": "Y-m-d\\TH:i:sP"
         }
     ],
@@ -79,15 +79,9 @@
     ],
     "path": [
         {
-            "alias": "",
-            "pid": null,
+            "alias": "\/uchwala\/204",
             "langcode": "pl",
             "pathauto": 1
-        }
-    ],
-    "menu_link": [
-        {
-            "target_id": null
         }
     ],
     "body": [
@@ -235,7 +229,11 @@
             "value": "Uchwa\u0142a Nr XVI\/204\/19 Rady Gminy Dopiewo z dnia 18 grudnia 2019 roku w sprawie uchwa\u0142y bud\u017cetowej Gminy Dopiewo na 2020 rok"
         }
     ],
-    "field_nr_w_dz_wojewody": [],
+    "field_nr_w_dz_wojewody": [
+        {
+            "value": "2019\/11355"
+        }
+    ],
     "field_numer_porzadkowy": [
         {
             "value": 204
