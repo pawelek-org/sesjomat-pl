@@ -1,0 +1,255 @@
+{
+    "uuid": [
+        {
+            "value": "2ab05c8f-fbe0-4cf8-bf50-a133a03a3f12"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "uchwala",
+            "target_type": "node_type",
+            "target_uuid": "0172546f-5d03-4b2e-b6ae-b5f787fca34c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-01-29T09:26:23+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Uchwa\u0142a nr 205"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-01-29T09:24:41+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-01-29T09:28:22+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "\/uchwala\/205",
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "                                             UCHWA\u0141A NR XVII\/205\/20\r\n                                             RADY GMINY DOPIEWO\r\n\r\n                                                z dnia 27 stycznia 2020 r.\r\n\r\n                 w sprawie zatwierdzenia plan\u00f3w pracy Komisji Rady Gminy Dopiewo na rok 2020.\r\n\r\n\r\n        Na podstawie art. 18 ust. 1, art. 21 ust 3 ustawy z dnia 8 marca 1990 r. o samorz\u0105dzie gminnym (t. j. Dz. U.\r\n     z 2019 r. poz. 506 z p\u00f3\u017an. zm.) oraz \u00a7 16 ust. 2 Uchwa\u0142y Nr XX\/277\/16 Rady Gminy Dopiewo z dnia\r\n     27 czerwca 2016r. w sprawie uchwalenia Statutu Gminy Dopiewo opublikowanego dnia 29 czerwca 2016 r.\r\n     w Dzienniku Wojew\u00f3dztwa Wielkopolskiego z 2016 r., poz. 4124, Rada Gminy Dopiewo uchwala, co\r\n     nast\u0119puje:\r\n        \u00a7 1. Zatwierdza si\u0119 przedstawione przez komisje Rady Gminy Dopiewo nast\u0119puj\u0105ce plany pracy na rok\r\n     2020:\r\n         1. Plan pracy Komisji Finans\u00f3w i Bud\u017cetu, stanowi\u0105cy Za\u0142\u0105cznik nr 1 do niniejszej Uchwa\u0142y,\r\n         2. Plan pracy Komisji O\u015bwiaty, stanowi\u0105cy Za\u0142\u0105cznik nr 2 do niniejszej Uchwa\u0142y,\r\n         3. Plan pracy Komisji Rolnictwa i Ochrony \u015arodowiska, stanowi\u0105cy Za\u0142\u0105cznik nr 3 do niniejszej Uchwa\u0142y,\r\n         4. Plan pracy Komisji Rewizyjnej, stanowi\u0105cy Za\u0142\u0105cznik nr 4 do niniejszej Uchwa\u0142y,\r\n         5. Plan pracy Komisji Skarg, Wniosk\u00f3w i Petycji, stanowi\u0105cy Za\u0142\u0105cznik nr 5 do niniejszej Uchwa\u0142y.\r\n         \u00a7 2. Wykonanie uchwa\u0142y powierza si\u0119 Przewodnicz\u0105cym Komisji Rady Gminy Dopiewo.\r\n         \u00a7 3. Uchwa\u0142a wchodzi w \u017cycie z dniem podj\u0119cia.\r\n\r\n\r\n\r\n\r\n                                                                             Przewodnicz\u0105cy Rady Gminy\r\n                                                                                     Dopiewo\r\n\r\n\r\n                                                                                 Leszek Nowaczyk\r\n\r\n\r\n\r\n\r\nId: F9D85455-FAFB-44A3-84AE-E8697838D0DB. Podpisany                                                          Strona 1\r\n                                                             Za\u0142\u0105cznik Nr 1 do Uchwa\u0142y Nr XVII\/205\/20\r\n                                                             Rady Gminy Dopiewo z dnia 27 stycznia 2020 r.\r\n\r\n\r\n\r\n\r\n                                     Plan pracy Komisji Finans\u00f3w i Bud\u017cetu \/... \/ na 2020 rok\r\n\r\n\r\n          1. Opiniowanie projekt\u00f3w uchwa\u0142 na kolejne sesje Rady Gminy.\r\n          2. Bie\u017c\u0105ca praca w zakresie zalece\u0144 Rady Gminy.\r\n          3. Opiniowanie spraw wniesionych przez Urz\u0105d Gminy, Mieszka\u0144c\u00f3w Gminy i Radnych.\r\n          4. Ocena porz\u0105dku i czysto\u015bci w Gminie po\u0142\u0105czona z analiz\u0105 warunk\u00f3w sanitarnych,\r\n             zestawienie prac inwestycyjnych, wraz z danymi dotycz\u0105cymi pod\u0142\u0105cze\u0144 Mieszka\u0144c\u00f3w.\r\n          5. Analiza pozyskiwania \u015brodk\u00f3w do bud\u017cetu.\r\n          6. Bezpiecze\u0144stwo publiczne w Gminie Dopiewo, wsp\u00f3\u0142praca z Policj\u0105, Stra\u017c\u0105 Gminn\u0105,\r\n             Stra\u017c\u0105 Po\u017carn\u0105 oraz w obszarze komunikacji.\r\n          7. Bie\u017c\u0105ce sprawozdania z realizacji i stanu zaawansowania inwestycji w Gminie.\r\n          8. Analiza warunk\u00f3w inwestycyjnych w Gminie Dopiewo.\r\n          9. Analiza pozyskiwania \u015brodk\u00f3w zewn\u0119trznych.\r\n          10. Opinia o wykonaniu bud\u017cetu za I p\u00f3\u0142rocze 2020.\r\n          11. Wypracowanie opinii o projekcie bud\u017cetu Gminy Dopiewo na rok 2021.\r\n\r\n\r\n\r\n\r\nId: F9D85455-FAFB-44A3-84AE-E8697838D0DB. Podpisany                                                     Strona 1\r\n                                                             Za\u0142\u0105cznik Nr 2 do Uchwa\u0142y Nr XVII\/205\/20\r\n                                                             Rady Gminy Dopiewo z dnia 27 stycznia 2020 r.\r\n\r\n\r\n\r\n\r\n                                   Plan pracy Komisji O\u015bwiaty \/...\/ na rok 2020\r\n\r\n\r\n\r\n\r\n          1.   Opiniowanie projekt\u00f3w uchwa\u0142 na kolejne sesje Rady Gminy.\r\n          2.   Bie\u017c\u0105ce om\u00f3wienie temat\u00f3w na zlecenie Rady Gminy.\r\n          3.   Opracowanie planu pracy Komisji O\u015bwiaty na rok 2020.\r\n          4.   Funkcjonowanie o\u015bwiaty w Gminie pod k\u0105tem rozbudowy bazy o\u015bwiatowej.\r\n          5.   Analiza sieci szk\u00f3\u0142.\r\n          6.   Om\u00f3wienie projekt\u00f3w organizacyjnych szk\u00f3\u0142 na rok szkolny 2020\/2021 i przygotowanie\r\n               plac\u00f3wek o\u015bwiatowych do nowego roku szkolnego \u2013 posiedzenie wyjazdowe.\r\n          7.   Wsparcie sportu i rekreacji masowej z wykorzystaniem istniej\u0105cej bazy sportowo \u2013\r\n               rekreacyjnej Gminy Dopiewo. Analiza funkcjonowania organizacji sportowych w\r\n               Gminie.\r\n          8.   Analiza dzia\u0142alno\u015bci organizacji dzia\u0142aj\u0105cych na rzecz os\u00f3b niepe\u0142nosprawnych.\r\n          9.   Analiza funkcjonowania obiekt\u00f3w kulturalnych na terenie Gminy Dopiewo.\r\n          10. Promocja w Gminie Dopiewo.\r\n          11. Analiza dzia\u0142a\u0144 w zakresie zdrowia w Gminie Dopiewo.\r\n          12. Analiza i bie\u017c\u0105ce om\u00f3wienie dzia\u0142a\u0144 o\u015bwiatowych w Gminie Dopiewo.\r\n\r\n\r\n\r\n\r\nId: F9D85455-FAFB-44A3-84AE-E8697838D0DB. Podpisany                                                     Strona 1\r\n                                                              Za\u0142\u0105cznik Nr 3 do Uchwa\u0142y Nr XVII\/205\/20\r\n                                                              Rady Gminy Dopiewo z dnia 27 stycznia 2020 r.\r\n\r\n\r\n\r\n\r\n          Plan pracy Komisji Rolnictwa i Ochrony \u015arodowiska na rok 2020\r\n\r\n\r\n\r\n              1. Opiniowanie projekt\u00f3w uchwa\u0142 na kolejne sesje Rady Gminy.\r\n              2. Bie\u017c\u0105ca analiza temat\u00f3w na zlecenie Rady Gminy.\r\n              3. Wsp\u00f3\u0142praca z Urz\u0119dem Gminy w zakresie rozwi\u0105zywania temat\u00f3w problemowych.\r\n              4. Uchwalenie zmiany Studium Uwarunkowa\u0144 i Kierunk\u00f3w Zagospodarowania\r\n                  Przestrzennego.\r\n              5. Analiza i ocena rozwoju sieci dr\u00f3g (uk\u0142adu komunikacyjnego) na terenie Gminy.\r\n              6. Wsp\u00f3\u0142praca z O\u015brodkiem Doradztwa Rolniczego.\r\n              7. Gospodarowanie wod\u0105; zasoby i jako\u015b\u0107 wody z Joanki; planowanie wykonania\r\n                  zbiornik\u00f3w retencyjnych i magistrali zasilaj\u0105cej ca\u0142\u0105 gmin\u0119.\r\n              8. Analiza gospodarki wodnej w Gminie.\r\n              9. Wizje w terenie \u2013 przed podj\u0119ciem procedury planistycznej oraz na inne potrzeby\r\n                  Komisji.\r\n              10. Analiza wykonania bud\u017cetu za rok 2019 \u2013 przygotowanie do sesji absolutoryjnej.\r\n              11. Wypracowanie opinii o projekcie bud\u017cetu Gminy Dopiewo na rok 2021.\r\n\r\n\r\n\r\n\r\nId: F9D85455-FAFB-44A3-84AE-E8697838D0DB. Podpisany                                                      Strona 1\r\n                                                           Za\u0142\u0105cznik Nr 4 do Uchwa\u0142y Nr XVII\/205\/20\r\n                                                           Rady Gminy Dopiewo z dnia 27 stycznia 2020 r.\r\n\r\n\r\n\r\n\r\n                                   Plan pracy Komisji Rewizyjnej na 2020 rok\r\n\r\n\r\n\r\n\r\n          L.p              Tematyka posiedzenia            Przedk\u0142adaj\u0105cy             Okres realizacji\r\n                                                           dokumenty\r\n\r\n          1.    Ustalenie planu pracy Komisji Rewizyjnej                              IV kwarta\u0142 2019\r\n                na 2020 rok\r\n\r\n          2.    Prowadzenie kontroli na ka\u017cdorazowe                                   ca\u0142y rok\r\n                zlecenie Rady Gminy\r\n\r\n          3.    Kontrola wybranej jednostki bud\u017cetowej     W\u00f3jt Gminy                 ca\u0142y rok\r\n\r\n          4.    Analiza wybranych inwestycji z roku W\u00f3jt Gminy                        I p\u00f3\u0142rocze 2020\r\n                2019\r\n\r\n          5.    Badanie sprawozdania z wykonania Skarbnik,      Referat II kwarta\u0142 2020\r\n                bud\u017cetu za rok 2019 oraz analiza Finansowy i Bud\u017cetu\r\n                sprawozdania finansowego\r\n\r\n\r\n\r\n\r\nId: F9D85455-FAFB-44A3-84AE-E8697838D0DB. Podpisany                                                   Strona 1\r\n                                                          Za\u0142\u0105cznik Nr 5 do Uchwa\u0142y Nr XVII\/205\/20\r\n                                                          Rady Gminy Dopiewo z dnia 27 stycznia 2020 r.\r\n\r\n\r\n\r\n\r\n                          Plan pracy Komisji Skarg, Wniosk\u00f3w i Petycji na 2020 rok\r\n\r\n\r\n\r\n          1. Rozpatrywanie skarg dotycz\u0105cych zada\u0144 lub dzia\u0142alno\u015bci w\u00f3jta gminy i jednostek\r\n               organizacyjnych, kt\u00f3re wp\u0142yn\u0119\u0142y do Rady Gminy w 2020 r.\r\n\r\n          2. Rozpatrywanie wniosk\u00f3w, kt\u00f3rych przedmiotem mog\u0105 by\u0107 w szczeg\u00f3lno\u015bci sprawy\r\n               dotycz\u0105ce ulepszenia organizacji, wzmocnienia praworz\u0105dno\u015bci, usprawnienia pracy i\r\n               zapobiegania nadu\u017cyciom, ochrony w\u0142asno\u015bci oraz lepszego zaspakajania potrzeb\r\n               ludno\u015bci.\r\n\r\n          3. Rozpatrywanie petycji kierowanych do Rady Gminy w roku 2020.\r\n\r\n\r\n\r\n\r\nId: F9D85455-FAFB-44A3-84AE-E8697838D0DB. Podpisany                                                  Strona 1\r\n                                                      UZASADNIENIE\r\n          Zgodnie z art. 21 ust. 3 ustawy z dnia 8 marca 1990r. o samorz\u0105dzie gminnym komisje podlegaj\u0105\r\n          radzie gminy i przedk\u0142adaj\u0105 jej plan pracy.\r\n\r\n\r\n\r\n\r\nId: F9D85455-FAFB-44A3-84AE-E8697838D0DB. Podpisany                                               Strona 1\r\n",
+            "format": "raw_text",
+            "summary": ""
+        }
+    ],
+    "field_count_brak": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_nieobecny": [
+        {
+            "value": 3
+        }
+    ],
+    "field_count_przeciw": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_votes": [
+        {
+            "value": 21
+        }
+    ],
+    "field_count_wstrzymujacy": [
+        {
+            "value": 0
+        }
+    ],
+    "field_count_za": [
+        {
+            "value": 18
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Uchwa\u0142a nr XVII\/205\/20 Rady Gminy Dopiewo z dnia 27 stycznia 2020 r. w sprawie zatwierdzenia plan\u00f3w pracy Komisji Rady Gminy Dopiewo na rok 2020"
+        }
+    ],
+    "field_glos_brak": [],
+    "field_glos_nieobecny": [
+        {
+            "target_type": "node",
+            "target_uuid": "49cb8f68-caa4-4893-b638-5e5f3f78f343"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "29f33ea9-61af-4b8b-be89-e368357c0657"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "2013811e-58a0-49bf-a725-8d961a60211d"
+        }
+    ],
+    "field_glos_przeciw": [],
+    "field_glos_wstrzymujacy": [],
+    "field_glos_za": [
+        {
+            "target_type": "node",
+            "target_uuid": "8f62b00c-4b94-4967-9ea8-8516368d15e9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a6d7c744-18eb-405b-90ed-477a2cc2f115"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42c6c278-2680-469c-9f53-b724bc0de5d8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "007ef329-c80d-4b41-bdc3-ff241d757de9"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "da0cd5fb-47fd-42f5-8a83-38bfb5fc8ed8"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "ce5b532c-43e3-4c05-9296-6dd3491d5c64"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "d9ec9acf-7b21-47d8-9015-37dcbd126b84"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "e4406c87-3e78-4cd5-a865-ccc7817e721b"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "a5ccaa66-c96c-427e-adbd-3959e257920e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "b1e4c8aa-1372-4158-b144-4207250135d0"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "42e559af-ace0-467c-9b61-9b877d064ac3"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c9f5b28d-c725-419c-866f-939b43a62f46"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "537736c5-4266-421f-ae6a-95ef2ec5b670"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "3f419924-b22c-4307-a0da-f189caae1211"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "48f6bf1d-620f-4e9e-a1aa-207e49bee229"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "c63d68e1-2254-4855-9ca9-991af7b4f42e"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "f5c1ac34-6d52-4069-8417-9565c8966df6"
+        },
+        {
+            "target_type": "node",
+            "target_uuid": "30f7c162-d359-4d52-bfdb-b9f9b6db61f9"
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?a=13173",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_uchwaly": [
+        {
+            "value": "Uchwa\u0142a nr XVII\/205\/20 Rady Gminy Dopiewo z dnia 27 stycznia 2020 r. w sprawie zatwierdzenia plan\u00f3w pracy Komisji Rady Gminy Dopiewo na rok 2020"
+        }
+    ],
+    "field_nr_w_dz_wojewody": [],
+    "field_numer_porzadkowy": [
+        {
+            "value": 205
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "0787484d-e753-48b8-a861-5802ce51deb9"
+        }
+    ],
+    "field_typ_glosowania": [
+        {
+            "value": 0
+        }
+    ],
+    "field_typ_uchwaly": [
+        {
+            "target_type": "taxonomy_term",
+            "target_uuid": "a5a55bac-1089-4f9c-93f5-e6b69e1c5537"
+        }
+    ],
+    "field_zmieniona_uchwala": []
+}
