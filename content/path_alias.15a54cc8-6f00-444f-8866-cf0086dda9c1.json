@@ -1,0 +1,27 @@
+{
+    "uuid": [
+        {
+            "value": "15a54cc8-6f00-444f-8866-cf0086dda9c1"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "path": [
+        {
+            "value": "\/node\/3a8a00a1-8d7f-4ebe-95b9-20b6ce5d613f"
+        }
+    ],
+    "alias": [
+        {
+            "value": "\/sesje\/18"
+        }
+    ],
+    "status": [
+        {
+            "value": true
+        }
+    ]
+}

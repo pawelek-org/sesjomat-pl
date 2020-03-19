@@ -1,0 +1,117 @@
+{
+    "uuid": [
+        {
+            "value": "45c946fc-f7a8-4205-a4c9-ab411a3efd16"
+        }
+    ],
+    "langcode": [
+        {
+            "value": "pl"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "protokol",
+            "target_type": "node_type",
+            "target_uuid": "2e00ab45-cc90-4423-80d5-6d49bc14600c"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2020-03-19T10:59:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "revision_uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "revision_log": [],
+    "status": [
+        {
+            "value": true
+        }
+    ],
+    "uid": [
+        {
+            "target_type": "user",
+            "target_uuid": "60e07484-e182-4d20-a20a-c3ed76834b45"
+        }
+    ],
+    "title": [
+        {
+            "value": "Protok\u00f3\u0142 nr 18"
+        }
+    ],
+    "created": [
+        {
+            "value": "2020-03-19T10:58:11+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2020-03-19T10:59:05+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false
+        }
+    ],
+    "sticky": [
+        {
+            "value": false
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true
+        }
+    ],
+    "path": [
+        {
+            "alias": "",
+            "pid": null,
+            "langcode": "pl",
+            "pathauto": 1
+        }
+    ],
+    "body": [
+        {
+            "value": "Protok\u00f3\u0142 czeka na zatwierdzenie.",
+            "format": "raw_text",
+            "summary": ""
+        }
+    ],
+    "field_custom_meta_descr": [
+        {
+            "value": "Protok\u00f3\u0142 Nr XVIII\/20 z Sesji Rady Gminy Dopiewo odbytej w dniu 24 lutego 2020 r."
+        }
+    ],
+    "field_href_source": [
+        {
+            "value": "https:\/\/bip.dopiewo.pl\/?c=1362",
+            "format": "raw_text"
+        }
+    ],
+    "field_nazwa_protokolu": [
+        {
+            "value": "Protok\u00f3\u0142 Nr XVIII\/20 z Sesji Rady Gminy Dopiewo odbytej w dniu 24 lutego 2020 r."
+        }
+    ],
+    "field_ref_sesja": [
+        {
+            "target_type": "node",
+            "target_uuid": "3a8a00a1-8d7f-4ebe-95b9-20b6ce5d613f"
+        }
+    ]
+}

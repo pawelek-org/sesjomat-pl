@@ -172,30 +172,19 @@ display:
           clear_on_exposed: false
           action_title: Akcja
           selected_actions:
-            node_assign_owner_action: 0
-            node_save_action: 0
-            node_unpublish_action: 0
-            node_publish_action: 0
-            node_make_unsticky_action: 0
-            node_promote_action: 0
-            node_make_sticky_action: 0
-            node_unpromote_action: 0
-            node_unpublish_by_keyword_action: 0
-            views_bulk_edit: views_bulk_edit
-            views_bulk_operations_delete_entity: 0
-            pathauto_update_alias: pathauto_update_alias
-            'entity:save_action:node': 'entity:save_action:node'
-            'entity:delete_action:node': 0
-            'entity:publish_action:node': 0
-            'entity:unpublish_action:node': 0
-          preconfiguration:
-            views_bulk_edit:
-              label_override: ''
-              get_bundles_from_results: 1
-            pathauto_update_alias:
-              label_override: ''
-            'entity:save_action:node':
-              label_override: ''
+            -
+              action_id: views_bulk_edit
+              preconfiguration:
+                label_override: ''
+                get_bundles_from_results: 1
+            -
+              action_id: pathauto_update_alias
+              preconfiguration:
+                label_override: ''
+            -
+              action_id: 'entity:save_action:node'
+              preconfiguration:
+                label_override: ''
           plugin_id: views_bulk_operations_bulk_form
       filters:
         status:
